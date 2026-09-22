@@ -1,0 +1,60 @@
+{
+  "WGN": {
+    "sharesPreM": 188.184178,
+    "source": {
+      "url": "https://company-announcements.afr.com/asx/wgn/497e4861-1145-11f1-aa76-525adc3649ab.pdf",
+      "title": "Wagners Appendix 4D and interim financial report for 31 December 2025",
+      "date": "2026-02-24",
+      "page": "17, Note 5"
+    },
+    "note": "The ordinary share movement schedule shows 188,184,178 opening shares, only the 11 September placement issuance of 11,539,650, and 199,723,828 closing shares. This establishes the pre-placement ordinary share count. Options are excluded. The A$28.683 million share-capital increase is net of issue costs, not gross proceeds.",
+    "issuedSharesM": 11.53965,
+    "issuedSource": {
+      "url": "https://announcements.asx.com.au/asxpdf/20250911/pdf/06p3f5ynsf0t3l.pdf",
+      "title": "Wagners cleansing notice",
+      "date": "2025-09-11",
+      "page": "1"
+    }
+  },
+  "G50": {
+    "sharesPreM": 160.597659,
+    "source": {
+      "url": "https://announcements.asx.com.au/asxpdf/20250829/pdf/06nkdghq6k7q07.pdf",
+      "title": "G50 Appendix 2A application for quotation",
+      "date": "2025-08-29",
+      "page": "3, 5–6"
+    },
+    "note": "Derived from disclosed post-issue ordinary shares of 199,747,659 less the first issuance of 39,150,000, giving 160,597,659 pre-placement shares. This also matches 30 June ordinary shares in FY25 annual report Note 5.1. The first issuance left 850,000 placement shares outstanding; do not describe all 40 million as issued on 29 August. Performance rights are excluded.",
+    "issuedSharesM": 40,
+    "issuedSource": {
+      "url": "https://announcements.asx.com.au/asxpdf/20250916/pdf/06p899b4tx7pnd.pdf",
+      "title": "G50 2025 Annual Report",
+      "date": "2025-09-16",
+      "page": "45, Note 9.5"
+    }
+  },
+  "EBR": {
+    "sharesPreM": null,
+    "quotedCdisPreM": 373.197881,
+    "source": {
+      "url": "https://download.asic.gov.au/short-selling/RR20250520-001-SSDailyAggShortPos.pdf",
+      "title": "ASIC reported daily short positions for 20 May 2025",
+      "date": "2025-05-26",
+      "page": "12"
+    },
+    "note": "ASIC gives 373,197,881 EBR CDIs in issue at 20 May. The Appendix 2A dated 27 May gives 429,097,881 post-placement CDIs less 55,900,000 new CDIs, corroborating the same quoted CDI base. Each CDI represents one common share, but these documents do not establish that all common shares are held as CDIs; total pre-raise US common shares therefore remain null. Do not treat quoted CDIs as verified total ordinary equity without reconciling the US register.",
+    "issuedSharesM": 55.9,
+    "issuedSource": {
+      "url": "https://cdn.kscope.io/d417460b37df4ba5805a0d1987bf28e8.html",
+      "title": "EBR Systems Form 8-K",
+      "date": "2025-05-29",
+      "page": "Item 1.01"
+    },
+    "additionalSource": {
+      "url": "https://company-announcements.afr.com/asx/ebr/f6d0a114-3a9b-11f0-ab33-46eae06feea3.pdf",
+      "title": "EBR Appendix 2A application for quotation",
+      "date": "2025-05-27",
+      "page": "4–5"
+    }
+  }
+}

@@ -1,0 +1,23 @@
+name: Manual local-build checks
+on:
+  workflow_dispatch:
+permissions:
+  contents: read
+concurrency:
+  group: asx-raise-comps-checks
+  cancel-in-progress: false
+jobs:
+  verify:
+    runs-on: ubuntu-latest
+    timeout-minutes: 12
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+          cache: npm
+      - run: npm ci
+      - run: npm run typecheck
+      - run: npm test
+      - run: npm run test:pipeline
+      - run: npm run build

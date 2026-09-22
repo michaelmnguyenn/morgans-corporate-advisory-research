@@ -1,0 +1,120 @@
+[
+  {
+    "id": "wgn-2025-09-placement",
+    "ticker": "WGN",
+    "company": "Wagners Holding Company Limited",
+    "date": "2025-09-08",
+    "amountM": 30,
+    "price": 2.6,
+    "discountPct": 2.3,
+    "discountReference": "Last close of A$2.66 on 5 September 2025",
+    "structure": "Placement",
+    "purpose": "Expand construction materials operations and composite fibre manufacturing capacity.",
+    "morgansRole": "Joint Lead Manager with Unified Capital Partners",
+    "status": "Issue confirmed",
+    "sourceUrl": "https://announcements.asx.com.au/asxpdf/20250908/pdf/06nym4kfw5w6bp.pdf",
+    "sourceTitle": "Wagners successfully completes strongly supported $30 million Placement",
+    "sourceDate": "2025-09-08",
+    "sourcePage": "1",
+    "notes": [
+      "Actual issue on 11 September 2025 is confirmed by the cleansing notice, preceding the original expected allotment date of 12 September.",
+      "The offer was also at a 5.4% premium to the 15-day VWAP. The 2.3% figure is the issuer's rounded discount to last close.",
+      "Morgans' transaction register dates this mandate 6 September 2025; this record uses the issuer announcement date. Register: https://morgans.com.au/ipos-and-share-offers"
+    ],
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250908/pdf/06nym4kfw5w6bp.pdf",
+        "title": "Wagners successfully completes strongly supported $30 million Placement",
+        "date": "2025-09-08",
+        "page": "1"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250911/pdf/06p3f5ynsf0t3l.pdf",
+        "title": "Issue of cleansing notice under section 708A(5)(e) Corporations Act",
+        "date": "2025-09-11",
+        "page": "1"
+      }
+    ],
+    "completionStatement": "Wagners confirms issuing 11,539,650 ordinary shares on 11 September 2025 to raise approximately A$30 million.",
+    "completionDate": "2025-09-11"
+  },
+  {
+    "id": "g50-2025-08-placement",
+    "ticker": "G50",
+    "company": "G50 Corp Limited",
+    "date": "2025-08-25",
+    "amountM": 10,
+    "price": 0.25,
+    "discountPct": 10.4,
+    "discountReference": "5-day VWAP (reference price and endpoint not specified in announcement)",
+    "structure": "Placement",
+    "purpose": "Fund Golconda drilling, metallurgical testwork and early permitting studies in Arizona.",
+    "morgansRole": "Joint Lead Manager and Bookrunner with Bell Potter",
+    "status": "Issue confirmed",
+    "sourceUrl": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-02982906-2A1615899&v=4a466cc3f899e00730cfbfcd5ab8940c41f474b6",
+    "sourceTitle": "Institutional placement complete to fund extensive drilling and testwork at Golconda, Arizona",
+    "sourceDate": "2025-08-25",
+    "sourcePage": "1–2",
+    "notes": [
+      "The annual report confirms A$10 million raised through 40 million shares, all fully paid by the report date. Exact allotment date is not established by this source.",
+      "The 10.4% discount is against 5-day VWAP and must not be combined with last-close discounts.",
+      "Morgans' transaction register lists the mandate on 22 August 2025; this record uses the issuer announcement date. Register: https://morgans.com.au/ipos-and-share-offers"
+    ],
+    "sources": [
+      {
+        "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-02982906-2A1615899&v=4a466cc3f899e00730cfbfcd5ab8940c41f474b6",
+        "title": "Institutional placement complete to fund extensive drilling and testwork at Golconda, Arizona",
+        "date": "2025-08-25",
+        "page": "1–2"
+      },
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250916/pdf/06p899b4tx7pnd.pdf",
+        "title": "G50 Corp 2025 Annual Report",
+        "date": "2025-09-16",
+        "page": "45, Note 9.5; report signed 15 September 2025 on p47"
+      }
+    ],
+    "completionStatement": "G50 annual report Note 9.5 confirms A$10 million raised through 40 million fully paid shares by the report date, 15 September 2025. The exact issue date has not been independently verified.",
+    "completionDate": null
+  },
+  {
+    "id": "ebr-2025-05-placement",
+    "ticker": "EBR",
+    "company": "EBR Systems, Inc.",
+    "date": "2025-05-22",
+    "amountM": 55.9,
+    "price": 1,
+    "discountPct": 17.7,
+    "discountReference": "Last close of A$1.215 on 20 May 2025",
+    "structure": "Institutional placement of CDIs",
+    "purpose": "Fund commercialisation of WiSE CRT, manufacturing expansion and sales capabilities.",
+    "morgansRole": "Joint Lead Manager, Bookrunner and Settlement Underwriter",
+    "status": "Settlement confirmed",
+    "sourceUrl": "https://announcements.asx.com.au/asxpdf/20250522/pdf/06k06r7dtv3c3c.pdf",
+    "sourceTitle": "EBR Capital Raising Presentation",
+    "sourceDate": "2025-05-22",
+    "sourcePage": "6, 9, 26–28",
+    "notes": [
+      "Placement only; excludes the separately announced A$6 million SPP target.",
+      "Each CDI represents one common share. The placement was also priced at a 12.6% discount to 10-day VWAP of A$1.144.",
+      "EBR's Form 8-K filed 29 May 2025, Item 1.01, confirms 55.9 million CDIs at A$1.00 and settlement on 26 May 2025 US Pacific time: https://cdn.kscope.io/d417460b37df4ba5805a0d1987bf28e8.html",
+      "Other joint lead managers were J.P. Morgan, Wilsons and E&P. J.P. Morgan and Morgans settlement-underwrote the placement. Morgans register: https://morgans.com.au/ipos-and-share-offers"
+    ],
+    "sources": [
+      {
+        "url": "https://announcements.asx.com.au/asxpdf/20250522/pdf/06k06r7dtv3c3c.pdf",
+        "title": "EBR Capital Raising Presentation",
+        "date": "2025-05-22",
+        "page": "6, 9, 26–28"
+      },
+      {
+        "url": "https://cdn.kscope.io/d417460b37df4ba5805a0d1987bf28e8.html",
+        "title": "EBR Systems Form 8-K filed 29 May 2025",
+        "date": "2025-05-29",
+        "page": "Item 1.01"
+      }
+    ],
+    "completionStatement": "Form 8-K confirms placement of 55.9 million CDIs at A$1.00 and settlement on 26 May 2025 US Pacific time.",
+    "completionDate": "2025-05-26"
+  }
+]

@@ -1,0 +1,436 @@
+{
+  "version": "local-2026-09-21-a9349732",
+  "generatedAt": "2026-09-21T08:41:39.792Z",
+  "coverage": {
+    "description": "2 source-researched completed events. This is a bounded research sample, not a complete ASX archive.",
+    "announcementsCheckedThrough": null,
+    "pricesAsOf": null,
+    "lastAttemptAt": "2026-09-21T08:41:39.792Z",
+    "lastSuccessAt": "2026-09-21T08:41:39.792Z",
+    "sourceCount": 11,
+    "unresolvedCount": 2,
+    "historicalStart": "2024-03-11",
+    "scope": "0 configured feeds; manually researched history plus unresolved discovery queue. No market-wide checked-through assertion."
+  },
+  "deals": [
+    {
+      "id": "ann-2024-04",
+      "ticker": "ANN",
+      "company": "Ansell Limited",
+      "date": "2024-04-08",
+      "completionDate": "2024-05-13",
+      "stage": "producing_profitable",
+      "sector": "Healthcare equipment",
+      "structure": "Placement + SPP",
+      "purpose": "Part-fund the acquisition of Kimberly-Clark’s personal protective equipment business; SPP proceeds reduce leverage.",
+      "managers": [],
+      "cornerstone": "unknown",
+      "cornerstoneName": null,
+      "underwritten": "partial",
+      "sharesPreM": 124.785771,
+      "lastClose": 23.89,
+      "lastCloseDate": "2024-04-05",
+      "vwap5": 24.41,
+      "vwap15": null,
+      "advAudM": null,
+      "advMethod": null,
+      "resumptionDate": null,
+      "close1": null,
+      "close30": null,
+      "capacitySharesM": null,
+      "cashPreM": null,
+      "debtPreM": null,
+      "feesM": null,
+      "repaymentM": null,
+      "otherUsesM": null,
+      "newDebtM": null,
+      "stageNote": "Classified as producing / profitable from the pre-raise December 2023 half-year report: operating PPE manufacturer with US$20.0m profit for the period. This is a research classification, not an issuer label.",
+      "notes": [
+        "Pre-raise ordinary shares are independently reported in ASIC’s 5 April 2024 positions report, published on 11 April 2024.",
+        "Placement was underwritten; the SPP was not. SPP increased from A$65m to A$75m.",
+        "Annual report confirms final issued shares. Headline gross proceeds are rounded; the independent per-leg variance is displayed.",
+        "ADV, aftermarket closes and available placement capacity are not verified and are excluded from those calculations."
+      ],
+      "legs": [
+        {
+          "id": "placement",
+          "name": "Institutional placement",
+          "structure": "Placement",
+          "price": 22.45,
+          "announcedM": 400,
+          "completedM": 400,
+          "issuedSharesM": 17.817372,
+          "completionDate": "2024-04-12",
+          "status": "completed",
+          "sourceIds": [
+            "launch",
+            "allotment",
+            "annual"
+          ]
+        },
+        {
+          "id": "spp",
+          "name": "Share purchase plan",
+          "structure": "SPP",
+          "price": 22.45,
+          "announcedM": 65,
+          "completedM": 75,
+          "issuedSharesM": 3.340841,
+          "completionDate": "2024-05-13",
+          "status": "completed",
+          "sourceIds": [
+            "launch",
+            "spp-result",
+            "annual"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "launch",
+          "title": "Ansell acquisition and equity raising announcement",
+          "url": "https://www.ansell.com/-/media/projects/ansell/website/pdf/investors-relations/asx-announcements/asx-announcement-briefs/2024/ansell-limited-kcppe-acquisition-equity-raising-asx-announcement-final-8-april.ashx?rev=38dc4705b2d44527bb11af32e06afd58",
+          "date": "2024-04-08",
+          "page": "3–4",
+          "excerpt": "6.0 per cent discount to the last close of A$23.89 on 5 April 2024"
+        },
+        {
+          "id": "allotment",
+          "title": "Ansell placement cleansing notice",
+          "url": "https://www.ansell.com/-/media/projects/ansell/website/pdf/investors-relations/asx-announcements/asx-announcement-briefs/2024/ann---placement-cleansing-statement-12-april.ashx?rev=21068fe2bf774169a6b10b89f18db477",
+          "date": "2024-04-12",
+          "page": "1",
+          "excerpt": "Ansell has today issued 17,817,372 new fully paid ordinary shares"
+        },
+        {
+          "id": "spp-result",
+          "title": "Ansell completion of share purchase plan",
+          "url": "https://company-announcements.afr.com/asx/ann/ed24df63-10ad-11ef-9fad-1e95439b1a74.pdf",
+          "date": "2024-05-13",
+          "page": "1",
+          "excerpt": "Ansell has increased the SPP size from A$65 million to A$75 million."
+        },
+        {
+          "id": "annual",
+          "title": "Ansell Annual Report 2024",
+          "url": "https://www.ansell.com/-/media/projects/ansell/website/pdf/investors-relations/annual-reports/2024/ansell-limited-annual-report-fy24.ashx",
+          "date": "2024-08-20",
+          "page": "98",
+          "excerpt": "resulting in the issue of 3,340,841 ordinary shares"
+        },
+        {
+          "id": "shares",
+          "title": "ASIC reported daily short positions for 5 April 2024",
+          "url": "https://download.asic.gov.au/short-selling/RR20240405-001-SSDailyAggShortPos.pdf",
+          "date": "2024-04-11",
+          "page": "3",
+          "excerpt": "ANSELL LIMITED ORDINARY ANN 2,823,406 124,785,771 2.26"
+        },
+        {
+          "id": "stage",
+          "title": "Ansell half-year financial report, December 2023",
+          "url": "https://investor.ansell.com/FormBuilder/_Resource/_module/WEtAsUy_jk6Kmk_vOw9f5g/docs/results/Ansell_HYAD_2024.pdf",
+          "date": "2024-02-20",
+          "page": "6",
+          "excerpt": "Profit for the period 20.0"
+        }
+      ],
+      "fieldSources": {
+        "date": [
+          "launch"
+        ],
+        "completionDate": [
+          "spp-result",
+          "annual"
+        ],
+        "stage": [
+          "stage"
+        ],
+        "stageNote": [
+          "stage"
+        ],
+        "sharesPreM": [
+          "shares"
+        ],
+        "lastClose": [
+          "launch"
+        ],
+        "lastCloseDate": [
+          "launch"
+        ],
+        "vwap5": [
+          "launch"
+        ],
+        "purpose": [
+          "launch",
+          "spp-result"
+        ],
+        "underwritten": [
+          "launch"
+        ],
+        "legs.placement.price": [
+          "allotment"
+        ],
+        "legs.placement.announcedM": [
+          "launch"
+        ],
+        "legs.placement.completedM": [
+          "annual",
+          "launch"
+        ],
+        "legs.placement.issuedSharesM": [
+          "allotment"
+        ],
+        "legs.placement.completionDate": [
+          "allotment"
+        ],
+        "legs.spp.price": [
+          "spp-result",
+          "annual"
+        ],
+        "legs.spp.announcedM": [
+          "launch"
+        ],
+        "legs.spp.completedM": [
+          "spp-result",
+          "annual"
+        ],
+        "legs.spp.issuedSharesM": [
+          "spp-result",
+          "annual"
+        ],
+        "legs.spp.completionDate": [
+          "spp-result",
+          "annual"
+        ]
+      }
+    },
+    {
+      "id": "dyl-2024-03",
+      "ticker": "DYL",
+      "company": "Deep Yellow",
+      "date": "2024-03-11",
+      "completionDate": "2024-05-02",
+      "stage": "pre_revenue_funded",
+      "sector": "Uranium",
+      "structure": "Placement + SPP",
+      "purpose": "Advance Tumas development, Mulga Rock studies and exploration.",
+      "managers": [
+        "Aitken Mount Capital Partners",
+        "Bell Potter Securities",
+        "Jett Capital Advisors"
+      ],
+      "cornerstone": "unknown",
+      "cornerstoneName": null,
+      "underwritten": "unknown",
+      "sharesPreM": 764.712334,
+      "lastClose": 1.275,
+      "lastCloseDate": "2024-03-06",
+      "vwap5": 1.306,
+      "vwap15": null,
+      "advAudM": null,
+      "advMethod": null,
+      "resumptionDate": null,
+      "close1": null,
+      "close30": null,
+      "capacitySharesM": null,
+      "cashPreM": null,
+      "debtPreM": null,
+      "feesM": null,
+      "repaymentM": null,
+      "otherUsesM": null,
+      "newDebtM": null,
+      "stageNote": "Pre-production uranium developer. The raising funds development and studies; construction remained conditional on a final investment decision and securing debt financing.",
+      "notes": [
+        "Shares before raising are the ASIC total ordinary shares at 6 March 2024, the reference close date.",
+        "SPP target was 24,489,795 shares; actual allotted shares were 24,489,505 after rounding.",
+        "The launch text reports 5-day VWAP of A$1.306; the presentation rounds the discount differently.",
+        "Dilution is a financing-only calculation and excludes unrelated share issues between tranches."
+      ],
+      "legs": [
+        {
+          "id": "placement1",
+          "name": "Placement tranche 1",
+          "structure": "Placement",
+          "price": 1.225,
+          "announcedM": 140.5,
+          "completedM": 140.5,
+          "issuedSharesM": 114.706334,
+          "completionDate": "2024-03-15",
+          "status": "completed",
+          "sourceIds": [
+            "launch",
+            "tranche1"
+          ]
+        },
+        {
+          "id": "placement2",
+          "name": "Placement tranche 2",
+          "structure": "Placement",
+          "price": 1.225,
+          "announcedM": 79.5,
+          "completedM": 79.5,
+          "issuedSharesM": 64.885502,
+          "completionDate": "2024-05-02",
+          "status": "completed",
+          "sourceIds": [
+            "launch",
+            "tranche2"
+          ]
+        },
+        {
+          "id": "spp",
+          "name": "SPP",
+          "structure": "SPP",
+          "price": 1.225,
+          "announcedM": 30,
+          "completedM": 30,
+          "issuedSharesM": 24.489505,
+          "completionDate": "2024-04-15",
+          "status": "completed",
+          "sourceIds": [
+            "launch",
+            "quarterly"
+          ]
+        }
+      ],
+      "sources": [
+        {
+          "id": "launch",
+          "title": "Successful A$220m placement to move Tumas towards production",
+          "url": "https://api.investi.com.au/api/announcements/dyl/7870117e-9c6.pdf",
+          "date": "2024-03-11",
+          "page": "1–4",
+          "excerpt": "A$1.275 on 6 March 2024"
+        },
+        {
+          "id": "shares",
+          "title": "ASIC reported daily short positions, 6 March 2024",
+          "url": "https://download.asic.gov.au/short-selling/RR20240306-001-SSDailyAggShortPos.pdf",
+          "date": "2024-03-12",
+          "page": "11",
+          "excerpt": "DEEP YELLOW LIMITED ORDINARY DYL 75,499,036 764,712,334 9.87"
+        },
+        {
+          "id": "tranche1",
+          "title": "Tranche 1 placement successfully completed",
+          "url": "https://announcements.asx.com.au/asxpdf/20240315/pdf/061jwkw19mhphx.pdf",
+          "date": "2024-03-15",
+          "page": "1",
+          "excerpt": "today issued 114,706,334 ordinary fully paid shares"
+        },
+        {
+          "id": "tranche2",
+          "title": "Tranche 2 placement successfully completed",
+          "url": "https://api.investi.com.au/api/announcements/dyl/88b013fa-474.pdf",
+          "date": "2024-05-02",
+          "page": "1–2",
+          "excerpt": "today issued 64,738,565 ordinary fully paid shares"
+        },
+        {
+          "id": "quarterly",
+          "title": "Quarterly activities report for period ending 31 March 2024",
+          "url": "https://company-announcements.afr.com/asx/dyl/4f39fa43-fc40-11ee-b887-16f3fd6e48c9.pdf",
+          "date": "2024-04-17",
+          "page": "9",
+          "excerpt": "24,489,505 shares allotted on Monday, 15 April 2024"
+        }
+      ],
+      "fieldSources": {
+        "date": [
+          "launch"
+        ],
+        "lastClose": [
+          "launch"
+        ],
+        "lastCloseDate": [
+          "launch"
+        ],
+        "vwap5": [
+          "launch"
+        ],
+        "stage": [
+          "launch"
+        ],
+        "stageNote": [
+          "launch"
+        ],
+        "purpose": [
+          "launch"
+        ],
+        "managers": [
+          "launch"
+        ],
+        "structure": [
+          "launch"
+        ],
+        "completionDate": [
+          "tranche2"
+        ],
+        "sharesPreM": [
+          "shares"
+        ],
+        "legs.placement1.price": [
+          "launch",
+          "tranche1"
+        ],
+        "legs.placement1.announcedM": [
+          "launch",
+          "tranche1"
+        ],
+        "legs.placement1.completedM": [
+          "launch",
+          "tranche1"
+        ],
+        "legs.placement1.issuedSharesM": [
+          "launch",
+          "tranche1"
+        ],
+        "legs.placement1.completionDate": [
+          "launch",
+          "tranche1"
+        ],
+        "legs.placement2.price": [
+          "launch",
+          "tranche2"
+        ],
+        "legs.placement2.announcedM": [
+          "launch",
+          "tranche2"
+        ],
+        "legs.placement2.completedM": [
+          "launch",
+          "tranche2"
+        ],
+        "legs.placement2.issuedSharesM": [
+          "launch",
+          "tranche2"
+        ],
+        "legs.placement2.completionDate": [
+          "launch",
+          "tranche2"
+        ],
+        "legs.spp.price": [
+          "launch",
+          "quarterly"
+        ],
+        "legs.spp.announcedM": [
+          "launch",
+          "quarterly"
+        ],
+        "legs.spp.completedM": [
+          "launch",
+          "quarterly"
+        ],
+        "legs.spp.issuedSharesM": [
+          "launch",
+          "quarterly"
+        ],
+        "legs.spp.completionDate": [
+          "launch",
+          "quarterly"
+        ]
+      }
+    }
+  ]
+}

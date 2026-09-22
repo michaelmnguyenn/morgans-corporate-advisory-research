@@ -1,0 +1,27 @@
+{
+  "dyl-2024-03/placement1": {
+    "proceedsUnitM": 0.1,
+    "sourceId": "launch",
+    "note": "Gross proceeds disclosed to the nearest A$0.1m; issued share count is independently disclosed."
+  },
+  "dyl-2024-03/placement2": {
+    "proceedsUnitM": 0.1,
+    "sourceId": "launch",
+    "note": "Gross proceeds disclosed to the nearest A$0.1m; issued share count is independently disclosed."
+  },
+  "dyl-2024-03/spp": {
+    "proceedsUnitM": 1,
+    "sourceId": "quarterly",
+    "note": "Gross proceeds disclosed to the nearest A$1m; issued share count is independently disclosed."
+  },
+  "ann-2024-04/placement": {
+    "proceedsUnitM": 1,
+    "sourceId": "launch",
+    "note": "Gross proceeds disclosed to the nearest A$1m; issued share count is independently disclosed."
+  },
+  "ann-2024-04/spp": {
+    "proceedsUnitM": 1,
+    "sourceId": "spp-result",
+    "note": "Gross proceeds disclosed to the nearest A$1m; issued share count is independently disclosed."
+  }
+}

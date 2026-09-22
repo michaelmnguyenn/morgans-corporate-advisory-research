@@ -1,0 +1,36 @@
+{
+  "ACF": {
+    "sharesPreM": 312.192848,
+    "source": {
+      "url": "https://download.asic.gov.au/short-selling/RR20260616-001-SSDailyAggShortPos.pdf",
+      "title": "ASIC Reported Daily Short Positions for 16 June 2026",
+      "date": "2026-06-22",
+      "page": "1"
+    },
+    "note": "ASIC states 312,192,848 ordinary shares as at 16 June, before the 18 June raise. The launch presentation rounds this to 312.2m and separately includes 7,878,394 planned AGIS vendor shares in its pro forma capital structure. Those vendor shares are noncash acquisition consideration and must be added separately to full transaction dilution; they are not placement or SPP shares. Appendix 2A dated 25 June independently reconciles the pre-placement count as 350,654,545 post-tranche-1 shares less 38,461,697 tranche-1 shares.",
+    "otherNewSharesM": 7.878394,
+    "otherNewSharesLabel": "Planned AGIS vendor consideration shares",
+    "otherNewSharesSource": {
+      "url": "https://company-announcements.afr.com/asx/acf/48f28f47-6aab-11f1-8362-46eef588cfd5.pdf",
+      "title": "Acrow Investor Presentation \u2013 Acquisitions and Capital Raise",
+      "date": "2026-06-18",
+      "page": "19"
+    },
+    "corroboratingSource": {
+      "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03103872-6A1330975",
+      "title": "Acrow tranche 1 application for quotation of securities",
+      "date": "2026-06-25",
+      "page": "4\u20135"
+    }
+  },
+  "29M": {
+    "sharesPreM": 1372.336435,
+    "source": {
+      "url": "https://download.asic.gov.au/short-selling/RR20260119-001-SSDailyAggShortPos.pdf",
+      "title": "ASIC Reported Daily Short Positions for 19 January 2026",
+      "date": "2026-01-23",
+      "page": "1"
+    },
+    "note": "ASIC reports 1,372,336,435 ordinary shares as at 19 January, the final trading day before the 20 January entitlement offer. This is the total product in issue column, not the short position. The launch presentation gives only a rounded new-share count and percentage; neither was used to infer this denominator."
+  }
+}

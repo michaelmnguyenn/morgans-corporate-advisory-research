@@ -1,0 +1,872 @@
+{
+  "checkedAt": "2026-09-21",
+  "deals": [
+    {
+      "id": "acf-2026-06",
+      "ticker": "ACF",
+      "company": "Acrow Limited",
+      "date": "2026-06-18",
+      "amountM": 70,
+      "price": 0.85,
+      "discountPct": 6.6,
+      "discountReference": "Last close of A$0.91 on 16 June 2026",
+      "structure": "Two-tranche placement + SPP",
+      "purpose": "Acquire Ausgroup Industrial Services and Preston SuperDeck, and reduce debt.",
+      "morgansRole": "Joint lead manager, bookrunner and underwriter with Shaw and Partners; Petra Capital co-manager.",
+      "sector": "Construction services",
+      "amountBasis": "Placement only; excludes separate SPP",
+      "completion": "Cleansing notices confirm both placement tranches issued, with the second issued on 4 August 2026.",
+      "notes": [
+        "A$70m is the placement only. The SPP accepted a further headline A$16m against its initial A$10m target; actual quoted SPP shares imply A$15.955m.",
+        "Cleansing notices confirm 38,461,697 placement shares issued on 26 June and 43,891,245 on 4 August at A$0.85, totalling approximately A$70m.",
+        "The SPP quotation confirms 18,770,588 shares issued on 23 July at A$0.85. The initial tranche split changed before allotment.",
+        "The SPP was initially not underwritten, became fully underwritten to A$10m, then no underwriting shortfall was required."
+      ],
+      "sources": [
+        {
+          "url": "https://company-announcements.afr.com/asx/acf/005d018f-6b6f-11f1-afe3-92ae68f8bc5b.pdf",
+          "title": "Completion of fully underwritten $70m two-tranche institutional placement",
+          "date": "2026-06-19",
+          "page": "1–2",
+          "supports": "Announced terms, offer pricing, purpose and Morgans role."
+        },
+        {
+          "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03104256-6A1331126",
+          "title": "Acrow tranche 1 cleansing notice",
+          "date": "2026-06-26",
+          "page": "1",
+          "supports": "Subsequent issuance, completion or SPP outcome as described in the execution notes."
+        },
+        {
+          "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03117684-6A1337215",
+          "title": "Acrow tranche 2 cleansing notice",
+          "date": "2026-08-04",
+          "page": "1",
+          "supports": "Subsequent issuance, completion or SPP outcome as described in the execution notes."
+        },
+        {
+          "url": "https://investorpa.com/announcement-pdf/20260723/319330.pdf",
+          "title": "Share Purchase Plan Completion – $16 million Raised",
+          "date": "2026-07-23",
+          "page": "1–2",
+          "supports": "Subsequent issuance, completion or SPP outcome as described in the execution notes."
+        },
+        {
+          "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03113819-6A1335233",
+          "title": "Acrow SPP application for quotation of securities",
+          "date": "2026-07-24",
+          "page": "1, 3–4",
+          "supports": "Subsequent issuance, completion or SPP outcome as described in the execution notes."
+        }
+      ],
+      "referencePrice": 0.91,
+      "capital": {
+        "sharesPreM": 312.192848,
+        "source": {
+          "url": "https://download.asic.gov.au/short-selling/RR20260616-001-SSDailyAggShortPos.pdf",
+          "title": "ASIC Reported Daily Short Positions for 16 June 2026",
+          "date": "2026-06-22",
+          "page": "1",
+          "supports": "Pre-raise ordinary share count used in the raise-only ownership model."
+        },
+        "note": "ASIC states 312,192,848 ordinary shares as at 16 June, before the 18 June raise. The launch presentation rounds this to 312.2m and separately includes 7,878,394 planned AGIS vendor shares in its pro forma capital structure. Those vendor shares are noncash acquisition consideration and must be added separately to full transaction dilution; they are not placement or SPP shares. Appendix 2A dated 25 June independently reconciles the pre-placement count as 350,654,545 post-tranche-1 shares less 38,461,697 tranche-1 shares."
+      },
+      "analysis": {
+        "purpose": [
+          "Pay A$22.8m cash for Ausgroup Industrial Services at 4.1x FY26 EBITDA",
+          "Pay A$25.0m for Preston SuperDeck at 4.0x FY26 EBITDA",
+          "Repay A$19.5m of debt to bring net debt to EBITDA from 2.4x towards the 1.0x to 1.5x target",
+          "Pay A$2.8m of transaction costs"
+        ],
+        "structure": [
+          "Underwritten by Morgans and Shaw and Partners, so the acquisition funding was certain at signing",
+          "Two tranches, with about A$33m inside placement capacity and the rest approved at the 28 July EGM",
+          "SPP at the same A$0.85 so retail holders could take part, targeting A$10m",
+          "6.6% discount to last close"
+        ],
+        "split": {
+          "title": "Placement use of funds (A$m)",
+          "parts": [
+            {
+              "label": "Preston SuperDeck",
+              "amountM": 25.0
+            },
+            {
+              "label": "AGIS cash",
+              "amountM": 22.8
+            },
+            {
+              "label": "Debt repayment",
+              "amountM": 19.5
+            },
+            {
+              "label": "Costs",
+              "amountM": 2.8
+            }
+          ]
+        },
+        "metrics": [
+          {
+            "metric": "FY26 underlying EBITDA",
+            "target": "A$80m–81m",
+            "result": "A$80.3m",
+            "status": "met",
+            "date": "2026-08-24"
+          },
+          {
+            "metric": "FY27 EBITDA guidance",
+            "target": "A$102m–112m",
+            "result": "A$105m–115m",
+            "status": "ahead",
+            "date": "2026-08-24"
+          },
+          {
+            "metric": "Net debt / EBITDA at June 2026",
+            "target": "1.8x pro forma",
+            "result": "1.9x, before tranche 2 and the SPP settled",
+            "status": "behind",
+            "date": "2026-08-24"
+          },
+          {
+            "metric": "SPP demand",
+            "target": "A$10m",
+            "result": "A$16.0m",
+            "status": "ahead",
+            "date": "2026-07-23"
+          },
+          {
+            "metric": "Preston SuperDeck completion",
+            "target": "1 July 2026",
+            "result": "3 July 2026",
+            "status": "met",
+            "date": "2026-07-03"
+          },
+          {
+            "metric": "AGIS completion",
+            "target": "1 August 2026",
+            "result": "2 September 2026",
+            "status": "behind",
+            "date": "2026-09-02"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Acrow investor presentation, acquisitions and capital raise",
+            "url": "https://company-announcements.afr.com/asx/acf/48f28f47-6aab-11f1-8362-46eef588cfd5.pdf",
+            "date": "2026-06-18"
+          },
+          {
+            "title": "Acrow FY26 slides, Investing.com",
+            "url": "https://in.investing.com/news/company-news/acrow-fy26-slides-revenue-surges-27-margins-compress-on-mix-shift-93CH-5569812",
+            "date": "2026-08-24"
+          },
+          {
+            "title": "Acrow record revenue drives upgraded outlook, Motley Fool",
+            "url": "https://www.fool.com.au/2026/08/25/acrow-record-revenue-drives-upgraded-outlook/",
+            "date": "2026-08-25"
+          },
+          {
+            "title": "Daily closing prices, Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/ACF.AX/history/"
+          }
+        ],
+        "priceNotes": [
+          "The shares were flat on FY26 results day and fell 2.6% the next day, as the market focused on the EBITDA margin falling from 30.3% to 23.9% rather than the guidance upgrade"
+        ]
+      }
+    },
+    {
+      "id": "29m-2026-01",
+      "ticker": "29M",
+      "company": "29Metals",
+      "date": "2026-01-20",
+      "sector": "Copper mining",
+      "amountM": 150,
+      "amountBasis": "Completed entitlement offer, gross proceeds",
+      "price": 0.4,
+      "discountPct": 35.5,
+      "discountReference": "Last close of A$0.62 on 19 January 2026",
+      "structure": "Accelerated non-renounceable entitlement offer",
+      "purpose": "Working capital after seismic disruption, Gossan Valley investment and Capricorn Copper restart studies.",
+      "morgansRole": "Joint lead manager and bookrunner",
+      "completion": "March 2026 quarterly report confirms A$150m gross raised.",
+      "notes": [
+        "1-for-3.66 accelerated non-renounceable entitlement offer. Macquarie underwrote the offer; Morgans was joint lead manager.",
+        "The issuer reported a 30.2% discount to TERP separately. Do not compare that percentage with last-close discounts.",
+        "Retail take-up was approximately 71%; the remaining retail shares were covered by underwriting arrangements."
+      ],
+      "team": [],
+      "sources": [
+        {
+          "url": "https://announcements.asx.com.au/asxpdf/20260120/pdf/06vdxkx172k0lj.pdf",
+          "title": "Equity raising to support execution of growth initiatives",
+          "date": "2026-01-20",
+          "page": "1",
+          "supports": "Launch date, price, gross target, last-close discount, use of proceeds and Morgans role."
+        },
+        {
+          "url": "https://company-announcements.afr.com/asx/29m/3deb8daf-4351-11f1-a516-66b9b66caad8.pdf",
+          "title": "March 2026 quarterly report",
+          "date": "2026-04-29",
+          "page": "1, 8",
+          "supports": "Completed A$150m gross raising; A$143m net proceeds."
+        },
+        {
+          "url": "https://announcements.asx.com.au/asxpdf/20260217/pdf/06wcz7mr3v211g.pdf",
+          "title": "Completion of retail entitlement offer",
+          "date": "2026-02-17",
+          "page": "1",
+          "supports": "A$31m retail component and approximately 71% retail take-up."
+        }
+      ],
+      "referencePrice": 0.62,
+      "capital": {
+        "sharesPreM": 1372.336435,
+        "source": {
+          "url": "https://download.asic.gov.au/short-selling/RR20260119-001-SSDailyAggShortPos.pdf",
+          "title": "ASIC Reported Daily Short Positions for 19 January 2026",
+          "date": "2026-01-23",
+          "page": "1",
+          "supports": "Pre-raise ordinary share count used in the raise-only ownership model."
+        },
+        "note": "ASIC reports 1,372,336,435 ordinary shares as at 19 January, the final trading day before the 20 January entitlement offer. This is the total product in issue column, not the short position. The launch presentation gives only a rounded new-share count and percentage; neither was used to infer this denominator."
+      },
+      "analysis": {
+        "purpose": [
+          "Working capital while mining at Xantho Extended was suspended following seismic events in 2025",
+          "Continued development of Gossan Valley, with A$112m of capex to first ore by the end of 2026",
+          "A restart definitive feasibility study at Capricorn Copper",
+          "Exploration drilling across the portfolio"
+        ],
+        "structure": [
+          "Holders offered 1 new share for every 3.66 held at A$0.40, about 375m new shares",
+          "Institutional offer closed on launch day and raised about A$119m; retail offer ran from 28 January to 11 February and raised A$31m",
+          "Non-renounceable, so entitlements not taken up lapsed without value",
+          "Fully underwritten by Macquarie, with BUMA and AustralianSuper committing A$56m and BUMA backing up to A$41.5m of any shortfall"
+        ],
+        "split": {
+          "title": "Offer components (A$m)",
+          "parts": [
+            {
+              "label": "Institutional",
+              "amountM": 119.0
+            },
+            {
+              "label": "Retail",
+              "amountM": 31.0
+            }
+          ]
+        },
+        "metrics": [
+          {
+            "metric": "Funds raised",
+            "target": "A$150m, fully underwritten",
+            "result": "A$150m gross and A$143m net; retail take-up about 71%, with the shortfall taken up under the underwriting",
+            "status": "met",
+            "source": {
+              "label": "March quarter report p.1, 8",
+              "url": "https://company-announcements.afr.com/asx/29m/3deb8daf-4351-11f1-a516-66b9b66caad8.pdf"
+            },
+            "date": "2026-02-17"
+          },
+          {
+            "metric": "Xantho Extended restart",
+            "target": "Mining to recommence in April 2026",
+            "result": "Deferred to the December quarter 2026 for additional ground support works",
+            "status": "behind",
+            "source": {
+              "label": "March quarter report p.1",
+              "url": "https://company-announcements.afr.com/asx/29m/3deb8daf-4351-11f1-a516-66b9b66caad8.pdf"
+            },
+            "date": "2026-04-16"
+          },
+          {
+            "metric": "Group liquidity",
+            "target": "Sufficient to fund 2026 growth initiatives",
+            "result": "A$238m at 31 March and A$202m at 30 June 2026; company states liquidity is sufficient for the revised 2026 plan",
+            "status": "met",
+            "source": {
+              "label": "March quarter p.1, half-year results p.1",
+              "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03126780-3A699951"
+            },
+            "date": "2026-04-29"
+          },
+          {
+            "metric": "Gossan Valley",
+            "target": "First ore by end 2026",
+            "result": "Ramp-up from the end of 2026 still expected at the half-year",
+            "status": "met",
+            "source": {
+              "label": "Half-year results p.1",
+              "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03126780-3A699951"
+            },
+            "date": "2026-08-26"
+          }
+        ],
+        "sources": [
+          {
+            "title": "29Metals equity raising to support execution of growth initiatives",
+            "url": "https://announcements.asx.com.au/asxpdf/20260120/pdf/06vdxkx172k0lj.pdf",
+            "date": "2026-01-20"
+          },
+          {
+            "title": "29Metals March 2026 quarterly report",
+            "url": "https://company-announcements.afr.com/asx/29m/3deb8daf-4351-11f1-a516-66b9b66caad8.pdf",
+            "date": "2026-04-29"
+          },
+          {
+            "title": "29Metals 2026 half-year financial results",
+            "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03126780-3A699951",
+            "date": "2026-08-26"
+          },
+          {
+            "title": "29Metals crashes 33% on Xantho Extended update, Kalkine",
+            "url": "https://kalkine.com.au/news/mining/29metals-asx29m-crashes-33-on-thursday-heres-why",
+            "date": "2026-04-16"
+          },
+          {
+            "title": "Daily closing prices, Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/29M.AX/history/"
+          }
+        ],
+        "priceNotes": [
+          "The shares fell 35.1% on 16 April 2026 following the Xantho Extended restart deferral",
+          "The share price reached a low of about A$0.24 and has since recovered to A$0.385"
+        ],
+        "assessment": {
+          "summary": "Successful for the company's funding position; shareholders are behind to date",
+          "take": [
+            "The raise secured the company's funding, lifting group liquidity from A$118m to A$238m and allowing Gossan Valley to continue on schedule, but it has not yet delivered a return for shareholders.",
+            "The size of the raise assumed Xantho Extended would restart in April 2026. The deferral to the December quarter, announced on 16 April, reduced the share price by 35.1% in one day. Participating holders are about 4% below the A$0.40 offer price, while holders who did not participate were diluted by 21.5% and received no value for their entitlements under the non-renounceable structure."
+          ],
+          "takeaway": "Where a raise funds an operational gap, the key risk is the length of that gap, and a non-renounceable structure moves the cost of a deep discount onto holders who do not participate."
+        },
+        "rationale": [
+          "At about 27% of shares on issue, the raise was well above the 15% placement limit, and a pro-rata offer avoided the need for a shareholder vote",
+          "A pro-rata offer allowed every holder to maintain their ownership, which matters when the discount is 35.5%",
+          "The accelerated format secured most of the funds from institutions on the first day, limiting exposure to market movements",
+          "Underwriting and major shareholder commitments guaranteed the full amount despite the operational uncertainty",
+          "Non-renounceable is cheaper and quicker than renounceable, but holders who do not take up receive nothing for their entitlements"
+        ]
+      }
+    },
+    {
+      "id": "zeo-2025-09",
+      "ticker": "ZEO",
+      "company": "Zeotech",
+      "date": "2025-09-29",
+      "sector": "Kaolin / building materials",
+      "amountM": 13,
+      "amountBasis": "Completed placement, gross proceeds",
+      "price": 0.08,
+      "discountPct": 14.9,
+      "discountReference": "Last close of A$0.094 on 24 September 2025",
+      "structure": "Placement",
+      "purpose": "Prepare Toondoon for mining, advance the AusPozz feasibility study and drill for a maiden Ore Reserve.",
+      "morgansRole": "Lead manager",
+      "completion": "September quarterly report confirms the balance of funds was received by 2 October 2025.",
+      "notes": [
+        "Single-tranche placement with no underwriting. Existing and company-introduced investors provided more than A$6.6m of cornerstone support.",
+        "Morgans’ offer directory displays 5 September; the issuer announcement establishes 29 September 2025 as the launch date."
+      ],
+      "sources": [
+        {
+          "url": "https://data-api.marketindex.com.au/api/v1/announcements/XASX%3AZEO%3A6A1286579/pdf/inline/zeotech-completes-13m-placement",
+          "title": "Zeotech completes A$13m placement",
+          "date": "2025-09-29",
+          "page": "1–2",
+          "supports": "Offer price, gross placement amount, last-close discount, purpose, cornerstone support and Morgans role."
+        },
+        {
+          "url": "https://investorpa.com/announcement-pdf/20251028/211045.pdf",
+          "title": "September 2025 quarterly activities report",
+          "date": "2025-10-28",
+          "page": "7–8",
+          "supports": "Completion of the placement and receipt of remaining funds by 2 October 2025."
+        }
+      ],
+      "referencePrice": 0.094,
+      "analysis": {
+        "purpose": [
+          "Fund capex to start mining kaolin at Toondoon for the A$200m MSI offtake signed on 15 September 2025",
+          "Progress the DFS for AusPozz, a high-reactivity metakaolin for low-carbon cement",
+          "Drill Toondoon to grow the resource and define a maiden Ore Reserve",
+          "General working capital"
+        ],
+        "structure": [
+          "Single-tranche placement inside the 15% placement capacity, with no shareholder meeting needed",
+          "Not underwritten, as cornerstone investors had committed more than A$6.6m before launch",
+          "14.9% discount to last close and 12.4% to the 30-day VWAP"
+        ],
+        "split": {
+          "title": "Placement demand (A$m)",
+          "parts": [
+            {
+              "label": "Cornerstone investors",
+              "amountM": 6.6
+            },
+            {
+              "label": "Other investors",
+              "amountM": 6.4
+            }
+          ]
+        },
+        "metrics": [
+          {
+            "metric": "Funding",
+            "target": "Well funded through 2026",
+            "result": "A$8.5m cash at June 2026",
+            "status": "met"
+          },
+          {
+            "metric": "Toondoon cash flow",
+            "target": "From 2026",
+            "result": "No shipment by September 2026",
+            "status": "behind"
+          },
+          {
+            "metric": "MSI offtake",
+            "target": "Binding A$200m agreement",
+            "result": "Extended to 30 April 2027",
+            "status": "behind"
+          },
+          {
+            "metric": "Maiden Ore Reserve",
+            "target": "After expanded drilling",
+            "result": "110 holes drilled, Reserve not reported",
+            "status": "behind"
+          },
+          {
+            "metric": "AusPozz DFS",
+            "target": "Progress the DFS",
+            "result": "800t commercial trial, DFS not reported",
+            "status": "behind"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Zeotech completes strongly supported A$13m placement",
+            "url": "https://announcements.asx.com.au/asxpdf/20250929/pdf/06pt3dwsbsztp5.pdf",
+            "date": "2025-09-29"
+          },
+          {
+            "title": "Zeotech advances Toondoon kaolin pathway, Kalkine",
+            "url": "https://kalkine.com.au/news/mining/zeotech-asxzeo-advances-toondoon-kaolin-pathway-as-key-workstreams-progress"
+          },
+          {
+            "title": "Zeotech progresses Toondoon as AusPozz trial scales up, Smallcaps",
+            "url": "https://smallcaps.com.au/article/zeotech-progresses-toondoon-development-as-auspozz-trial-scales-up"
+          },
+          {
+            "title": "Daily closing prices, Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/ZEO.AX/history/"
+          }
+        ],
+        "priceNotes": [
+          "The shares drifted from A$0.091 after the raise to A$0.072, and the largest single-day moves since the raise were rises of 15.7% in October 2025 and 14.5% in May 2026 rather than falls"
+        ]
+      }
+    },
+    {
+      "id": "wgn-2025-09-placement",
+      "ticker": "WGN",
+      "company": "Wagners Holding Company Limited",
+      "date": "2025-09-08",
+      "amountM": 30,
+      "price": 2.6,
+      "discountPct": 2.3,
+      "discountReference": "Last close of A$2.66 on 5 September 2025",
+      "structure": "Institutional placement",
+      "purpose": "Expand construction materials operations and composite fibre manufacturing capacity.",
+      "morgansRole": "Joint Lead Manager with Unified Capital Partners",
+      "sector": "Construction materials",
+      "amountBasis": "Completed placement, gross proceeds",
+      "completion": "Wagners confirms issuing 11,539,650 ordinary shares on 11 September 2025 to raise approximately A$30 million.",
+      "notes": [
+        "Actual issue on 11 September 2025 is confirmed by the cleansing notice, preceding the original expected allotment date of 12 September.",
+        "The offer was also at a 5.4% premium to the 15-day VWAP. The 2.3% figure is the issuer's rounded discount to last close."
+      ],
+      "sources": [
+        {
+          "url": "https://announcements.asx.com.au/asxpdf/20250908/pdf/06nym4kfw5w6bp.pdf",
+          "title": "Wagners successfully completes strongly supported $30 million Placement",
+          "date": "2025-09-08",
+          "page": "1",
+          "supports": "Announced terms, offer pricing, purpose and Morgans role."
+        },
+        {
+          "url": "https://announcements.asx.com.au/asxpdf/20250911/pdf/06p3f5ynsf0t3l.pdf",
+          "title": "Issue of cleansing notice under section 708A(5)(e) Corporations Act",
+          "date": "2025-09-11",
+          "page": "1",
+          "supports": "Subsequent issuance, completion or SPP outcome as described in the execution notes."
+        }
+      ],
+      "referencePrice": 2.66,
+      "capital": {
+        "sharesPreM": 188.184178,
+        "source": {
+          "url": "https://company-announcements.afr.com/asx/wgn/497e4861-1145-11f1-aa76-525adc3649ab.pdf",
+          "title": "Wagners Appendix 4D and interim financial report for 31 December 2025",
+          "date": "2026-02-24",
+          "page": "17, Note 5",
+          "supports": "Pre-raise ordinary share count used in the raise-only ownership model."
+        },
+        "note": "The ordinary share movement schedule shows 188,184,178 opening shares, only the 11 September placement issuance of 11,539,650, and 199,723,828 closing shares. This establishes the pre-placement ordinary share count. Options are excluded. The A$28.683 million share-capital increase is net of issue costs, not gross proceeds."
+      },
+      "analysis": {
+        "purpose": [
+          "Expansion of the South East Queensland concrete plant network",
+          "Additional manufacturing capacity for composite fibre power poles"
+        ],
+        "structure": [
+          "11.5m new shares issued to sophisticated and professional investors, with firm commitments secured before the announcement on 8 September",
+          "A$2.60 per share, a 2.3% discount to last close and a 5.4% premium to the 15-day VWAP",
+          "Issued within Listing Rule 7.1 placement capacity, so no shareholder approval was required",
+          "Joint lead managers Morgans and Unified Capital Partners"
+        ],
+        "split": null,
+        "metrics": [
+          {
+            "metric": "Concrete plant network",
+            "target": "Expand the SEQ plant network",
+            "result": "Slacks Creek and Wulkuraka plants operating, a third under construction; A$24.4m of FY26 capex on the network",
+            "status": "met",
+            "source": {
+              "label": "FY26 results p.2",
+              "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03122534-2A1690236"
+            },
+            "date": "2026-08-19"
+          },
+          {
+            "metric": "Composite pole capacity",
+            "target": "Expand pole manufacturing capacity",
+            "result": "A$6.6m of FY26 capex on CFT capacity; pole sales up 206%",
+            "status": "met",
+            "source": {
+              "label": "FY26 results p.2, presentation p.13",
+              "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03122533-2A1690234"
+            },
+            "date": "2026-08-19"
+          }
+        ],
+        "sources": [
+          {
+            "title": "Wagners FY26 results announcement",
+            "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03122534-2A1690236",
+            "date": "2026-08-18"
+          },
+          {
+            "title": "Wagners FY26 results investor presentation",
+            "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03122533-2A1690234",
+            "date": "2026-08-18"
+          },
+          {
+            "title": "Daily closing prices, Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/WGN.AX/history/"
+          }
+        ],
+        "priceNotes": [
+          "Most of the re-rating occurred before the FY26 result, with the share price rising from A$2.80 at the end of September 2025 to A$4.64 at the end of February 2026",
+          "FY26 results were released after the close on 18 August, and the shares rose 1.4% on 19 August and 11.2% on 20 August"
+        ],
+        "assessment": {
+          "summary": "Successful for the company and all shareholders",
+          "take": [
+            "The placement achieved its stated purpose. Wagners issued 5.8% new equity close to the market price, and FY26 capital expenditure of A$24.4m on the concrete network and A$6.6m on composite capacity broadly matches the A$30m raised, while net debt fell from A$34.0m to A$0.8m.",
+            "Placement investors are 64% above the offer price, and holders who did not participate were diluted by only 5.8% against a 60% rise in the share price. The main limitation of this assessment is that Wagners did not set quantitative targets, so performance is measured against its stated uses of funds rather than a forecast."
+          ],
+          "takeaway": "A modest placement that funds visible growth carries limited risk for both new and existing investors."
+        },
+        "rationale": [
+          "Speed and certainty, as the full A$30m was committed before the market was told, with minimal exposure to price movements",
+          "At about 6% of shares on issue, the raise fitted within existing placement capacity",
+          "Institutional demand allowed pricing close to market, limiting the cost to existing holders",
+          "Retail holders were excluded, although the impact was limited by the small size of the raise"
+        ]
+      }
+    },
+    {
+      "id": "g50-2025-08-placement",
+      "ticker": "G50",
+      "company": "G50 Corp Limited",
+      "date": "2025-08-25",
+      "amountM": 10,
+      "price": 0.25,
+      "discountPct": 10.4,
+      "discountReference": "5-day VWAP (reference price and endpoint not specified in announcement)",
+      "structure": "Placement",
+      "purpose": "Fund Golconda drilling, metallurgical testwork and early permitting studies in Arizona.",
+      "morgansRole": "Joint Lead Manager and Bookrunner with Bell Potter",
+      "sector": "Gold / silver exploration",
+      "amountBasis": "Completed placement, gross proceeds",
+      "completion": "G50 annual report Note 9.5 confirms A$10 million raised through 40 million fully paid shares by the report date, 15 September 2025. The exact issue date has not been independently verified.",
+      "notes": [
+        "The annual report confirms A$10 million raised through 40 million shares, all fully paid by the report date. Exact allotment date is not established by this source.",
+        "The 10.4% discount is against 5-day VWAP and must not be combined with last-close discounts.",
+        "Morgans' transaction register lists the mandate on 22 August 2025; this record uses the issuer announcement date."
+      ],
+      "sources": [
+        {
+          "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-02982906-2A1615899&v=4a466cc3f899e00730cfbfcd5ab8940c41f474b6",
+          "title": "Institutional placement complete to fund extensive drilling and testwork at Golconda, Arizona",
+          "date": "2025-08-25",
+          "page": "1–2",
+          "supports": "Announced terms, offer pricing, purpose and Morgans role."
+        },
+        {
+          "url": "https://announcements.asx.com.au/asxpdf/20250916/pdf/06p899b4tx7pnd.pdf",
+          "title": "G50 Corp 2025 Annual Report",
+          "date": "2025-09-16",
+          "page": "45, Note 9.5; report signed 15 September 2025 on p47",
+          "supports": "Subsequent issuance, completion or SPP outcome as described in the execution notes."
+        }
+      ],
+      "referencePrice": null,
+      "capital": {
+        "sharesPreM": 160.597659,
+        "source": {
+          "url": "https://announcements.asx.com.au/asxpdf/20250829/pdf/06nkdghq6k7q07.pdf",
+          "title": "G50 Appendix 2A application for quotation",
+          "date": "2025-08-29",
+          "page": "3, 5–6",
+          "supports": "Pre-raise ordinary share count used in the raise-only ownership model."
+        },
+        "note": "Derived from disclosed post-issue ordinary shares of 199,747,659 less the first issuance of 39,150,000, giving 160,597,659 pre-placement shares. This also matches 30 June ordinary shares in FY25 annual report Note 5.1. The first issuance left 850,000 placement shares outstanding; do not describe all 40 million as issued on 29 August. Performance rights are excluded."
+      },
+      "analysis": {
+        "purpose": [
+          "Drill Golconda in Arizona after earlier high-grade gold and silver intercepts",
+          "Run metallurgical testwork on Golconda ore",
+          "Start early permitting studies"
+        ],
+        "structure": [
+          "Institutional placement run by Morgans and Bell Potter",
+          "10.4% discount to the 5-day VWAP",
+          "39.15m of the 40m shares issued on 29 August 2025, with the rest issued later"
+        ],
+        "split": null,
+        "metrics": [
+          {
+            "metric": "Golconda drilling",
+            "target": "Extensive drill programme",
+            "result": "Mineralisation confirmed over 1.89km",
+            "status": "met",
+            "date": "2026-07-27"
+          },
+          {
+            "metric": "Metallurgical testwork",
+            "target": "Testwork on Golconda ore",
+            "result": "Gallium grades lifted 1.5–2.0x, gold recovery 70–90%",
+            "status": "met"
+          },
+          {
+            "metric": "Permitting",
+            "target": "Early permitting studies",
+            "result": "Baseline studies planned",
+            "status": "behind"
+          },
+          {
+            "metric": "Follow-on funding",
+            "target": "Enough results to fund the next stage",
+            "result": "A$26.25m raised at A$0.595, 2.4x the 2025 price",
+            "status": "ahead",
+            "date": "2026-07-29"
+          }
+        ],
+        "sources": [
+          {
+            "title": "G50 final 2025–2026 Golconda drill results, Stock Titan",
+            "url": "https://www.stocktitan.net/news/GFTYF/g50-corp-announces-final-results-from-2026-2026-drill-program-iuuxaqi1h015.html",
+            "date": "2026-07-27"
+          },
+          {
+            "title": "G50 confirms Golconda discovery and A$26.25m of commitments, Kalkine",
+            "url": "https://kalkine.com.au/news/announcements/g50-confirms-13km-golconda-gold-silver-zinc-discovery-and-secures-2625m-in-commitments"
+          },
+          {
+            "title": "G50 Phase 2 metallurgical results, PR Newswire",
+            "url": "https://www.prnewswire.com/news-releases/g50-announces-positive-phase-2-metallurgical-test-results-from-its-golconda-project-in-arizona-show-low-cost-processing-lifts-gallium-grades-up-to-2x-with-gold-and-silver-as-potential-co-products-302826480.html",
+            "date": "2026-07-15"
+          },
+          {
+            "title": "G50 A$26.25m raised for drilling at Golconda and White Caps",
+            "url": "https://www.marketindex.com.au/data-api/api/v1/announcements/XASX:G50:2A1686439/pdf/inline/a2625m-raised-for-drilling-at-golconda-and-white-caps",
+            "date": "2026-07-29"
+          },
+          {
+            "title": "Daily closing prices, Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/G50.AX/history/"
+          }
+        ],
+        "priceNotes": [
+          "The shares rose from A$0.28 at the end of August 2025 to A$0.965 by the end of February 2026 during the drilling programme",
+          "The July 2026 raise was priced 9.8% below last close and the shares fell 19.7% that day"
+        ]
+      }
+    },
+    {
+      "id": "ebr-2025-05-placement",
+      "ticker": "EBR",
+      "company": "EBR Systems, Inc.",
+      "date": "2025-05-22",
+      "amountM": 55.9,
+      "price": 1,
+      "discountPct": 17.7,
+      "discountReference": "Last close of A$1.215 on 20 May 2025",
+      "structure": "Institutional placement of CDIs",
+      "purpose": "Fund commercialisation of WiSE CRT, manufacturing expansion and sales capabilities.",
+      "morgansRole": "Joint Lead Manager, Bookrunner and Settlement Underwriter",
+      "sector": "Medical devices",
+      "amountBasis": "Placement only; excludes separate SPP",
+      "completion": "Form 8-K confirms placement of 55.9 million CDIs at A$1.00 and settlement on 26 May 2025 US Pacific time.",
+      "notes": [
+        "Placement only; excludes the separately announced A$6 million SPP target.",
+        "Each CDI represents one common share. The placement was also priced at a 12.6% discount to 10-day VWAP of A$1.144.",
+        "Other joint lead managers were J.P. Morgan, Wilsons and E&P. J.P. Morgan and Morgans settlement-underwrote the placement."
+      ],
+      "sources": [
+        {
+          "url": "https://announcements.asx.com.au/asxpdf/20250522/pdf/06k06r7dtv3c3c.pdf",
+          "title": "EBR Capital Raising Presentation",
+          "date": "2025-05-22",
+          "page": "6, 9, 26–28",
+          "supports": "Announced terms, offer pricing, purpose and Morgans role."
+        },
+        {
+          "url": "https://cdn.kscope.io/d417460b37df4ba5805a0d1987bf28e8.html",
+          "title": "EBR Systems Form 8-K filed 29 May 2025",
+          "date": "2025-05-29",
+          "page": "Item 1.01",
+          "supports": "Subsequent issuance, completion or SPP outcome as described in the execution notes."
+        }
+      ],
+      "referencePrice": 1.215,
+      "analysis": {
+        "purpose": [
+          "US commercial launch of the WiSE CRT System following FDA approval in April 2025",
+          "Funding runway into Q4 2026"
+        ],
+        "structure": [
+          "55.9m new CDIs issued to institutional investors at A$1.00, with each CDI representing one US common share",
+          "A 17.7% discount to last close and 12.6% to the 10-day VWAP",
+          "Settlement underwritten by J.P. Morgan and Morgans, with Wilsons and E&P also joint lead managers",
+          "A separate non-underwritten SPP targeting A$6m for eligible retail holders"
+        ],
+        "split": {
+          "title": "Placement use of funds (A$m)",
+          "parts": [
+            {
+              "label": "Sales and marketing",
+              "amountM": 20
+            },
+            {
+              "label": "R&D",
+              "amountM": 17
+            },
+            {
+              "label": "Manufacturing",
+              "amountM": 13
+            },
+            {
+              "label": "Admin and costs",
+              "amountM": 6
+            }
+          ]
+        },
+        "metrics": [
+          {
+            "metric": "First US sales",
+            "target": "First commercial sales in H2 2025",
+            "result": "US$1.62m of revenue in 2025 from 33 implants at 11 US hospitals",
+            "status": "met",
+            "source": {
+              "label": "2025 10-K",
+              "url": "https://www.sec.gov/Archives/edgar/data/1347123/000121465926003451/s31626010k.htm"
+            }
+          },
+          {
+            "metric": "US commercial rollout",
+            "target": "Expand commercial distribution in 2026",
+            "result": "87 implants at 29 US hospitals and US$5.0m of revenue in H1 2026",
+            "status": "met",
+            "source": {
+              "label": "Q1 update 9 Apr 2026, June 2026 10-Q",
+              "url": "https://www.sec.gov/Archives/edgar/data/0001347123/000121465926009897/ebr81026410q.htm"
+            },
+            "date": "2026-04-09"
+          },
+          {
+            "metric": "Cash runway",
+            "target": "Funded into Q4 2026",
+            "result": "US$56.8m of cash and investments at 31 December 2025, against a US$37.4m operating outflow in H1 2026",
+            "status": "met",
+            "source": {
+              "label": "June 2026 10-Q",
+              "url": "https://www.sec.gov/Archives/edgar/data/0001347123/000121465926009897/ebr81026410q.htm"
+            }
+          }
+        ],
+        "sources": [
+          {
+            "title": "EBR launches A$150m fully underwritten capital raise, TipRanks",
+            "url": "https://www.tipranks.com/news/company-announcements/ebr-systems-launches-a150m-fully-underwritten-capital-raise",
+            "date": "2026-06-04"
+          },
+          {
+            "title": "EBR retail entitlement offer terms, Finance News Network",
+            "url": "https://www.finnewsnetwork.com.au/archives/finance_news_network5023151.html",
+            "date": "2026-06-11"
+          },
+          {
+            "title": "EBR Systems Form 10-Q for the quarter to 30 June 2026",
+            "url": "https://www.sec.gov/Archives/edgar/data/0001347123/000121465926009897/ebr81026410q.htm",
+            "date": "2026-08-10"
+          },
+          {
+            "title": "EBR falls 17% on 27 July, Kalkine",
+            "url": "https://kalkine.com.au/news/general-news/ebr-systems-asxebr-crashes-17-despite-a-new-us-product-launchwhat-has-investors-spooked",
+            "date": "2026-07-27"
+          },
+          {
+            "title": "Daily closing prices, Yahoo Finance",
+            "url": "https://finance.yahoo.com/quote/EBR.AX/history/"
+          },
+          {
+            "title": "Biocurious: EBR Systems raises the bar, Stockhead",
+            "url": "https://stockhead.com.au/health/biocurious-ebr-systems-raises-the-bar-in-a-sluggish-life-sciences-capital-raising-climate/"
+          },
+          {
+            "title": "EBR Systems Form 10-K for 2025",
+            "url": "https://www.sec.gov/Archives/edgar/data/1347123/000121465926003451/s31626010k.htm",
+            "date": "2026-03-19"
+          },
+          {
+            "title": "EBR Q1 2026 quarterly update, Form 8-K exhibit",
+            "url": "https://www.sec.gov/Archives/edgar/data/1347123/000121465926004488/ex99_1.htm",
+            "date": "2026-04-09"
+          }
+        ],
+        "priceNotes": [
+          "The CDIs declined from A$1.41 at the end of July 2025 to A$0.61 at the end of March 2026, ahead of the follow-on raise",
+          "The CDIs fell 13.6% when trading resumed after the June 2026 raise at A$0.38"
+        ],
+        "assessment": {
+          "summary": "Successful for the company's launch; unsuccessful for placement investors",
+          "take": [
+            "EBR met every target set at the raise, with first US sales in 2025, 87 implants across 29 US hospitals in the first half of 2026 and cash sufficient to fund operations into late 2026. Investors who subscribed at A$1.00 are nonetheless 73.5% below their entry price.",
+            "The raise was sized to fund the business into late 2026, well before it could become self-funding, so EBR raised a further A$150m at A$0.38 in June 2026 and continued to report substantial doubt about its ability to continue as a going concern in its June 2026 10-Q. The timing of the 2025 raise was still favourable for the company, as it secured capital at a far higher price than was available in 2026."
+          ],
+          "takeaway": "For a pre-revenue company, the funding runway effectively sets the date of the next raise, so meeting launch milestones does not protect investors from further dilution."
+        },
+        "quotedBaseM": 373.197881,
+        "rationale": [
+          "Raising immediately after FDA approval took advantage of investor interest and the higher share price that followed the approval",
+          "A placement was the fastest way to fund the US launch before revenue started",
+          "Settlement underwriting gave certainty of funds once the bookbuild closed",
+          "The SPP let retail holders participate on similar terms, offsetting their exclusion from the placement"
+        ]
+      }
+    }
+  ]
+}

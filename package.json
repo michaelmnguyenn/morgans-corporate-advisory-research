@@ -1,0 +1,39 @@
+{
+  "name": "asx-raise-comps",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "scripts": {
+    "dev": "next dev --hostname 127.0.0.1",
+    "build": "next build",
+    "typecheck": "tsc --noEmit",
+    "test": "vitest run",
+    "test:pipeline": "tsx --test scripts/*.test.ts",
+    "data:update": "tsx scripts/update.ts",
+    "data:import": "tsx scripts/import.ts",
+    "data:release": "tsx scripts/release.ts",
+    "data:pdf": "tsx scripts/extract-pdf.ts",
+    "data:db": "tsx scripts/database.ts"
+  },
+  "engines": {
+    "node": ">=22"
+  },
+  "dependencies": {
+    "decimal.js": "10.6.0",
+    "next": "16.3.5",
+    "pg": "8.23.0",
+    "react": "19.3.0",
+    "react-dom": "19.3.0",
+    "zod": "4.6.5"
+  },
+  "devDependencies": {
+    "@playwright/test": "1.63.0",
+    "@types/node": "26.6.2",
+    "@types/pg": "8.23.1",
+    "@types/react": "19.3.0",
+    "@types/react-dom": "19.3.0",
+    "tsx": "4.23.15",
+    "typescript": "7.0.2",
+    "vitest": "5.0.1"
+  }
+}

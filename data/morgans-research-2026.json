@@ -1,0 +1,90 @@
+[
+  {
+    "id": "acf-2026-06",
+    "ticker": "ACF",
+    "company": "Acrow Limited",
+    "date": "2026-06-18",
+    "amountM": 70,
+    "price": 0.85,
+    "discountPct": 6.6,
+    "discountReference": "Last close of A$0.91 on 16 June 2026",
+    "structure": "Two-tranche placement + SPP",
+    "purpose": "Acquire Ausgroup Industrial Services and Preston SuperDeck, and reduce debt.",
+    "morgansRole": "Joint lead manager, bookrunner and underwriter with Shaw and Partners; Petra Capital co-manager.",
+    "status": "completed",
+    "sourceUrl": "https://company-announcements.afr.com/asx/acf/005d018f-6b6f-11f1-afe3-92ae68f8bc5b.pdf",
+    "sourceTitle": "Completion of fully underwritten $70m two-tranche institutional placement",
+    "sourceDate": "2026-06-19",
+    "sourcePage": "1\u20132",
+    "notes": [
+      "A$70m is the placement only. The SPP accepted a further headline A$16m against its initial A$10m target; actual quoted SPP shares imply A$15.955m.",
+      "Cleansing notices confirm 38,461,697 placement shares issued on 26 June and 43,891,245 on 4 August at A$0.85, totalling approximately A$70m.",
+      "The SPP quotation confirms 18,770,588 shares issued on 23 July at A$0.85. The initial tranche split changed before allotment.",
+      "The SPP was initially not underwritten, became fully underwritten to A$10m, then no underwriting shortfall was required."
+    ],
+    "sources": [
+      {
+        "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03104256-6A1331126",
+        "title": "Acrow tranche 1 cleansing notice",
+        "date": "2026-06-26",
+        "page": "1"
+      },
+      {
+        "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03117684-6A1337215",
+        "title": "Acrow tranche 2 cleansing notice",
+        "date": "2026-08-04",
+        "page": "1"
+      },
+      {
+        "url": "https://investorpa.com/announcement-pdf/20260723/319330.pdf",
+        "title": "Share Purchase Plan Completion \u2013 $16 million Raised",
+        "date": "2026-07-23",
+        "page": "1\u20132"
+      },
+      {
+        "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03113819-6A1335233",
+        "title": "Acrow SPP application for quotation of securities",
+        "date": "2026-07-24",
+        "page": "1, 3\u20134"
+      }
+    ]
+  },
+  {
+    "id": "btl-2026-04",
+    "ticker": "BTL",
+    "company": "Beetaloo Energy Australia Limited",
+    "date": "2026-04-10",
+    "amountM": 66.3,
+    "price": 0.28,
+    "discountPct": 18.8,
+    "discountReference": "Last traded share price on 7 April 2026",
+    "structure": "Placement + SPP",
+    "purpose": "Complete Carpentaria Gas Plant, flow testing and seismic work, invest in Territory Sands, partly repay the R&D facility and fund operations through first pilot gas.",
+    "morgansRole": "Joint lead manager with Blue Ocean Equities; subsequently joint underwriter of the SPP.",
+    "status": "completed",
+    "sourceUrl": "https://announcements.asx.com.au/asxpdf/20260410/pdf/06ybzglh5r0fgr.pdf",
+    "sourceTitle": "Beetaloo Energy completes strongly supported A$66.3M Placement and launches Share Purchase Plan",
+    "sourceDate": "2026-04-10",
+    "sourcePage": "1\u20133",
+    "notes": [
+      "A$66.3m is the disclosed institutional placement headline, excluding the A$5m SPP and A$0.43m director subscription.",
+      "The half-year share-capital table confirms 236,835,714 shares issued on 20 April at A$0.28, 17,857,143 SPP shares issued across 3\u20134 June and 1,535,714 director shares on 5 June.",
+      "The same half-year note identifies A$6m of non-cash Macquarie equity fee shares. The placement headline is retained as disclosed, but it must not be treated as independently reconciled cash proceeds.",
+      "The July quarterly report and September half-year report confirm completion. The SPP was initially not underwritten and became fully underwritten on 4 May."
+    ],
+    "sources": [
+      {
+        "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03114747-2A1686207",
+        "title": "Beetaloo Energy Q2 2026 Quarterly Report",
+        "date": "2026-07-28",
+        "page": "1"
+      },
+      {
+        "url": "https://cdn-api.markitdigital.com/apiman-gateway/ASX/asx-research/1.0/file/2924-03134433-2A1696648",
+        "title": "Beetaloo Energy 30 June 2026 Half Year Financial Report",
+        "date": "2026-09-11",
+        "page": "26, 34, 46"
+      }
+    ]
+  }
+]

@@ -1,0 +1,10 @@
+{
+  "version": "local-2026-09-21-a9349732",
+  "generatedAt": "2026-09-21T08:41:39.792Z",
+  "sha256": "ad0ae90707031d12270930b1a2c3986d995d0a15412ccd164a8f8b78633abf2a",
+  "eventCount": 2,
+  "schemaVersion": 1,
+  "calculationVersion": "1.0.0",
+  "roundingSha256": "cf5807ac6ca3719349ab28c0cd8e74d96e445217b1753ae51ea6a92cb06b7f22",
+  "file": "release.json"
+}
