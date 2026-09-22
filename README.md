@@ -1,6 +1,6 @@
 # Morgans Corporate Advisory Research
 
-Independent research into three ASX equity raises on which Morgans acted as lead manager. Not affiliated with or endorsed by Morgans.
+Research into three ASX equity raises on which Morgans acted as lead manager.
 
 | Company | Date | Structure | Raised |
 |---|---|---|---|

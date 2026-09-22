@@ -21,7 +21,7 @@ export default function DealModels({research,prices}:{research:MorgansDataset;pr
  return <main className="page">
   <header>
    <h1>Morgans Corporate Advisory Research</h1>
-   <p className="byline">Michael Nguyen · September 2026 · Independent research, not affiliated with or endorsed by Morgans</p>
+   <p className="byline">Michael Nguyen</p>
    <nav><a href="#overview" aria-current={!d?'page':undefined}>Overview</a>{research.deals.map(v=><a key={v.id} href={`#${slug(v)}`} aria-current={d?.id===v.id?'page':undefined}>{shortName(v)}</a>)}</nav>
   </header>
   {d?<Deal deal={d} prices={prices}/>:<Overview deals={research.deals} prices={prices}/>}
