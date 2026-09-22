@@ -240,7 +240,7 @@
         ],
         "structure": [
           "Holders offered 1 new share for every 3.66 held at A$0.40, about 375m new shares",
-          "Institutional offer closed on launch day and raised about A$119m; retail offer ran from 28 January to 11 February and raised A$31m",
+          "Institutional offer closed on launch day and raised about A$119m, and the retail offer ran from 28 January to 11 February and raised A$31m",
           "Non-renounceable, so entitlements not taken up lapsed without value",
           "Fully underwritten by Macquarie, with BUMA and AustralianSuper committing A$56m and BUMA backing up to A$41.5m of any shortfall"
         ],
@@ -261,7 +261,7 @@
           {
             "metric": "Funds raised",
             "target": "A$150m, fully underwritten",
-            "result": "A$150m gross and A$143m net; retail take-up about 71%, with the shortfall taken up under the underwriting",
+            "result": "A$150m gross and A$143m net, with retail take-up of about 71% and the shortfall taken up under the underwriting",
             "status": "met",
             "source": {
               "label": "March quarter report p.1, 8",
@@ -283,7 +283,7 @@
           {
             "metric": "Group liquidity",
             "target": "Sufficient to fund 2026 growth initiatives",
-            "result": "A$238m at 31 March and A$202m at 30 June 2026; company states liquidity is sufficient for the revised 2026 plan",
+            "result": "A$238m at 31 March and A$202m at 30 June 2026, which the company states is sufficient for the revised 2026 plan",
             "status": "met",
             "source": {
               "label": "March quarter p.1, half-year results p.1",
@@ -334,7 +334,7 @@
           "The share price reached a low of about A$0.24 and has since recovered to A$0.385"
         ],
         "assessment": {
-          "summary": "Successful for the company's funding position; shareholders are behind to date",
+          "summary": "Secured the company's funding, but shareholders are behind to date",
           "take": [
             "The raise secured the company's funding, lifting group liquidity from A$118m to A$238m and allowing Gossan Valley to continue on schedule, but it has not yet delivered a return for shareholders.",
             "The size of the raise assumed Xantho Extended would restart in April 2026. The deferral to the December quarter, announced on 16 April, reduced the share price by 35.1% in one day. Participating holders are about 4% below the A$0.40 offer price, while holders who did not participate were diluted by 21.5% and received no value for their entitlements under the non-renounceable structure."
@@ -530,7 +530,7 @@
           {
             "metric": "Concrete plant network",
             "target": "Expand the SEQ plant network",
-            "result": "Slacks Creek and Wulkuraka plants operating, a third under construction; A$24.4m of FY26 capex on the network",
+            "result": "Slacks Creek and Wulkuraka plants operating and a third under construction, with A$24.4m of FY26 capex on the network",
             "status": "met",
             "source": {
               "label": "FY26 results p.2",
@@ -541,7 +541,7 @@
           {
             "metric": "Composite pole capacity",
             "target": "Expand pole manufacturing capacity",
-            "result": "A$6.6m of FY26 capex on CFT capacity; pole sales up 206%",
+            "result": "A$6.6m of FY26 capex on CFT capacity, with pole sales up 206%",
             "status": "met",
             "source": {
               "label": "FY26 results p.2, presentation p.13",
@@ -852,7 +852,7 @@
           "The CDIs fell 13.6% when trading resumed after the June 2026 raise at A$0.38"
         ],
         "assessment": {
-          "summary": "Successful for the company's launch; unsuccessful for placement investors",
+          "summary": "Successful for the company's launch, but not for placement investors",
           "take": [
             "EBR met every target set at the raise, with first US sales in 2025, 87 implants across 29 US hospitals in the first half of 2026 and cash sufficient to fund operations into late 2026. Investors who subscribed at A$1.00 are nonetheless 73.5% below their entry price.",
             "The raise was sized to fund the business into late 2026, well before it could become self-funding, so EBR raised a further A$150m at A$0.38 in June 2026 and continued to report substantial doubt about its ability to continue as a going concern in its June 2026 10-Q. The timing of the 2025 raise was still favourable for the company, as it secured capital at a far higher price than was available in 2026."
