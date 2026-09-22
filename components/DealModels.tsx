@@ -24,7 +24,7 @@ export default function DealModels({research,prices}:{research:MorgansDataset;pr
    <p className="byline">Michael Nguyen</p>
    <nav><a href="#overview" aria-current={!d?'page':undefined}>Overview</a>{research.deals.map(v=><a key={v.id} href={`#${slug(v)}`} aria-current={d?.id===v.id?'page':undefined}>{shortName(v)}</a>)}</nav>
   </header>
-  {d?<Deal deal={d} prices={prices}/>:<Overview deals={research.deals} prices={prices}/>}
+  {d?<Deal key={d.id} deal={d} prices={prices}/>:<Overview deals={research.deals} prices={prices}/>}
  </main>;
 }
 
@@ -63,6 +63,7 @@ function Deal({deal:d,prices}:{deal:MorgansDeal;prices:PriceHistory}){
  const metrics=[...a.metrics].sort((x,y)=>(x.date??'9').localeCompare(y.date??'9'));
  const hit=a.metrics.filter(x=>x.status!=='behind').length;
  const steps=[.8,.9,1,1.1,1.2];
+ const [offer,setOffer]=useState(d.price),sel=model(d,offer);
  return <article>
   <h2>{shortName(d)} (ASX: {d.ticker})</h2>
   <p className="meta">{d.structure} · {dateLabel(d.date)} · A${format(d.amountM,1)}m at A${format(d.price,2)} · <a href={d.sources[0].url} target="_blank" rel="noreferrer">Launch announcement</a></p>
@@ -94,7 +95,9 @@ function Deal({deal:d,prices}:{deal:MorgansDeal;prices:PriceHistory}){
    <thead><tr><th className="n">Offer price (A$)</th>{d.referencePrice!==null&&<th className="n">Discount to last close (%)</th>}<th className="n">New {unit} (m)</th>{m.dilution!==null&&<th className="n">Dilution (%)</th>}</tr></thead>
    <tbody>{steps.map(s=>{const x=model(d,d.price*s);return <tr key={s} className={s===1?'total':''}><td className="n">{format(d.price*s,3)}{s===1?' (actual)':''}</td>{x.discount!==null&&<td className="n">{format(x.discount,1)}</td>}<td className="n">{format(x.issuedM,1)}</td>{x.dilution!==null&&<td className="n">{format(x.dilution,1)}</td>}</tr>;})}</tbody>
   </table>
-  <IssuanceFigure deal={d} unit={unit}/>
+  <div className="widget"><label htmlFor="offer">Offer price</label><input id="offer" type="range" min={d.price*.5} max={d.price*1.25} step={d.price/200} value={offer} onChange={e=>setOffer(Number(e.target.value))}/><span className="n">A${format(offer,3)}</span>{offer!==d.price&&<button onClick={()=>setOffer(d.price)}>Reset</button>}</div>
+  <p className="widget-out">At A${format(offer,3)}: {format(sel.issuedM,1)}m new {unit}{sel.discount!==null?`, ${format(sel.discount,1)}% ${sel.discount>=0?'discount':'premium'} to last close`:''}{sel.dilution!==null?`, ${format(sel.dilution,1)}% dilution`:''}.</p>
+  <IssuanceFigure deal={d} unit={unit} offer={offer}/>
 
   <h3>5. Outcome against stated targets</h3>
   <p>Targets met: {hit} of {a.metrics.length}. Share price at {dateLabel(r.latest[0])}: A${format(r.latest[1],3)}, {pct(r.pct)} against the offer price.</p>
@@ -127,7 +130,7 @@ function Legend({items}:{items:{label:string;color:string;dash?:string;dot?:bool
  return <g><rect x={W-R-w-8} y={T+8} width={w} height={items.length*17+8} fill="#fff" stroke="#ccc" rx={2}/>{items.map((i,k)=><g key={i.label} transform={`translate(${W-R-w} ${T+21+k*17})`}>{i.dot?<circle cx={10} cy={-3} r={3.5} fill={i.color}/>:<line x1={0} x2={20} y1={-3} y2={-3} stroke={i.color} strokeWidth={1.5} strokeDasharray={i.dash}/>}<text x={27} y={1}>{i.label}</text></g>)}</g>;
 }
 
-function IssuanceFigure({deal:d,unit}:{deal:MorgansDeal;unit:string}){
+function IssuanceFigure({deal:d,unit,offer}:{deal:MorgansDeal;unit:string;offer:number}){
  const lo=d.price*.5,hi=d.price*1.25,pts=Array.from({length:60},(_,i)=>lo+(hi-lo)*i/59),ymax=d.amountM/lo;
  const xt=niceTicks(lo,hi),yt0=niceTicks(0,ymax),ytop=Math.ceil(ymax*1.02/yt0.step)*yt0.step,yt={step:yt0.step,ticks:Array.from({length:Math.round(ytop/yt0.step)+1},(_,i)=>i*yt0.step)};
  const X=(v:number)=>L+(v-lo)/(hi-lo)*(W-L-R),Y=(v:number)=>H-B-v/ytop*(H-T-B);
@@ -135,7 +138,8 @@ function IssuanceFigure({deal:d,unit}:{deal:MorgansDeal;unit:string}){
   <Axes xLabel="Offer price (A$)" yLabel={`New ${unit} (m)`} xTicks={xt.ticks.filter(v=>v>=lo&&v<=hi).map(v=>({x:X(v),label:v.toFixed(dp(xt.step))}))} yTicks={yt.ticks.map(v=>({y:Y(v),label:v.toFixed(dp(yt.step))}))}/>
   <path d={pts.map((p,i)=>`${i?'L':'M'}${X(p).toFixed(1)},${Y(d.amountM/p).toFixed(1)}`).join('')} fill="none" stroke={C0} strokeWidth={1.5}/>
   <line x1={X(d.price)} x2={X(d.price)} y1={Y(d.amountM/d.price)} y2={H-B} stroke={C1} strokeDasharray="4 3" strokeWidth={1.2}/><circle cx={X(d.price)} cy={Y(d.amountM/d.price)} r={4} fill={C1}/>
-  <Legend items={[{label:`New ${unit} at A$${format(d.amountM,1)}m`,color:C0},{label:`Actual offer A$${format(d.price,2)}`,color:C1,dot:true}]}/>
+  {offer!==d.price&&<><line x1={X(offer)} x2={X(offer)} y1={Y(d.amountM/offer)} y2={H-B} stroke={C3} strokeDasharray="2 3" strokeWidth={1}/><circle cx={X(offer)} cy={Y(d.amountM/offer)} r={4} fill={C3}/></>}
+  <Legend items={[{label:`New ${unit} at A$${format(d.amountM,1)}m`,color:C0},{label:`Actual offer A$${format(d.price,2)}`,color:C1,dot:true},...(offer!==d.price?[{label:`Slider A$${format(offer,3)}`,color:C3,dot:true}]:[])]}/>
  </svg><figcaption>Figure 1. New {unit} issued at different offer prices for the same gross proceeds.</figcaption></figure>;
 }
 
