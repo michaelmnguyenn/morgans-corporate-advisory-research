@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-23T11:21:28.797Z",
+  "generatedAt": "2026-09-23T15:08:10.803Z",
   "deals": {
     "NXT-convertible-2026-09-09-03137811": {
       "documents": [
@@ -705,9 +705,9 @@
       "conversionPremium": null,
       "counterparties": [],
       "purpose": {
-        "value": "Proceeds of the issue will be used to repay existing indebtedness including borrowings under the Group’s revolving bank facilities.",
+        "value": "The notes carry a fixed rate coupon of 5.85%, which has been swapped to floating rate to reflect a margin of 1.20% over 3-month BBSW. Proceeds of the issue will be used to repay existing indebtedness including borrowings under the Group’s revolving bank facilities.",
         "source": "03082963",
-        "quote": "Proceeds of the issue will be used to repay existing indebtedness including borrowings under the Group’s revolving bank facilities."
+        "quote": "The notes carry a fixed rate coupon of 5.85%, which has been swapped to floating rate to reflect a margin of 1.20% over 3-month BBSW. Proceeds of the issue will be used to repay existing indebtedness "
       }
     },
     "NHC-convertible-2026-04-15-03082998": {
@@ -770,9 +770,9 @@
       "conversionPremium": null,
       "counterparties": [],
       "purpose": {
-        "value": "A portion of the net cash proceeds of the Notes offering will be used to refinance the Company’s A$375M drawn balance of the A$1B revolving credit facility (RCF) .",
+        "value": "The Notes will be guaranteed by certain wholly-owned subsidiaries of PLS. A portion of the net cash proceeds of the Notes offering will be used to refinance the Company’s A$375M drawn balance of the A$1B revolving credit facility (RCF) . The remaining net cash proceeds will be used for general…",
         "source": "03083119",
-        "quote": "A portion of the net cash proceeds of the Notes offering will be used to refinance the Company’s A$375M drawn balance of the A$1B revolving credit facility (RCF) ."
+        "quote": "The Notes will be guaranteed by certain wholly-owned subsidiaries of PLS. A portion of the net cash proceeds of the Notes offering will be used to refinance the Company’s A$375M drawn balance of the A"
       }
     },
     "TLX-convertible-2026-04-14-03082510": {
@@ -964,9 +964,9 @@
       "conversionPremium": null,
       "counterparties": [],
       "purpose": {
-        "value": "The proceeds from the issuance will be used for general corporate purposes at APRR.",
+        "value": "The proceeds from the issuance will be used for general corporate purposes at APRR. The bonds were priced on 8 January 2026 (Luxembourg time) at 99.366% of par with a coupon of 3.125%.",
         "source": "03048509",
-        "quote": "The proceeds from the issuance will be used for general corporate purposes at APRR."
+        "quote": "The proceeds from the issuance will be used for general corporate purposes at APRR. The bonds were priced on 8 January 2026 (Luxembourg time) at 99.366% of par with a coupon of 3.125%."
       }
     },
     "KCN-facility-2025-12-24-03045179": {
@@ -1258,9 +1258,9 @@
       "conversionPremium": null,
       "counterparties": [],
       "purpose": {
-        "value": "The proceeds from the new issue will be used to repay debt and for general corporate purposes, in line with Ampol’s Capital Allocation Framework .",
+        "value": "The proceeds from the new issue will be used to repay debt and for general corporate purposes, in line with Ampol’s Capital Allocation Framework . The transaction is intended to refinance the A$500 million of subordinated notes callable in March 2026.",
         "source": "03014759",
-        "quote": "The proceeds from the new issue will be used to repay debt and for general corporate purposes, in line with Ampol’s Capital Allocation Framework ."
+        "quote": "The proceeds from the new issue will be used to repay debt and for general corporate purposes, in line with Ampol’s Capital Allocation Framework . The transaction is intended to refinance the A$500 mi"
       }
     },
     "PRN-facility-2025-10-24-03014662": {
@@ -1549,9 +1549,9 @@
       "conversionPremium": null,
       "counterparties": [],
       "purpose": {
-        "value": "Proceeds of the issue will be used to repay existing indebtedness including borrowings under the Group’s revolving bank facilities.",
+        "value": "The notes carry a fixed rate coupon of 5.35%, which has been swapped to floating rate to reflect a margin of 1.38% over 3-month BBSW. Proceeds of the issue will be used to repay existing indebtedness including borrowings under the Group’s revolving bank facilities.",
         "source": "02994162",
-        "quote": "Proceeds of the issue will be used to repay existing indebtedness including borrowings under the Group’s revolving bank facilities."
+        "quote": "The notes carry a fixed rate coupon of 5.35%, which has been swapped to floating rate to reflect a margin of 1.38% over 3-month BBSW. Proceeds of the issue will be used to repay existing indebtedness "
       }
     },
     "MSB-convertible-2025-09-04-02991037": {
@@ -1875,9 +1875,9 @@
       "conversionPremium": null,
       "counterparties": [],
       "purpose": {
-        "value": "The Company intends to use the net proceeds from the Offering to repay the amounts outstanding under its senior credit facilities and for general corporate purposes.",
+        "value": "The Notes will not be quoted on ASX or the TSX. The Company intends to use the net proceeds from the Offering to repay the amounts outstanding under its senior credit facilities and for general corporate purposes.",
         "source": "02962666",
-        "quote": "The Company intends to use the net proceeds from the Offering to repay the amounts outstanding under its senior credit facilities and for general corporate purposes."
+        "quote": "The Notes will not be quoted on ASX or the TSX. The Company intends to use the net proceeds from the Offering to repay the amounts outstanding under its senior credit facilities and for general corpor"
       }
     },
     "APA-facility-2025-06-25-02961890": {
@@ -2160,9 +2160,9 @@
       "conversionPremium": null,
       "counterparties": [],
       "purpose": {
-        "value": "The proceeds from the issuance will be used for general corporate purposes at APRR.",
+        "value": "The proceeds from the issuance will be used for general corporate purposes at APRR. The bonds were priced on 19 May 2025 (Luxembourg time) at 99.233% of par with a coupon of 2.875%.",
         "source": "02949895",
-        "quote": "The proceeds from the issuance will be used for general corporate purposes at APRR."
+        "quote": "The proceeds from the issuance will be used for general corporate purposes at APRR. The bonds were priced on 19 May 2025 (Luxembourg time) at 99.233% of par with a coupon of 2.875%."
       }
     },
     "WDS-bond-2025-05-15-02948402": {
@@ -2472,9 +2472,9 @@
       "conversionPremium": null,
       "counterparties": [],
       "purpose": {
-        "value": "On 1 July 2024 1 the partners in APRR Group reached an agreement to refinance the Financière Eiffarie debt facility in H1 2025, targeting a materially reduced amortisation profile over the first five years with an average annual repayment of approximately €55 million.",
+        "value": "It was also agreed that €200 million of cash within the APRR Group would be released in H2 2024 to fund the FE debt amortisation payments.",
         "source": "02918998",
-        "quote": "On 1 July 2024 1 the partners in APRR Group reached an agreement to refinance the Financière Eiffarie debt facility in H1 2025, targeting a materially reduced amortisation profile over the first five "
+        "quote": "It was also agreed that €200 million of cash within the APRR Group would be released in H2 2024 to fund the FE debt amortisation payments."
       }
     },
     "BHP-bond-2025-02-19-02915961": {
@@ -2638,9 +2638,9 @@
       "conversionPremium": null,
       "counterparties": [],
       "purpose": {
-        "value": "The proceeds of the issue will be used for refinancing of upcoming debt maturities and for general corporate purposes, in line with the Group’s Capital Allocation Framework .",
+        "value": "The proceeds of the issue will be used for refinancing of upcoming debt maturities and for general corporate purposes, in line with the Group’s Capital Allocation Framework . The Subordinated Notes are expected to receive 50% equity credit from Moody's Investors Service . Greg Barnes, Group…",
         "source": "02892465",
-        "quote": "The proceeds of the issue will be used for refinancing of upcoming debt maturities and for general corporate purposes, in line with the Group’s Capital Allocation Framework ."
+        "quote": "The proceeds of the issue will be used for refinancing of upcoming debt maturities and for general corporate purposes, in line with the Group’s Capital Allocation Framework . The Subordinated Notes ar"
       }
     },
     "CBA-hybrid-2024-11-27-02887566": {
@@ -2664,11 +2664,7 @@
       },
       "conversionPremium": null,
       "counterparties": [],
-      "purpose": {
-        "value": "Attributable Proceeds means the net proceeds of sale of Ordinary Shares attributable to the Subordinated Securities of the relevant Subordinated Holder or, where Condition 5.10(d) applies, the Clearing System Participant, actually received after deducting any applicable brokerage, stamp duty and…",
-        "source": "02887566",
-        "quote": "Attributable Proceeds means the net proceeds of sale of Ordinary Shares attributable to the Subordinated Securities of the relevant Subordinated Holder or, where Condition 5.10(d) applies, the Clearin"
-      }
+      "purpose": null
     },
     "SCG-bond-2024-11-21-02884783": {
       "documents": [
@@ -2703,9 +2699,9 @@
       "conversionPremium": null,
       "counterparties": [],
       "purpose": {
-        "value": "Proceeds of the issue will be used to repay existing indebtedness including borrowings under the Group’s revolving bank facilities .",
+        "value": "Proceeds of the issue will be used to repay existing indebtedness including borrowings under the Group’s revolving bank facilities . S ettlement is scheduled for 27 November 2024.",
         "source": "02884783",
-        "quote": "Proceeds of the issue will be used to repay existing indebtedness including borrowings under the Group’s revolving bank facilities ."
+        "quote": "Proceeds of the issue will be used to repay existing indebtedness including borrowings under the Group’s revolving bank facilities . S ettlement is scheduled for 27 November 2024."
       }
     },
     "IFT-bond-2024-11-21-02884570": {
@@ -2767,9 +2763,9 @@
         "NAB"
       ],
       "purpose": {
-        "value": " Page 1 of 2 ASX Release 4 November 2024 A$2.9 billion New Senior Debt Facilities NEXTDC Limited (ASX: NXT) (“NEXTDC” or “the Company”) is pleased to advise that the Company has successfully signed A$2.9 billion senior bank debt facilities on a new a common terms platform to refinance its…",
+        "value": " ASX Release 4 November 2024 A$2.9 billion New Senior Debt Facilities NEXTDC Limited (ASX: NXT) (“NEXTDC” or “the Company”) is pleased to advise that the Company has successfully signed A$2.9 billion senior bank debt facilities on a new a common terms platform to refinance its existing debt…",
         "source": "02877536",
-        "quote": " Page 1 of 2 ASX Release 4 November 2024 A$2.9 billion New Senior Debt Facilities NEXTDC Limited (ASX: NXT) (“NEXTDC” or “the Company”) is pleased to advise that the Company has successfully signed A$"
+        "quote": " ASX Release 4 November 2024 A$2.9 billion New Senior Debt Facilities NEXTDC Limited (ASX: NXT) (“NEXTDC” or “the Company”) is pleased to advise that the Company has successfully signed A$2.9 billion "
       }
     },
     "JDO-hybrid-2024-10-16-02868037": {
@@ -3278,9 +3274,9 @@
       "conversionPremium": null,
       "counterparties": [],
       "purpose": {
-        "value": "The proceeds of the note issue will initially be used to repay bank debt in revolving facilities, and to effectively refinanc e the €185 million of notes which mature in November this year .",
+        "value": "The proceeds of the note issue will initially be used to repay bank debt in revolving facilities, and to effectively refinanc e the €185 million of notes which mature in November this year . The issue will increase Sonic’s available liquidity, supporting the company’s ongoing growth strategy.",
         "source": "02835331",
-        "quote": "The proceeds of the note issue will initially be used to repay bank debt in revolving facilities, and to effectively refinanc e the €185 million of notes which mature in November this year ."
+        "quote": "The proceeds of the note issue will initially be used to repay bank debt in revolving facilities, and to effectively refinanc e the €185 million of notes which mature in November this year . The issue"
       }
     },
     "TLX-convertible-2024-07-23-02831362": {
@@ -4147,7 +4143,7 @@
       "conversionPremium": null,
       "counterparties": [],
       "purpose": {
-        "value": "The new syndicated debt facility is one of AUB’s key funding sources, providing the Group with continued financial flexibility to fund its M&A pipeline, working capital, liquidity requirements, as well as interest savings.” For personal use only The release of this announcement was authorised by…",
+        "value": "The new syndicated debt facility is one of AUB’s key funding sources, providing the Group with continued financial flexibility to fund its M&A pipeline, working capital, liquidity requirements, as well as interest savings.” The release of this announcement was authorised by the Chair of the AUB…",
         "source": "02765481",
         "quote": "The new syndicated debt facility is one of AUB’s key funding sources, providing the Group with continued financial flexibility to fund its M&A pipeline, working capital, liquidity requirements, as wel"
       }
@@ -4170,9 +4166,9 @@
       "conversionPremium": null,
       "counterparties": [],
       "purpose": {
-        "value": "The proceeds of the Notes will be used to partially refinance existing debt facilities, with the remainder to be paid as a capital release to WCX’s shareholders.",
+        "value": "Transurban owns a 50.0% interest in WCX. The proceeds of the Notes will be used to partially refinance existing debt facilities, with the remainder to be paid as a capital release to WCX’s shareholders.",
         "source": "02757205",
-        "quote": "The proceeds of the Notes will be used to partially refinance existing debt facilities, with the remainder to be paid as a capital release to WCX’s shareholders."
+        "quote": "Transurban owns a 50.0% interest in WCX. The proceeds of the Notes will be used to partially refinance existing debt facilities, with the remainder to be paid as a capital release to WCX’s shareholder"
       }
     },
     "KCN-facility-2023-12-19-02756331": {
@@ -4862,9 +4858,9 @@
       "conversionPremium": null,
       "counterparties": [],
       "purpose": {
-        "value": "The facilities, which will mature in 1HFY26, are part of Ramsay’s ongoing bank loan refinancing activities and will be used to repay facilities maturing in 1HFY25.",
+        "value": " ASX ANNOUNCEMENT 28 June 2023 BANK LOAN REFINANCING Ramsay Health Care (Ramsay) ( ASX: RHC) today announces it has secured A$1.5 billion in new committed revolving bank loan facilities with two of its key relationship banks . The facilities, which will mature in 1HFY26, are part of Ramsay’s…",
         "source": "02680328",
-        "quote": "The facilities, which will mature in 1HFY26, are part of Ramsay’s ongoing bank loan refinancing activities and will be used to repay facilities maturing in 1HFY25."
+        "quote": " ASX ANNOUNCEMENT 28 June 2023 BANK LOAN REFINANCING Ramsay Health Care (Ramsay) ( ASX: RHC) today announces it has secured A$1.5 billion in new committed revolving bank loan facilities with two of it"
       }
     },
     "QBE-hybrid-2023-06-22-02678514": {
@@ -5015,9 +5011,9 @@
       "conversionPremium": null,
       "counterparties": [],
       "purpose": {
-        "value": "The proceeds from the issuance will be used for general corporate purposes at APRR.",
+        "value": "The proceeds from the issuance will be used for general corporate purposes at APRR. The Bonds were priced on 11 May 2023 (Luxembourg time) at 98.552% of par with a coupon of 3.125%.",
         "source": "02665295",
-        "quote": "The proceeds from the issuance will be used for general corporate purposes at APRR."
+        "quote": "The proceeds from the issuance will be used for general corporate purposes at APRR. The Bonds were priced on 11 May 2023 (Luxembourg time) at 98.552% of par with a coupon of 3.125%."
       }
     },
     "SFR-facility-2023-05-11-02664778": {
@@ -5194,9 +5190,9 @@
         "Deutsche Bank"
       ],
       "purpose": {
-        "value": "The net proceeds of the Offer will be used to fund CBA’s business.",
+        "value": "PERLS XVI are expected to be quoted on ASX under the trading code ‘CBAPM’. The net proceeds of the Offer will be used to fund CBA’s business.",
         "source": "02666362",
-        "quote": "The net proceeds of the Offer will be used to fund CBA’s business."
+        "quote": "PERLS XVI are expected to be quoted on ASX under the trading code ‘CBAPM’. The net proceeds of the Offer will be used to fund CBA’s business."
       }
     },
     "SOL-facility-2023-04-05-02651777": {
@@ -5573,9 +5569,9 @@
         "HSBC"
       ],
       "purpose": {
-        "value": " Page 1 of 3 ASX Release 13 January 2023 A$400 million Incremental Senior Debt Facility NEXTDC Limited (ASX: NXT ) (“NEXTDC” or “ the Company”) is pleased to advise that the Company has entered into a Syndicated Facility Agreement in relation to a new A$400 million senior debt facility to fund…",
+        "value": " ASX Release 13 January 2023 A$400 million Incremental Senior Debt Facility NEXTDC Limited (ASX: NXT ) (“NEXTDC” or “ the Company”) is pleased to advise that the Company has entered into a Syndicated Facility Agreement in relation to a new A$400 million senior debt facility to fund ongoing…",
         "source": "02620878",
-        "quote": " Page 1 of 3 ASX Release 13 January 2023 A$400 million Incremental Senior Debt Facility NEXTDC Limited (ASX: NXT ) (“NEXTDC” or “ the Company”) is pleased to advise that the Company has entered into a"
+        "quote": " ASX Release 13 January 2023 A$400 million Incremental Senior Debt Facility NEXTDC Limited (ASX: NXT ) (“NEXTDC” or “ the Company”) is pleased to advise that the Company has entered into a Syndicated "
       }
     },
     "NEC-facility-2022-12-15-02612720": {
@@ -5603,9 +5599,9 @@
         "Macquarie"
       ],
       "purpose": {
-        "value": "Holdings Limited – 1 Denison Street, North Sydney, 2060 ABN 60 122 203 892 REFINANCING OF CORPORATE DEBT FACILITIES 15 December 2022: Nine Entertainment Co. (ASX:NEC) advises that it has signed binding agreements to refinance its existing corporate debt facilities.",
+        "value": "Holdings Limited – 1 Denison Street, North Sydney, 2060 ABN 60 122 203 892 15 December 2022: Nine Entertainment Co. (ASX:NEC) advises that it has signed binding agreements to refinance its existing corporate debt facilities.",
         "source": "02612720",
-        "quote": "Holdings Limited – 1 Denison Street, North Sydney, 2060 ABN 60 122 203 892 REFINANCING OF CORPORATE DEBT FACILITIES 15 December 2022: Nine Entertainment Co. (ASX:NEC) advises that it has signed bindin"
+        "quote": "Holdings Limited – 1 Denison Street, North Sydney, 2060 ABN 60 122 203 892 15 December 2022: Nine Entertainment Co. (ASX:NEC) advises that it has signed binding agreements to refinance its existing co"
       }
     },
     "TAH-bond-2022-12-02-02607574": {
@@ -5807,9 +5803,9 @@
       "conversionPremium": null,
       "counterparties": [],
       "purpose": {
-        "value": "For personal use only Page 3 of 7 Financing Facilities Agreed with WHSP EOS has agreed the following financing arrangements with WHSP (including the Existing Working Capital Facility as amended, the “WHSP Financing Facilities”): • a new $35m three-year term loan facility (“New Term Loan…",
+        "value": "Financing Facilities Agreed with WHSP EOS has agreed the following financing arrangements with WHSP (including the Existing Working Capital Facility as amended, the “WHSP Financing Facilities”): • a new $35m three-year term loan facility (“New Term Loan Facility”) to refinance the Existing Term…",
         "source": "02581575",
-        "quote": "For personal use only Page 3 of 7 Financing Facilities Agreed with WHSP EOS has agreed the following financing arrangements with WHSP (including the Existing Working Capital Facility as amended, the “"
+        "quote": "Financing Facilities Agreed with WHSP EOS has agreed the following financing arrangements with WHSP (including the Existing Working Capital Facility as amended, the “WHSP Financing Facilities”): • a n"
       }
     },
     "SGH-convertible-2022-10-06-02578906": {
@@ -6577,8 +6573,8 @@
         "Barrenjoey"
       ],
       "purpose": {
-        "value": "Suncorp expects to use the proceeds of issue of the Notes to fund Tier 2 Capital (as described in the Prudential Standards issued by the Australian Prudential Regulation Authority (APRA)) of one or more Regulated Entities within the Suncorp Group and for general funding purposes .",
-        "source": "02504044",
+        "value": "Suncorp expects to use the proceeds of issue of the Notes to fund Tier 2 Capital (as described in the Prudential Standards issued by the Australian Prudential Regulation Authority (APRA)) of one or more Regulated Entities within the Suncorp Group and for general funding purposes.",
+        "source": "02503708",
         "quote": "Suncorp expects to use the proceeds of issue of the Notes to fund Tier 2 Capital (as described in the Prudential Standards issued by the Australian Prudential Regulation Authority (APRA)) of one or mo"
       }
     },
@@ -6817,9 +6813,9 @@
         "Osisko"
       ],
       "purpose": {
-        "value": "Going forward, Osisko shareholders can be confident that there should be no significant shareholder dilution needed to successfully bring the Windfall Project to production.\" Annexure B For personal use only The net proceeds of the Debenture will be used for the advancement of Osisko's Windfall…",
+        "value": "Going forward, Osisko shareholders can be confident that there should be no significant shareholder dilution needed to successfully bring the Windfall Project to production.\" Annexure B The net proceeds of the Debenture will be used for the advancement of Osisko's Windfall Project and for…",
         "source": "02460448",
-        "quote": "Going forward, Osisko shareholders can be confident that there should be no significant shareholder dilution needed to successfully bring the Windfall Project to production.\" Annexure B For personal u"
+        "quote": "Going forward, Osisko shareholders can be confident that there should be no significant shareholder dilution needed to successfully bring the Windfall Project to production.\" Annexure B The net procee"
       }
     },
     "BGL-facility-2021-12-01-02460468": {
@@ -6899,11 +6895,7 @@
         "Societe Generale",
         "CEFC"
       ],
-      "purpose": {
-        "value": "The proceeds from the additional Finance Facility will primarily be used to fund the previously announced staged restart of the Ngungaju Plant (including reimbursement of amounts already spent by the Company) .",
-        "source": "02455869",
-        "quote": "The proceeds from the additional Finance Facility will primarily be used to fund the previously announced staged restart of the Ngungaju Plant (including reimbursement of amounts already spent by the "
-      }
+      "purpose": null
     },
     "MSB-facility-2021-11-22-02455304": {
       "documents": [

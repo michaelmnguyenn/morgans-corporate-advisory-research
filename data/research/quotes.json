@@ -1,1206 +1,1406 @@
 {
-  "generatedAt": "2026-09-23T14:10:24.732Z",
+  "generatedAt": "2026-09-23T14:36:49.589Z",
   "source": "Yahoo Finance daily chart last close",
   "quotes": {
     "360": {
       "close": 19.23,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/360.AX/"
+      "url": "https://au.finance.yahoo.com/quote/360.AX/",
+      "marketCap": 4689.7
     },
     "NAB": {
       "close": 38.66,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/NAB.AX/"
-    },
-    "CBA": {
-      "close": 151.05,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/CBA.AX/"
+      "url": "https://au.finance.yahoo.com/quote/NAB.AX/",
+      "marketCap": 120365.8
     },
     "WBC": {
       "close": 34.76,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/WBC.AX/"
+      "url": "https://au.finance.yahoo.com/quote/WBC.AX/",
+      "marketCap": 119402.8
     },
     "BHP": {
       "close": 62.07,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/BHP.AX/"
+      "url": "https://au.finance.yahoo.com/quote/BHP.AX/",
+      "marketCap": 311253.6
+    },
+    "CBA": {
+      "close": 151.05,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/CBA.AX/",
+      "marketCap": 254918.5
     },
     "CSL": {
       "close": 179.24,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/CSL.AX/"
-    },
-    "WES": {
-      "close": 73.79,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/WES.AX/"
-    },
-    "MQG": {
-      "close": 242.35,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/MQG.AX/"
+      "url": "https://au.finance.yahoo.com/quote/CSL.AX/",
+      "marketCap": 86724.7
     },
     "ANZ": {
       "close": 37.83,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ANZ.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ANZ.AX/",
+      "marketCap": 115057.3
     },
-    "GMG": {
-      "close": 26.77,
+    "WES": {
+      "close": 73.79,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/GMG.AX/"
+      "url": "https://au.finance.yahoo.com/quote/WES.AX/",
+      "marketCap": 83238.9
     },
-    "TLS": {
-      "close": 4.81,
+    "MQG": {
+      "close": 242.35,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/TLS.AX/"
+      "url": "https://au.finance.yahoo.com/quote/MQG.AX/",
+      "marketCap": 92942.3
     },
     "RIO": {
       "close": 167.61,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/RIO.AX/"
+      "url": "https://au.finance.yahoo.com/quote/RIO.AX/",
+      "marketCap": 61833.9
     },
     "WDS": {
       "close": 31.13,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/WDS.AX/"
+      "url": "https://au.finance.yahoo.com/quote/WDS.AX/",
+      "marketCap": 60207.8
     },
-    "TCL": {
-      "close": 13.2,
+    "TLS": {
+      "close": 4.81,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/TCL.AX/"
+      "url": "https://au.finance.yahoo.com/quote/TLS.AX/",
+      "marketCap": 53802
+    },
+    "GMG": {
+      "close": 26.77,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/GMG.AX/",
+      "marketCap": 53423.6
     },
     "WOW": {
       "close": 38,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/WOW.AX/"
+      "url": "https://au.finance.yahoo.com/quote/WOW.AX/",
+      "marketCap": 46335.3
+    },
+    "TCL": {
+      "close": 13.2,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/TCL.AX/",
+      "marketCap": 41222.5
     },
     "ALL": {
       "close": 60.17,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ALL.AX/"
-    },
-    "NST": {
-      "close": 22.8,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/NST.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ALL.AX/",
+      "marketCap": 36789.7
     },
     "QBE": {
       "close": 23.01,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/QBE.AX/"
+      "url": "https://au.finance.yahoo.com/quote/QBE.AX/",
+      "marketCap": 34676.3
     },
     "COL": {
       "close": 22.89,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/COL.AX/"
+      "url": "https://au.finance.yahoo.com/quote/COL.AX/",
+      "marketCap": 30825.1
     },
     "FMG": {
       "close": 16.85,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/FMG.AX/"
+      "url": "https://au.finance.yahoo.com/quote/FMG.AX/",
+      "marketCap": 51572.7
+    },
+    "NST": {
+      "close": 22.8,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/NST.AX/",
+      "marketCap": 31246
     },
     "EVN": {
       "close": 13.95,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/EVN.AX/"
-    },
-    "CPU": {
-      "close": 40.99,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/CPU.AX/"
+      "url": "https://au.finance.yahoo.com/quote/EVN.AX/",
+      "marketCap": 27908.1
     },
     "STO": {
       "close": 8.4,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/STO.AX/"
+      "url": "https://au.finance.yahoo.com/quote/STO.AX/",
+      "marketCap": 27703.5
     },
     "BXB": {
       "close": 18.73,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/BXB.AX/"
+      "url": "https://au.finance.yahoo.com/quote/BXB.AX/",
+      "marketCap": 24716.4
+    },
+    "CPU": {
+      "close": 40.99,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/CPU.AX/",
+      "marketCap": 24113
     },
     "S32": {
       "close": 4.91,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/S32.AX/"
-    },
-    "ORG": {
-      "close": 10.86,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ORG.AX/"
-    },
-    "IAG": {
-      "close": 7.88,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/IAG.AX/"
+      "url": "https://au.finance.yahoo.com/quote/S32.AX/",
+      "marketCap": 21894.1
     },
     "SUN": {
       "close": 19.05,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SUN.AX/"
+      "url": "https://au.finance.yahoo.com/quote/SUN.AX/",
+      "marketCap": 20554.4
+    },
+    "ORG": {
+      "close": 10.86,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/ORG.AX/",
+      "marketCap": 19312
+    },
+    "IAG": {
+      "close": 7.88,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/IAG.AX/",
+      "marketCap": 18867.3
     },
     "RMD": {
       "close": 31.61,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/RMD.AX/"
+      "url": "https://au.finance.yahoo.com/quote/RMD.AX/",
+      "marketCap": 45136.2
     },
     "SCG": {
       "close": 3.44,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SCG.AX/"
-    },
-    "SIG": {
-      "close": 2.56,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SIG.AX/"
+      "url": "https://au.finance.yahoo.com/quote/SCG.AX/",
+      "marketCap": 17989.2
     },
     "SOL": {
       "close": 45.51,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SOL.AX/"
+      "url": "https://au.finance.yahoo.com/quote/SOL.AX/",
+      "marketCap": 17256
     },
-    "LYC": {
-      "close": 14.67,
+    "SIG": {
+      "close": 2.56,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/LYC.AX/"
-    },
-    "PLS": {
-      "close": 4.18,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/PLS.AX/"
+      "url": "https://au.finance.yahoo.com/quote/SIG.AX/",
+      "marketCap": 29551.9
     },
     "APA": {
       "close": 10.79,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/APA.AX/"
+      "url": "https://au.finance.yahoo.com/quote/APA.AX/",
+      "marketCap": 14607.6
     },
     "QAN": {
       "close": 9.14,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/QAN.AX/"
+      "url": "https://au.finance.yahoo.com/quote/QAN.AX/",
+      "marketCap": 13543.1
     },
-    "NEM": {
-      "close": 177.02,
+    "LYC": {
+      "close": 14.67,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/NEM.AX/"
+      "url": "https://au.finance.yahoo.com/quote/LYC.AX/",
+      "marketCap": 14604.4
     },
-    "MPL": {
-      "close": 4.56,
+    "PLS": {
+      "close": 4.18,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/MPL.AX/"
+      "url": "https://au.finance.yahoo.com/quote/PLS.AX/",
+      "marketCap": 13323.2
     },
     "BSL": {
       "close": 30.01,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/BSL.AX/"
+      "url": "https://au.finance.yahoo.com/quote/BSL.AX/",
+      "marketCap": 13107.3
+    },
+    "NEM": {
+      "close": 177.02,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/NEM.AX/",
+      "marketCap": 179865.9
+    },
+    "MPL": {
+      "close": 4.56,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/MPL.AX/",
+      "marketCap": 12640.9
     },
     "JHX": {
       "close": 38.17,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/JHX.AX/"
-    },
-    "TLC": {
-      "close": 4.9,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/TLC.AX/"
+      "url": "https://au.finance.yahoo.com/quote/JHX.AX/",
+      "marketCap": 21536.2
     },
     "ASX": {
       "close": 57.7,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ASX.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ASX.AX/",
+      "marketCap": 11505.5
     },
     "ALQ": {
       "close": 20.86,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ALQ.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ALQ.AX/",
+      "marketCap": 10856.3
+    },
+    "TLC": {
+      "close": 4.9,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/TLC.AX/",
+      "marketCap": 10772.7
     },
     "ALD": {
       "close": 44.07,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ALD.AX/"
-    },
-    "XRO": {
-      "close": 58.2,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/XRO.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ALD.AX/",
+      "marketCap": 10685.5
     },
     "RHC": {
       "close": 55.41,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/RHC.AX/"
-    },
-    "SFR": {
-      "close": 22.77,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SFR.AX/"
+      "url": "https://au.finance.yahoo.com/quote/RHC.AX/",
+      "marketCap": 12811.1
     },
     "ORI": {
       "close": 23.07,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ORI.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ORI.AX/",
+      "marketCap": 10494.6
+    },
+    "SFR": {
+      "close": 22.77,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/SFR.AX/",
+      "marketCap": 10463.5
+    },
+    "XRO": {
+      "close": 58.2,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/XRO.AX/",
+      "marketCap": 10418.1
     },
     "SGP": {
       "close": 4.2,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SGP.AX/"
+      "url": "https://au.finance.yahoo.com/quote/SGP.AX/",
+      "marketCap": 10188.6
     },
     "SHL": {
       "close": 19.01,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SHL.AX/"
-    },
-    "COH": {
-      "close": 140.69,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/COH.AX/"
+      "url": "https://au.finance.yahoo.com/quote/SHL.AX/",
+      "marketCap": 9454.8
     },
     "MIN": {
       "close": 54.74,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/MIN.AX/"
+      "url": "https://au.finance.yahoo.com/quote/MIN.AX/",
+      "marketCap": 10742.9
     },
-    "PME": {
-      "close": 161.31,
+    "COH": {
+      "close": 140.69,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/PME.AX/"
+      "url": "https://au.finance.yahoo.com/quote/COH.AX/",
+      "marketCap": 9226.5
     },
     "VCX": {
       "close": 2.3,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/VCX.AX/"
+      "url": "https://au.finance.yahoo.com/quote/VCX.AX/",
+      "marketCap": 10718.3
+    },
+    "PME": {
+      "close": 161.31,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/PME.AX/",
+      "marketCap": 17167.5
     },
     "CAR": {
       "close": 23.12,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/CAR.AX/"
-    },
-    "GMD": {
-      "close": 7.66,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/GMD.AX/"
-    },
-    "NXT": {
-      "close": 11.57,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/NXT.AX/"
-    },
-    "LNW": {
-      "close": 112.98,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/LNW.AX/"
+      "url": "https://au.finance.yahoo.com/quote/CAR.AX/",
+      "marketCap": 8930.9
     },
     "PRU": {
       "close": 6.84,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/PRU.AX/"
+      "url": "https://au.finance.yahoo.com/quote/PRU.AX/",
+      "marketCap": 8838.7
     },
-    "GPT": {
-      "close": 4.55,
+    "GMD": {
+      "close": 7.66,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/GPT.AX/"
+      "url": "https://au.finance.yahoo.com/quote/GMD.AX/",
+      "marketCap": 8870.9
+    },
+    "LNW": {
+      "close": 112.98,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/LNW.AX/",
+      "marketCap": 8675.7
+    },
+    "NXT": {
+      "close": 11.57,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/NXT.AX/",
+      "marketCap": 8669.6
     },
     "CHC": {
       "close": 18.5,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/CHC.AX/"
+      "url": "https://au.finance.yahoo.com/quote/CHC.AX/",
+      "marketCap": 8636.9
+    },
+    "GPT": {
+      "close": 4.55,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/GPT.AX/",
+      "marketCap": 8639.3
     },
     "TNE": {
       "close": 29.03,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/TNE.AX/"
+      "url": "https://au.finance.yahoo.com/quote/TNE.AX/",
+      "marketCap": 9703.2
     },
     "AMC": {
       "close": 60.64,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/AMC.AX/"
+      "url": "https://au.finance.yahoo.com/quote/AMC.AX/",
+      "marketCap": 27347.7
     },
     "REA": {
       "close": 152.3,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/REA.AX/"
+      "url": "https://au.finance.yahoo.com/quote/REA.AX/",
+      "marketCap": 20567.2
     },
     "RMS": {
       "close": 4.01,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/RMS.AX/"
+      "url": "https://au.finance.yahoo.com/quote/RMS.AX/",
+      "marketCap": 7511.1
     },
     "SGH": {
       "close": 36.69,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SGH.AX/"
+      "url": "https://au.finance.yahoo.com/quote/SGH.AX/",
+      "marketCap": 14807.1
     },
     "JBH": {
       "close": 67.73,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/JBH.AX/"
+      "url": "https://au.finance.yahoo.com/quote/JBH.AX/",
+      "marketCap": 7312.3
     },
     "WTC": {
       "close": 32.34,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/WTC.AX/"
+      "url": "https://au.finance.yahoo.com/quote/WTC.AX/",
+      "marketCap": 10990.4
     },
     "MGR": {
       "close": 1.78,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/MGR.AX/"
+      "url": "https://au.finance.yahoo.com/quote/MGR.AX/",
+      "marketCap": 7003.9
     },
     "CMM": {
       "close": 15.63,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/CMM.AX/"
+      "url": "https://au.finance.yahoo.com/quote/CMM.AX/",
+      "marketCap": 7076.6
     },
     "FPH": {
       "close": 35.96,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/FPH.AX/"
-    },
-    "CDA": {
-      "close": 53.1,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/CDA.AX/"
-    },
-    "WHC": {
-      "close": 7.61,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/WHC.AX/"
+      "url": "https://au.finance.yahoo.com/quote/FPH.AX/",
+      "marketCap": 21294.7
     },
     "VAU": {
       "close": 6.4,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/VAU.AX/"
+      "url": "https://au.finance.yahoo.com/quote/VAU.AX/",
+      "marketCap": 6497.1
+    },
+    "CDA": {
+      "close": 53.1,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/CDA.AX/",
+      "marketCap": 9365.9
+    },
+    "WHC": {
+      "close": 7.61,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/WHC.AX/",
+      "marketCap": 6384.8
     },
     "SDF": {
       "close": 5.73,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SDF.AX/"
-    },
-    "DNL": {
-      "close": 4.03,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/DNL.AX/"
-    },
-    "AMP": {
-      "close": 2.62,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/AMP.AX/"
+      "url": "https://au.finance.yahoo.com/quote/SDF.AX/",
+      "marketCap": 6371.7
     },
     "AZJ": {
       "close": 3.69,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/AZJ.AX/"
+      "url": "https://au.finance.yahoo.com/quote/AZJ.AX/",
+      "marketCap": 6228.2
+    },
+    "DNL": {
+      "close": 4.03,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/DNL.AX/",
+      "marketCap": 6882.8
     },
     "BEN": {
       "close": 10.32,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/BEN.AX/"
+      "url": "https://au.finance.yahoo.com/quote/BEN.AX/",
+      "marketCap": 6047.8
+    },
+    "AMP": {
+      "close": 2.62,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/AMP.AX/",
+      "marketCap": 6125.8
     },
     "DXS": {
       "close": 5.56,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/DXS.AX/"
-    },
-    "RRL": {
-      "close": 7.96,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/RRL.AX/"
+      "url": "https://au.finance.yahoo.com/quote/DXS.AX/",
+      "marketCap": 5963.2
     },
     "ANN": {
       "close": 42.77,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ANN.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ANN.AX/",
+      "marketCap": 5961.9
+    },
+    "RRL": {
+      "close": 7.96,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/RRL.AX/",
+      "marketCap": 5925.4
     },
     "CWY": {
       "close": 2.68,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/CWY.AX/"
+      "url": "https://au.finance.yahoo.com/quote/CWY.AX/",
+      "marketCap": 5941
     },
     "GGP": {
       "close": 11.18,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/GGP.AX/"
+      "url": "https://au.finance.yahoo.com/quote/GGP.AX/",
+      "marketCap": 7286.4
     },
     "HUB": {
       "close": 69.82,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/HUB.AX/"
+      "url": "https://au.finance.yahoo.com/quote/HUB.AX/",
+      "marketCap": 5741.3
     },
     "CGF": {
       "close": 10.34,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/CGF.AX/"
+      "url": "https://au.finance.yahoo.com/quote/CGF.AX/",
+      "marketCap": 7033.3
     },
     "WGX": {
       "close": 5.65,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/WGX.AX/"
+      "url": "https://au.finance.yahoo.com/quote/WGX.AX/",
+      "marketCap": 5206.1
     },
     "AGL": {
       "close": 8.21,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/AGL.AX/"
+      "url": "https://au.finance.yahoo.com/quote/AGL.AX/",
+      "marketCap": 5556.9
     },
     "VNT": {
       "close": 6.09,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/VNT.AX/"
+      "url": "https://au.finance.yahoo.com/quote/VNT.AX/",
+      "marketCap": 4975.2
     },
     "TLX": {
       "close": 16.08,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/TLX.AX/"
+      "url": "https://au.finance.yahoo.com/quote/TLX.AX/",
+      "marketCap": 5706.8
     },
     "A2M": {
       "close": 6.57,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/A2M.AX/"
-    },
-    "IGO": {
-      "close": 6.94,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/IGO.AX/"
+      "url": "https://au.finance.yahoo.com/quote/A2M.AX/",
+      "marketCap": 4768.8
     },
     "PDN": {
       "close": 10.15,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/PDN.AX/"
+      "url": "https://au.finance.yahoo.com/quote/PDN.AX/",
+      "marketCap": 4623.9
+    },
+    "IGO": {
+      "close": 6.94,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/IGO.AX/",
+      "marketCap": 5141.8
     },
     "MP1": {
       "close": 19.91,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/MP1.AX/"
+      "url": "https://au.finance.yahoo.com/quote/MP1.AX/",
+      "marketCap": 4678.4
     },
     "EDV": {
       "close": 3.01,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/EDV.AX/"
+      "url": "https://au.finance.yahoo.com/quote/EDV.AX/",
+      "marketCap": 5297.4
     },
     "WOR": {
       "close": 9.77,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/WOR.AX/"
+      "url": "https://au.finance.yahoo.com/quote/WOR.AX/",
+      "marketCap": 4769.3
     },
     "DOW": {
       "close": 6.66,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/DOW.AX/"
+      "url": "https://au.finance.yahoo.com/quote/DOW.AX/",
+      "marketCap": 4395.6
     },
     "BOQ": {
       "close": 6.55,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/BOQ.AX/"
+      "url": "https://au.finance.yahoo.com/quote/BOQ.AX/",
+      "marketCap": 4393.9
     },
     "SEK": {
       "close": 11.91,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SEK.AX/"
-    },
-    "WAF": {
-      "close": 3.66,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/WAF.AX/"
+      "url": "https://au.finance.yahoo.com/quote/SEK.AX/",
+      "marketCap": 4335
     },
     "REH": {
       "close": 16.43,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/REH.AX/"
+      "url": "https://au.finance.yahoo.com/quote/REH.AX/",
+      "marketCap": 10044.5
+    },
+    "WAF": {
+      "close": 3.66,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/WAF.AX/",
+      "marketCap": 4121.8
     },
     "XYZ": {
       "close": 109.41,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/XYZ.AX/"
+      "url": "https://au.finance.yahoo.com/quote/XYZ.AX/",
+      "marketCap": 4229.7
     },
     "EMR": {
       "close": 7.12,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/EMR.AX/"
+      "url": "https://au.finance.yahoo.com/quote/EMR.AX/",
+      "marketCap": 4661.6
     },
     "PDI": {
       "close": 4.95,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/PDI.AX/"
+      "url": "https://au.finance.yahoo.com/quote/PDI.AX/",
+      "marketCap": 4752.4
     },
     "TWE": {
       "close": 5.41,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/TWE.AX/"
+      "url": "https://au.finance.yahoo.com/quote/TWE.AX/",
+      "marketCap": 4384.4
     },
     "SGM": {
       "close": 24.51,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SGM.AX/"
+      "url": "https://au.finance.yahoo.com/quote/SGM.AX/",
+      "marketCap": 4703.3
     },
     "AUB": {
       "close": 28.74,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/AUB.AX/"
+      "url": "https://au.finance.yahoo.com/quote/AUB.AX/",
+      "marketCap": 3801.6
     },
     "VEA": {
       "close": 3.16,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/VEA.AX/"
+      "url": "https://au.finance.yahoo.com/quote/VEA.AX/",
+      "marketCap": 5272.5
     },
     "NWH": {
       "close": 8.12,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/NWH.AX/"
+      "url": "https://au.finance.yahoo.com/quote/NWH.AX/",
+      "marketCap": 3726.3
     },
     "APE": {
       "close": 19.15,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/APE.AX/"
+      "url": "https://au.finance.yahoo.com/quote/APE.AX/",
+      "marketCap": 5504.5
     },
     "RWC": {
       "close": 4.59,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/RWC.AX/"
-    },
-    "MTS": {
-      "close": 2.84,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/MTS.AX/"
-    },
-    "MND": {
-      "close": 31.73,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/MND.AX/"
+      "url": "https://au.finance.yahoo.com/quote/RWC.AX/",
+      "marketCap": 3455.9
     },
     "NHF": {
       "close": 6.53,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/NHF.AX/"
+      "url": "https://au.finance.yahoo.com/quote/NHF.AX/",
+      "marketCap": 3236.6
+    },
+    "MND": {
+      "close": 31.73,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/MND.AX/",
+      "marketCap": 3192.6
+    },
+    "MTS": {
+      "close": 2.84,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/MTS.AX/",
+      "marketCap": 3123.2
     },
     "CSC": {
       "close": 14.71,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/CSC.AX/"
+      "url": "https://au.finance.yahoo.com/quote/CSC.AX/",
+      "marketCap": 14362.2
     },
     "NHC": {
       "close": 5.85,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/NHC.AX/"
+      "url": "https://au.finance.yahoo.com/quote/NHC.AX/",
+      "marketCap": 5054.2
     },
     "BRG": {
       "close": 29.93,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/BRG.AX/"
+      "url": "https://au.finance.yahoo.com/quote/BRG.AX/",
+      "marketCap": 4285.7
     },
     "TPG": {
       "close": 3.85,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/TPG.AX/"
+      "url": "https://au.finance.yahoo.com/quote/TPG.AX/",
+      "marketCap": 7577.3
     },
     "CNU": {
       "close": 6.79,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/CNU.AX/"
+      "url": "https://au.finance.yahoo.com/quote/CNU.AX/",
+      "marketCap": 2950.4
     },
     "ZIP": {
       "close": 2.24,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ZIP.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ZIP.AX/",
+      "marketCap": 2790.9
     },
     "PNI": {
       "close": 13.68,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/PNI.AX/"
+      "url": "https://au.finance.yahoo.com/quote/PNI.AX/",
+      "marketCap": 3337.3
     },
     "DBI": {
       "close": 5.47,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/DBI.AX/"
+      "url": "https://au.finance.yahoo.com/quote/DBI.AX/",
+      "marketCap": 2692
     },
     "ILU": {
       "close": 6.15,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ILU.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ILU.AX/",
+      "marketCap": 2630.3
     },
     "NEU": {
       "close": 20.61,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/NEU.AX/"
+      "url": "https://au.finance.yahoo.com/quote/NEU.AX/",
+      "marketCap": 2650.8
     },
     "RGN": {
       "close": 2.24,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/RGN.AX/"
+      "url": "https://au.finance.yahoo.com/quote/RGN.AX/",
+      "marketCap": 2562.7
     },
     "RSG": {
       "close": 1.23,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/RSG.AX/"
+      "url": "https://au.finance.yahoo.com/quote/RSG.AX/",
+      "marketCap": 2532.8
     },
     "SRG": {
       "close": 4.02,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SRG.AX/"
+      "url": "https://au.finance.yahoo.com/quote/SRG.AX/",
+      "marketCap": 2558.8
     },
     "NWL": {
       "close": 18.86,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/NWL.AX/"
+      "url": "https://au.finance.yahoo.com/quote/NWL.AX/",
+      "marketCap": 4709.2
     },
     "AIA": {
       "close": 6.71,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/AIA.AX/"
+      "url": "https://au.finance.yahoo.com/quote/AIA.AX/",
+      "marketCap": 11423.8
     },
     "BGL": {
       "close": 1.64,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/BGL.AX/"
+      "url": "https://au.finance.yahoo.com/quote/BGL.AX/",
+      "marketCap": 2423.7
     },
     "LTR": {
       "close": 1.05,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/LTR.AX/"
+      "url": "https://au.finance.yahoo.com/quote/LTR.AX/",
+      "marketCap": 3255.8
     },
     "YAL": {
       "close": 5.68,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/YAL.AX/"
-    },
-    "AAI": {
-      "close": 62.76,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/AAI.AX/"
-    },
-    "OBM": {
-      "close": 1.56,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/OBM.AX/"
-    },
-    "EOS": {
-      "close": 10.54,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/EOS.AX/"
+      "url": "https://au.finance.yahoo.com/quote/YAL.AX/",
+      "marketCap": 7605.7
     },
     "ALK": {
       "close": 1.995,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ALK.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ALK.AX/",
+      "marketCap": 2664.1
+    },
+    "AAI": {
+      "close": 62.76,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/AAI.AX/",
+      "marketCap": 16497.6
+    },
+    "OBM": {
+      "close": 1.56,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/OBM.AX/",
+      "marketCap": 2942.4
+    },
+    "EOS": {
+      "close": 10.54,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/EOS.AX/",
+      "marketCap": 2509.7
     },
     "HVN": {
       "close": 4.18,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/HVN.AX/"
+      "url": "https://au.finance.yahoo.com/quote/HVN.AX/",
+      "marketCap": 5158.5
     },
     "BWP": {
       "close": 3.59,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/BWP.AX/"
+      "url": "https://au.finance.yahoo.com/quote/BWP.AX/",
+      "marketCap": 2819.8
     },
     "CLW": {
       "close": 3.39,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/CLW.AX/"
+      "url": "https://au.finance.yahoo.com/quote/CLW.AX/",
+      "marketCap": 2448.8
     },
     "TAH": {
       "close": 0.935,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/TAH.AX/"
+      "url": "https://au.finance.yahoo.com/quote/TAH.AX/",
+      "marketCap": 2168.2
     },
     "SRL": {
       "close": 21.65,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SRL.AX/"
-    },
-    "PRN": {
-      "close": 2.25,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/PRN.AX/"
+      "url": "https://au.finance.yahoo.com/quote/SRL.AX/",
+      "marketCap": 3471.2
     },
     "4DX": {
       "close": 4.08,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/4DX.AX/"
+      "url": "https://au.finance.yahoo.com/quote/4DX.AX/",
+      "marketCap": 2400.3
+    },
+    "PRN": {
+      "close": 2.25,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/PRN.AX/",
+      "marketCap": 2081.2
     },
     "HDN": {
       "close": 1.095,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/HDN.AX/"
+      "url": "https://au.finance.yahoo.com/quote/HDN.AX/",
+      "marketCap": 2301.4
     },
     "ALX": {
       "close": 4.16,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ALX.AX/"
-    },
-    "SUL": {
-      "close": 12.43,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SUL.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ALX.AX/",
+      "marketCap": 6468
     },
     "MSB": {
       "close": 2.18,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/MSB.AX/"
+      "url": "https://au.finance.yahoo.com/quote/MSB.AX/",
+      "marketCap": 2805.3
+    },
+    "SUL": {
+      "close": 12.43,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/SUL.AX/",
+      "marketCap": 2779.9
     },
     "NIC": {
       "close": 0.845,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/NIC.AX/"
+      "url": "https://au.finance.yahoo.com/quote/NIC.AX/",
+      "marketCap": 3538.7
     },
     "INA": {
       "close": 4.58,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/INA.AX/"
+      "url": "https://au.finance.yahoo.com/quote/INA.AX/",
+      "marketCap": 1874.9
     },
     "MI6": {
       "close": 0.945,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/MI6.AX/"
+      "url": "https://au.finance.yahoo.com/quote/MI6.AX/",
+      "marketCap": 2033.4
     },
     "CQR": {
       "close": 3.69,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/CQR.AX/"
+      "url": "https://au.finance.yahoo.com/quote/CQR.AX/",
+      "marketCap": 2138.9
     },
     "NWS": {
       "close": 45.4,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/NWS.AX/"
+      "url": "https://au.finance.yahoo.com/quote/NWS.AX/",
+      "marketCap": 24986.5
     },
     "DRR": {
       "close": 4.17,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/DRR.AX/"
-    },
-    "ORA": {
-      "close": 1.41,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ORA.AX/"
-    },
-    "PPT": {
-      "close": 17.03,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/PPT.AX/"
-    },
-    "LLC": {
-      "close": 2.47,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/LLC.AX/"
+      "url": "https://au.finance.yahoo.com/quote/DRR.AX/",
+      "marketCap": 2197.5
     },
     "DTL": {
       "close": 11.05,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/DTL.AX/"
+      "url": "https://au.finance.yahoo.com/quote/DTL.AX/",
+      "marketCap": 1764.4
+    },
+    "PPT": {
+      "close": 17.03,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/PPT.AX/",
+      "marketCap": 1923.9
+    },
+    "ORA": {
+      "close": 1.41,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/ORA.AX/",
+      "marketCap": 1732
+    },
+    "LLC": {
+      "close": 2.47,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/LLC.AX/",
+      "marketCap": 1721.6
     },
     "NXG": {
       "close": 13.89,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/NXG.AX/"
+      "url": "https://au.finance.yahoo.com/quote/NXG.AX/",
+      "marketCap": 9339.5
     },
     "IMD": {
       "close": 3.38,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/IMD.AX/"
+      "url": "https://au.finance.yahoo.com/quote/IMD.AX/",
+      "marketCap": 1727.3
     },
     "FLT": {
       "close": 10.51,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/FLT.AX/"
+      "url": "https://au.finance.yahoo.com/quote/FLT.AX/",
+      "marketCap": 2119.5
     },
     "MFG": {
       "close": 8.34,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/MFG.AX/"
+      "url": "https://au.finance.yahoo.com/quote/MFG.AX/",
+      "marketCap": 2443.3
     },
     "SIQ": {
       "close": 11.65,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SIQ.AX/"
+      "url": "https://au.finance.yahoo.com/quote/SIQ.AX/",
+      "marketCap": 1626
     },
     "LOV": {
       "close": 24.52,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/LOV.AX/"
+      "url": "https://au.finance.yahoo.com/quote/LOV.AX/",
+      "marketCap": 2698.7
     },
     "IFT": {
       "close": 11.61,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/IFT.AX/"
+      "url": "https://au.finance.yahoo.com/quote/IFT.AX/",
+      "marketCap": 11514.2
     },
     "BGA": {
       "close": 6.01,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/BGA.AX/"
+      "url": "https://au.finance.yahoo.com/quote/BGA.AX/",
+      "marketCap": 1845.7
     },
     "DRO": {
       "close": 1.615,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/DRO.AX/"
+      "url": "https://au.finance.yahoo.com/quote/DRO.AX/",
+      "marketCap": 1535.9
     },
     "SSM": {
       "close": 2.49,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SSM.AX/"
+      "url": "https://au.finance.yahoo.com/quote/SSM.AX/",
+      "marketCap": 1558.4
     },
     "CYL": {
       "close": 6.16,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/CYL.AX/"
+      "url": "https://au.finance.yahoo.com/quote/CYL.AX/",
+      "marketCap": 1524
     },
     "CIP": {
       "close": 2.84,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/CIP.AX/"
+      "url": "https://au.finance.yahoo.com/quote/CIP.AX/",
+      "marketCap": 1773.3
     },
     "HLI": {
       "close": 5.44,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/HLI.AX/"
-    },
-    "FBU": {
-      "close": 2.89,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/FBU.AX/"
+      "url": "https://au.finance.yahoo.com/quote/HLI.AX/",
+      "marketCap": 1479.7
     },
     "WPR": {
       "close": 2.21,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/WPR.AX/"
+      "url": "https://au.finance.yahoo.com/quote/WPR.AX/",
+      "marketCap": 1443.3
+    },
+    "FBU": {
+      "close": 2.89,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/FBU.AX/",
+      "marketCap": 3129.9
     },
     "KCN": {
       "close": 5.42,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/KCN.AX/"
-    },
-    "BPT": {
-      "close": 0.835,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/BPT.AX/"
+      "url": "https://au.finance.yahoo.com/quote/KCN.AX/",
+      "marketCap": 1414.6
     },
     "ARB": {
       "close": 18.25,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ARB.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ARB.AX/",
+      "marketCap": 1510.1
+    },
+    "BPT": {
+      "close": 0.835,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/BPT.AX/",
+      "marketCap": 1973.4
     },
     "ASB": {
       "close": 4.51,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ASB.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ASB.AX/",
+      "marketCap": 1920.4
     },
     "ELD": {
       "close": 6.41,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ELD.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ELD.AX/",
+      "marketCap": 1378.6
     },
     "SLC": {
       "close": 2.62,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SLC.AX/"
+      "url": "https://au.finance.yahoo.com/quote/SLC.AX/",
+      "marketCap": 1391
     },
     "CIA": {
       "close": 3.18,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/CIA.AX/"
+      "url": "https://au.finance.yahoo.com/quote/CIA.AX/",
+      "marketCap": 1786.5
     },
     "DVP": {
       "close": 5.21,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/DVP.AX/"
+      "url": "https://au.finance.yahoo.com/quote/DVP.AX/",
+      "marketCap": 1715.9
     },
     "DYL": {
       "close": 1.35,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/DYL.AX/"
-    },
-    "FFM": {
-      "close": 1.8,
-      "date": "2026-09-23",
-      "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/FFM.AX/"
+      "url": "https://au.finance.yahoo.com/quote/DYL.AX/",
+      "marketCap": 1349.3
     },
     "DMP": {
       "close": 19.34,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/DMP.AX/"
+      "url": "https://au.finance.yahoo.com/quote/DMP.AX/",
+      "marketCap": 1788.8
     },
     "CNI": {
       "close": 1.27,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/CNI.AX/"
+      "url": "https://au.finance.yahoo.com/quote/CNI.AX/",
+      "marketCap": 1294.5
     },
     "KAR": {
       "close": 1.74,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/KAR.AX/"
+      "url": "https://au.finance.yahoo.com/quote/KAR.AX/",
+      "marketCap": 1259.2
+    },
+    "FFM": {
+      "close": 1.8,
+      "date": "2026-09-23",
+      "currency": "AUD",
+      "url": "https://au.finance.yahoo.com/quote/FFM.AX/",
+      "marketCap": 1544
     },
     "ABB": {
       "close": 4.17,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ABB.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ABB.AX/",
+      "marketCap": 1327.6
     },
     "NCK": {
       "close": 14.4,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/NCK.AX/"
+      "url": "https://au.finance.yahoo.com/quote/NCK.AX/",
+      "marketCap": 1219.7
     },
     "JDO": {
       "close": 0.96,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/JDO.AX/"
+      "url": "https://au.finance.yahoo.com/quote/JDO.AX/",
+      "marketCap": 1116.7
     },
     "ELV": {
       "close": 6.33,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ELV.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ELV.AX/",
+      "marketCap": 1195.1
     },
     "SLX": {
       "close": 4.51,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/SLX.AX/"
+      "url": "https://au.finance.yahoo.com/quote/SLX.AX/",
+      "marketCap": 1299.1
     },
     "PMV": {
       "close": 11.16,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/PMV.AX/"
+      "url": "https://au.finance.yahoo.com/quote/PMV.AX/",
+      "marketCap": 1788.8
     },
     "IRE": {
       "close": 5.42,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/IRE.AX/"
+      "url": "https://au.finance.yahoo.com/quote/IRE.AX/",
+      "marketCap": 1031.1
     },
     "ELS": {
       "close": 4.88,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ELS.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ELS.AX/",
+      "marketCap": 1044
     },
     "GDG": {
       "close": 2.98,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/GDG.AX/"
+      "url": "https://au.finance.yahoo.com/quote/GDG.AX/",
+      "marketCap": 1207.8
     },
     "PXA": {
       "close": 6.79,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/PXA.AX/"
+      "url": "https://au.finance.yahoo.com/quote/PXA.AX/",
+      "marketCap": 1212.2
     },
     "IPX": {
       "close": 2.93,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/IPX.AX/"
+      "url": "https://au.finance.yahoo.com/quote/IPX.AX/",
+      "marketCap": 1097.6
     },
     "NEC": {
       "close": 0.725,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/NEC.AX/"
+      "url": "https://au.finance.yahoo.com/quote/NEC.AX/",
+      "marketCap": 1165.5
     },
     "VUL": {
       "close": 2.18,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/VUL.AX/"
+      "url": "https://au.finance.yahoo.com/quote/VUL.AX/",
+      "marketCap": 1033.9
     },
     "ARF": {
       "close": 2.15,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/ARF.AX/"
+      "url": "https://au.finance.yahoo.com/quote/ARF.AX/",
+      "marketCap": 869.7
     },
     "WBT": {
       "close": 3.62,
       "date": "2026-09-23",
       "currency": "AUD",
-      "url": "https://au.finance.yahoo.com/quote/WBT.AX/"
+      "url": "https://au.finance.yahoo.com/quote/WBT.AX/",
+      "marketCap": 847.4
     }
   }
 }

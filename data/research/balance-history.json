@@ -1,0 +1,6468 @@
+{
+  "generatedAt": "2026-09-23T14:37:22.500Z",
+  "source": "Yahoo Finance reported balance sheets",
+  "history": {
+    "360": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 311.475,
+        "equity": 613.431,
+        "cash": 464.984
+      },
+      {
+        "date": "2026-03-31",
+        "currency": "USD",
+        "debt": 310.93,
+        "equity": 597.63,
+        "cash": 457.295
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 310.386,
+        "equity": 548.182,
+        "cash": 494.261
+      },
+      {
+        "date": "2025-09-30",
+        "currency": "USD",
+        "debt": 309.909,
+        "equity": 391.447,
+        "cash": 455.733
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 309.463,
+        "equity": 366.658,
+        "cash": 432.71
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 0.359,
+        "equity": 358.545,
+        "cash": 159.238
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "USD",
+        "debt": 5.228,
+        "equity": 247.064,
+        "cash": 68.964
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "USD",
+        "debt": 8.386,
+        "equity": 244.538,
+        "cash": 75.444
+      }
+    ],
+    "CBA": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 218869,
+        "equity": 78704,
+        "cash": null
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 207438,
+        "equity": 77232,
+        "cash": null
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 216232,
+        "equity": 78776,
+        "cash": null
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 203847,
+        "equity": 75264,
+        "cash": null
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 186685,
+        "equity": 73088,
+        "cash": null
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 161553,
+        "equity": 71628,
+        "cash": null
+      }
+    ],
+    "NAB": [
+      {
+        "date": "2026-03-31",
+        "currency": "AUD",
+        "debt": 212154,
+        "equity": 60561,
+        "cash": null
+      },
+      {
+        "date": "2025-03-31",
+        "currency": "AUD",
+        "debt": 211550,
+        "equity": 62169,
+        "cash": null
+      },
+      {
+        "date": "2024-09-30",
+        "currency": "AUD",
+        "debt": 214292,
+        "equity": 61455,
+        "cash": null
+      },
+      {
+        "date": "2023-09-30",
+        "currency": "AUD",
+        "debt": 197792,
+        "equity": 61154,
+        "cash": null
+      },
+      {
+        "date": "2022-09-30",
+        "currency": "AUD",
+        "debt": 191725,
+        "equity": 59032,
+        "cash": null
+      },
+      {
+        "date": "2021-09-30",
+        "currency": "AUD",
+        "debt": 172164,
+        "equity": 62779,
+        "cash": null
+      }
+    ],
+    "WBC": [
+      {
+        "date": "2026-03-31",
+        "currency": "AUD",
+        "debt": 225709,
+        "equity": 70761,
+        "cash": null
+      },
+      {
+        "date": "2025-03-31",
+        "currency": "AUD",
+        "debt": 212567,
+        "equity": 72015,
+        "cash": null
+      },
+      {
+        "date": "2024-09-30",
+        "currency": "AUD",
+        "debt": 207167,
+        "equity": 71705,
+        "cash": null
+      },
+      {
+        "date": "2023-09-30",
+        "currency": "AUD",
+        "debt": 189749,
+        "equity": 72495,
+        "cash": null
+      },
+      {
+        "date": "2022-09-30",
+        "currency": "AUD",
+        "debt": 176122,
+        "equity": 70452,
+        "cash": null
+      },
+      {
+        "date": "2021-09-30",
+        "currency": "AUD",
+        "debt": 157846,
+        "equity": 72035,
+        "cash": null
+      }
+    ],
+    "BHP": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 27121,
+        "equity": 49420,
+        "cash": 18602
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 28021,
+        "equity": 50407,
+        "cash": 13815
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 24496,
+        "equity": 46228,
+        "cash": 12042
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 20195,
+        "equity": 45516,
+        "cash": 9858
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "USD",
+        "debt": 20718,
+        "equity": 43374,
+        "cash": 12647
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "USD",
+        "debt": 22345,
+        "equity": 43055,
+        "cash": 12362
+      }
+    ],
+    "WES": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 12716,
+        "equity": 7977,
+        "cash": 530
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 11168,
+        "equity": 9189,
+        "cash": 638
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 11278,
+        "equity": 8585,
+        "cash": 835
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 11169,
+        "equity": 8281,
+        "cash": 673
+      }
+    ],
+    "CSL": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 10896,
+        "equity": 14797.0000000001,
+        "cash": 1513
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 11498,
+        "equity": 19335.0000000001,
+        "cash": 2157
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 11964,
+        "equity": 18559,
+        "cash": 1524
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "USD",
+        "debt": 12183,
+        "equity": 17363,
+        "cash": 1657
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "USD",
+        "debt": 12227,
+        "equity": 15786,
+        "cash": 1548
+      }
+    ],
+    "MQG": [
+      {
+        "date": "2026-03-31",
+        "currency": "AUD",
+        "debt": 340755,
+        "equity": 36068,
+        "cash": 94794
+      },
+      {
+        "date": "2025-03-31",
+        "currency": "AUD",
+        "debt": 330185,
+        "equity": 35356,
+        "cash": 88041
+      },
+      {
+        "date": "2024-03-31",
+        "currency": "AUD",
+        "debt": 269212,
+        "equity": 33481,
+        "cash": 83896
+      },
+      {
+        "date": "2023-03-31",
+        "currency": "AUD",
+        "debt": 244877,
+        "equity": 33155,
+        "cash": 87793
+      }
+    ],
+    "ANZ": [
+      {
+        "date": "2026-03-31",
+        "currency": "AUD",
+        "debt": 212618,
+        "equity": 71053,
+        "cash": null
+      },
+      {
+        "date": "2025-09-30",
+        "currency": "AUD",
+        "debt": 219824,
+        "equity": 71128,
+        "cash": null
+      },
+      {
+        "date": "2025-03-31",
+        "currency": "AUD",
+        "debt": 231511,
+        "equity": 71567,
+        "cash": null
+      },
+      {
+        "date": "2024-09-30",
+        "currency": "AUD",
+        "debt": 205087,
+        "equity": 69857,
+        "cash": null
+      },
+      {
+        "date": "2023-09-30",
+        "currency": "AUD",
+        "debt": 150076,
+        "equity": 69495,
+        "cash": null
+      },
+      {
+        "date": "2022-09-30",
+        "currency": "AUD",
+        "debt": 133996,
+        "equity": 65907,
+        "cash": null
+      }
+    ],
+    "GMG": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 6091,
+        "equity": 24948.2,
+        "cash": 4081.5
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 5275,
+        "equity": 23310.1,
+        "cash": 3957.1
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 3723,
+        "equity": 17537.9,
+        "cash": 1785.3
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 3360.6,
+        "equity": 18024.8,
+        "cash": 1360.1
+      }
+    ],
+    "WDS": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 13672,
+        "equity": 36051,
+        "cash": 4458
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 13722,
+        "equity": 35914,
+        "cash": 5941
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 13555,
+        "equity": 35639,
+        "cash": 5154
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 11620,
+        "equity": 35399,
+        "cash": 4108
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "USD",
+        "debt": 6498,
+        "equity": 34399,
+        "cash": 1949
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "USD",
+        "debt": 6772,
+        "equity": 36336,
+        "cash": 6866
+      }
+    ],
+    "RIO": [
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 23517,
+        "equity": 62203,
+        "cash": 7452
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 23640,
+        "equity": 58203,
+        "cash": 9334
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 13855,
+        "equity": 55246,
+        "cash": 7200
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "USD",
+        "debt": 14352,
+        "equity": 54586,
+        "cash": 9776
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "USD",
+        "debt": 12271,
+        "equity": 50634,
+        "cash": 7940
+      }
+    ],
+    "TLS": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 18603,
+        "equity": 12580,
+        "cash": 1103
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 17995,
+        "equity": 13899,
+        "cash": 1012
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 16968,
+        "equity": 14922,
+        "cash": 1046
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 15866,
+        "equity": 15407,
+        "cash": 932
+      }
+    ],
+    "QBE": [
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 3930,
+        "equity": 11673,
+        "cash": 1869
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 2895,
+        "equity": 10731,
+        "cash": 1638
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "USD",
+        "debt": 3087,
+        "equity": 9953.0000000001,
+        "cash": 1366
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "USD",
+        "debt": 3045,
+        "equity": 8992,
+        "cash": 833
+      }
+    ],
+    "TCL": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 20640,
+        "equity": 7723,
+        "cash": 2060
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 21072,
+        "equity": 9171,
+        "cash": 1727
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 19727,
+        "equity": 11039,
+        "cash": 2041
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 18558,
+        "equity": 12574,
+        "cash": 2081
+      }
+    ],
+    "WOW": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 16477,
+        "equity": 4795,
+        "cash": 1497
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 17385,
+        "equity": 4860,
+        "cash": 1275
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 16722,
+        "equity": 5408,
+        "cash": 1298
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 15735,
+        "equity": 6425,
+        "cash": 1135
+      }
+    ],
+    "ALL": [
+      {
+        "date": "2025-09-30",
+        "currency": "AUD",
+        "debt": 2030.2,
+        "equity": 6557.2,
+        "cash": 1291.4
+      },
+      {
+        "date": "2024-09-30",
+        "currency": "AUD",
+        "debt": 2407.7,
+        "equity": 6279.9,
+        "cash": 959.1
+      },
+      {
+        "date": "2023-09-30",
+        "currency": "AUD",
+        "debt": 2681.9,
+        "equity": 6726.1,
+        "cash": 3186.8
+      },
+      {
+        "date": "2022-09-30",
+        "currency": "AUD",
+        "debt": 2785.1,
+        "equity": 6022.7,
+        "cash": 3044.7
+      }
+    ],
+    "FMG": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 5931,
+        "equity": 20283,
+        "cash": 5074
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 5439,
+        "equity": 19983.9999999999,
+        "cash": 4328
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "USD",
+        "debt": 5400,
+        "equity": 19552,
+        "cash": 4903
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "USD",
+        "debt": 5321,
+        "equity": 17989,
+        "cash": 4287
+      }
+    ],
+    "NST": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1724.7,
+        "equity": 15681.9,
+        "cash": 1018.1
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1710.2,
+        "equity": 14917.2,
+        "cash": 1690.2
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1344.3,
+        "equity": 8790.9,
+        "cash": 1119.6
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1322.1,
+        "equity": 8483.5,
+        "cash": 1133.3
+      }
+    ],
+    "EVN": [
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 2019.074,
+        "equity": 4142.196,
+        "cash": 403.303
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1821.265,
+        "equity": 3294.876,
+        "cash": 46.146
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 1859.794,
+        "equity": 3253.976,
+        "cash": 572.427
+      }
+    ],
+    "COL": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 9892,
+        "equity": 3946,
+        "cash": 568
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 10327,
+        "equity": 3806,
+        "cash": 705
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 10069,
+        "equity": 3617,
+        "cash": 675
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 8967,
+        "equity": 3356,
+        "cash": 597
+      }
+    ],
+    "STO": [
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 7540,
+        "equity": 15665,
+        "cash": 1734
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 6688,
+        "equity": 15537,
+        "cash": 1860
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "USD",
+        "debt": 6159,
+        "equity": 15275,
+        "cash": 2279
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "USD",
+        "debt": 5519,
+        "equity": 14843,
+        "cash": 2461
+      }
+    ],
+    "CPU": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 1355.8,
+        "equity": 2284.8,
+        "cash": 1198.5
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 1651.5,
+        "equity": 2245.2,
+        "cash": 1230.6
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 1921.2,
+        "equity": 2139,
+        "cash": 1378.4
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 1741.284,
+        "equity": 1919.413,
+        "cash": 1235.979
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "USD",
+        "debt": 1785.752,
+        "equity": 1947.477,
+        "cash": 1302.561
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "USD",
+        "debt": 2534.014,
+        "equity": 2139.94,
+        "cash": 1244.691
+      }
+    ],
+    "BXB": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 3028.8,
+        "equity": 3232.2,
+        "cash": 76.8
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "USD",
+        "debt": 2641,
+        "equity": 3227.1,
+        "cash": 112.9
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "USD",
+        "debt": 2884.3,
+        "equity": 2870,
+        "cash": 160.7
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "USD",
+        "debt": 2875.5,
+        "equity": 2451.1,
+        "cash": 158.2
+      }
+    ],
+    "S32": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 1851,
+        "equity": 9700,
+        "cash": 2129
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 1689,
+        "equity": 9244,
+        "cash": 1664
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 1634,
+        "equity": 8845,
+        "cash": 1676
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 1647,
+        "equity": 9165,
+        "cash": 1611
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "USD",
+        "debt": 1566,
+        "equity": 8960,
+        "cash": 840
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "USD",
+        "debt": 1741,
+        "equity": 9376,
+        "cash": 1252
+      }
+    ],
+    "ORG": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 4986,
+        "equity": 10135,
+        "cash": 1004
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 4842,
+        "equity": 9920,
+        "cash": 1015
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 3378,
+        "equity": 9489,
+        "cash": 1379
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 3258,
+        "equity": 8891,
+        "cash": 930
+      }
+    ],
+    "SUN": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 2659,
+        "equity": 10362,
+        "cash": 21999
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 2528,
+        "equity": 10576,
+        "cash": 22284
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 2525,
+        "equity": 13844,
+        "cash": 18032
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 26674,
+        "equity": 13314,
+        "cash": 6126
+      }
+    ],
+    "IAG": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 3243,
+        "equity": 7232,
+        "cash": 623
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 2.519,
+        "equity": 153.52,
+        "cash": 1.506
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 2937,
+        "equity": 6660,
+        "cash": 631
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 2636,
+        "equity": 6650,
+        "cash": 474
+      }
+    ],
+    "RMD": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 825.919,
+        "equity": 6585.393,
+        "cash": 1469.234
+      },
+      {
+        "date": "2026-03-31",
+        "currency": "USD",
+        "debt": 843.169,
+        "equity": 6491.911,
+        "cash": 1660.513
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 847.721,
+        "equity": 6320.879,
+        "cash": 1417.069
+      },
+      {
+        "date": "2025-09-30",
+        "currency": "USD",
+        "debt": 846.352,
+        "equity": 6121.264,
+        "cash": 1383.848
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 851.813,
+        "equity": 5967.859,
+        "cash": 1209.45
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "USD",
+        "debt": 873.935,
+        "equity": 4864.043,
+        "cash": 238.361
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "USD",
+        "debt": 1579.908,
+        "equity": 4129.903,
+        "cash": 227.891
+      }
+    ],
+    "APA": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 14153,
+        "equity": 2063,
+        "cash": 1636
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 14019,
+        "equity": 1920,
+        "cash": 800
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 12992,
+        "equity": 3248,
+        "cash": 676
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 11586,
+        "equity": 1343,
+        "cash": 513
+      }
+    ],
+    "SOL": [
+      {
+        "date": "2025-07-31",
+        "currency": "AUD",
+        "debt": 1010.1,
+        "equity": 9405.6,
+        "cash": 1160.1
+      },
+      {
+        "date": "2024-07-31",
+        "currency": "AUD",
+        "debt": 765.9,
+        "equity": 8989.2,
+        "cash": 261.2
+      },
+      {
+        "date": "2023-07-31",
+        "currency": "AUD",
+        "debt": 784.414,
+        "equity": 8721.872,
+        "cash": 1328.959
+      },
+      {
+        "date": "2022-07-31",
+        "currency": "AUD",
+        "debt": 855.48,
+        "equity": 8448.387,
+        "cash": 1652.301
+      }
+    ],
+    "SCG": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 15028.7,
+        "equity": 18885,
+        "cash": 529.4
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 16774.4,
+        "equity": 18189.4,
+        "cash": 380.6
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 15710.6,
+        "equity": 17841.3,
+        "cash": 296.4
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 15874.1,
+        "equity": 18530.6,
+        "cash": 679
+      }
+    ],
+    "SIG": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 2020.548,
+        "equity": 4995.695,
+        "cash": 131.124
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 2070.756,
+        "equity": 4670.539,
+        "cash": 138.774
+      },
+      {
+        "date": "2025-01-31",
+        "currency": "AUD",
+        "debt": 132.086,
+        "equity": 837.86,
+        "cash": 14.574
+      },
+      {
+        "date": "2024-01-31",
+        "currency": "AUD",
+        "debt": 136.631,
+        "equity": 870.77,
+        "cash": 356.496
+      }
+    ],
+    "LYC": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 338.336,
+        "equity": 3490.391,
+        "cash": 1209.099
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 202.046,
+        "equity": 2352.705,
+        "cash": 166.49
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 183.978,
+        "equity": 2242.805,
+        "cash": 523.838
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 190.62,
+        "equity": 2163.404,
+        "cash": 1011.212
+      }
+    ],
+    "PLS": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1232.209,
+        "equity": 4077.938,
+        "cash": 2289.977
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 682.211,
+        "equity": 3531.404,
+        "cash": 974.536
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 555.743,
+        "equity": 3244.169,
+        "cash": 1626.476
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 471.949,
+        "equity": 3390.022,
+        "cash": 3338.553
+      }
+    ],
+    "QAN": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 10352,
+        "equity": 1499,
+        "cash": 3586
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 7956,
+        "equity": 778,
+        "cash": 2363
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 6591,
+        "equity": 289,
+        "cash": 1979
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 6726,
+        "equity": 5,
+        "cash": 3393
+      }
+    ],
+    "BSL": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1767,
+        "equity": 10310.5,
+        "cash": 1167
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 886,
+        "equity": 10666.5,
+        "cash": 857.6
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 721.5,
+        "equity": 10721.4,
+        "cash": 1085.5
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 786.5,
+        "equity": 10467.4,
+        "cash": 1489.8
+      }
+    ],
+    "JHX": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 4522,
+        "equity": 6540.6,
+        "cash": 289.9
+      },
+      {
+        "date": "2026-03-31",
+        "currency": "USD",
+        "debt": 4785.7,
+        "equity": 6425.5,
+        "cash": 269.2
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 4862,
+        "equity": 6396.7,
+        "cash": 344.2
+      },
+      {
+        "date": "2025-09-30",
+        "currency": "USD",
+        "debt": 5243.6,
+        "equity": 6322.1,
+        "cash": 566.7
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 2610,
+        "equity": 2256.3,
+        "cash": 391.6
+      },
+      {
+        "date": "2025-03-31",
+        "currency": "USD",
+        "debt": 1208,
+        "equity": 2161.5,
+        "cash": 562.7
+      },
+      {
+        "date": "2024-03-31",
+        "currency": "USD",
+        "debt": 1201,
+        "equity": 1858.9,
+        "cash": 365
+      },
+      {
+        "date": "2023-03-31",
+        "currency": "USD",
+        "debt": 1138.2,
+        "equity": 1611.4,
+        "cash": 113
+      }
+    ],
+    "MPL": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 273.9,
+        "equity": 2430.7,
+        "cash": 876.4
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 209,
+        "equity": 2335.9,
+        "cash": 873.9
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 218.3,
+        "equity": 2305.7,
+        "cash": 927.9
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": null,
+        "equity": 2084.4,
+        "cash": 695.1
+      }
+    ],
+    "ASX": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 490.2,
+        "equity": 3986.4,
+        "cash": 10646.7
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 310.9,
+        "equity": 3872.8,
+        "cash": 13903.8
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 334.3,
+        "equity": 3724.7,
+        "cash": 13416.7
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 78.6,
+        "equity": 3640.6,
+        "cash": 13511.3
+      }
+    ],
+    "NEM": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 5598,
+        "equity": 35243,
+        "cash": 9009
+      },
+      {
+        "date": "2026-03-31",
+        "currency": "USD",
+        "debt": 5532,
+        "equity": 34926,
+        "cash": 8779
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 5589,
+        "equity": 33867,
+        "cash": 8241
+      },
+      {
+        "date": "2025-09-30",
+        "currency": "USD",
+        "debt": 5651,
+        "equity": 33226,
+        "cash": 5967
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 7607,
+        "equity": 32112,
+        "cash": 6653
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 8972,
+        "equity": 29928,
+        "cash": 3640
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "USD",
+        "debt": 9436,
+        "equity": 29027,
+        "cash": 3025
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "USD",
+        "debt": 6132,
+        "equity": 19354,
+        "cash": 3757
+      }
+    ],
+    "ALQ": [
+      {
+        "date": "2026-03-31",
+        "currency": "AUD",
+        "debt": 1571.9,
+        "equity": 1699.8,
+        "cash": 149.7
+      },
+      {
+        "date": "2025-03-31",
+        "currency": "AUD",
+        "debt": 2093.1,
+        "equity": 1279.7,
+        "cash": 268
+      },
+      {
+        "date": "2024-03-31",
+        "currency": "AUD",
+        "debt": 1871.7,
+        "equity": 1183.3,
+        "cash": 299.9
+      },
+      {
+        "date": "2023-03-31",
+        "currency": "AUD",
+        "debt": 1448.2,
+        "equity": 1366.9,
+        "cash": 179.6
+      }
+    ],
+    "TLC": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 2495.1,
+        "equity": 264.1,
+        "cash": 571.2
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 2500.4,
+        "equity": 321.8,
+        "cash": 550.5
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 2479.7,
+        "equity": 328,
+        "cash": 504
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 4632,
+        "equity": 235.5,
+        "cash": 740.9
+      }
+    ],
+    "RHC": [
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 12119.9,
+        "equity": 5023.6,
+        "cash": 784.4
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 10938.1,
+        "equity": 4897.6,
+        "cash": 662.3
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 11886.3,
+        "equity": 4154.8,
+        "cash": 656.1
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 10698.7,
+        "equity": 3933.5,
+        "cash": 314.2
+      }
+    ],
+    "ALD": [
+      {
+        "date": "2025-12-31",
+        "currency": "NZD",
+        "debt": 4880.5745395574995,
+        "equity": 3517.2014363488,
+        "cash": 67.0682265725
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "NZD",
+        "debt": 4503.313452617601,
+        "equity": 3493.7044400265004,
+        "cash": 136.845593108
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "NZD",
+        "debt": 3978.6798750942003,
+        "equity": 3832.3462905136,
+        "cash": 323.6782599332
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "NZD",
+        "debt": 3871.4652956297,
+        "equity": 3890.3170522708,
+        "cash": 134.9614395887
+      }
+    ],
+    "ORI": [
+      {
+        "date": "2025-09-30",
+        "currency": "AUD",
+        "debt": 3004.8,
+        "equity": 4176.1,
+        "cash": 746.7
+      },
+      {
+        "date": "2024-09-30",
+        "currency": "AUD",
+        "debt": 2521,
+        "equity": 4459,
+        "cash": 580.7
+      },
+      {
+        "date": "2023-09-30",
+        "currency": "AUD",
+        "debt": 2372.2,
+        "equity": 3988.7,
+        "cash": 1152.1
+      },
+      {
+        "date": "2022-09-30",
+        "currency": "AUD",
+        "debt": 2407,
+        "equity": 3685.8,
+        "cash": 1255.3
+      }
+    ],
+    "SFR": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 36.432,
+        "equity": 2218.242,
+        "cash": 352.629
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 253.242,
+        "equity": 1786.995,
+        "cash": 110.668
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "USD",
+        "debt": 582.58,
+        "equity": 1671.394,
+        "cash": 183.337
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "USD",
+        "debt": 596.592,
+        "equity": 1736.2669999999,
+        "cash": 141.939
+      }
+    ],
+    "SGP": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 4895,
+        "equity": 10710,
+        "cash": 796
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 5179,
+        "equity": 10185,
+        "cash": 647
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 4730,
+        "equity": 9893,
+        "cash": 719
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 3907,
+        "equity": 10176,
+        "cash": 271
+      }
+    ],
+    "XRO": [
+      {
+        "date": "2026-03-31",
+        "currency": "AUD",
+        "debt": 1772.0046697799,
+        "equity": 4506.0548699132005,
+        "cash": 1612.8610740493
+      },
+      {
+        "date": "2025-03-31",
+        "currency": "AUD",
+        "debt": 1216.5367139221999,
+        "equity": 1995.3680479825,
+        "cash": 2117.7717193748
+      },
+      {
+        "date": "2024-03-31",
+        "currency": "AUD",
+        "debt": 1122.9428492798,
+        "equity": 1277.8157967159,
+        "cash": 1403.4217044308
+      },
+      {
+        "date": "2023-03-31",
+        "currency": "AUD",
+        "debt": 1070.1254329308,
+        "equity": 986.5262566695,
+        "cash": 1045.7614902180999
+      }
+    ],
+    "MIN": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 5829,
+        "equity": 4341,
+        "cash": 1595
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 5336,
+        "equity": 3545,
+        "cash": 908
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 3234.1,
+        "equity": 3475.1,
+        "cash": 1379.1
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 3125.7,
+        "equity": 3226.9,
+        "cash": 2428.2
+      }
+    ],
+    "SHL": [
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 5170.81,
+        "equity": 8323.498,
+        "cash": 673.773
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 7205.768,
+        "equity": 7917.623,
+        "cash": 645.001
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 4773.941,
+        "equity": 7736.504,
+        "cash": 797.994
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 4589.671,
+        "equity": 7273.14,
+        "cash": 779.997
+      }
+    ],
+    "COH": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 212.7,
+        "equity": 1740.5,
+        "cash": 187.7
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 235.7,
+        "equity": 1950.3,
+        "cash": 275.7
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 243.7,
+        "equity": 1840.5,
+        "cash": 513.6
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 201.8,
+        "equity": 1748.8,
+        "cash": 555.5
+      }
+    ],
+    "VCX": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 4953.8,
+        "equity": 12145.2,
+        "cash": 79.6
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 4853.6,
+        "equity": 11127.9,
+        "cash": 80.7
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 4622.4,
+        "equity": 10638.9,
+        "cash": 49.6
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 4461.4,
+        "equity": 10638.1,
+        "cash": 192.9
+      }
+    ],
+    "PME": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 2.231,
+        "equity": 450.915,
+        "cash": 250.623
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 2.255,
+        "equity": 256.963,
+        "cash": 209.185
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 2.069,
+        "equity": 187.728,
+        "cash": 155.425
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1.851,
+        "equity": 138.776,
+        "cash": 121.495
+      }
+    ],
+    "CAR": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1601.774,
+        "equity": 2742.852,
+        "cash": 325.607
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1412.072,
+        "equity": 2978.023,
+        "cash": 289.327
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1338.207,
+        "equity": 2884.522,
+        "cash": 308.309
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1242.569,
+        "equity": 3069.008,
+        "cash": 198.709
+      }
+    ],
+    "GMD": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 302.843,
+        "equity": 2077.627,
+        "cash": 488.335
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 200.887,
+        "equity": 1253.535,
+        "cash": 239.532
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 45.203,
+        "equity": 991.381,
+        "cash": 171.29
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 11.351,
+        "equity": 838.236,
+        "cash": 181.538
+      }
+    ],
+    "NXT": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 3358.602,
+        "equity": 6094.944,
+        "cash": 875.978
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1206.202,
+        "equity": 4150.813,
+        "cash": 243.688
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1455.082,
+        "equity": 3567.1,
+        "cash": 1236.192
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1442.073,
+        "equity": 2276.618,
+        "cash": 765.841
+      }
+    ],
+    "PRU": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 2.11,
+        "equity": 2298.5669999999,
+        "cash": 924.057
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 2.754,
+        "equity": 1999.789,
+        "cash": 751.829
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "USD",
+        "debt": 3.22,
+        "equity": 1580.2780000000998,
+        "cash": 536.914
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 2.582857294156,
+        "equity": 1282.1900670536759,
+        "cash": 482.49323174888997
+      }
+    ],
+    "LNW": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 5157,
+        "equity": 302,
+        "cash": 148
+      },
+      {
+        "date": "2026-03-31",
+        "currency": "USD",
+        "debt": 5168,
+        "equity": 311,
+        "cash": 147
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 5210,
+        "equity": 245,
+        "cash": 167
+      },
+      {
+        "date": "2025-09-30",
+        "currency": "USD",
+        "debt": 4974,
+        "equity": 723,
+        "cash": 236
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 4886,
+        "equity": 702,
+        "cash": 136
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 3917,
+        "equity": 636,
+        "cash": 196
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "USD",
+        "debt": 3932,
+        "equity": 765,
+        "cash": 425
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "USD",
+        "debt": 3948,
+        "equity": 990,
+        "cash": 914
+      }
+    ],
+    "GPT": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 5526.2,
+        "equity": 10628.1,
+        "cash": 99.4
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 4866.1,
+        "equity": 10109.7,
+        "cash": 72.2
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 4832.7,
+        "equity": 10766.2,
+        "cash": 67.9
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 5097.9,
+        "equity": 11475.9,
+        "cash": 60.2
+      }
+    ],
+    "CHC": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 717.9,
+        "equity": 2897,
+        "cash": 206.3
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 496,
+        "equity": 2710.6,
+        "cash": 286.7
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 474.5,
+        "equity": 2820.6,
+        "cash": 382.7
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 474.2,
+        "equity": 3255.2,
+        "cash": 401.4
+      }
+    ],
+    "REA": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 75.6,
+        "equity": 1897.6,
+        "cash": 365.6
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 70.7,
+        "equity": 1912,
+        "cash": 428.8
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 281.2,
+        "equity": 1538.4,
+        "cash": 205.1
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 403.2,
+        "equity": 1466.8,
+        "cash": 286.3
+      }
+    ],
+    "AMC": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 14864,
+        "equity": 11790,
+        "cash": 1115
+      },
+      {
+        "date": "2026-03-31",
+        "currency": "USD",
+        "debt": 16706,
+        "equity": 11651,
+        "cash": 1587
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 16019,
+        "equity": 11636,
+        "cash": 1057
+      },
+      {
+        "date": "2025-09-30",
+        "currency": "USD",
+        "debt": 15740,
+        "equity": 11718,
+        "cash": 825
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 15008,
+        "equity": 11728,
+        "cash": 827
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "USD",
+        "debt": 7187,
+        "equity": 3881,
+        "cash": 588
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "USD",
+        "debt": 7209,
+        "equity": 4026,
+        "cash": 689
+      }
+    ],
+    "TNE": [
+      {
+        "date": "2025-09-30",
+        "currency": "AUD",
+        "debt": 53.381,
+        "equity": 450.699,
+        "cash": 319.641
+      },
+      {
+        "date": "2024-09-30",
+        "currency": "AUD",
+        "debt": 59.667,
+        "equity": 379.262,
+        "cash": 278.689
+      },
+      {
+        "date": "2023-09-30",
+        "currency": "AUD",
+        "debt": 33.156,
+        "equity": 306.006,
+        "cash": 223.265
+      },
+      {
+        "date": "2022-09-30",
+        "currency": "AUD",
+        "debt": 35.304,
+        "equity": 239.097,
+        "cash": 176.465
+      }
+    ],
+    "RMS": [
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 10.467,
+        "equity": 1329.128,
+        "cash": 424.372
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 28.438,
+        "equity": 940.252,
+        "cash": 250.958
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 50.815,
+        "equity": 720.867,
+        "cash": 147.781
+      }
+    ],
+    "JBH": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 705,
+        "equity": 1638.5,
+        "cash": 206.5
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 714.4,
+        "equity": 1616.6,
+        "cash": 284.1
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 657.4,
+        "equity": 1559.1,
+        "cash": 317.7
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 655.1,
+        "equity": 1419.6,
+        "cash": 177.3
+      }
+    ],
+    "WTC": [
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 69.780965303353,
+        "equity": 1479.4366724371869,
+        "cash": 81.344286182166
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 169.719274787685,
+        "equity": 1254.02950891291,
+        "cash": 95.715316436425
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 23.044961752243,
+        "equity": 904.738319299983,
+        "cash": 333.154476913764
+      }
+    ],
+    "SGH": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 5055.8,
+        "equity": 5202.4,
+        "cash": 231.8
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 5366.6,
+        "equity": 4777.5,
+        "cash": 176.6
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 5976.6,
+        "equity": 4089.5,
+        "cash": 654.3
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 5877.7,
+        "equity": 3910.3,
+        "cash": 876.5
+      }
+    ],
+    "CMM": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 20.295,
+        "equity": 1432.119,
+        "cash": 505.419
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 134.768,
+        "equity": 309.265,
+        "cash": 120.656
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 91.81,
+        "equity": 256.537,
+        "cash": 107.424
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 110.821,
+        "equity": 247.535,
+        "cash": 62.85
+      }
+    ],
+    "MGR": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 3832,
+        "equity": 9355,
+        "cash": 238
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 4544,
+        "equity": 9055,
+        "cash": 236
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 4480,
+        "equity": 9351,
+        "cash": 335
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 4540,
+        "equity": 10557,
+        "cash": 122
+      }
+    ],
+    "FPH": [
+      {
+        "date": "2026-03-31",
+        "currency": "NZD",
+        "debt": 146.1,
+        "equity": 2115.4,
+        "cash": 461.1
+      },
+      {
+        "date": "2025-03-31",
+        "currency": "NZD",
+        "debt": 153.3,
+        "equity": 1890.4,
+        "cash": 264.5
+      },
+      {
+        "date": "2024-03-31",
+        "currency": "NZD",
+        "debt": 189.1,
+        "equity": 1759.1,
+        "cash": 82
+      },
+      {
+        "date": "2023-03-31",
+        "currency": "NZD",
+        "debt": 145.8,
+        "equity": 1753.4,
+        "cash": 121
+      }
+    ],
+    "VAU": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 74.347,
+        "equity": 2138.344,
+        "cash": 825.784
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 207.835,
+        "equity": 1620.775,
+        "cash": 428.812
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 209.11,
+        "equity": 330.088,
+        "cash": 20.112
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 272.364,
+        "equity": 182.812,
+        "cash": 32.526
+      }
+    ],
+    "CDA": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 57.418,
+        "equity": 608.416,
+        "cash": 50.733
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 160.736,
+        "equity": 523.827,
+        "cash": 39.731
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 141.046,
+        "equity": 446.932,
+        "cash": 19.703
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 125.391,
+        "equity": 406.335,
+        "cash": 23.661
+      }
+    ],
+    "WHC": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 2322,
+        "equity": 5913,
+        "cash": 778
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 2033,
+        "equity": 5701,
+        "cash": 1206
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1891,
+        "equity": 5271,
+        "cash": 405
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 188.948,
+        "equity": 5256.744,
+        "cash": 2775.51
+      }
+    ],
+    "SDF": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1992.3,
+        "equity": 2364.5,
+        "cash": 1822.5
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1629.8,
+        "equity": 2396.6,
+        "cash": 1602.3
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1296.5,
+        "equity": 2329.9,
+        "cash": 1326.4
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1037.4,
+        "equity": 2041.4,
+        "cash": 1138.5
+      }
+    ],
+    "DNL": [
+      {
+        "date": "2025-09-30",
+        "currency": "AUD",
+        "debt": 2017,
+        "equity": 4431.1,
+        "cash": 655.7
+      },
+      {
+        "date": "2024-09-30",
+        "currency": "AUD",
+        "debt": 1955.4,
+        "equity": 4845.9,
+        "cash": 1071.3
+      },
+      {
+        "date": "2023-09-30",
+        "currency": "AUD",
+        "debt": 1966.4,
+        "equity": 6426.8,
+        "cash": 405
+      },
+      {
+        "date": "2022-09-30",
+        "currency": "AUD",
+        "debt": 1957.9,
+        "equity": 6289.6,
+        "cash": 763.5
+      }
+    ],
+    "AZJ": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 5629,
+        "equity": 3939,
+        "cash": 128
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 5501,
+        "equity": 4086,
+        "cash": 64
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 4922,
+        "equity": 4438,
+        "cash": 49
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 5589,
+        "equity": 4353,
+        "cash": 92
+      }
+    ],
+    "AMP": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 29637,
+        "equity": 3744,
+        "cash": 7356
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 28714,
+        "equity": 3652,
+        "cash": 7179
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 28918,
+        "equity": 3874,
+        "cash": 6485
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 29531,
+        "equity": 4171,
+        "cash": 7058
+      }
+    ],
+    "ANN": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 756.6,
+        "equity": 1991.2000000000999,
+        "cash": 249.5
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 805.6,
+        "equity": 1963.6,
+        "cash": 238.3
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "USD",
+        "debt": 857.2,
+        "equity": 1894.9,
+        "cash": 912.3
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "USD",
+        "debt": 494.3,
+        "equity": 1600.9000000001,
+        "cash": 159.4
+      }
+    ],
+    "BEN": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 10111.6,
+        "equity": 6734.5,
+        "cash": null
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 9472.7,
+        "equity": 6643.8,
+        "cash": null
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 11371.4,
+        "equity": 6670.3,
+        "cash": null
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 11606.4,
+        "equity": 7093.1,
+        "cash": null
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 10748.1,
+        "equity": 7034,
+        "cash": null
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 13325,
+        "equity": 6850.7,
+        "cash": null
+      }
+    ],
+    "RRL": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 101.685,
+        "equity": 2182.175,
+        "cash": 1139.119
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 119.158,
+        "equity": 1614.34,
+        "cash": 505.486
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 366.427,
+        "equity": 1355.919,
+        "cash": 277.936
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 383.545,
+        "equity": 1539.841,
+        "cash": 205.176
+      }
+    ],
+    "DXS": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 4654.4,
+        "equity": 9947.2,
+        "cash": 57.8
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 4829.2,
+        "equity": 9898.1,
+        "cash": 65.3
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 5004.5,
+        "equity": 10164.8,
+        "cash": 54
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 5345.8,
+        "equity": 12264.3,
+        "cash": 123.9
+      }
+    ],
+    "HUB": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 71.655,
+        "equity": 552.745,
+        "cash": 70.986
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 59.037,
+        "equity": 529.886,
+        "cash": 114.833
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 45.222,
+        "equity": 519.702,
+        "cash": 88.048
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 40.174,
+        "equity": 510.412,
+        "cash": 72.747
+      }
+    ],
+    "CGF": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 8461.6,
+        "equity": 4064.5,
+        "cash": 34292.3
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 8267.9,
+        "equity": 3864.5,
+        "cash": 32393.3
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 7125.6,
+        "equity": 3881.4,
+        "cash": 30548
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 5891.3,
+        "equity": 4160.4,
+        "cash": 28179.9
+      }
+    ],
+    "GGP": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 22.184,
+        "equity": 2226.224,
+        "cash": 1288.938
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 31.569,
+        "equity": 1340.111,
+        "cash": 574.663
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "GBP",
+        "debt": 7.741,
+        "equity": 491.543,
+        "cash": 71.942
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "GBP",
+        "debt": 41.802,
+        "equity": 0,
+        "cash": 4.808
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "GBP",
+        "debt": 41.915,
+        "equity": 0,
+        "cash": 31.149
+      }
+    ],
+    "CWY": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 2334.8,
+        "equity": 3016.6,
+        "cash": 116.2
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1805,
+        "equity": 3042.9,
+        "cash": 86.5
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1731.9,
+        "equity": 2997.4,
+        "cash": 120.6
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1589.1,
+        "equity": 2941.5,
+        "cash": 102.1
+      }
+    ],
+    "WGX": [
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 54.609452,
+        "equity": 691.801106,
+        "cash": 236.039162
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 27.490818,
+        "equity": 598.339298,
+        "cash": 176.411855
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 42.959811,
+        "equity": 587.767457,
+        "cash": 182.701502
+      }
+    ],
+    "AGL": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 4034,
+        "equity": 5276,
+        "cash": 661
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 3307,
+        "equity": 4858,
+        "cash": 332
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 2728,
+        "equity": 5431,
+        "cash": 971
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 2883,
+        "equity": 5121,
+        "cash": 154
+      }
+    ],
+    "TLX": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 579.861,
+        "equity": 487.675,
+        "cash": 251.91
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 467.106,
+        "equity": 415.376,
+        "cash": 141.866
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": null,
+        "equity": 421.941,
+        "cash": 207.156
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 360.162,
+        "equity": 352.937,
+        "cash": 439.999
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "USD",
+        "debt": 12.264,
+        "equity": 102.645,
+        "cash": 84.295
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 10.446,
+        "equity": 54.428752193967,
+        "cash": 116.329
+      }
+    ],
+    "VNT": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 935.1,
+        "equity": 561.1,
+        "cash": 236.3
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 887.5,
+        "equity": 630.9,
+        "cash": 392.8
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 879.3,
+        "equity": 570.2,
+        "cash": 338.7
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 1622.3,
+        "equity": 520.9,
+        "cash": 280
+      }
+    ],
+    "MP1": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 100.341,
+        "equity": 1001.386,
+        "cash": 435.613
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 28.297,
+        "equity": 178.685,
+        "cash": 102.067
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 15.787,
+        "equity": 154.08,
+        "cash": 72.434
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 19.959,
+        "equity": 127.927,
+        "cash": 48.455
+      }
+    ],
+    "IGO": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 16.8,
+        "equity": 2240.2,
+        "cash": 485.6
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 31.4,
+        "equity": 2092.4,
+        "cash": 343.5
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 48.7,
+        "equity": 3215.9,
+        "cash": 530.4
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 432.1,
+        "equity": 3790.2,
+        "cash": 837.6
+      }
+    ],
+    "PDN": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 155.008,
+        "equity": 1158.02,
+        "cash": 264.98
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 197.088,
+        "equity": 907.4200000001,
+        "cash": 89.047
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "USD",
+        "debt": 167.35,
+        "equity": 471.793,
+        "cash": 48.858
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "USD",
+        "debt": 90.489,
+        "equity": 407.574,
+        "cash": 126.636
+      }
+    ],
+    "A2M": [
+      {
+        "date": "2026-06-30",
+        "currency": "NZD",
+        "debt": 24.313,
+        "equity": 1073.116,
+        "cash": 784.472
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "NZD",
+        "debt": 100.736,
+        "equity": 1450.971,
+        "cash": 1100.171
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "NZD",
+        "debt": 66.22,
+        "equity": 1266.476,
+        "cash": 968.943
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "NZD",
+        "debt": 101.528,
+        "equity": 1145.82,
+        "cash": 802.234
+      }
+    ],
+    "DOW": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1375.2,
+        "equity": 1961.6,
+        "cash": 778.7
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1538.4,
+        "equity": 2061.7,
+        "cash": 839.7
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1810.4,
+        "equity": 2080.8,
+        "cash": 856.7
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 2138.5,
+        "equity": 2289.8,
+        "cash": 896.7
+      }
+    ],
+    "EDV": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 5933,
+        "equity": 3589,
+        "cash": 330
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 5817,
+        "equity": 3835,
+        "cash": 318
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 6072,
+        "equity": 3772,
+        "cash": 293
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 6088,
+        "equity": 3709,
+        "cash": 290
+      }
+    ],
+    "BOQ": [
+      {
+        "date": "2026-02-28",
+        "currency": "AUD",
+        "debt": 15236,
+        "equity": 5896,
+        "cash": null
+      },
+      {
+        "date": "2025-02-28",
+        "currency": "AUD",
+        "debt": 17008,
+        "equity": 6052,
+        "cash": null
+      },
+      {
+        "date": "2024-08-31",
+        "currency": "AUD",
+        "debt": 18357,
+        "equity": 6017,
+        "cash": null
+      },
+      {
+        "date": "2023-08-31",
+        "currency": "AUD",
+        "debt": 19322,
+        "equity": 6130,
+        "cash": null
+      },
+      {
+        "date": "2022-08-31",
+        "currency": "AUD",
+        "debt": 19187,
+        "equity": 6668,
+        "cash": null
+      }
+    ],
+    "WOR": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 2845,
+        "equity": 4884,
+        "cash": 1107
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 2528,
+        "equity": 5351,
+        "cash": 852
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 2453,
+        "equity": 5681,
+        "cash": 962
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 2049,
+        "equity": 5814,
+        "cash": 559
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 2073,
+        "equity": 5506,
+        "cash": 554
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 2248,
+        "equity": 5607,
+        "cash": 436
+      }
+    ],
+    "WAF": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 453.1,
+        "equity": 1720,
+        "cash": 592
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 425.972,
+        "equity": 1246.984,
+        "cash": 391.67
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 149.15,
+        "equity": 861.204,
+        "cash": 135.08
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 22.18,
+        "equity": 700.498,
+        "cash": 173.393
+      }
+    ],
+    "REH": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 2253.191,
+        "equity": 3748.385,
+        "cash": 327.668
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1971.217,
+        "equity": 4045.317,
+        "cash": 275.411
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1832.263,
+        "equity": 4072.49,
+        "cash": 682.396
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1961.767,
+        "equity": 3625.424,
+        "cash": 372.706
+      }
+    ],
+    "SEK": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1263.4,
+        "equity": 2122.2,
+        "cash": 136.6
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1257.6,
+        "equity": 2699.3,
+        "cash": 150.5
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1409,
+        "equity": 2582.2,
+        "cash": 199.6
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1503.2,
+        "equity": 2675.7,
+        "cash": 251.6
+      }
+    ],
+    "XYZ": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 7171.312,
+        "equity": 22047.075,
+        "cash": 12268.454
+      },
+      {
+        "date": "2026-03-31",
+        "currency": "USD",
+        "debt": 8133.391,
+        "equity": 21715.338,
+        "cash": 13262.148
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 8966.376,
+        "equity": 22204.278,
+        "cash": 11963.929
+      },
+      {
+        "date": "2025-09-30",
+        "currency": "USD",
+        "debt": 8101.348,
+        "equity": 22507.398,
+        "cash": 13588.528
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 6122.475,
+        "equity": 22157.136,
+        "cash": 11719.389
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 7918.613,
+        "equity": 21267.932,
+        "cash": 12749.513
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "USD",
+        "debt": 6071.517,
+        "equity": 18695.256,
+        "cash": 9416.426
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "USD",
+        "debt": 6332.764,
+        "equity": 17222.879,
+        "cash": 8806.377
+      }
+    ],
+    "SGM": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 826.7,
+        "equity": 2655.7,
+        "cash": 199.6
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 787.7,
+        "equity": 2586.8,
+        "cash": 215.6
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 949.3,
+        "equity": 2562.7,
+        "cash": 280.8
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 804.8,
+        "equity": 2656.7,
+        "cash": 329.9
+      }
+    ],
+    "EMR": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 31.884,
+        "equity": 913.477,
+        "cash": 433.649
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 21.931,
+        "equity": 655.44,
+        "cash": 201.387
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": null,
+        "equity": 557.968,
+        "cash": 144.603
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": null,
+        "equity": 320.123,
+        "cash": 71.465
+      }
+    ],
+    "TWE": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1996.7,
+        "equity": 3333.6,
+        "cash": 221.8
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 2198.6,
+        "equity": 4784.5,
+        "cash": 427.7
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 2158.5,
+        "equity": 4593.8,
+        "cash": 458.1
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1937.6,
+        "equity": 3861.7,
+        "cash": 565.8
+      }
+    ],
+    "PDI": [
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 0.159327,
+        "equity": 169.94594,
+        "cash": 52.434172
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 0.313241,
+        "equity": 128.843226,
+        "cash": 44.894558
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": null,
+        "equity": 74.079719,
+        "cash": 42.035541
+      }
+    ],
+    "AUB": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1202.014,
+        "equity": 1881.883,
+        "cash": 1314.173
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 958.062,
+        "equity": 1691.769,
+        "cash": 1344.019
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 724.692,
+        "equity": 1512.32,
+        "cash": 1287.463
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 661.107,
+        "equity": 1279.853,
+        "cash": 1198.525
+      }
+    ],
+    "VEA": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 5858.1,
+        "equity": 1427.1,
+        "cash": 170.5
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 5532.5,
+        "equity": 1895.4,
+        "cash": 192.7
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 2995.3,
+        "equity": 2010.6,
+        "cash": 215.5
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 2456.5,
+        "equity": 2360.8,
+        "cash": 290.5
+      }
+    ],
+    "NWH": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 585.496,
+        "equity": 689.822,
+        "cash": 319.668
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 411.12,
+        "equity": 610.014,
+        "cash": 265.744
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 325.459,
+        "equity": 652.556,
+        "cash": 246.648
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 311.92,
+        "equity": 610.122,
+        "cash": 227.58
+      }
+    ],
+    "APE": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 3055.856,
+        "equity": 1856.721,
+        "cash": 456.702
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 3370.592,
+        "equity": 1314.466,
+        "cash": 183.683
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 2674.278,
+        "equity": 1270.102,
+        "cash": 222.214
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 2339.004,
+        "equity": 1204.246,
+        "cash": 190.434
+      }
+    ],
+    "NHF": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 229.3,
+        "equity": 1152.3,
+        "cash": 352.3
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 310.2,
+        "equity": 1111.1,
+        "cash": 404.6
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 306.8,
+        "equity": 1042.8,
+        "cash": 459.8
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 291.8,
+        "equity": 980.9,
+        "cash": 420.1
+      }
+    ],
+    "MND": [
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 94.24,
+        "equity": 465.594,
+        "cash": 225.864
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 88.728,
+        "equity": 437.978,
+        "cash": 178.323
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 109.48,
+        "equity": 412.184,
+        "cash": 183.329
+      }
+    ],
+    "RWC": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 378.268,
+        "equity": 1285.665,
+        "cash": 28.566
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 462.562,
+        "equity": 1390.052,
+        "cash": 25.384
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "USD",
+        "debt": 560.806,
+        "equity": 1264.368,
+        "cash": 19.915
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "USD",
+        "debt": 557.02,
+        "equity": 1231.358,
+        "cash": 16.617
+      }
+    ],
+    "MTS": [
+      {
+        "date": "2026-04-30",
+        "currency": "AUD",
+        "debt": 1901,
+        "equity": 1706.9,
+        "cash": 67.9
+      },
+      {
+        "date": "2025-04-30",
+        "currency": "AUD",
+        "debt": 1890.8,
+        "equity": 1625.9,
+        "cash": 87.3
+      },
+      {
+        "date": "2024-04-30",
+        "currency": "AUD",
+        "debt": 1411,
+        "equity": 1516.6,
+        "cash": 100
+      },
+      {
+        "date": "2023-04-30",
+        "currency": "AUD",
+        "debt": 1488.5,
+        "equity": 1073.6,
+        "cash": 91.5
+      }
+    ],
+    "CSC": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 1312.845,
+        "equity": 3573.403,
+        "cash": 367.075
+      },
+      {
+        "date": "2026-03-31",
+        "currency": "USD",
+        "debt": 1414.348,
+        "equity": 3495.419,
+        "cash": 394.131
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 1332.182,
+        "equity": 3389.465,
+        "cash": 304.192
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 1350.567,
+        "equity": 3077.082,
+        "cash": 311.601
+      },
+      {
+        "date": "2025-03-31",
+        "currency": "USD",
+        "debt": 1452.779,
+        "equity": 3051.725,
+        "cash": 344.424
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 1185.774,
+        "equity": 3054.605,
+        "cash": 131.593
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "USD",
+        "debt": 1160.773,
+        "equity": 2660.587,
+        "cash": 126.82
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "USD",
+        "debt": 702.972,
+        "equity": 2751.217,
+        "cash": 171.86
+      }
+    ],
+    "NHC": [
+      {
+        "date": "2026-07-31",
+        "currency": "AUD",
+        "debt": 391.837,
+        "equity": 2614.843,
+        "cash": 778.498
+      },
+      {
+        "date": "2025-07-31",
+        "currency": "AUD",
+        "debt": 372.848,
+        "equity": 2627.725,
+        "cash": 707.285
+      },
+      {
+        "date": "2024-07-31",
+        "currency": "AUD",
+        "debt": 372.869,
+        "equity": 2543.151,
+        "cash": 824.525
+      },
+      {
+        "date": "2023-07-31",
+        "currency": "AUD",
+        "debt": 96.891,
+        "equity": 2521.406,
+        "cash": 750.638
+      }
+    ],
+    "BRG": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 153.421,
+        "equity": 1058.305,
+        "cash": 193.358
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 118.464,
+        "equity": 973.709,
+        "cash": 105.74
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 155.983,
+        "equity": 848.214,
+        "cash": 137.772
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 280.494,
+        "equity": 769.659,
+        "cash": 84.155
+      }
+    ],
+    "TPG": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 4154,
+        "equity": 8671,
+        "cash": 72
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 6304,
+        "equity": 11173,
+        "cash": 42
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 6310,
+        "equity": 11617,
+        "cash": 116
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 5655,
+        "equity": 11900,
+        "cash": 114
+      }
+    ],
+    "CNU": [
+      {
+        "date": "2026-06-30",
+        "currency": "NZD",
+        "debt": 3463,
+        "equity": 1030,
+        "cash": 199
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "NZD",
+        "debt": 3300,
+        "equity": 567,
+        "cash": 81
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "NZD",
+        "debt": 2797,
+        "equity": 841,
+        "cash": 45
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "NZD",
+        "debt": 2709,
+        "equity": 1063,
+        "cash": 76
+      }
+    ],
+    "ZIP": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 2755.419,
+        "equity": 673.42,
+        "cash": 432.13
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 2423.997,
+        "equity": 709.52,
+        "cash": 396.233
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 2420.234,
+        "equity": 398.533,
+        "cash": 357.516
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 2936.093,
+        "equity": 234.34,
+        "cash": 283.106
+      }
+    ],
+    "PNI": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 270.385,
+        "equity": 1155.193,
+        "cash": null
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 110.365,
+        "equity": 918.417,
+        "cash": null
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 109.428,
+        "equity": 455.894,
+        "cash": null
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 120.494,
+        "equity": 422.573,
+        "cash": null
+      }
+    ],
+    "DBI": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 2162.061,
+        "equity": 1036.749,
+        "cash": 110.454
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 1929.467,
+        "equity": 1088.139,
+        "cash": 89.89
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 2520.815,
+        "equity": 1100.216,
+        "cash": 71.142
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 3673.457,
+        "equity": 1158.053,
+        "cash": 216.684
+      }
+    ],
+    "ILU": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 1137.5,
+        "equity": 2068.8,
+        "cash": 45.7
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 291.3,
+        "equity": 2360.4,
+        "cash": 136
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 163.7,
+        "equity": 2158.5,
+        "cash": 364.9
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 62.5,
+        "equity": 1894.8,
+        "cash": 521.7
+      }
+    ],
+    "NEU": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": null,
+        "equity": 338.454,
+        "cash": 296.122
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": null,
+        "equity": 363.904,
+        "cash": 222.242
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": null,
+        "equity": 205.207,
+        "cash": 228.539
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": null,
+        "equity": 41.589,
+        "cash": 40.18
+      }
+    ],
+    "RSG": [
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 201.5,
+        "equity": 728.7999999999,
+        "cash": 164.1
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 43.794,
+        "equity": 537.766,
+        "cash": 70.734
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "USD",
+        "debt": 84.108,
+        "equity": 622.144,
+        "cash": 61.181
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "USD",
+        "debt": 141.025,
+        "equity": 543.434,
+        "cash": 82.279
+      }
+    ],
+    "RGN": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1630.8,
+        "equity": 16.9,
+        "cash": 15.6
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1559.9,
+        "equity": 15,
+        "cash": 8.5
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1565.4,
+        "equity": 14.1,
+        "cash": 19.4
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1523.4,
+        "equity": 13.5,
+        "cash": 23.8
+      }
+    ],
+    "SRG": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 171.227,
+        "equity": 468.44,
+        "cash": 144.725
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 127.96,
+        "equity": 392.418,
+        "cash": 111.855
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 87.695,
+        "equity": 305.054,
+        "cash": 73.364
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 91.858,
+        "equity": 290.478,
+        "cash": 47.846
+      }
+    ],
+    "NWL": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 70.409,
+        "equity": 161.892,
+        "cash": null
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 13.504,
+        "equity": 199.137,
+        "cash": null
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 14.915,
+        "equity": 144.52,
+        "cash": null
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 13.586,
+        "equity": 123.049,
+        "cash": 109.973
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": null,
+        "equity": null,
+        "cash": 89.462
+      }
+    ],
+    "BGL": [
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 342.291,
+        "equity": 820.075,
+        "cash": 151.592
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 476.843,
+        "equity": 559.64,
+        "cash": 48.687
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 130.227,
+        "equity": 427.545,
+        "cash": 64.723
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 1.009,
+        "equity": 350.524,
+        "cash": 117.473
+      }
+    ],
+    "AIA": [
+      {
+        "date": "2026-06-30",
+        "currency": "NZD",
+        "debt": 2768.8,
+        "equity": 10840.4,
+        "cash": 55.4
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "NZD",
+        "debt": 2487.3,
+        "equity": 10472.8,
+        "cash": 567.8
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "NZD",
+        "debt": 2684.7,
+        "equity": 8610.1,
+        "cash": 219.7
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "NZD",
+        "debt": 1817.1,
+        "equity": 8377.5,
+        "cash": 106.2
+      }
+    ],
+    "LTR": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 504.836,
+        "equity": 1471.158,
+        "cash": 561.952
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 831.099,
+        "equity": 580.574,
+        "cash": 181.932
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 460.914,
+        "equity": 770.072,
+        "cash": 149.306
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 121.273,
+        "equity": 449.736,
+        "cash": 316.847
+      }
+    ],
+    "YAL": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 84,
+        "equity": 9031,
+        "cash": 2127
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 112,
+        "equity": 9315,
+        "cash": 2461
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 248,
+        "equity": 8440,
+        "cash": 1397
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 1346,
+        "equity": 8028,
+        "cash": 2699
+      }
+    ],
+    "ALK": [
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 49.018,
+        "equity": 309.374,
+        "cash": 45.519
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 13.546,
+        "equity": 299.997,
+        "cash": 80.291
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 15.046,
+        "equity": 268.874,
+        "cash": 77.894
+      }
+    ],
+    "OBM": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 31.772,
+        "equity": 537.018,
+        "cash": 267.704
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 31.088,
+        "equity": 96.786,
+        "cash": 26.804
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 31.799,
+        "equity": 31.085,
+        "cash": 24.729
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 24.34,
+        "equity": 34.835,
+        "cash": 27.755
+      }
+    ],
+    "AAI": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 2225,
+        "equity": 7370,
+        "cash": 1352
+      },
+      {
+        "date": "2026-03-31",
+        "currency": "USD",
+        "debt": 2551,
+        "equity": 6826,
+        "cash": 1353
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 2707,
+        "equity": 6118,
+        "cash": 1597
+      },
+      {
+        "date": "2025-09-30",
+        "currency": "USD",
+        "debt": 2581,
+        "equity": 6345,
+        "cash": 1485
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 2657,
+        "equity": 6135,
+        "cash": 1514
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 2818,
+        "equity": 5157,
+        "cash": 1138
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "USD",
+        "debt": 1971,
+        "equity": 4251,
+        "cash": 944
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "USD",
+        "debt": 1866,
+        "equity": 5076,
+        "cash": 1363
+      }
+    ],
+    "EOS": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 17.142,
+        "equity": 244.164,
+        "cash": 113.841
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 65.93,
+        "equity": 224.497,
+        "cash": 41.078
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 88.741,
+        "equity": 203.107,
+        "cash": 70.997
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 97.184,
+        "equity": 236.294,
+        "cash": 21.681
+      }
+    ],
+    "BWP": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 758.692,
+        "equity": 3362.882,
+        "cash": 117.341
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 808.163,
+        "equity": 2839.635,
+        "cash": 26.459
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 786.867,
+        "equity": 2798.847,
+        "cash": 27.914
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 771.599,
+        "equity": 2707.55,
+        "cash": 27.3
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 468.473,
+        "equity": 2405.88,
+        "cash": 16.832
+      }
+    ],
+    "CLW": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1511.602,
+        "equity": 3390.846,
+        "cash": 18.322
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1528.385,
+        "equity": 3255.977,
+        "cash": 55.369
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1704.835,
+        "equity": 3363.164,
+        "cash": 22.681
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1940.891,
+        "equity": 4063.152,
+        "cash": 19.682
+      }
+    ],
+    "HVN": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 2585.671,
+        "equity": 4896.98,
+        "cash": 298.612
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 2293.852,
+        "equity": 4802.942,
+        "cash": 279.688
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 2279.572,
+        "equity": 4501.204,
+        "cash": 273.472
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 2179.107,
+        "equity": 4431.249,
+        "cash": 218.75
+      }
+    ],
+    "TAH": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 832,
+        "equity": 1261.2,
+        "cash": 305.8
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 862.6,
+        "equity": 1254,
+        "cash": 236.5
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1744.4,
+        "equity": 1246.9,
+        "cash": 338.2
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 572.4,
+        "equity": 2659.1,
+        "cash": 290.7
+      }
+    ],
+    "PRN": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 571.309,
+        "equity": 1772.407,
+        "cash": 322.524
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 786.044,
+        "equity": 1828.62,
+        "cash": 481.322
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 928.604,
+        "equity": 1759.719,
+        "cash": 459.136
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 806.362,
+        "equity": 1409.403,
+        "cash": 307.36
+      }
+    ],
+    "SRL": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 0.015,
+        "equity": 113.142,
+        "cash": 115.439
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 0.224,
+        "equity": 10.167,
+        "cash": 10.714
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 0.283,
+        "equity": 8.71,
+        "cash": 8.756
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 0.093,
+        "equity": 16.138,
+        "cash": 16.827
+      }
+    ],
+    "4DX": [
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 4.308041,
+        "equity": 64.235165,
+        "cash": 6.878735
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 5.120608,
+        "equity": 70.926649,
+        "cash": 30.606144
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 5.138731,
+        "equity": 74.773023,
+        "cash": 69.576373
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 6.239178,
+        "equity": 59.510992,
+        "cash": 51.114537
+      }
+    ],
+    "HDN": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1891.5,
+        "equity": 3260.5,
+        "cash": 38
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1754.7,
+        "equity": 3072.8,
+        "cash": 18
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1684.3,
+        "equity": 2992.5,
+        "cash": 12.4
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1643.5,
+        "equity": 3076.1,
+        "cash": 16.2
+      }
+    ],
+    "SUL": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1321.7,
+        "equity": 1299.6,
+        "cash": 16.7
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1235.8,
+        "equity": 1321.4,
+        "cash": 63.3
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1103.4,
+        "equity": 1373.2,
+        "cash": 217.8
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1035,
+        "equity": 1367.6,
+        "cash": 192.3
+      }
+    ],
+    "MSB": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 127.334,
+        "equity": 568.405,
+        "cash": 47.39
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 135.144,
+        "equity": 574.684,
+        "cash": 129.573
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 128.157,
+        "equity": 597.442,
+        "cash": 161.158
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 126.111,
+        "equity": 461.262,
+        "cash": 37.656
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "USD",
+        "debt": 118.923,
+        "equity": 480.355,
+        "cash": 62.563
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "USD",
+        "debt": 116.495,
+        "equity": 501.838,
+        "cash": 70.92
+      }
+    ],
+    "ALX": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 1738.4,
+        "equity": 3105.9,
+        "cash": 274.4
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 1848.2,
+        "equity": 3340.8,
+        "cash": 351.5
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 1720.5,
+        "equity": 3370.4,
+        "cash": 305.3
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 1735.333,
+        "equity": 6490.472,
+        "cash": 521.665
+      }
+    ],
+    "NIC": [
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 1226.113016,
+        "equity": 2043.062787,
+        "cash": 323.327295
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 1054.56242,
+        "equity": 2116.01734,
+        "cash": 210.953629
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "USD",
+        "debt": 845.023428,
+        "equity": 2425.053066,
+        "cash": 774.967164
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "USD",
+        "debt": 559.288118,
+        "equity": 1298.619381,
+        "cash": 144.242357
+      }
+    ],
+    "INA": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1007.423,
+        "equity": 1743.744,
+        "cash": 23.68
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 754.153,
+        "equity": 1509.906,
+        "cash": 14.458
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 661.668,
+        "equity": 1536.787,
+        "cash": 45.716
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 495.603,
+        "equity": 1529.508,
+        "cash": 14.486
+      }
+    ],
+    "CQR": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1568.3,
+        "equity": 2924.9,
+        "cash": 22.7
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1448.7,
+        "equity": 2694.2,
+        "cash": 38.5
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1036.9,
+        "equity": 2618.6,
+        "cash": 18.7
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1199.8,
+        "equity": 2748.5,
+        "cash": 22.4
+      }
+    ],
+    "MI6": [
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 0.624385,
+        "equity": 10.867935,
+        "cash": 11.10289
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 0.096756,
+        "equity": 16.611957,
+        "cash": 17.076452
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": null,
+        "equity": 23.16038,
+        "cash": 23.47113
+      }
+    ],
+    "NWS": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": 2915,
+        "equity": 8526,
+        "cash": 2095
+      },
+      {
+        "date": "2026-03-31",
+        "currency": "USD",
+        "debt": 2929,
+        "equity": 8584,
+        "cash": 2171
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 2923,
+        "equity": 8792,
+        "cash": 2051
+      },
+      {
+        "date": "2025-09-30",
+        "currency": "USD",
+        "debt": 2927,
+        "equity": 8704,
+        "cash": 2198
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": 2940,
+        "equity": 8774,
+        "cash": 2403
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "USD",
+        "debt": 3103,
+        "equity": 8120,
+        "cash": 1872
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "USD",
+        "debt": 4207,
+        "equity": 8064,
+        "cash": 1833
+      }
+    ],
+    "DRR": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 143.291,
+        "equity": 142.642,
+        "cash": 10.512
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 295.401,
+        "equity": 124.66,
+        "cash": 24.394
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 0.497,
+        "equity": 80.352,
+        "cash": 31.064
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 0.186,
+        "equity": 92.138,
+        "cash": 29.491
+      }
+    ],
+    "DTL": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 22.672,
+        "equity": 95.162,
+        "cash": 326.047
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 18.547,
+        "equity": 84.169,
+        "cash": 356.689
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 20.595,
+        "equity": 74.916,
+        "cash": 276.381
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 23.883,
+        "equity": 68.345,
+        "cash": 404.766
+      }
+    ],
+    "PPT": [
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1126.3,
+        "equity": 1646.6,
+        "cash": 343.2
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 993.2,
+        "equity": 1741.1,
+        "cash": 221.3
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 989.5,
+        "equity": 2372,
+        "cash": 427.1
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 518.4,
+        "equity": 925.8,
+        "cash": 361.7
+      }
+    ],
+    "ORA": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1159.9,
+        "equity": 1933.3,
+        "cash": 513.1
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 653.3,
+        "equity": 2896.6,
+        "cash": 257.4
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 2417.9,
+        "equity": 2091.7,
+        "cash": 274.7
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1060,
+        "equity": 800.2,
+        "cash": 58.4
+      }
+    ],
+    "IMD": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 284.471,
+        "equity": 683.926,
+        "cash": 40.77
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 100.315,
+        "equity": 629.359,
+        "cash": 42.51
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 127.653,
+        "equity": 571.277,
+        "cash": 47.132
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 243.854,
+        "equity": 556.208,
+        "cash": 58.128
+      }
+    ],
+    "LLC": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 4473,
+        "equity": 4825,
+        "cash": 751
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 4054,
+        "equity": 5111,
+        "cash": 621
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 4176,
+        "equity": 4843,
+        "cash": 1000
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 3281,
+        "equity": 6616,
+        "cash": 900
+      }
+    ],
+    "NXG": [
+      {
+        "date": "2026-06-30",
+        "currency": "CAD",
+        "debt": 613.068,
+        "equity": 1844.287,
+        "cash": 970.253
+      },
+      {
+        "date": "2026-03-31",
+        "currency": "CAD",
+        "debt": 714.623,
+        "equity": 1697.93,
+        "cash": 1018.352
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "CAD",
+        "debt": 586.911,
+        "equity": 1832.108,
+        "cash": 1123.662
+      },
+      {
+        "date": "2025-09-30",
+        "currency": "CAD",
+        "debt": 592.738,
+        "equity": 918.801,
+        "cash": 305.985
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "CAD",
+        "debt": 489.08,
+        "equity": 1025.889,
+        "cash": 371.556
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "CAD",
+        "debt": 456.709,
+        "equity": 1179.041,
+        "cash": 476.587
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "CAD",
+        "debt": 160.42,
+        "equity": 820.019,
+        "cash": 290.743
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "CAD",
+        "debt": 82.484,
+        "equity": 417.876,
+        "cash": 140.222
+      }
+    ],
+    "FLT": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1234.854,
+        "equity": 1095.846,
+        "cash": 825.038
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 884.111,
+        "equity": 1224.248,
+        "cash": 835.14
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 988.152,
+        "equity": 1202.28,
+        "cash": 1167.665
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1358.733,
+        "equity": 1135.088,
+        "cash": 1371.721
+      }
+    ],
+    "SIQ": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 91.168,
+        "equity": 277.065,
+        "cash": 312.702
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 84.359,
+        "equity": 258.283,
+        "cash": 34.648
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 72.296,
+        "equity": 243.822,
+        "cash": 32.794
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 64.385,
+        "equity": 240.342,
+        "cash": 26.707
+      }
+    ],
+    "MFG": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 2.022,
+        "equity": 1057.133,
+        "cash": null
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 5.11,
+        "equity": 1003.254,
+        "cash": null
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 7.606,
+        "equity": 1019.529,
+        "cash": null
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 10.172,
+        "equity": 962.502,
+        "cash": null
+      }
+    ],
+    "LOV": [
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 359.067,
+        "equity": 80.286,
+        "cash": 30.52
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 372.587,
+        "equity": 79.989,
+        "cash": 31.65
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 228.372,
+        "equity": 64.323,
+        "cash": 34.153
+      }
+    ],
+    "IFT": [
+      {
+        "date": "2026-03-31",
+        "currency": "NZD",
+        "debt": 7919.1,
+        "equity": 7677.2,
+        "cash": 312.6
+      },
+      {
+        "date": "2025-03-31",
+        "currency": "NZD",
+        "debt": 7049.3,
+        "equity": 6661.3,
+        "cash": 293.7
+      },
+      {
+        "date": "2024-03-31",
+        "currency": "NZD",
+        "debt": 6857.8,
+        "equity": 5919,
+        "cash": 236.2
+      },
+      {
+        "date": "2023-03-31",
+        "currency": "NZD",
+        "debt": 3391.8,
+        "equity": 4208.1,
+        "cash": 774.5
+      }
+    ],
+    "BGA": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 471.4,
+        "equity": 996.8,
+        "cash": 133.4
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 439.6,
+        "equity": 980.2,
+        "cash": 120.9
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 418.9,
+        "equity": 1014.8,
+        "cash": 65.6
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 467.1,
+        "equity": 1003.7,
+        "cash": 66.4
+      }
+    ],
+    "SSM": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 110.15,
+        "equity": 521.641,
+        "cash": 80.675
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 77.187,
+        "equity": 512.572,
+        "cash": 73.553
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 117.019,
+        "equity": 480.288,
+        "cash": 62.947
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 171.856,
+        "equity": 465.358,
+        "cash": 84.267
+      }
+    ],
+    "DRO": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 14.255,
+        "equity": 336.616,
+        "cash": 209.49
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 9.107,
+        "equity": 311.587,
+        "cash": 219.489
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 2.625404,
+        "equity": 74.511293,
+        "cash": 56.771346
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 0.596097,
+        "equity": 18.999403,
+        "cash": 10.218861
+      }
+    ],
+    "CYL": [
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 33.005,
+        "equity": 201.98,
+        "cash": 39.036
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 33.817,
+        "equity": 171.773,
+        "cash": 31.981
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 3.788019,
+        "equity": 57.720276,
+        "cash": 21.242571
+      }
+    ],
+    "HLI": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 5.2,
+        "equity": 1019,
+        "cash": 45.7
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 196.518,
+        "equity": 1080.388,
+        "cash": 112.38
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 197.289,
+        "equity": 1141.351,
+        "cash": 57.049
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 191.061,
+        "equity": 1421.138,
+        "cash": 23.841
+      }
+    ],
+    "FBU": [
+      {
+        "date": "2026-06-30",
+        "currency": "NZD",
+        "debt": 2024,
+        "equity": 3957,
+        "cash": 145
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "NZD",
+        "debt": 2669,
+        "equity": 3602,
+        "cash": 139
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "NZD",
+        "debt": 3544,
+        "equity": 3317,
+        "cash": 311
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "NZD",
+        "debt": 3399,
+        "equity": 3650,
+        "cash": 365
+      }
+    ],
+    "WPR": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 932.8,
+        "equity": 1894.1,
+        "cash": 14.4
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 917.4,
+        "equity": 1854.8,
+        "cash": 14.7
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 892.7,
+        "equity": 1832.6,
+        "cash": 13.3
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 884.5,
+        "equity": 2028.4,
+        "cash": 14
+      }
+    ],
+    "CIP": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1378.832,
+        "equity": 2506,
+        "cash": 12.974
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1359.202,
+        "equity": 2487.279,
+        "cash": 15.038
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1334.878,
+        "equity": 2457.71,
+        "cash": 16.536
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1289.856,
+        "equity": 2511.149,
+        "cash": 20.868
+      }
+    ],
+    "KCN": [
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 59.405,
+        "equity": 247.686,
+        "cash": 6.864
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 24.042,
+        "equity": 50.049,
+        "cash": 13.047
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 19.895,
+        "equity": -7.894,
+        "cash": 7.628
+      }
+    ],
+    "ARB": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 49.581,
+        "equity": 741.888,
+        "cash": 47.895
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 46.642,
+        "equity": 756.616,
+        "cash": 69.198
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 40.251,
+        "equity": 659.416,
+        "cash": 56.502
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 35.844,
+        "equity": 607.126,
+        "cash": 44.945
+      }
+    ],
+    "BPT": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 632.3,
+        "equity": 3274.2,
+        "cash": 213
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 571.5,
+        "equity": 3159.9,
+        "cash": 172.2
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 794.7,
+        "equity": 3312.5,
+        "cash": 172
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 408.5,
+        "equity": 3877.9,
+        "cash": 218.9
+      }
+    ],
+    "ELD": [
+      {
+        "date": "2025-09-30",
+        "currency": "AUD",
+        "debt": 594.133,
+        "equity": 1080.595,
+        "cash": 46.732
+      },
+      {
+        "date": "2024-09-30",
+        "currency": "AUD",
+        "debt": 730.716,
+        "equity": 840.724,
+        "cash": 40.21
+      },
+      {
+        "date": "2023-09-30",
+        "currency": "AUD",
+        "debt": 484.794,
+        "equity": 862.481,
+        "cash": 21.483
+      },
+      {
+        "date": "2022-09-30",
+        "currency": "AUD",
+        "debt": 302.753,
+        "equity": 854.859,
+        "cash": 17.84
+      }
+    ],
+    "SLC": [
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 60.235,
+        "equity": 371.049,
+        "cash": 51.556
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 56.827,
+        "equity": 366.362,
+        "cash": 32.153
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 17.715,
+        "equity": 416.215,
+        "cash": 83.133
+      }
+    ],
+    "CIA": [
+      {
+        "date": "2026-06-30",
+        "currency": "CAD",
+        "debt": 1413.798,
+        "equity": 1610.056,
+        "cash": 198.621
+      },
+      {
+        "date": "2026-03-31",
+        "currency": "CAD",
+        "debt": 1080.524,
+        "equity": 1534.259,
+        "cash": 296.788
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "CAD",
+        "debt": 1060.616,
+        "equity": 1509.819,
+        "cash": 245.092
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "CAD",
+        "debt": 850.466,
+        "equity": 1442.652,
+        "cash": 176.054
+      },
+      {
+        "date": "2025-03-31",
+        "currency": "CAD",
+        "debt": 799.636,
+        "equity": 1435.398,
+        "cash": 117.451
+      },
+      {
+        "date": "2024-03-31",
+        "currency": "CAD",
+        "debt": 616.406,
+        "equity": 1396.51,
+        "cash": 400.061
+      },
+      {
+        "date": "2023-03-31",
+        "currency": "CAD",
+        "debt": 562.122,
+        "equity": 1262.704,
+        "cash": 327.118
+      }
+    ],
+    "ASB": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 294.699,
+        "equity": 1233.569,
+        "cash": 311.895
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 266.989,
+        "equity": 1308.655,
+        "cash": 583.933
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 281.058,
+        "equity": 1004.665,
+        "cash": 173.51
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 240.457,
+        "equity": 948.818,
+        "cash": 179.201
+      }
+    ],
+    "DVP": [
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 158.292214,
+        "equity": 629.960402,
+        "cash": 58.625753
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 40.811644,
+        "equity": 349.270503,
+        "cash": 41.499452
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 27.913148,
+        "equity": 149.660928,
+        "cash": 21.769145
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 3.517713,
+        "equity": 144.554069,
+        "cash": 43.206524
+      }
+    ],
+    "DYL": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 3.227735,
+        "equity": 660.84458,
+        "cash": 159.634408
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 3.567289,
+        "equity": 614.636438,
+        "cash": 177.503228
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 3.833828,
+        "equity": 374.642354,
+        "cash": 41.250706
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 3.860564,
+        "equity": 115.177018,
+        "cash": 65.362499
+      }
+    ],
+    "FFM": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1.593,
+        "equity": 425.174,
+        "cash": 193.357
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1.44,
+        "equity": 321.38,
+        "cash": 106.746
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 2.003,
+        "equity": 184.085,
+        "cash": 67.635
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1.838765,
+        "equity": 59.593274,
+        "cash": 6.297931
+      }
+    ],
+    "DMP": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1130.328,
+        "equity": 457.25,
+        "cash": 131.028
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1498.963,
+        "equity": 663.087,
+        "cash": 153.499
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1458.013,
+        "equity": 609.548,
+        "cash": 87.651
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1754.439,
+        "equity": 520.517,
+        "cash": 159.891
+      }
+    ],
+    "CNI": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1847.681,
+        "equity": 1731.7,
+        "cash": 1484.446
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1417.707,
+        "equity": 1482.702,
+        "cash": 1254.389
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1269.817,
+        "equity": 1476.137,
+        "cash": 2037.481
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 410.942,
+        "equity": 1414.414,
+        "cash": 1165.193
+      }
+    ],
+    "KAR": [
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 338.8,
+        "equity": 1032.5,
+        "cash": 206.1
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 511.2,
+        "equity": 976.4,
+        "cash": 341.2
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "USD",
+        "debt": 275.7,
+        "equity": 473.6,
+        "cash": 74.8
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "USD",
+        "debt": 316.031,
+        "equity": 276.2009999999,
+        "cash": 157.683
+      }
+    ],
+    "ABB": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 267.479,
+        "equity": 712.479,
+        "cash": 125.393
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 258.494,
+        "equity": 545.335,
+        "cash": 130.957
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 351.548,
+        "equity": 570.102,
+        "cash": 214.133
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 204.002,
+        "equity": 291.781,
+        "cash": 76.168
+      }
+    ],
+    "NCK": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 350.066,
+        "equity": 279.771,
+        "cash": 106.594
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 316.14,
+        "equity": 266.678,
+        "cash": 100.993
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 320.372,
+        "equity": 257.779,
+        "cash": 81.331
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 318.165,
+        "equity": 179.913,
+        "cash": 89.251
+      }
+    ],
+    "JDO": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 3239.7,
+        "equity": 1772.2,
+        "cash": null
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 3119.3,
+        "equity": 1686.6,
+        "cash": null
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 3147.3,
+        "equity": 1565.3,
+        "cash": null
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 4517.6,
+        "equity": 1477.1,
+        "cash": null
+      }
+    ],
+    "ELV": [
+      {
+        "date": "2026-06-30",
+        "currency": "USD",
+        "debt": null,
+        "equity": 727.166,
+        "cash": 255.279
+      },
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": null,
+        "equity": 565.209,
+        "cash": 81.185
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 77.551,
+        "equity": null,
+        "cash": null
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "USD",
+        "debt": null,
+        "equity": 273.189,
+        "cash": 47.254
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "USD",
+        "debt": null,
+        "equity": 444.514106583072,
+        "cash": 60.573086203555
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 30.62,
+        "equity": null,
+        "cash": null
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "USD",
+        "debt": 20.661534489949,
+        "equity": 500.524249865959,
+        "cash": 139.746347792127
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "USD",
+        "debt": 16.146451075890003,
+        "equity": null,
+        "cash": null
+      }
+    ],
+    "SLX": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 0.642197,
+        "equity": 201.196597,
+        "cash": 180.744739
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 0.910204,
+        "equity": 90.947867,
+        "cash": 81.958636
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1.181974,
+        "equity": 131.93834,
+        "cash": 116.995321
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 0.772138,
+        "equity": 148.689192,
+        "cash": 140.735953
+      }
+    ],
+    "PMV": [
+      {
+        "date": "2024-07-31",
+        "currency": "AUD",
+        "debt": 547.272,
+        "equity": 1795.522,
+        "cash": 409.481
+      },
+      {
+        "date": "2023-07-31",
+        "currency": "AUD",
+        "debt": 568.332,
+        "equity": 1741.336,
+        "cash": 418.224
+      },
+      {
+        "date": "2022-07-31",
+        "currency": "AUD",
+        "debt": 308.281,
+        "equity": 1677.519,
+        "cash": 471.36
+      }
+    ],
+    "IRE": [
+      {
+        "date": "2025-12-31",
+        "currency": "AUD",
+        "debt": 164.102,
+        "equity": 423.101,
+        "cash": 55.34
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "AUD",
+        "debt": 234.034,
+        "equity": 378.105,
+        "cash": 66.188
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "AUD",
+        "debt": 422.958,
+        "equity": 272.009,
+        "cash": 43.881
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "AUD",
+        "debt": 462.751,
+        "equity": 433.813,
+        "cash": 63.353
+      }
+    ],
+    "ELS": [
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 0.206259,
+        "equity": 50.968089999899995,
+        "cash": 59.040914
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 0.180102,
+        "equity": 1.1509849999,
+        "cash": 0.873953
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "USD",
+        "debt": 5.32499,
+        "equity": -2.667264,
+        "cash": 2.702593
+      },
+      {
+        "date": "2022-12-31",
+        "currency": "USD",
+        "debt": 4.253932,
+        "equity": 1.0874570001000001,
+        "cash": 5.194794
+      }
+    ],
+    "GDG": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 47.379,
+        "equity": 731.591,
+        "cash": 192.763
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 7.033,
+        "equity": 700.353,
+        "cash": 180.213
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 3.465,
+        "equity": 211.383,
+        "cash": 259.832
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 3.807,
+        "equity": 59.051,
+        "cash": 93.66
+      }
+    ],
+    "PXA": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 232.805,
+        "equity": 1118.958,
+        "cash": 63.625
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 324.156,
+        "equity": 1142.816,
+        "cash": 70.674
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 375.082,
+        "equity": 1225.398,
+        "cash": 90.461
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 306.367,
+        "equity": 1241.948,
+        "cash": 36.539
+      }
+    ],
+    "IPX": [
+      {
+        "date": "2025-12-31",
+        "currency": "USD",
+        "debt": 4.458746,
+        "equity": 108.20189,
+        "cash": 65.82683
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "USD",
+        "debt": 4.191039,
+        "equity": 105.542403,
+        "cash": 77.125859
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "USD",
+        "debt": 1.490673,
+        "equity": 51.339595,
+        "cash": 33.157356
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "USD",
+        "debt": 0.975314,
+        "equity": 20.563228,
+        "cash": 11.937941
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "USD",
+        "debt": 0.54303,
+        "equity": 7.419719,
+        "cash": 5.672551
+      }
+    ],
+    "NEC": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 1669.764,
+        "equity": 1182.424,
+        "cash": 92.387
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 1058.565,
+        "equity": 1572.44,
+        "cash": 141.668
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 1079.218,
+        "equity": 1587.66,
+        "cash": 92.86
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 1013.239,
+        "equity": 1682.7,
+        "cash": 119.676
+      }
+    ],
+    "VUL": [
+      {
+        "date": "2025-12-31",
+        "currency": "EUR",
+        "debt": 30.612,
+        "equity": 856.946,
+        "cash": 517.839
+      },
+      {
+        "date": "2024-12-31",
+        "currency": "EUR",
+        "debt": 3.852,
+        "equity": 351.533,
+        "cash": 97.054
+      },
+      {
+        "date": "2023-12-31",
+        "currency": "EUR",
+        "debt": 4.411,
+        "equity": 268.281,
+        "cash": 78.728
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "EUR",
+        "debt": 3.005,
+        "equity": 247.323,
+        "cash": 175.416
+      }
+    ],
+    "ARF": [
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 436.979,
+        "equity": 1232.286,
+        "cash": 16.572
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 377.323,
+        "equity": 1071.621,
+        "cash": 12.434
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 340.793,
+        "equity": 1056.677,
+        "cash": 16.113
+      },
+      {
+        "date": "2022-06-30",
+        "currency": "AUD",
+        "debt": 323.213,
+        "equity": 1006.422,
+        "cash": 22.2
+      }
+    ],
+    "WBT": [
+      {
+        "date": "2026-06-30",
+        "currency": "AUD",
+        "debt": 0.373,
+        "equity": 153.985,
+        "cash": 168.342
+      },
+      {
+        "date": "2025-06-30",
+        "currency": "AUD",
+        "debt": 0.51616,
+        "equity": 90.182496,
+        "cash": 88.306794
+      },
+      {
+        "date": "2024-06-30",
+        "currency": "AUD",
+        "debt": 0.434771,
+        "equity": 60.996117,
+        "cash": 62.83122
+      },
+      {
+        "date": "2023-06-30",
+        "currency": "AUD",
+        "debt": 0.284736,
+        "equity": 84.356514,
+        "cash": 87.957503
+      }
+    ]
+  }
+}

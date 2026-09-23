@@ -12,6 +12,9 @@ export const TermsSchema = z.object({
   ratio: Found(z.string()).nullable(),
   percentOfIssued: Found(z.number()).nullable(),
   useOfFunds: Found(z.string()).nullable(),
+  cashBefore: Found(z.number()).nullable().default(null),
+  proFormaCash: Found(z.number()).nullable().default(null),
+  alongside: z.array(z.object({ millions: z.number(), kind: z.string(), from: z.string(), source: z.string(), quote: z.string() })).default([]),
 });
 export const TermsFileSchema = z.object({ generatedAt: z.string(), raises: z.record(z.string(), TermsSchema) });
 export type Terms = z.infer<typeof TermsSchema>;
@@ -54,7 +57,7 @@ function basisOf(phrase: string): string | null {
 }
 
 export function extractTerms(sources: { document: ArchiveRow; text: string }[]): Terms {
-  const terms: Terms = { documents: sources.map(source => source.document.id), offerPrice: null, discounts: [], underwritten: null, leadManagers: [], leadSource: null, ratio: null, percentOfIssued: null, useOfFunds: null };
+  const terms: Terms = { documents: sources.map(source => source.document.id), offerPrice: null, discounts: [], underwritten: null, leadManagers: [], leadSource: null, ratio: null, percentOfIssued: null, useOfFunds: null, cashBefore: null, proFormaCash: null, alongside: [] };
   for (const { document, text: raw } of sources) {
     const text = clean(raw);
     if (!terms.offerPrice || /floor/i.test(terms.offerPrice.quote)) {
@@ -108,8 +111,42 @@ export function extractTerms(sources: { document: ArchiveRow; text: string }[]):
       }
     }
     if (!terms.useOfFunds) {
-      const sentence = text.split(/(?<=\.)\s+(?=[A-Z])/).find(line => /proceeds|funds raised|equity raising will|placement will|offer will/i.test(line) && /\b(used|use|fund|funding|applied|allocated|support|accelerate|advance|repay)\b/i.test(line) && line.length > 60 && line.length < 600 && !/costs of the offer only|forward.looking/i.test(line));
-      if (sentence) terms.useOfFunds = { value: sentence.length > 320 ? `${sentence.slice(0, 317).replace(/\s\S*$/, '')}…` : sentence, source: document.id, quote: sentence.slice(0, 200) };
+      // Page headers and disclaimers get pasted into sentences by the PDF reader, so runs of capitals and page furniture are removed first.
+      const body = text.replace(/For personal use only/gi, ' ').replace(/ASX (?:RELEASE|ANNOUNCEMENT)[^.]{0,60}?Page \|? ?\d+/gi, ' ').replace(/\bPage \d+(?: of \d+)?\b/gi, ' ')
+        .replace(/(?:\b[A-Z][A-Z&’'-]{1,}\b[ ,]*){4,}/g, ' ').replace(/\s+/g, ' ');
+      const use = /\b(used|use|fund|funding|applied|allocated|support|accelerate|advance|repay|underpin|develop|finance|strengthen|provide)\b/i;
+      const reject = /forward.looking|costs of the offer only|intended that eligible|shares are to be issued at|non-underwritten|closed on|will receive \d|working capital['’] in this|references to/i;
+      const scored = body.split(/(?<=[a-z0-9)”"%]\.)\s+(?=[A-Z])/).map(line => line.trim())
+        .filter(line => line.length > 50 && line.length < 900 && use.test(line) && !reject.test(line))
+        .map(line => ({ line, at: line.search(/\b(?:net |gross )?proceeds\b|funds raised|equity raising will|placement will|offer will|capital raising will/i) }))
+        .filter(row => row.at >= 0)
+        .sort((a, b) => a.at - b.at);
+      const sentence = scored[0]?.line.replace(/^.*\b(?:WA|NSW|VIC|QLD|SA|TAS|ACT|NT) \d{4}\s+/, '').replace(/^(?:(?:USE OF PROCEEDS|Use of Proceeds|Proceeds(?= [A-Z])|Conditional Placement|Capital Raising Overview)\s+)+(?=\S)/, '');
+      if (sentence && scored[0].at < 80) terms.useOfFunds = { value: sentence.length > 320 ? `${sentence.slice(0, 317).replace(/\s\S*$/, '')}…` : sentence, source: document.id, quote: sentence.slice(0, 200) };
+    }
+    if (!terms.cashBefore) {
+      // A dated cash balance, or cash described as existing, before the new money arrives.
+      const match = text.match(/(?:existing|current) cash (?:balance |and cash equivalents |position )?(?:of )?(?:approximately |~)?A?\$(\d[\d,]*(?:\.\d+)?) ?(million|m|bn|billion)\b/i)
+        ?? text.match(/A?\$(\d[\d,]*(?:\.\d+)?) ?(million|m|bn|billion) (?:in |of )?(?:cash|cash and cash equivalents|cash at bank)(?: and [\w ]{0,30})? (?:as at|at) (?:\d{1,2} )?(?:January|February|March|April|May|June|July|August|September|October|November|December)/i)
+        ?? text.match(/cash (?:and cash equivalents |at bank |balance )?(?:of |was |totalled |totalling )(?:approximately |~)?A?\$(\d[\d,]*(?:\.\d+)?) ?(million|m|bn|billion)\b (?:as at|at) (?:\d{1,2} )?(?:January|February|March|April|May|June|July|August|September|October|November|December)/i);
+      if (match) terms.cashBefore = { value: Number(match[1].replace(/,/g, '')) * (/^b/i.test(match[2]) ? 1000 : 1), source: document.id, quote: quoteAround(text, match.index!, match[0].length) };
+    }
+    if (!terms.proFormaCash) {
+      const match = text.match(/pro[- ]?forma (?:cash|net cash|liquidity|available liquidity|cash and (?:cash equivalents|liquid investments|undrawn [\w ]{0,20}))(?: balance| position)?(?: will be| of| is| at [^$.]{0,40}?| would be)?:? (?:approximately |~|circa )?(?:A)?\$(\d[\d,]*(?:\.\d+)?) ?(million|m|bn|billion)\b/i)
+        ?? text.match(/(?:A)?\$(\d[\d,]*(?:\.\d+)?) ?(million|m|bn|billion) (?:of )?pro[- ]?forma (?:cash|liquidity)/i);
+      if (match) terms.proFormaCash = { value: Number(match[1].replace(/,/g, '')) * (/^b/i.test(match[2]) ? 1000 : 1), source: document.id, quote: quoteAround(text, match.index!, match[0].length) };
+    }
+    if (!terms.alongside.length) {
+      // Other money raised at the same time, such as debt, royalties or prepayments, named in the equity notice.
+      const kinds = 'royalty|stream(?:ing)?|debt|loan|term loan|project finance|project loan|senior debt|revolving credit|syndicated|bridge|offtake prepayment|prepayment|convertible notes?|green bond';
+      for (const match of text.matchAll(new RegExp(`(?:A|US)?\\$(\\d[\\d,]*(?:\\.\\d+)?) ?(million|m|bn|billion)\\b (?:of )?(?:new |committed |additional |senior |secured )?(${kinds})(?: funding| financing| facilit(?:y|ies)| package)?(?: (?:secured|committed|agreed|provided))?(?: (?:from|with|by) ([A-Z][\\w&-]+(?:[ -][A-Z][\\w&-]+){0,2}))?`, 'g'))) {
+        if (!/facilit|funding|financing|package|from|with|by/i.test(match[0]) && !/royalty|stream|prepayment|convertible/i.test(match[3])) continue;
+        const from = (match[4] ?? '').replace(/Corporation|Limited|Ltd|\d+$/g, '').replace(/^FrancoNevada$/, 'Franco-Nevada').trim();
+        const millions = Number(match[1].replace(/,/g, '')) * (/^b/i.test(match[2]) ? 1000 : 1);
+        const kind = match[3].toLowerCase().replace(/^stream(?:ing)?$/, 'stream');
+        if (millions > 0 && !terms.alongside.some(item => item.millions === millions)) terms.alongside.push({ millions, kind, from, source: document.id, quote: quoteAround(text, match.index!, match[0].length) });
+      }
+      terms.alongside = terms.alongside.slice(0, 3);
     }
   }
   // Where the sentence quotes the reference price, the stated discount has to agree with the offer price.

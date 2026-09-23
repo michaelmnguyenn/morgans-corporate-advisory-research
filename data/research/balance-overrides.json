@@ -1,0 +1,12 @@
+{
+  "MI6": {
+    "date": "2025-12-31",
+    "currency": "AUD",
+    "debt": 0.446165,
+    "equity": 198.632816,
+    "cash": 31.170465,
+    "source": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03069957",
+    "sourceLabel": "Half-year accounts, p.15",
+    "note": "Debt is current and non-current lease liabilities ($144,086 + $302,079); no separate borrowings line. Balance sheet predates 2026 funding."
+  }
+}

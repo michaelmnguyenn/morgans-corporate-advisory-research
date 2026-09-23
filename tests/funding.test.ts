@@ -43,7 +43,7 @@ describe('market data around a raise', () => {
   it('measures market cap and the price after the raise against the offer price, skipping halted days', () => {
     const closes: [string, number][] = [['2025-09-12', 7.74], ['2025-09-15', 7.88], ['2025-09-17', 7.76], ...Array.from({ length: 25 }, (_, i) => [`2025-10-${String(i + 1).padStart(2, '0')}`, 9.93] as [string, number])];
     const market = raiseMarket({ firstDate: '2025-09-16', documents: [row('1', '2025-09-16', 'A$300M Fully Underwritten Equity Raising')], ticker: 'PDN' },
-      { documents: [], offerPrice: { value: 7.25, currency: 'A$', source: '1', quote: '' }, discounts: [], underwritten: null, leadManagers: [], leadSource: null, ratio: null, percentOfIssued: null, useOfFunds: null },
+      { documents: [], offerPrice: { value: 7.25, currency: 'A$', source: '1', quote: '' }, discounts: [], underwritten: null, leadManagers: [], leadSource: null, ratio: null, percentOfIssued: null, useOfFunds: null, cashBefore: null, proFormaCash: null, alongside: [] },
       { closes, splits: [], shares: [['2025-06-30', 398_960_289]] }, { closes: [['2025-09-15', 100], ['2025-10-20', 101]], splits: [], shares: [] });
     expect(market.referenceClose).toBe(7.88);
     expect(market.marketCapMillions).toBe(3144);

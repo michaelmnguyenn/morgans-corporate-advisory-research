@@ -1,9 +1,9 @@
 'use client';
 import { useId, useMemo, useRef, useState } from 'react';
-import { benchmarkable, comparableFunding, describe as headlineFor, formatAmount, headlineSize, median, purposes, rankComparables, structureName, structureSummary, type Match, type Purpose } from '@/lib/advisory';
+import { benchmarkable, comparableFunding, describe as headlineFor, formatAmount, headlineSize, median, purposes, rankComparables, structureName, type Purpose } from '@/lib/advisory';
 import { mainDiscount, type Terms } from '@/lib/terms';
-import { financingModel } from '@/lib/decision';
-import { instruments, type FundingDeal, type Instrument } from '@/lib/funding';
+import { balanceBefore, leverage, type BalanceSheet } from '@/lib/balance-sheet';
+import type { FundingDeal, Instrument } from '@/lib/funding';
 import type { FundingTerms } from '@/lib/funding-terms';
 import type { RaiseMarket } from '@/lib/market-data';
 import { PrecedentIndexSchema, UniverseSchema } from '@/lib/precedents';
@@ -12,7 +12,6 @@ import type { z } from 'zod';
 type Index = z.infer<typeof PrecedentIndexSchema>;
 type Universe = z.infer<typeof UniverseSchema>;
 type Company = Universe['companies'][number];
-type Scope = 'best' | 'sector' | 'purpose' | 'all';
 
 const small = new Set(['and', 'of', 'the', 'for']);
 const tidyName = (name: string) => name
@@ -58,246 +57,265 @@ function CompanySearch({ companies, value, onChange }: { companies: Company[]; v
 
 const money = (value: number, currency: string) => `${currency}${value < 1 ? value.toFixed(3).replace(/0$/, '') : value.toFixed(2)}`;
 const percent = (value: number) => `${Number(value.toFixed(1))}%`;
-
-const rate = (value: number) => `${Number(value.toFixed(3))}%`;
+const rate = (value: number) => `${Number(value.toFixed(2))}%`;
 const signed = (value: number) => `${value > 0 ? '+' : ''}${Number(value.toFixed(1))}%`;
-const medianText = (values: (number | null | undefined)[], format: (value: number) => string) => {
-  const middle = median(values.filter((value): value is number => typeof value === 'number'));
-  return middle === null ? '–' : format(middle);
+const times = (value: number) => `${value.toFixed(2)}x`;
+const middle = (values: (number | null | undefined)[]) => median(values.filter((value): value is number => typeof value === 'number' && Number.isFinite(value)));
+const millions = (value: number, currency = 'A$') => (Math.abs(value) >= 1000 ? `${currency}${Number((value / 1000).toFixed(2))}bn` : `${currency}${Number(value.toFixed(value < 10 ? 1 : 0))}m`);
+const shortInstrument: Record<Instrument, string> = { convertible: 'Convertible', hybrid: 'Hybrid / sub. notes', bond: 'Bond / notes', facility: 'Loan facility', royalty: 'Royalty / stream' };
+const shortStructure = (name: string) => name.replace('Placement, entitlement + SPP', 'Placement + ANREO + SPP').replace('Entitlement offer', 'Entitlement');
+
+type Quote = { close: number; date: string; currency: string; url: string; marketCap?: number };
+export type Data = {
+  terms: Record<string, Terms>; market: Record<string, RaiseMarket>; funding: FundingDeal[]; fundingTerms: Record<string, FundingTerms>;
+  fundingMarket: Record<string, { marketCapMillions: number | null; audMillions: number | null; percentOfMarketCap: number | null }>;
+  quotes: Record<string, Quote>; balances: Record<string, BalanceSheet>; history: Record<string, Omit<BalanceSheet, 'source' | 'sourceLabel'>[]>;
 };
-const millions = (value: number, currency = 'A$') => (value >= 1000 ? `${currency}${Number((value / 1000).toFixed(2))}bn` : `${currency}${Math.round(value)}m`);
-const instrumentLabel = Object.fromEntries(instruments.map(row => [row.id, row.label])) as Record<Instrument, string>;
-const shortInstrument: Record<Instrument, string> = { convertible: 'Convertible', hybrid: 'Hybrid / subordinated', bond: 'Bond / notes', facility: 'Loan facility', royalty: 'Royalty / stream' };
 
-export type Data = { terms: Record<string, Terms>; market: Record<string, RaiseMarket>; funding: FundingDeal[]; fundingTerms: Record<string, FundingTerms>; fundingMarket: Record<string, { marketCapMillions: number | null; audMillions: number | null; percentOfMarketCap: number | null }>; quotes: Record<string, { close: number; date: string; currency: string; url: string }> };
+type Option = 'Placement' | 'Placement + SPP' | 'Entitlement offer' | 'Loan facility' | 'Bond / notes' | 'Convertible' | 'Hybrid';
+const options: Option[] = ['Placement', 'Placement + SPP', 'Entitlement offer', 'Loan facility', 'Bond / notes', 'Convertible', 'Hybrid'];
+const equityOptions = new Set<Option>(['Placement', 'Placement + SPP', 'Entitlement offer']);
+const optionOfEquity = (name: string): Option | null => (name === 'Placement' ? 'Placement' : name === 'Placement + SPP' || name === 'SPP' ? 'Placement + SPP' : /entitlement/i.test(name) ? 'Entitlement offer' : null);
+const optionOfDebt: Partial<Record<Instrument, Option>> = { facility: 'Loan facility', bond: 'Bond / notes', convertible: 'Convertible', hybrid: 'Hybrid' };
 
-function Notices({ documents, note, label }: { documents: FundingDeal['documents']; note?: string; label: string }) {
-  if (!note && documents.length < 2) return null;
-  return <details><summary>{label}</summary>{note && <p>{note}</p>}
-    <ul>{documents.map(document => <li key={document.id}>{date(document.date)} <a href={document.url} target="_blank" rel="noreferrer">{document.title}</a></li>)}</ul></details>;
+type Deal = { id: string; option: Option; ticker: string; company: string; date: string; url: string; title: string; note?: string; size: number | null; shareOfCap: number | null; rate: number | null; rateQuote?: string; day1: number | null; netDebt: number | null; netDebtDate?: string; who: string[] };
+
+// Net debt in A$m at the last balance date before the deal, from AUD balance sheets only.
+function netDebtBefore(data: Data, ticker: string, day: string) {
+  const row = balanceBefore(data.history[ticker] as BalanceSheet[] | undefined, day);
+  if (!row || row.currency !== 'AUD' || row.cash === null) return null;
+  const debt = row.debt ?? (row.equity !== null ? 0 : null);
+  return debt === null ? null : { value: debt - row.cash, date: row.date };
 }
 
-function RaiseTable({ rows, limit, data }: { rows: Match[]; limit: number; data: Data }) {
-  return <div className="table-scroll"><table className="raise-table"><thead><tr><th>Date</th><th>Company</th><th>Structure</th><th className="n" title="Largest amount in the grouped headlines; check scope in the filing">Headline size</th><th className="n" title="Headline size divided by estimated pre-announcement market cap, not ownership dilution">% of est. mkt cap</th><th className="n">Offer price</th><th className="n">Discount</th><th className="n">First close vs offer</th><th className="n">20 sessions later vs offer</th><th>Underwritten</th><th>Lead managers</th></tr></thead>
-    <tbody>{rows.slice(0, limit).map(({ candidate, own }) => {
-      const lead = headlineFor(candidate);
-      const unresolved = !benchmarkable(candidate);
-      const found = unresolved ? undefined : data.terms[candidate.id];
-      const market = unresolved ? undefined : data.market[candidate.id];
-      const discount = mainDiscount(found);
-      const cite = (id: string | null | undefined) => candidate.documents.find(document => document.id === id)?.url;
-      return <tr key={candidate.id} className={own ? 'own' : undefined}>
-        <td>{date(candidate.firstDate)}</td>
-        <td><strong>{candidate.ticker}</strong> {tidyName(candidate.company)}{own && <span className="tag">this company</span>}
-          <div className="headline"><a href={lead.url} target="_blank" rel="noreferrer">{lead.title}</a></div>
-          {unresolved && <small>Grouped or unclear notices; check the filing</small>}
-          <Notices documents={candidate.documents} note={found?.useOfFunds?.value} label="Use of funds and notices" /></td>
-        <td>{structureName(candidate)}{found?.ratio && <><br /><small>{found.ratio.value}</small></>}</td>
-        <td className="n">{!unresolved && formatAmount(headlineSize(candidate)) || <small>–</small>}</td>
-        <td className="n">{market?.percentOfMarketCap != null ? percent(market.percentOfMarketCap) : <small>–</small>}</td>
-        <td className="n">{found?.offerPrice ? <a className="cite" href={cite(found.offerPrice.source)} target="_blank" rel="noreferrer" title={found.offerPrice.quote}>{money(found.offerPrice.value, found.offerPrice.currency)}</a> : <small>–</small>}</td>
-        <td className="n">{discount ? <><a className="cite" href={cite(discount.source)} target="_blank" rel="noreferrer" title={discount.quote}>{discount.percent < 0 ? `${percent(-discount.percent)} premium` : percent(discount.percent)}</a>{discount.basis !== 'last close' && <><br /><small>to {discount.basis}</small></>}</>
-          : market?.impliedDiscount != null ? <span title={`Offer price against the ${market.referenceDate} close of ${market.referenceClose}`}>{percent(market.impliedDiscount)}<br /><small>from prices</small></span> : <small>–</small>}</td>
-        <td className="n">{market?.day1Return != null ? <span title={`${market.tradeDate} close against the offer price`}>{signed(market.day1Return)}</span> : <small>–</small>}</td>
-        <td className="n">{market?.month1Return != null ? <span title={market.benchmarkMonth1 != null ? `ASX 200 over the same period: ${signed(market.benchmarkMonth1)}` : undefined}>{signed(market.month1Return)}</span> : <small>–</small>}</td>
-        <td>{found?.underwritten ? { fully: 'Yes', partially: 'Partly', not: 'No' }[found.underwritten.value] : <small>–</small>}</td>
-        <td className="brokers">{found?.leadManagers.length ? found.leadManagers.join(', ') : <small>–</small>}</td>
-      </tr>;
-    })}</tbody></table></div>;
-}
-
-function FundingTable({ deals, limit, data, ticker }: { deals: FundingDeal[]; limit: number; data: Data; ticker: string }) {
-  return <div className="table-scroll"><table className="raise-table funding-table"><thead><tr><th>Date</th><th>Company</th><th>Instrument</th><th className="n">Size</th><th className="n" title="Deal size divided by estimated market cap; not debt / equity or total leverage">% of est. mkt cap</th><th className="n">Coupon or margin</th><th>Maturity</th><th className="n">Conversion premium</th><th>Banks and counterparties</th></tr></thead>
-    <tbody>{deals.slice(0, limit).map(deal => {
-      const unresolved = !comparableFunding(deal, undefined, 'any');
-      const found = unresolved ? undefined : data.fundingTerms[deal.id];
-      const fundingMarket = unresolved ? undefined : data.fundingMarket[deal.id];
-      const size = found?.size?.value;
-      const cite = (id: string | undefined) => deal.documents.find(document => document.id === id)?.url;
-      const lead = deal.documents.find(document => /pric|complet|successful|issues? |launch|announces/i.test(document.title)) ?? deal.documents[0];
-      return <tr key={deal.id} className={deal.ticker === ticker ? 'own' : undefined}>
-        <td>{date(deal.firstDate)}</td>
-        <td><strong>{deal.ticker}</strong> {tidyName(deal.company)}{deal.ticker === ticker && <span className="tag">this company</span>}
-          <div className="headline"><a href={lead.url} target="_blank" rel="noreferrer">{lead.title}</a></div>
-          {unresolved && <small>Combined funding package; terms need checking</small>}
-          <Notices documents={deal.documents} note={found?.purpose?.value} label="Purpose and notices" /></td>
-        <td>{shortInstrument[deal.instrument]}</td>
-        <td className="n">{size ? <><a className="cite" href={cite(found!.size!.source)} target="_blank" rel="noreferrer" title={found!.size!.quote}>{millions(size.millions, size.currency)}</a>{size.currency !== 'A$' && fundingMarket?.audMillions && <><br /><small>{millions(fundingMarket.audMillions)}</small></>}</> : <small>–</small>}</td>
-        <td className="n">{fundingMarket?.percentOfMarketCap != null ? percent(fundingMarket.percentOfMarketCap) : <small>–</small>}</td>
-        <td className="n">{found?.coupon ? <a className="cite" href={cite(found.coupon.source)} target="_blank" rel="noreferrer" title={found.coupon.quote}>{rate(found.coupon.value)}</a>
-          : found?.margin ? <a className="cite" href={cite(found.margin.source)} target="_blank" rel="noreferrer" title={found.margin.quote}>{found.margin.value.over} + {Number(found.margin.value.percent.toFixed(2))}%</a> : <small>–</small>}</td>
-        <td>{found?.maturity ? <span title={found.maturity.quote}>{found.maturity.value}</span> : <small>–</small>}</td>
-        <td className="n">{found?.conversionPremium ? <span title={found.conversionPremium.quote}>{percent(found.conversionPremium.value)}</span> : deal.instrument === 'convertible' ? <small>–</small> : null}</td>
-        <td className="brokers">{found?.counterparties.length ? found.counterparties.join(', ') : <small>–</small>}</td>
-      </tr>;
-    })}</tbody></table></div>;
+// Standard reasons an issuer picks each route, with the ASX placement limit checked against the amount entered.
+function reasons(option: Option, facts: { newVsExisting: number | null; interest: number | null; netDebtAfter: number | null; recentPlacement?: string | null }) {
+  const items: Record<Option, string[]> = {
+    'Placement': ['Priced and settled in a few days with no prospectus', 'Only institutions and sophisticated investors take part, so retail holders are diluted',
+      facts.newVsExisting === null ? 'Limited to 15% of existing shares in 12 months without holder approval' : facts.newVsExisting <= 15 ? facts.recentPlacement ? `Would be ${percent(facts.newVsExisting)} of shares against the 15% limit, but the ${facts.recentPlacement} has already used part of this year's capacity` : `Fits the 15% limit on shares issued without holder approval (${percent(facts.newVsExisting)})` : `Needs holder approval, as ${percent(facts.newVsExisting)} is above the 15% limit on shares issued without it`],
+    'Placement + SPP': ['A placement with a share purchase plan so retail holders can buy up to A$30,000 each at the same price', 'SPP shares do not use the 15% placement limit', 'The SPP amount is only known when it closes and is often scaled back or increased'],
+    'Entitlement offer': ['Every holder can buy new shares in proportion to their holding, so those who take up keep their stake', 'Not limited by the 15% cap, so it suits raises that are large against market cap', 'Takes three to four weeks with the retail offer and usually needs a deeper discount and an underwriter'],
+    'Loan facility': ['No new shares issued', 'Needs cash flow or a project that can carry interest and repayments, and comes with covenants', facts.netDebtAfter !== null ? `Net debt would move to ${facts.netDebtAfter < 0 ? `net cash of ${millions(-facts.netDebtAfter)}` : millions(facts.netDebtAfter)}` : 'Banks rarely publish the rate'],
+    'Bond / notes': ['Fixed rate for five to ten years, usually A$300m or more and often in US dollars', 'Lighter covenants than bank debt but a higher rate, and investors look for a credit history or rating', facts.interest !== null ? `About ${millions(facts.interest)} of interest a year at the median rate` : 'Rate depends on credit quality'],
+    'Convertible': ['Lower coupon than straight debt because holders can convert into shares at a premium', 'Shares are only issued if the price rises past the conversion price', 'Suits companies with volatile share prices and strong investor demand'],
+    'Hybrid': ['Counted partly as equity by rating agencies, so it supports the credit rating', 'Mostly used by banks, insurers, utilities and infrastructure owners'],
+  };
+  return items[option].map(item => <li key={item}>{item}</li>);
 }
 
 export default function PrecedentExplorer({ index, universe, data }: { index: Index; universe: Universe; data: Data }) {
-  const { terms } = data;
+  const { terms, market } = data;
   const companies = useMemo(() => [...universe.companies].sort((a, b) => a.ticker.localeCompare(b.ticker)), [universe.companies]);
   const [ticker, setTicker] = useState(companies.some(company => company.ticker === 'MI6') ? 'MI6' : companies[0]?.ticker ?? '');
-  const [purpose, setPurpose] = useState<Purpose>('project');
-  const [keywords, setKeywords] = useState('');
+  const [purpose, setPurpose] = useState<Purpose>('any');
   const [targetAmount, setTargetAmount] = useState('250');
-  const [shareCount, setShareCount] = useState('');
-  const [grossDebt, setGrossDebt] = useState('');
-  const [offerDiscount, setOfferDiscount] = useState('0');
-  const [priceOverride, setPriceOverride] = useState('');
-  const [scope, setScope] = useState<Scope>('best');
-  const [limit, setLimit] = useState(12);
-  const [instrument, setInstrument] = useState<Instrument | 'all'>('all');
-  const [fundingScope, setFundingScope] = useState<'purpose' | 'sector' | 'all'>('purpose');
-  const [fundingLimit, setFundingLimit] = useState(12);
+  const [selected, setSelected] = useState<Option | 'all'>('all');
+  const [limit, setLimit] = useState(15);
   const company = companies.find(row => row.ticker === ticker);
-  const purposeLabel = purposes.find(row => row.id === purpose)!.label.toLowerCase();
-  const reset = () => { setLimit(12); setFundingLimit(12); setShareCount(''); setGrossDebt(''); setPriceOverride(''); };
+
   const quote = data.quotes[ticker];
-  const numberOrNull = (value: string) => value.trim() === '' || !Number.isFinite(Number(value)) ? null : Number(value);
-  const model = financingModel({ amount: numberOrNull(targetAmount), sharePrice: numberOrNull(priceOverride) ?? quote?.close ?? null,
-    sharesMillions: numberOrNull(shareCount), discountPercent: numberOrNull(offerDiscount), grossDebtMillions: numberOrNull(grossDebt) });
+  const balance = data.balances[ticker];
+  const own0 = useMemo(() => (company ? index.candidates.filter(candidate => candidate.ticker === company.ticker).sort((a, b) => b.firstDate.localeCompare(a.firstDate)) : []), [company, index.candidates]);
+  // A raise after the balance date makes the reported cash stale, so the notice's own pro forma cash is used when it states one.
+  const raiseSince = balance ? own0.find(candidate => candidate.firstDate > balance.date) : undefined;
+  const sinceTerms = raiseSince ? terms[raiseSince.id] : undefined;
+  const sinceSize = raiseSince ? headlineSize(raiseSince) : null;
+  const plausible = (value: number | undefined) => value !== undefined && (!sinceSize || value <= sinceSize.millions * 6 + 500);
+  const proForma = plausible(sinceTerms?.proFormaCash?.value) ? sinceTerms!.proFormaCash! : null;
+  // Without a stated pro forma figure, cash is estimated as the reported balance plus the A$ raised since, and labelled as such.
+  const raisedSince = balance ? own0.filter(candidate => candidate.firstDate > balance.date).reduce((sum, candidate) => { const size = headlineSize(candidate); return size?.currency === 'A$' ? sum + size.millions : sum; }, 0) : 0;
+  const estimated = !proForma && balance?.cash != null && raisedSince > 0;
+  const cash = proForma ? proForma.value : balance?.cash != null ? balance.cash + raisedSince : null;
+  const netDebt = balance?.debt != null && cash !== null ? balance.debt - cash : balance && balance.cash !== null ? leverage(balance).netDebt : null;
+  const marketCap = quote?.marketCap ?? null;
+  const amount = Number(targetAmount) > 0 ? Number(targetAmount) : null;
+  const today = quote?.date ?? index.generatedAt.slice(0, 10);
 
-  const ranked = useMemo(() => (company ? rankComparables(index.candidates, company.ticker, company.sector, purpose, keywords) : []), [company, index.candidates, purpose, keywords]);
-  const words = keywords.toLowerCase().match(/[a-z0-9]{3,}/g) ?? [];
-  const matchesWords = (row: Match) => words.every(word => row.candidate.documents.some(document => document.title.toLowerCase().includes(word)) || (terms[row.candidate.id]?.useOfFunds?.value.toLowerCase().includes(word) ?? false));
+  const ranked = useMemo(() => (company ? rankComparables(index.candidates, company.ticker, company.sector, purpose, '') : []), [company, index.candidates, purpose]);
   const own = ranked.filter(row => row.own).sort((a, b) => b.candidate.firstDate.localeCompare(a.candidate.firstDate));
-  const others = ranked.filter(row => !row.own && matchesWords(row));
-  const scopes: Record<Scope, Match[]> = {
-    best: others.filter(row => row.sameSector && row.samePurpose),
-    sector: others.filter(row => row.sameSector),
-    purpose: others.filter(row => row.samePurpose),
-    all: others,
-  };
-  const scopeLabels: Record<Scope, string> = {
-    best: purpose === 'any' ? `${company?.sector}` : `${company?.sector} + ${purposeLabel}`,
-    sector: `All ${company?.sector}`,
-    purpose: purpose === 'any' ? 'All sectors' : `${purposes.find(row => row.id === purpose)!.label}, any sector`,
-    all: 'Every raise',
-  };
-  const basis: Scope = scopes.best.filter(row => benchmarkable(row.candidate)).length >= 3 ? 'best'
-    : scopes.sector.filter(row => benchmarkable(row.candidate)).length >= 3 ? 'sector' : 'purpose';
-  const benchmarkRows = scopes[basis].filter(row => benchmarkable(row.candidate));
-  const summary = structureSummary(benchmarkRows, terms);
-  const leading = summary[0];
-  const amount = Number(targetAmount);
-  const rows = [...(scope === 'purpose' ? [] : own.filter(matchesWords)), ...scopes[scope]];
-  const lastOwn = own[0]?.candidate;
-  const basisText = basis === 'best' ? `${company?.sector} raises for ${purposeLabel}`
-    : basis === 'sector' ? `${company?.sector} raises, all purposes` : `raises for ${purposeLabel} across sectors`;
-
-  const fundingText = (deal: FundingDeal) => [...deal.documents.map(document => document.title), data.fundingTerms[deal.id]?.purpose?.value ?? ''].join(' ').toLowerCase();
-  const fundingPool = data.funding.filter(deal => deal.ticker !== ticker && (fundingScope === 'all' || deal.sector === company?.sector)
-    && (fundingScope !== 'purpose' || comparableFunding(deal, data.fundingTerms[deal.id]?.purpose?.value, purpose)) && words.every(word => fundingText(deal).includes(word)));
   const ownFunding = data.funding.filter(deal => deal.ticker === ticker);
-  const purposeFunding = data.funding.filter(deal => deal.ticker !== ticker && deal.sector === company?.sector
-    && comparableFunding(deal, data.fundingTerms[deal.id]?.purpose?.value, purpose) && words.every(word => fundingText(deal).includes(word)));
-  const comparableFacilities = purposeFunding.filter(deal => deal.instrument === 'facility');
-  const fundingRows = [...ownFunding, ...fundingPool].filter(deal => instrument === 'all' || deal.instrument === instrument);
-  const equityPool = scopes[fundingScope === 'purpose' ? 'best' : fundingScope === 'all' ? 'all' : 'sector'].filter(row => benchmarkable(row.candidate));
-  const mix = [
-    { label: 'Equity raises', deals: equityPool.length, companies: new Set(equityPool.map(row => row.candidate.ticker)).size,
-      median: medianText(equityPool.map(row => headlineSize(row.candidate)).map(amount => (amount?.currency === 'A$' ? amount.millions : null)), value => millions(value)) },
-    ...instruments.map(row => {
-      const deals = fundingPool.filter(deal => deal.instrument === row.id && comparableFunding(deal, undefined, 'any'));
-      return { label: row.label, deals: deals.length, companies: new Set(deals.map(deal => deal.ticker)).size,
-        median: medianText(deals.map(deal => data.fundingMarket[deal.id]?.audMillions), value => millions(value)) };
-    }),
-  ];
+
+  const deals: Deal[] = [];
+  if (company) {
+    for (const match of ranked) {
+      const { candidate } = match;
+      const option = optionOfEquity(structureName(candidate));
+      if (match.own || !match.sameSector || !match.samePurpose || !option || !benchmarkable(candidate)) continue;
+      const found = terms[candidate.id];
+      const deal = market[candidate.id];
+      const size = headlineSize(candidate);
+      const discount = mainDiscount(found);
+      const notice = headlineFor(candidate);
+      const debt = netDebtBefore(data, candidate.ticker, candidate.firstDate);
+      deals.push({ id: candidate.id, option, ticker: candidate.ticker, company: candidate.company, date: candidate.firstDate, url: notice.url, title: notice.title, note: found?.useOfFunds?.value,
+        size: size?.currency === 'A$' ? size.millions : null, shareOfCap: deal?.percentOfMarketCap ?? null,
+        rate: discount?.basis === 'last close' ? discount.percent : deal?.impliedDiscount ?? null, rateQuote: discount?.quote, day1: deal?.day1Return ?? null,
+        netDebt: debt?.value ?? null, netDebtDate: debt?.date, who: found?.leadManagers ?? [] });
+    }
+    for (const deal of data.funding) {
+      const option = optionOfDebt[deal.instrument];
+      const found = data.fundingTerms[deal.id];
+      if (deal.ticker === ticker || deal.sector !== company.sector || !option || !comparableFunding(deal, found?.purpose?.value, purpose)) continue;
+      const notice = deal.documents.find(document => /pric|complet|successful|issues? |launch|announces|establish|secur|execut/i.test(document.title)) ?? deal.documents[0];
+      const debt = netDebtBefore(data, deal.ticker, deal.firstDate);
+      deals.push({ id: deal.id, option, ticker: deal.ticker, company: deal.company, date: deal.firstDate, url: notice.url, title: notice.title, note: found?.purpose?.value,
+        size: data.fundingMarket[deal.id]?.audMillions ?? null, shareOfCap: data.fundingMarket[deal.id]?.percentOfMarketCap ?? null,
+        rate: found?.coupon?.value ?? null, rateQuote: found?.coupon?.quote, day1: null, netDebt: debt?.value ?? null, netDebtDate: debt?.date, who: found?.counterparties ?? [] });
+    }
+    deals.sort((a, b) => b.date.localeCompare(a.date));
+  }
+  const recent = own.find(row => /placement/i.test(structureName(row.candidate)) && Date.parse(today) - Date.parse(row.candidate.firstDate) < 365 * 86_400_000)?.candidate;
+  const recentPlacement = recent ? `${formatAmount(headlineSize(recent)) || ''} placement on ${date(recent.firstDate)}`.trim() : null;
+  const listed = deals.filter(deal => selected === 'all' || deal.option === selected);
+  const signedMillions = (value: number) => (value < 0 ? `(${millions(-value)})` : millions(value));
+  const fmt = (value: number | null | undefined, format: (value: number) => string) => (value == null ? '–' : format(value));
+
+  const summary = options.map(option => {
+    const rows = deals.filter(deal => deal.option === option);
+    const equity = equityOptions.has(option);
+    const rate = middle(rows.map(row => row.rate));
+    // Share of the company a holder who does not take part gives up, if the whole amount is raised at the median discount.
+    const given = equity && amount && marketCap && rate !== null ? (100 * amount) / (marketCap * (1 - rate / 100) + amount) : null;
+    return { option, rows, equity, size: middle(rows.map(row => row.size)), shareOfCap: middle(rows.map(row => row.shareOfCap)), rate, rated: rows.filter(row => row.rate !== null).length,
+      day1: middle(rows.map(row => row.day1)), given, interest: !equity && amount && rate !== null ? (amount * rate) / 100 : null };
+  }).filter(row => row.rows.length);
 
   return <main className="page precedent-page">
-    <header>
-      <h1>ASX Capital Raising Precedents</h1>
-      <p className="byline">Michael Nguyen</p>
-      <p className="source">ASX 200 · {index.candidates.length} equity groups · {data.funding.length} other funding groups · since 2021. Automatically extracted; check the linked filings.</p>
-    </header>
+    <header className="sheet-header"><h1>ASX Capital Raising Precedents</h1><p className="byline">Michael Nguyen</p></header>
 
-    <section className="search-panel" aria-label="Search">
-      <label className="field-company"><span>Company</span><CompanySearch key={ticker} companies={companies} value={company} onChange={value => { setTicker(value); reset(); }} /></label>
-      <label><span>Raising for</span><select value={purpose} onChange={event => { setPurpose(event.target.value as Purpose); reset(); }}>{purposes.map(row => <option key={row.id} value={row.id}>{row.label}</option>)}</select></label>
-      <label><span>Amount to compare (A$m)</span><input type="number" min="0" step="1" inputMode="decimal" value={targetAmount} onChange={event => setTargetAmount(event.target.value)} /></label>
+    <section className="search-panel three" aria-label="Inputs">
+      <label className="field-company"><span>Company</span><CompanySearch key={ticker} companies={companies} value={company} onChange={value => { setTicker(value); setSelected('all'); setLimit(15); }} /></label>
+      <label><span>Raising for</span><select value={purpose} onChange={event => { setPurpose(event.target.value as Purpose); setSelected('all'); setLimit(15); }}>{purposes.map(row => <option key={row.id} value={row.id}>{row.label}</option>)}</select></label>
+      <label><span>Amount (A$m)</span><input type="number" min="0" step="1" inputMode="decimal" value={targetAmount} onChange={event => setTargetAmount(event.target.value)} /></label>
     </section>
 
     {company && <>
-      <section className="company-line">
-        <h2>{company.ticker} · {tidyName(company.name)}</h2>
-        <p className="meta">{company.sector}{quote && <> · <a href={quote.url} target="_blank" rel="noreferrer">A${quote.close.toFixed(3)} close, {date(quote.date)}</a></>}{lastOwn && <> · last raise: {formatAmount(headlineSize(lastOwn)) || 'amount unstated'} {structureName(lastOwn).toLowerCase()}, {date(lastOwn.firstDate)}</>}</p>
-      </section>
+      <h2>{company.ticker} {tidyName(company.name)} <span className="sector">{company.sector}</span></h2>
+      <table className="xl">
+        <thead><tr><th>Share price</th><th>Market cap</th><th>Debt</th><th>Cash</th><th>Net debt</th><th>Balance sheet</th><th>Last equity raise</th><th>Last debt deal</th></tr></thead>
+        <tbody><tr>
+          <td className="n">{quote ? <a href={quote.url} target="_blank" rel="noreferrer" title={`Close on ${date(quote.date)}`}>{money(quote.close, 'A$')}</a> : '–'}</td>
+          <td className="n" title="ASX company page">{marketCap ? millions(marketCap) : '–'}</td>
+          <td className="n">{balance?.debt != null ? millions(balance.debt) : '–'}</td>
+          <td className="n">{cash !== null ? (proForma ? <a href={raiseSince!.documents.find(document => document.id === proForma.source)?.url} target="_blank" rel="noreferrer" title={proForma.quote}>{millions(cash)}</a> : millions(cash)) : '–'}{proForma ? <small>pro forma after the {date(raiseSince!.firstDate)} raise</small> : estimated ? <small>estimate: {millions(balance!.cash!)} at {date(balance!.date)} + {millions(raisedSince)} raised since</small> : raiseSince && <small>before the {date(raiseSince.firstDate)} raise</small>}</td>
+          <td className="n">{fmt(netDebt, signedMillions)}</td>
+          <td title={balance?.note}>{balance ? <a href={balance.source} target="_blank" rel="noreferrer">{balance.sourceLabel === 'Yahoo Finance' ? 'Yahoo Finance' : balance.sourceLabel.replace(/, p\.\d+/, '')}, {date(balance.date)}</a> : '–'}{balance && Date.parse(today) - Date.parse(balance.date) > 456 * 86_400_000 && <small className="warn">over 15 months old</small>}</td>
+          <td>{own[0] ? `${formatAmount(headlineSize(own[0].candidate)) || ''} ${structureName(own[0].candidate).toLowerCase().replace('spp', 'SPP')}, ${date(own[0].candidate.firstDate)}`.trim() : 'None since 2021'}</td>
+          <td>{ownFunding[0] ? `${shortInstrument[ownFunding[0].instrument].toLowerCase()}, ${date(ownFunding[0].firstDate)}` : 'None announced'}</td>
+        </tr></tbody>
+      </table>
 
-      <section className="funding-screen" aria-labelledby="screen-title">
-        <h3 id="screen-title">Precedent summary</h3>
-        <div className="route-grid">
-          <div><h4>Most common equity structure in this set</h4><p className="route-name">{leading?.structure ?? 'No clear structure'}</p><p>{leading?.count ?? 0} of {benchmarkRows.length} groups · {basisText}</p></div>
-          <div><h4>Same-sector loan notices</h4><p className="route-name">{comparableFacilities.length} matches</p><p>{company.sector} · {purposeLabel}. Matches are based on wording, not borrowing capacity.</p></div>
-        </div>
-        <p className="meta">{targetAmount && amount > 0 && leading?.medianSize && leading.sized ? `Your A$${amount}m is ${Number((amount / leading.medianSize).toFixed(1))}× the A$${Math.round(leading.medianSize)}m median ${leading.structure.toLowerCase()} (${leading.sized} headline amounts).` : 'Enter an amount to compare with the precedent sizes.'} Amount does not filter the list.</p>
-      </section>
+      {(own.length > 0 || ownFunding.length > 0) && <>
+        <h3>{company.ticker}&apos;s recent deals</h3>
+        <div className="recent">{[...own.filter(({ candidate }) => benchmarkable(candidate) || terms[candidate.id]?.offerPrice).slice(0, 3).map(({ candidate }) => {
+          const found = terms[candidate.id];
+          const deal = market[candidate.id];
+          const size = formatAmount(headlineSize(candidate));
+          const notice = headlineFor(candidate);
+          const prices = found?.discounts.map(item => item.percent === 0 ? `nil discount to ${item.basis}` : item.percent < 0 ? `${percent(-item.percent)} premium to ${item.basis}` : `${percent(item.percent)} discount to ${item.basis}`) ?? [];
+          const pf = found?.proFormaCash && found.proFormaCash.value <= (headlineSize(candidate)?.millions ?? Infinity) * 6 + 500 ? found.proFormaCash.value : null;
+          const points = [
+            `${[size, structureName(candidate).toLowerCase().replace('spp', 'SPP'), found?.offerPrice && `at ${money(found.offerPrice.value, found.offerPrice.currency)}`].filter(Boolean).join(' ')}${prices.length ? `, ${prices.join(' and ')}` : ''}`,
+            found?.useOfFunds?.value,
+            ...(() => {
+              const stated = (found?.alongside ?? []).map(item => `A$${item.millions}m ${item.kind}${item.kind.includes('facilit') ? '' : ' funding'}${item.from ? ` from ${item.from}` : ''}`);
+              const near = ownFunding.filter(deal => Math.abs(Date.parse(deal.firstDate) - Date.parse(candidate.firstDate)) <= 45 * 86_400_000)
+                .map(deal => `${data.fundingMarket[deal.id]?.audMillions != null ? `${millions(data.fundingMarket[deal.id].audMillions!)} ` : ''}${shortInstrument[deal.instrument].toLowerCase()} announced ${date(deal.firstDate)}`);
+              const all = [...stated, ...near];
+              return all.length ? [`Alongside ${all.join('; ')}`] : [];
+            })(),
+            found?.cashBefore || pf ? `Cash ${[found?.cashBefore && `A$${found.cashBefore.value}m before`, pf && `A$${pf}m pro forma after`].filter(Boolean).join(', ')}` : null,
+            found?.leadManagers.length ? `Led by ${found.leadManagers.join(', ')}${found.underwritten ? `, ${/\bSPP\b|share purchase plan/i.test(found.underwritten.quote) && found.underwritten.value === 'not' ? 'SPP not underwritten' : found.underwritten.value === 'fully' ? 'fully underwritten' : found.underwritten.value === 'partially' ? 'partly underwritten' : 'not underwritten'}` : ''}` : null,
+            deal?.day1Return != null ? `Shares ${signed(deal.day1Return)} against the offer price on day 1${deal.month1Return != null ? ` and ${signed(deal.month1Return)} after a month` : ''}` : null,
+          ].filter((point): point is string => Boolean(point));
+          return <article key={candidate.id}><h4>{date(candidate.firstDate)} · <a href={notice.url} target="_blank" rel="noreferrer">{notice.title}</a></h4><ul>{points.map(point => <li key={point}>{point}</li>)}</ul></article>;
+        }), ...ownFunding.slice(0, 2).map(deal => {
+          const found = data.fundingTerms[deal.id];
+          const notice = deal.documents[0];
+          const size = data.fundingMarket[deal.id]?.audMillions;
+          const points = [
+            `${size != null ? `${millions(size)} ` : ''}${shortInstrument[deal.instrument].toLowerCase()}${found?.coupon ? ` at ${rate(found.coupon.value)}` : found?.margin ? ` at ${found.margin.value.over} + ${found.margin.value.percent}%` : ''}${found?.maturity ? `, due ${found.maturity.value}` : ''}`,
+            found?.purpose?.value,
+            found?.counterparties.length ? `With ${found.counterparties.join(', ')}` : null,
+          ].filter((point): point is string => Boolean(point));
+          return <article key={deal.id}><h4>{date(deal.firstDate)} · <a href={notice.url} target="_blank" rel="noreferrer">{notice.title}</a></h4><ul>{points.map(point => <li key={point}>{point}</li>)}</ul></article>;
+        })]}</div>
+      </>}
 
-      <details className="company-model">
-        <summary>Optional calculation · market cap, dilution and debt</summary>
-        <div className="model-inputs">
-          <label><span>Shares on issue (m)</span><input type="number" min="0" step="0.1" inputMode="decimal" value={shareCount} onChange={event => setShareCount(event.target.value)} placeholder="From latest filing" /></label>
-          <label><span>Gross debt (A$m)</span><input type="number" min="0" step="1" inputMode="decimal" value={grossDebt} onChange={event => setGrossDebt(event.target.value)} placeholder="From latest accounts" /></label>
-          <label><span>Offer discount (%)</span><input type="number" min="0" max="99" step="0.1" inputMode="decimal" value={offerDiscount} onChange={event => setOfferDiscount(event.target.value)} /></label>
-          <label><span>Share price (A$)</span><input type="number" min="0" step="0.001" inputMode="decimal" value={priceOverride} onChange={event => setPriceOverride(event.target.value)} placeholder={quote ? quote.close.toFixed(3) : 'Enter price'} /></label>
-        </div>
-        <div className="model-results">
-          <div><span>Market equity value</span><strong>{model.marketCap !== null ? millions(model.marketCap) : '—'}</strong><small>{model.marketCap !== null ? 'Share price × shares on issue' : 'Needs shares on issue'}</small></div>
-          <div><span>Ownership dilution · non-participant</span><strong>{model.dilution !== null ? percent(model.dilution) : '—'}</strong><small>{model.newShares !== null ? `${Number(model.newShares.toFixed(1))}m new shares at A$${model.offerPrice?.toFixed(3)}` : 'Needs amount, price and discount'}</small></div>
-          <div><span>Debt / total capital</span><strong>{model.debtAfterBorrowing !== null ? `${percent(model.debtToCapital!)} → ${percent(model.debtAfterBorrowing)}` : '—'}</strong><small>{model.debtAfterBorrowing !== null ? 'If the full need is borrowed; excludes cash' : 'Needs funding need, shares and debt'}</small></div>
-        </div>
-        <p className="model-note">Illustrative, before fees. Check shares and debt against dated <a href={`https://www.asx.com.au/asx/v2/statistics/announcements.do?by=asxCode&asxCode=${company.ticker}`} target="_blank" rel="noreferrer">ASX filings</a>. Debt / total capital = gross debt ÷ (gross debt + market cap), holding share price and shares constant. It excludes cash and does not measure borrowing capacity.</p>
-      </details>
+      <h3>Equity</h3>
+      <table className="xl options">
+        <thead>
+          <tr><th rowSpan={2}>Option</th><th colSpan={4} className="span">{company.sector} deals since 2021</th><th colSpan={2} className="span">{company.ticker}{amount ? `, A$${amount}m` : ''}</th><th rowSpan={2}>Why companies choose it</th></tr>
+          <tr><th className="n">Deals</th><th className="n">Median size</th><th className="n">Median discount</th><th className="n">Median day 1</th><th className="n">New shares vs existing</th><th className="n">Company given away</th></tr>
+        </thead>
+        <tbody>{summary.filter(row => row.equity).map(row => {
+          const newVsExisting = row.given !== null ? (100 * row.given) / (100 - row.given) : null;
+          return <tr key={row.option} className={selected === row.option ? 'here' : undefined}>
+            <td><button type="button" className="link" onClick={() => { setSelected(selected === row.option ? 'all' : row.option); setLimit(15); }}>{row.option}</button></td>
+            <td className="n">{row.rows.length}</td>
+            <td className="n">{fmt(row.size, value => millions(value))}</td>
+            <td className="n" title={`${row.rated} of ${row.rows.length} deals state it`}>{fmt(row.rate, percent)}</td>
+            <td className="n">{fmt(row.day1, signed)}</td>
+            <td className="n">{fmt(newVsExisting, percent)}</td>
+            <td className="n">{fmt(row.given, percent)}</td>
+            <td><ul className="why">{reasons(row.option, { newVsExisting, interest: null, netDebtAfter: null, recentPlacement })}</ul></td>
+          </tr>;
+        })}</tbody>
+      </table>
 
-      <section aria-labelledby="structure-title">
-        <h3 id="structure-title">Equity structures</h3>
-        <p className="meta">{benchmarkRows.length} {basisText}. Unclear or grouped follow-on raises are in the full list.</p>
-        {summary.length ? <div className="structure-list">{summary.map(row => <div key={row.structure} className="structure-row"><span>{row.structure}</span><div className="structure-track"><span style={{ width: `${Math.max(5, row.count / benchmarkRows.length * 100)}%` }} /></div><strong>{row.count} of {benchmarkRows.length}</strong><small>{row.medianSize !== null ? `A$${Math.round(row.medianSize)}m median size (${row.sized} deals)` : 'Size not found'}</small></div>)}</div> : <p>No clear structures in this set.</p>}
-      </section>
+      <h3>Debt</h3>
+      <table className="xl options">
+        <thead>
+          <tr><th rowSpan={2}>Option</th><th colSpan={3} className="span">{company.sector} deals since 2021</th><th colSpan={2} className="span">{company.ticker}{amount ? `, A$${amount}m` : ''}</th><th rowSpan={2}>Why companies choose it</th></tr>
+          <tr><th className="n">Deals</th><th className="n">Median size</th><th className="n">Median rate</th><th className="n">Interest a year</th><th className="n">Net debt after</th></tr>
+        </thead>
+        <tbody>{summary.filter(row => !row.equity).map(row => {
+          const netDebtAfter = netDebt !== null && amount ? netDebt + amount : null;
+          return <tr key={row.option} className={selected === row.option ? 'here' : undefined}>
+            <td><button type="button" className="link" onClick={() => { setSelected(selected === row.option ? 'all' : row.option); setLimit(15); }}>{row.option}</button></td>
+            <td className="n">{row.rows.length}</td>
+            <td className="n">{fmt(row.size, value => millions(value))}</td>
+            <td className="n" title={`${row.rated} of ${row.rows.length} deals state it`}>{row.rate === null ? 'not disclosed' : rate(row.rate)}</td>
+            <td className="n">{fmt(row.interest, value => millions(value))}</td>
+            <td className="n">{row.option === 'Convertible' || row.option === 'Hybrid' ? '' : fmt(netDebtAfter, signedMillions)}</td>
+            <td><ul className="why">{reasons(row.option, { newVsExisting: null, interest: row.interest, netDebtAfter })}</ul></td>
+          </tr>;
+        })}</tbody>
+      </table>
 
-      <section aria-labelledby="examples-title">
-        <h3 id="examples-title">Examples</h3>
-        <div className="example-columns">
-          <div><h4>Equity</h4>{benchmarkRows.length ? benchmarkRows.slice(0, 3).map(({ candidate }) => {
-            const notice = headlineFor(candidate);
-            return <article key={candidate.id}><p><strong>{candidate.ticker}</strong> · {date(candidate.firstDate)} · {structureName(candidate)} · {formatAmount(headlineSize(candidate)) || 'size unstated'}</p><a href={notice.url} target="_blank" rel="noreferrer">{notice.title}</a></article>;
-          }) : <p>No close equity notices in this screen.</p>}</div>
-          <div><h4>Debt and other funding</h4>{purposeFunding.length ? purposeFunding.slice(0, 3).map(deal => {
-            const notice = deal.documents[0];
-            const size = data.fundingMarket[deal.id]?.audMillions;
-            return <article key={deal.id}><p><strong>{deal.ticker}</strong> · {date(deal.firstDate)} · {shortInstrument[deal.instrument]}{size != null ? ` · ${millions(size)}` : ''}</p><a href={notice.url} target="_blank" rel="noreferrer">{notice.title}</a></article>;
-          }) : <p>No same-sector funding notice mentions this purpose.</p>}</div>
+      <div className="section-head">
+        <h3>{selected === 'all' ? 'All deals' : `${selected} deals`}</h3>
+        <div className="scope-tabs" role="group" aria-label="Option">
+          <button type="button" aria-pressed={selected === 'all'} onClick={() => { setSelected('all'); setLimit(15); }}>All <span>{deals.length}</span></button>
+          {summary.map(row => <button key={row.option} type="button" aria-pressed={selected === row.option} onClick={() => { setSelected(row.option); setLimit(15); }}>{row.option} <span>{row.rows.length}</span></button>)}
         </div>
-      </section>
-
-      <details className="full-register" open><summary>Equity raises and terms</summary>
-        <label className="keyword-field"><span>Filter deals by keyword</span><input value={keywords} onChange={event => setKeywords(event.target.value)} placeholder="e.g. gold, lithium, acquisition" /></label>
-        <div className="scope-tabs" role="group" aria-label="Which raises to show">
-          {(Object.keys(scopes) as Scope[]).map(key => <button key={key} type="button" aria-pressed={scope === key} onClick={() => { setScope(key); setLimit(12); }}>{scopeLabels[key]} <span>{scopes[key].length}</span></button>)}
-        </div>
-        {rows.length ? <RaiseTable rows={rows} limit={limit} data={data} /> : <p className="empty">Nothing in this group{words.length ? ` mentions “${keywords}”` : ''}.</p>}
-        {rows.length > limit && <button type="button" className="more" onClick={() => setLimit(rows.length)}>Show all {rows.length}</button>}
-      </details>
-
-      <details className="full-register"><summary>All debt and other funding</summary>
-        <div className="scope-tabs" role="group" aria-label="Which companies">
-          <button type="button" aria-pressed={fundingScope === 'purpose'} onClick={() => { setFundingScope('purpose'); setFundingLimit(12); }}>{company.sector} + {purposeLabel}</button>
-          <button type="button" aria-pressed={fundingScope === 'sector'} onClick={() => { setFundingScope('sector'); setFundingLimit(12); }}>{company.sector}</button>
-          <button type="button" aria-pressed={fundingScope === 'all'} onClick={() => { setFundingScope('all'); setFundingLimit(12); }}>All sectors</button>
-        </div>
-        <div className="table-scroll"><table className="structure-table"><thead><tr><th>Funding type</th><th className="n">Groups</th><th className="n">Companies</th><th className="n">Median size (A$)</th></tr></thead>
-          <tbody>{mix.map(row => <tr key={row.label}><td>{row.label}</td><td className="n">{row.deals}</td><td className="n">{row.companies}</td><td className="n">{row.median}</td></tr>)}</tbody></table></div>
-        <div className="scope-tabs" role="group" aria-label="Which instrument">
-          {(['all', ...instruments.map(row => row.id)] as (Instrument | 'all')[]).map(key => <button key={key} type="button" aria-pressed={instrument === key} onClick={() => { setInstrument(key); setFundingLimit(12); }}>{key === 'all' ? 'All types' : instrumentLabel[key]} <span>{[...ownFunding, ...fundingPool].filter(deal => key === 'all' || deal.instrument === key).length}</span></button>)}
-        </div>
-        {fundingRows.length ? <FundingTable deals={fundingRows} limit={fundingLimit} data={data} ticker={ticker} /> : <p className="empty">No {instrument === 'all' ? 'debt or hybrid' : instrumentLabel[instrument].toLowerCase()} deals{fundingScope !== 'all' ? ` in ${company.sector}` : ''}{words.length ? ` mention “${keywords}”` : ''}.</p>}
-        {fundingRows.length > fundingLimit && <button type="button" className="more" onClick={() => setFundingLimit(fundingRows.length)}>Show all {fundingRows.length}</button>}
-      </details>
+      </div>
+      <table className="sheet-table">
+        <thead><tr><th>Date</th><th>Company</th><th>Option</th><th className="n">Size</th><th className="n">% of mkt cap</th><th className="n">Discount / rate</th><th className="n">Day 1</th><th className="n">Net debt before</th><th>Banks and brokers</th></tr></thead>
+        <tbody>{listed.slice(0, limit).map(deal => <tr key={deal.id}>
+          <td className="date">{date(deal.date)}</td>
+          <td><strong>{deal.ticker}</strong> {tidyName(deal.company)}<a className="headline" href={deal.url} target="_blank" rel="noreferrer" title={deal.note}>{deal.title}</a></td>
+          <td>{deal.option}</td>
+          <td className="n">{fmt(deal.size, value => millions(value))}</td>
+          <td className="n">{fmt(deal.shareOfCap, percent)}</td>
+          <td className="n" title={deal.rateQuote}>{deal.rate === null ? '–' : equityOptions.has(deal.option) ? percent(deal.rate) : rate(deal.rate)}</td>
+          <td className="n">{fmt(deal.day1, signed)}</td>
+          <td className="n" title={deal.netDebtDate ? `Balance sheet ${date(deal.netDebtDate)}` : undefined}>{fmt(deal.netDebt, signedMillions)}</td>
+          <td><small title={deal.who.join(', ')}>{deal.who.length ? deal.who.slice(0, 2).join(', ') + (deal.who.length > 2 ? ` +${deal.who.length - 2}` : '') : '–'}</small></td>
+        </tr>)}</tbody>
+      </table>
+      {listed.length > limit && <button type="button" className="more" onClick={() => setLimit(listed.length)}>Show all {listed.length}</button>}
     </>}
 
-    <details className="method"><summary>Data and limits</summary>
-      <p>The universe is the {index.companyCount} equity holdings of IOZ at {index.universeAsOf}, not historical ASX 200 membership. Announcements from 23 September 2021 are grouped by issuer and timing. These are candidate groups, not a verified deal census. Sector and purpose matches use sector labels and announcement wording; they do not establish financial comparability. If fewer than three clear same-sector, same-purpose equity groups exist, the summary broadens to sector, then purpose, as labelled above.</p>
-      <p>Terms are automatically extracted from PDFs and headlines and need checking against the linked filings. Hover over terms for the extracted text; headline-derived funding amounts refer to the group&apos;s notices. Headline size is the largest amount in the grouped titles and can differ from final proceeds. Unclear structures and explicit follow-on placement groups are excluded from equity summaries. Missing figures are blank, not zero. Loan notices do not cover all bank borrowing. Counts describe this dataset, not market-wide funding preferences.</p>
-      <p>Estimated market cap uses a Yahoo reported share count up to 400 days old, or a share count inferred from the notice&apos;s issue percentage, multiplied by the preceding trading close. It may miss intervening issues. Returns compare the first available traded close on or after the group&apos;s first announcement, and 20 traded sessions later, with the offer price; they are not total or market-adjusted returns. Calculated discounts use the preceding close where no extracted discount is available. The company price is a dated snapshot, not a live quote.</p>
-    </details>
+    <section className="notes" aria-labelledby="notes-title">
+      <h3 id="notes-title">Notes</h3>
+      <ul>
+        <li>Deals are ASX announcements since 23 Sep 2021 by the {index.companyCount} companies in the IOZ ASX 200 ETF, in the same sector as the company chosen.</li>
+        <li>Discount is the offer price against the last close. Rate is the fixed coupon, where the notice states one. Day 1 is the first close against the offer price.</li>
+        <li>Company given away is the share a holder who does not take part loses if the whole amount is raised at the median discount, using the current ASX market cap.</li>
+        <li>Debt and cash are from the latest balance sheet shown, and net debt before a deal from the last one before it (Yahoo Finance). Brackets mean net cash.</li>
+        <li>Loan facilities only appear when the company announced them. Hover a figure for the sentence it was read from.</li>
+      </ul>
+    </section>
   </main>;
 }

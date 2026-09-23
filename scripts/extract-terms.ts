@@ -15,7 +15,7 @@ const completion = /complet|success|results of|oversubscribed|closes?\b|close of
 function documentOrder(candidate: PrecedentCandidate) {
   const usable = candidate.documents.filter(document => !boilerplate.test(document.title));
   const rank = (title: string) => (/presentation/i.test(title) ? 1 : completion.test(title) ? 2 : 0);
-  return [...usable].sort((a, b) => rank(a.title) - rank(b.title) || a.date.localeCompare(b.date)).slice(0, 3);
+  return [...usable].sort((a, b) => rank(a.title) - rank(b.title) || a.date.localeCompare(b.date)).slice(0, 4);
 }
 
 async function main() {
@@ -33,7 +33,7 @@ async function main() {
         if (text) sources.push({ document, text });
       } catch (error) { console.warn(`${candidate.ticker} ${document.id}: ${(error as Error).message}`); }
       const terms = extractTerms(sources);
-      if (terms.offerPrice && !/floor/i.test(terms.offerPrice.quote) && terms.discounts.length && terms.leadManagers.length) break;
+      if (terms.offerPrice && !/floor/i.test(terms.offerPrice.quote) && terms.discounts.length && terms.leadManagers.length && terms.useOfFunds && (terms.proFormaCash || terms.cashBefore)) break;
     }
     raises[candidate.id] = extractTerms(sources);
     const found = raises[candidate.id];

@@ -3,7 +3,7 @@ import { readFile } from 'node:fs/promises';
 import { UniverseSchema } from '../lib/precedents';
 import { atomicJson } from './pipeline';
 
-type Quote = { close: number; date: string; currency: string; url: string };
+type Quote = { close: number; date: string; currency: string; url: string; marketCap?: number };
 const universe = UniverseSchema.parse(JSON.parse(await readFile('data/research/universe.json', 'utf8')));
 const quotes: Record<string, Quote> = {};
 const tickers = universe.companies.map(company => company.ticker);
@@ -25,6 +25,10 @@ async function worker() {
         && Number.isFinite(timestamps[index]) && !(session && timestamps[index] >= session.start && Date.now() < session.end * 1000));
       if (position < 0) throw new Error('No close');
       quotes[ticker] = { close: Number(closes[position]!.toFixed(4)), date: new Date((timestamps[position] + offset) * 1000).toISOString().slice(0, 10), currency: chart.meta.currency ?? 'AUD', url: `https://au.finance.yahoo.com/quote/${symbol}/` };
+      // ASX publishes the current market cap on its company header, which reflects shares issued since the last balance date.
+      const header = await fetch(`https://asx.api.markitdigital.com/asx-research/1.0/companies/${ticker}/header`, { headers: { 'User-Agent': 'Mozilla/5.0' }, signal: AbortSignal.timeout(15000) }).then(response => (response.ok ? response.json() : null)).catch(() => null);
+      const cap = header?.data?.marketCap;
+      if (Number.isFinite(cap) && cap > 0) quotes[ticker].marketCap = Math.round(cap / 1e5) / 10;
     } catch (error) { console.warn(`${ticker}: ${(error as Error).message}`); }
     await new Promise(done => setTimeout(done, 250));
   }

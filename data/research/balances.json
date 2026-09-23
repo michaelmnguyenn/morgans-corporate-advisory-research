@@ -1,0 +1,1806 @@
+{
+  "generatedAt": "2026-09-23T14:37:22.497Z",
+  "companies": {
+    "360": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 311.475,
+      "equity": 613.431,
+      "cash": 464.984,
+      "source": "https://au.finance.yahoo.com/quote/360.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "CBA": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 218869,
+      "equity": 78704,
+      "cash": null,
+      "source": "https://au.finance.yahoo.com/quote/CBA.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "NAB": {
+      "date": "2026-03-31",
+      "currency": "AUD",
+      "debt": 212154,
+      "equity": 60561,
+      "cash": null,
+      "source": "https://au.finance.yahoo.com/quote/NAB.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "WBC": {
+      "date": "2026-03-31",
+      "currency": "AUD",
+      "debt": 225709,
+      "equity": 70761,
+      "cash": null,
+      "source": "https://au.finance.yahoo.com/quote/WBC.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "BHP": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 27121,
+      "equity": 49420,
+      "cash": 18602,
+      "source": "https://au.finance.yahoo.com/quote/BHP.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "WES": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 12716,
+      "equity": 7977,
+      "cash": 530,
+      "source": "https://au.finance.yahoo.com/quote/WES.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "CSL": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 10896,
+      "equity": 14797.0000000001,
+      "cash": 1513,
+      "source": "https://au.finance.yahoo.com/quote/CSL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "MQG": {
+      "date": "2026-03-31",
+      "currency": "AUD",
+      "debt": 340755,
+      "equity": 36068,
+      "cash": 94794,
+      "source": "https://au.finance.yahoo.com/quote/MQG.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ANZ": {
+      "date": "2026-03-31",
+      "currency": "AUD",
+      "debt": 212618,
+      "equity": 71053,
+      "cash": null,
+      "source": "https://au.finance.yahoo.com/quote/ANZ.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "GMG": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 6091,
+      "equity": 24948.2,
+      "cash": 4081.5,
+      "source": "https://au.finance.yahoo.com/quote/GMG.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "WDS": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 13672,
+      "equity": 36051,
+      "cash": 4458,
+      "source": "https://au.finance.yahoo.com/quote/WDS.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "RIO": {
+      "date": "2025-12-31",
+      "currency": "USD",
+      "debt": 23517,
+      "equity": 62203,
+      "cash": 7452,
+      "source": "https://au.finance.yahoo.com/quote/RIO.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "TLS": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 18603,
+      "equity": 12580,
+      "cash": 1103,
+      "source": "https://au.finance.yahoo.com/quote/TLS.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "QBE": {
+      "date": "2025-12-31",
+      "currency": "USD",
+      "debt": 3930,
+      "equity": 11673,
+      "cash": 1869,
+      "source": "https://au.finance.yahoo.com/quote/QBE.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "TCL": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 20640,
+      "equity": 7723,
+      "cash": 2060,
+      "source": "https://au.finance.yahoo.com/quote/TCL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "WOW": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 16477,
+      "equity": 4795,
+      "cash": 1497,
+      "source": "https://au.finance.yahoo.com/quote/WOW.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ALL": {
+      "date": "2025-09-30",
+      "currency": "AUD",
+      "debt": 2030.2,
+      "equity": 6557.2,
+      "cash": 1291.4,
+      "source": "https://au.finance.yahoo.com/quote/ALL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "FMG": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 5931,
+      "equity": 20283,
+      "cash": 5074,
+      "source": "https://au.finance.yahoo.com/quote/FMG.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "NST": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1724.7,
+      "equity": 15681.9,
+      "cash": 1018.1,
+      "source": "https://au.finance.yahoo.com/quote/NST.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "EVN": {
+      "date": "2024-06-30",
+      "currency": "AUD",
+      "debt": 2019.074,
+      "equity": 4142.196,
+      "cash": 403.303,
+      "source": "https://au.finance.yahoo.com/quote/EVN.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "COL": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 9892,
+      "equity": 3946,
+      "cash": 568,
+      "source": "https://au.finance.yahoo.com/quote/COL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "STO": {
+      "date": "2025-12-31",
+      "currency": "USD",
+      "debt": 7540,
+      "equity": 15665,
+      "cash": 1734,
+      "source": "https://au.finance.yahoo.com/quote/STO.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "CPU": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 1355.8,
+      "equity": 2284.8,
+      "cash": 1198.5,
+      "source": "https://au.finance.yahoo.com/quote/CPU.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "BXB": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 3028.8,
+      "equity": 3232.2,
+      "cash": 76.8,
+      "source": "https://au.finance.yahoo.com/quote/BXB.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "S32": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 1851,
+      "equity": 9700,
+      "cash": 2129,
+      "source": "https://au.finance.yahoo.com/quote/S32.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ORG": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 4986,
+      "equity": 10135,
+      "cash": 1004,
+      "source": "https://au.finance.yahoo.com/quote/ORG.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SUN": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 2659,
+      "equity": 10362,
+      "cash": 21999,
+      "source": "https://au.finance.yahoo.com/quote/SUN.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "IAG": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 3243,
+      "equity": 7232,
+      "cash": 623,
+      "source": "https://au.finance.yahoo.com/quote/IAG.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "RMD": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 825.919,
+      "equity": 6585.393,
+      "cash": 1469.234,
+      "source": "https://au.finance.yahoo.com/quote/RMD.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "APA": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 14153,
+      "equity": 2063,
+      "cash": 1636,
+      "source": "https://au.finance.yahoo.com/quote/APA.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SOL": {
+      "date": "2025-07-31",
+      "currency": "AUD",
+      "debt": 1010.1,
+      "equity": 9405.6,
+      "cash": 1160.1,
+      "source": "https://au.finance.yahoo.com/quote/SOL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SCG": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 15028.7,
+      "equity": 18885,
+      "cash": 529.4,
+      "source": "https://au.finance.yahoo.com/quote/SCG.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SIG": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 2020.548,
+      "equity": 4995.695,
+      "cash": 131.124,
+      "source": "https://au.finance.yahoo.com/quote/SIG.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "LYC": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 338.336,
+      "equity": 3490.391,
+      "cash": 1209.099,
+      "source": "https://au.finance.yahoo.com/quote/LYC.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "PLS": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1232.209,
+      "equity": 4077.938,
+      "cash": 2289.977,
+      "source": "https://au.finance.yahoo.com/quote/PLS.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "QAN": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 10352,
+      "equity": 1499,
+      "cash": 3586,
+      "source": "https://au.finance.yahoo.com/quote/QAN.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "BSL": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1767,
+      "equity": 10310.5,
+      "cash": 1167,
+      "source": "https://au.finance.yahoo.com/quote/BSL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "JHX": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 4522,
+      "equity": 6540.6,
+      "cash": 289.9,
+      "source": "https://au.finance.yahoo.com/quote/JHX.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "MPL": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 273.9,
+      "equity": 2430.7,
+      "cash": 876.4,
+      "source": "https://au.finance.yahoo.com/quote/MPL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ASX": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 490.2,
+      "equity": 3986.4,
+      "cash": 10646.7,
+      "source": "https://au.finance.yahoo.com/quote/ASX.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "NEM": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 5598,
+      "equity": 35243,
+      "cash": 9009,
+      "source": "https://au.finance.yahoo.com/quote/NEM.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ALQ": {
+      "date": "2026-03-31",
+      "currency": "AUD",
+      "debt": 1571.9,
+      "equity": 1699.8,
+      "cash": 149.7,
+      "source": "https://au.finance.yahoo.com/quote/ALQ.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "TLC": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 2495.1,
+      "equity": 264.1,
+      "cash": 571.2,
+      "source": "https://au.finance.yahoo.com/quote/TLC.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "RHC": {
+      "date": "2025-06-30",
+      "currency": "AUD",
+      "debt": 12119.9,
+      "equity": 5023.6,
+      "cash": 784.4,
+      "source": "https://au.finance.yahoo.com/quote/RHC.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ALD": {
+      "date": "2025-12-31",
+      "currency": "NZD",
+      "debt": 4880.5745395574995,
+      "equity": 3517.2014363488,
+      "cash": 67.0682265725,
+      "source": "https://au.finance.yahoo.com/quote/ALD.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ORI": {
+      "date": "2025-09-30",
+      "currency": "AUD",
+      "debt": 3004.8,
+      "equity": 4176.1,
+      "cash": 746.7,
+      "source": "https://au.finance.yahoo.com/quote/ORI.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SFR": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 36.432,
+      "equity": 2218.242,
+      "cash": 352.629,
+      "source": "https://au.finance.yahoo.com/quote/SFR.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SGP": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 4895,
+      "equity": 10710,
+      "cash": 796,
+      "source": "https://au.finance.yahoo.com/quote/SGP.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "XRO": {
+      "date": "2026-03-31",
+      "currency": "AUD",
+      "debt": 1772.0046697799,
+      "equity": 4506.0548699132005,
+      "cash": 1612.8610740493,
+      "source": "https://au.finance.yahoo.com/quote/XRO.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "MIN": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 5829,
+      "equity": 4341,
+      "cash": 1595,
+      "source": "https://au.finance.yahoo.com/quote/MIN.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SHL": {
+      "date": "2025-06-30",
+      "currency": "AUD",
+      "debt": 5170.81,
+      "equity": 8323.498,
+      "cash": 673.773,
+      "source": "https://au.finance.yahoo.com/quote/SHL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "COH": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 212.7,
+      "equity": 1740.5,
+      "cash": 187.7,
+      "source": "https://au.finance.yahoo.com/quote/COH.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "VCX": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 4953.8,
+      "equity": 12145.2,
+      "cash": 79.6,
+      "source": "https://au.finance.yahoo.com/quote/VCX.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "PME": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 2.231,
+      "equity": 450.915,
+      "cash": 250.623,
+      "source": "https://au.finance.yahoo.com/quote/PME.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "CAR": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1601.774,
+      "equity": 2742.852,
+      "cash": 325.607,
+      "source": "https://au.finance.yahoo.com/quote/CAR.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "GMD": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 302.843,
+      "equity": 2077.627,
+      "cash": 488.335,
+      "source": "https://au.finance.yahoo.com/quote/GMD.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "NXT": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 3358.602,
+      "equity": 6094.944,
+      "cash": 875.978,
+      "source": "https://au.finance.yahoo.com/quote/NXT.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "PRU": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 2.11,
+      "equity": 2298.5669999999,
+      "cash": 924.057,
+      "source": "https://au.finance.yahoo.com/quote/PRU.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "LNW": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 5157,
+      "equity": 302,
+      "cash": 148,
+      "source": "https://au.finance.yahoo.com/quote/LNW.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "GPT": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 5526.2,
+      "equity": 10628.1,
+      "cash": 99.4,
+      "source": "https://au.finance.yahoo.com/quote/GPT.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "CHC": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 717.9,
+      "equity": 2897,
+      "cash": 206.3,
+      "source": "https://au.finance.yahoo.com/quote/CHC.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "REA": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 75.6,
+      "equity": 1897.6,
+      "cash": 365.6,
+      "source": "https://au.finance.yahoo.com/quote/REA.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "AMC": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 14864,
+      "equity": 11790,
+      "cash": 1115,
+      "source": "https://au.finance.yahoo.com/quote/AMC.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "TNE": {
+      "date": "2025-09-30",
+      "currency": "AUD",
+      "debt": 53.381,
+      "equity": 450.699,
+      "cash": 319.641,
+      "source": "https://au.finance.yahoo.com/quote/TNE.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "RMS": {
+      "date": "2024-06-30",
+      "currency": "AUD",
+      "debt": 10.467,
+      "equity": 1329.128,
+      "cash": 424.372,
+      "source": "https://au.finance.yahoo.com/quote/RMS.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "JBH": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 705,
+      "equity": 1638.5,
+      "cash": 206.5,
+      "source": "https://au.finance.yahoo.com/quote/JBH.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "WTC": {
+      "date": "2024-06-30",
+      "currency": "AUD",
+      "debt": 69.780965303353,
+      "equity": 1479.4366724371869,
+      "cash": 81.344286182166,
+      "source": "https://au.finance.yahoo.com/quote/WTC.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SGH": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 5055.8,
+      "equity": 5202.4,
+      "cash": 231.8,
+      "source": "https://au.finance.yahoo.com/quote/SGH.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "CMM": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 20.295,
+      "equity": 1432.119,
+      "cash": 505.419,
+      "source": "https://au.finance.yahoo.com/quote/CMM.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "MGR": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 3832,
+      "equity": 9355,
+      "cash": 238,
+      "source": "https://au.finance.yahoo.com/quote/MGR.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "FPH": {
+      "date": "2026-03-31",
+      "currency": "NZD",
+      "debt": 146.1,
+      "equity": 2115.4,
+      "cash": 461.1,
+      "source": "https://au.finance.yahoo.com/quote/FPH.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "VAU": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 74.347,
+      "equity": 2138.344,
+      "cash": 825.784,
+      "source": "https://au.finance.yahoo.com/quote/VAU.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "CDA": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 57.418,
+      "equity": 608.416,
+      "cash": 50.733,
+      "source": "https://au.finance.yahoo.com/quote/CDA.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "WHC": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 2322,
+      "equity": 5913,
+      "cash": 778,
+      "source": "https://au.finance.yahoo.com/quote/WHC.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SDF": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1992.3,
+      "equity": 2364.5,
+      "cash": 1822.5,
+      "source": "https://au.finance.yahoo.com/quote/SDF.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "DNL": {
+      "date": "2025-09-30",
+      "currency": "AUD",
+      "debt": 2017,
+      "equity": 4431.1,
+      "cash": 655.7,
+      "source": "https://au.finance.yahoo.com/quote/DNL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "AZJ": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 5629,
+      "equity": 3939,
+      "cash": 128,
+      "source": "https://au.finance.yahoo.com/quote/AZJ.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "AMP": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 29637,
+      "equity": 3744,
+      "cash": 7356,
+      "source": "https://au.finance.yahoo.com/quote/AMP.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ANN": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 756.6,
+      "equity": 1991.2000000000999,
+      "cash": 249.5,
+      "source": "https://au.finance.yahoo.com/quote/ANN.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "BEN": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 10111.6,
+      "equity": 6734.5,
+      "cash": null,
+      "source": "https://au.finance.yahoo.com/quote/BEN.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "RRL": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 101.685,
+      "equity": 2182.175,
+      "cash": 1139.119,
+      "source": "https://au.finance.yahoo.com/quote/RRL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "DXS": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 4654.4,
+      "equity": 9947.2,
+      "cash": 57.8,
+      "source": "https://au.finance.yahoo.com/quote/DXS.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "HUB": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 71.655,
+      "equity": 552.745,
+      "cash": 70.986,
+      "source": "https://au.finance.yahoo.com/quote/HUB.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "CGF": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 8461.6,
+      "equity": 4064.5,
+      "cash": 34292.3,
+      "source": "https://au.finance.yahoo.com/quote/CGF.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "GGP": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 22.184,
+      "equity": 2226.224,
+      "cash": 1288.938,
+      "source": "https://au.finance.yahoo.com/quote/GGP.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "CWY": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 2334.8,
+      "equity": 3016.6,
+      "cash": 116.2,
+      "source": "https://au.finance.yahoo.com/quote/CWY.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "WGX": {
+      "date": "2024-06-30",
+      "currency": "AUD",
+      "debt": 54.609452,
+      "equity": 691.801106,
+      "cash": 236.039162,
+      "source": "https://au.finance.yahoo.com/quote/WGX.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "AGL": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 4034,
+      "equity": 5276,
+      "cash": 661,
+      "source": "https://au.finance.yahoo.com/quote/AGL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "TLX": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 579.861,
+      "equity": 487.675,
+      "cash": 251.91,
+      "source": "https://au.finance.yahoo.com/quote/TLX.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "VNT": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 935.1,
+      "equity": 561.1,
+      "cash": 236.3,
+      "source": "https://au.finance.yahoo.com/quote/VNT.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "MP1": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 100.341,
+      "equity": 1001.386,
+      "cash": 435.613,
+      "source": "https://au.finance.yahoo.com/quote/MP1.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "IGO": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 16.8,
+      "equity": 2240.2,
+      "cash": 485.6,
+      "source": "https://au.finance.yahoo.com/quote/IGO.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "PDN": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 155.008,
+      "equity": 1158.02,
+      "cash": 264.98,
+      "source": "https://au.finance.yahoo.com/quote/PDN.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "A2M": {
+      "date": "2026-06-30",
+      "currency": "NZD",
+      "debt": 24.313,
+      "equity": 1073.116,
+      "cash": 784.472,
+      "source": "https://au.finance.yahoo.com/quote/A2M.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "DOW": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1375.2,
+      "equity": 1961.6,
+      "cash": 778.7,
+      "source": "https://au.finance.yahoo.com/quote/DOW.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "EDV": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 5933,
+      "equity": 3589,
+      "cash": 330,
+      "source": "https://au.finance.yahoo.com/quote/EDV.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "BOQ": {
+      "date": "2026-02-28",
+      "currency": "AUD",
+      "debt": 15236,
+      "equity": 5896,
+      "cash": null,
+      "source": "https://au.finance.yahoo.com/quote/BOQ.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "WOR": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 2845,
+      "equity": 4884,
+      "cash": 1107,
+      "source": "https://au.finance.yahoo.com/quote/WOR.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "WAF": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 453.1,
+      "equity": 1720,
+      "cash": 592,
+      "source": "https://au.finance.yahoo.com/quote/WAF.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "REH": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 2253.191,
+      "equity": 3748.385,
+      "cash": 327.668,
+      "source": "https://au.finance.yahoo.com/quote/REH.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SEK": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1263.4,
+      "equity": 2122.2,
+      "cash": 136.6,
+      "source": "https://au.finance.yahoo.com/quote/SEK.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "XYZ": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 7171.312,
+      "equity": 22047.075,
+      "cash": 12268.454,
+      "source": "https://au.finance.yahoo.com/quote/XYZ.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SGM": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 826.7,
+      "equity": 2655.7,
+      "cash": 199.6,
+      "source": "https://au.finance.yahoo.com/quote/SGM.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "EMR": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 31.884,
+      "equity": 913.477,
+      "cash": 433.649,
+      "source": "https://au.finance.yahoo.com/quote/EMR.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "TWE": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1996.7,
+      "equity": 3333.6,
+      "cash": 221.8,
+      "source": "https://au.finance.yahoo.com/quote/TWE.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "PDI": {
+      "date": "2024-06-30",
+      "currency": "AUD",
+      "debt": 0.159327,
+      "equity": 169.94594,
+      "cash": 52.434172,
+      "source": "https://au.finance.yahoo.com/quote/PDI.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "AUB": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1202.014,
+      "equity": 1881.883,
+      "cash": 1314.173,
+      "source": "https://au.finance.yahoo.com/quote/AUB.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "VEA": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 5858.1,
+      "equity": 1427.1,
+      "cash": 170.5,
+      "source": "https://au.finance.yahoo.com/quote/VEA.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "NWH": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 585.496,
+      "equity": 689.822,
+      "cash": 319.668,
+      "source": "https://au.finance.yahoo.com/quote/NWH.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "APE": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 3055.856,
+      "equity": 1856.721,
+      "cash": 456.702,
+      "source": "https://au.finance.yahoo.com/quote/APE.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "NHF": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 229.3,
+      "equity": 1152.3,
+      "cash": 352.3,
+      "source": "https://au.finance.yahoo.com/quote/NHF.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "MND": {
+      "date": "2024-06-30",
+      "currency": "AUD",
+      "debt": 94.24,
+      "equity": 465.594,
+      "cash": 225.864,
+      "source": "https://au.finance.yahoo.com/quote/MND.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "RWC": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 378.268,
+      "equity": 1285.665,
+      "cash": 28.566,
+      "source": "https://au.finance.yahoo.com/quote/RWC.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "MTS": {
+      "date": "2026-04-30",
+      "currency": "AUD",
+      "debt": 1901,
+      "equity": 1706.9,
+      "cash": 67.9,
+      "source": "https://au.finance.yahoo.com/quote/MTS.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "CSC": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 1312.845,
+      "equity": 3573.403,
+      "cash": 367.075,
+      "source": "https://au.finance.yahoo.com/quote/CSC.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "NHC": {
+      "date": "2026-07-31",
+      "currency": "AUD",
+      "debt": 391.837,
+      "equity": 2614.843,
+      "cash": 778.498,
+      "source": "https://au.finance.yahoo.com/quote/NHC.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "BRG": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 153.421,
+      "equity": 1058.305,
+      "cash": 193.358,
+      "source": "https://au.finance.yahoo.com/quote/BRG.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "TPG": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 4154,
+      "equity": 8671,
+      "cash": 72,
+      "source": "https://au.finance.yahoo.com/quote/TPG.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "CNU": {
+      "date": "2026-06-30",
+      "currency": "NZD",
+      "debt": 3463,
+      "equity": 1030,
+      "cash": 199,
+      "source": "https://au.finance.yahoo.com/quote/CNU.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ZIP": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 2755.419,
+      "equity": 673.42,
+      "cash": 432.13,
+      "source": "https://au.finance.yahoo.com/quote/ZIP.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "PNI": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 270.385,
+      "equity": 1155.193,
+      "cash": null,
+      "source": "https://au.finance.yahoo.com/quote/PNI.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "DBI": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 2162.061,
+      "equity": 1036.749,
+      "cash": 110.454,
+      "source": "https://au.finance.yahoo.com/quote/DBI.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ILU": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 1137.5,
+      "equity": 2068.8,
+      "cash": 45.7,
+      "source": "https://au.finance.yahoo.com/quote/ILU.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "NEU": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": null,
+      "equity": 338.454,
+      "cash": 296.122,
+      "source": "https://au.finance.yahoo.com/quote/NEU.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "RSG": {
+      "date": "2025-12-31",
+      "currency": "USD",
+      "debt": 201.5,
+      "equity": 728.7999999999,
+      "cash": 164.1,
+      "source": "https://au.finance.yahoo.com/quote/RSG.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "RGN": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1630.8,
+      "equity": 16.9,
+      "cash": 15.6,
+      "source": "https://au.finance.yahoo.com/quote/RGN.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SRG": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 171.227,
+      "equity": 468.44,
+      "cash": 144.725,
+      "source": "https://au.finance.yahoo.com/quote/SRG.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "NWL": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 70.409,
+      "equity": 161.892,
+      "cash": null,
+      "source": "https://au.finance.yahoo.com/quote/NWL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "BGL": {
+      "date": "2025-06-30",
+      "currency": "AUD",
+      "debt": 342.291,
+      "equity": 820.075,
+      "cash": 151.592,
+      "source": "https://au.finance.yahoo.com/quote/BGL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "AIA": {
+      "date": "2026-06-30",
+      "currency": "NZD",
+      "debt": 2768.8,
+      "equity": 10840.4,
+      "cash": 55.4,
+      "source": "https://au.finance.yahoo.com/quote/AIA.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "LTR": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 504.836,
+      "equity": 1471.158,
+      "cash": 561.952,
+      "source": "https://au.finance.yahoo.com/quote/LTR.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "YAL": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 84,
+      "equity": 9031,
+      "cash": 2127,
+      "source": "https://au.finance.yahoo.com/quote/YAL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ALK": {
+      "date": "2024-06-30",
+      "currency": "AUD",
+      "debt": 49.018,
+      "equity": 309.374,
+      "cash": 45.519,
+      "source": "https://au.finance.yahoo.com/quote/ALK.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "OBM": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 31.772,
+      "equity": 537.018,
+      "cash": 267.704,
+      "source": "https://au.finance.yahoo.com/quote/OBM.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "AAI": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 2225,
+      "equity": 7370,
+      "cash": 1352,
+      "source": "https://au.finance.yahoo.com/quote/AAI.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "EOS": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 17.142,
+      "equity": 244.164,
+      "cash": 113.841,
+      "source": "https://au.finance.yahoo.com/quote/EOS.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "BWP": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 758.692,
+      "equity": 3362.882,
+      "cash": 117.341,
+      "source": "https://au.finance.yahoo.com/quote/BWP.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "CLW": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1511.602,
+      "equity": 3390.846,
+      "cash": 18.322,
+      "source": "https://au.finance.yahoo.com/quote/CLW.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "HVN": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 2585.671,
+      "equity": 4896.98,
+      "cash": 298.612,
+      "source": "https://au.finance.yahoo.com/quote/HVN.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "TAH": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 832,
+      "equity": 1261.2,
+      "cash": 305.8,
+      "source": "https://au.finance.yahoo.com/quote/TAH.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "PRN": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 571.309,
+      "equity": 1772.407,
+      "cash": 322.524,
+      "source": "https://au.finance.yahoo.com/quote/PRN.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SRL": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 0.015,
+      "equity": 113.142,
+      "cash": 115.439,
+      "source": "https://au.finance.yahoo.com/quote/SRL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "4DX": {
+      "date": "2025-06-30",
+      "currency": "AUD",
+      "debt": 4.308041,
+      "equity": 64.235165,
+      "cash": 6.878735,
+      "source": "https://au.finance.yahoo.com/quote/4DX.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "HDN": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1891.5,
+      "equity": 3260.5,
+      "cash": 38,
+      "source": "https://au.finance.yahoo.com/quote/HDN.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SUL": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1321.7,
+      "equity": 1299.6,
+      "cash": 16.7,
+      "source": "https://au.finance.yahoo.com/quote/SUL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "MSB": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 127.334,
+      "equity": 568.405,
+      "cash": 47.39,
+      "source": "https://au.finance.yahoo.com/quote/MSB.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ALX": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 1738.4,
+      "equity": 3105.9,
+      "cash": 274.4,
+      "source": "https://au.finance.yahoo.com/quote/ALX.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "NIC": {
+      "date": "2025-12-31",
+      "currency": "USD",
+      "debt": 1226.113016,
+      "equity": 2043.062787,
+      "cash": 323.327295,
+      "source": "https://au.finance.yahoo.com/quote/NIC.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "INA": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1007.423,
+      "equity": 1743.744,
+      "cash": 23.68,
+      "source": "https://au.finance.yahoo.com/quote/INA.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "CQR": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1568.3,
+      "equity": 2924.9,
+      "cash": 22.7,
+      "source": "https://au.finance.yahoo.com/quote/CQR.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "MI6": {
+      "date": "2024-06-30",
+      "currency": "AUD",
+      "debt": 0.624385,
+      "equity": 10.867935,
+      "cash": 11.10289,
+      "source": "https://au.finance.yahoo.com/quote/MI6.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "NWS": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": 2915,
+      "equity": 8526,
+      "cash": 2095,
+      "source": "https://au.finance.yahoo.com/quote/NWS.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "DRR": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 143.291,
+      "equity": 142.642,
+      "cash": 10.512,
+      "source": "https://au.finance.yahoo.com/quote/DRR.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "DTL": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 22.672,
+      "equity": 95.162,
+      "cash": 326.047,
+      "source": "https://au.finance.yahoo.com/quote/DTL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "PPT": {
+      "date": "2025-06-30",
+      "currency": "AUD",
+      "debt": 1126.3,
+      "equity": 1646.6,
+      "cash": 343.2,
+      "source": "https://au.finance.yahoo.com/quote/PPT.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ORA": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1159.9,
+      "equity": 1933.3,
+      "cash": 513.1,
+      "source": "https://au.finance.yahoo.com/quote/ORA.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "IMD": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 284.471,
+      "equity": 683.926,
+      "cash": 40.77,
+      "source": "https://au.finance.yahoo.com/quote/IMD.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "LLC": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 4473,
+      "equity": 4825,
+      "cash": 751,
+      "source": "https://au.finance.yahoo.com/quote/LLC.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "NXG": {
+      "date": "2026-06-30",
+      "currency": "CAD",
+      "debt": 613.068,
+      "equity": 1844.287,
+      "cash": 970.253,
+      "source": "https://au.finance.yahoo.com/quote/NXG.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "FLT": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1234.854,
+      "equity": 1095.846,
+      "cash": 825.038,
+      "source": "https://au.finance.yahoo.com/quote/FLT.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SIQ": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 91.168,
+      "equity": 277.065,
+      "cash": 312.702,
+      "source": "https://au.finance.yahoo.com/quote/SIQ.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "MFG": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 2.022,
+      "equity": 1057.133,
+      "cash": null,
+      "source": "https://au.finance.yahoo.com/quote/MFG.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "LOV": {
+      "date": "2024-06-30",
+      "currency": "AUD",
+      "debt": 359.067,
+      "equity": 80.286,
+      "cash": 30.52,
+      "source": "https://au.finance.yahoo.com/quote/LOV.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "IFT": {
+      "date": "2026-03-31",
+      "currency": "NZD",
+      "debt": 7919.1,
+      "equity": 7677.2,
+      "cash": 312.6,
+      "source": "https://au.finance.yahoo.com/quote/IFT.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "BGA": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 471.4,
+      "equity": 996.8,
+      "cash": 133.4,
+      "source": "https://au.finance.yahoo.com/quote/BGA.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SSM": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 110.15,
+      "equity": 521.641,
+      "cash": 80.675,
+      "source": "https://au.finance.yahoo.com/quote/SSM.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "DRO": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 14.255,
+      "equity": 336.616,
+      "cash": 209.49,
+      "source": "https://au.finance.yahoo.com/quote/DRO.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "CYL": {
+      "date": "2024-06-30",
+      "currency": "AUD",
+      "debt": 33.005,
+      "equity": 201.98,
+      "cash": 39.036,
+      "source": "https://au.finance.yahoo.com/quote/CYL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "HLI": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 5.2,
+      "equity": 1019,
+      "cash": 45.7,
+      "source": "https://au.finance.yahoo.com/quote/HLI.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "FBU": {
+      "date": "2026-06-30",
+      "currency": "NZD",
+      "debt": 2024,
+      "equity": 3957,
+      "cash": 145,
+      "source": "https://au.finance.yahoo.com/quote/FBU.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "WPR": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 932.8,
+      "equity": 1894.1,
+      "cash": 14.4,
+      "source": "https://au.finance.yahoo.com/quote/WPR.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "CIP": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1378.832,
+      "equity": 2506,
+      "cash": 12.974,
+      "source": "https://au.finance.yahoo.com/quote/CIP.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "KCN": {
+      "date": "2024-06-30",
+      "currency": "AUD",
+      "debt": 59.405,
+      "equity": 247.686,
+      "cash": 6.864,
+      "source": "https://au.finance.yahoo.com/quote/KCN.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ARB": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 49.581,
+      "equity": 741.888,
+      "cash": 47.895,
+      "source": "https://au.finance.yahoo.com/quote/ARB.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "BPT": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 632.3,
+      "equity": 3274.2,
+      "cash": 213,
+      "source": "https://au.finance.yahoo.com/quote/BPT.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ELD": {
+      "date": "2025-09-30",
+      "currency": "AUD",
+      "debt": 594.133,
+      "equity": 1080.595,
+      "cash": 46.732,
+      "source": "https://au.finance.yahoo.com/quote/ELD.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SLC": {
+      "date": "2024-06-30",
+      "currency": "AUD",
+      "debt": 60.235,
+      "equity": 371.049,
+      "cash": 51.556,
+      "source": "https://au.finance.yahoo.com/quote/SLC.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "CIA": {
+      "date": "2026-06-30",
+      "currency": "CAD",
+      "debt": 1413.798,
+      "equity": 1610.056,
+      "cash": 198.621,
+      "source": "https://au.finance.yahoo.com/quote/CIA.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ASB": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 294.699,
+      "equity": 1233.569,
+      "cash": 311.895,
+      "source": "https://au.finance.yahoo.com/quote/ASB.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "DVP": {
+      "date": "2025-06-30",
+      "currency": "AUD",
+      "debt": 158.292214,
+      "equity": 629.960402,
+      "cash": 58.625753,
+      "source": "https://au.finance.yahoo.com/quote/DVP.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "DYL": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 3.227735,
+      "equity": 660.84458,
+      "cash": 159.634408,
+      "source": "https://au.finance.yahoo.com/quote/DYL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "FFM": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1.593,
+      "equity": 425.174,
+      "cash": 193.357,
+      "source": "https://au.finance.yahoo.com/quote/FFM.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "DMP": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1130.328,
+      "equity": 457.25,
+      "cash": 131.028,
+      "source": "https://au.finance.yahoo.com/quote/DMP.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "CNI": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1847.681,
+      "equity": 1731.7,
+      "cash": 1484.446,
+      "source": "https://au.finance.yahoo.com/quote/CNI.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "KAR": {
+      "date": "2025-12-31",
+      "currency": "USD",
+      "debt": 338.8,
+      "equity": 1032.5,
+      "cash": 206.1,
+      "source": "https://au.finance.yahoo.com/quote/KAR.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ABB": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 267.479,
+      "equity": 712.479,
+      "cash": 125.393,
+      "source": "https://au.finance.yahoo.com/quote/ABB.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "NCK": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 350.066,
+      "equity": 279.771,
+      "cash": 106.594,
+      "source": "https://au.finance.yahoo.com/quote/NCK.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "JDO": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 3239.7,
+      "equity": 1772.2,
+      "cash": null,
+      "source": "https://au.finance.yahoo.com/quote/JDO.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ELV": {
+      "date": "2026-06-30",
+      "currency": "USD",
+      "debt": null,
+      "equity": 727.166,
+      "cash": 255.279,
+      "source": "https://au.finance.yahoo.com/quote/ELV.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "SLX": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 0.642197,
+      "equity": 201.196597,
+      "cash": 180.744739,
+      "source": "https://au.finance.yahoo.com/quote/SLX.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "PMV": {
+      "date": "2024-07-31",
+      "currency": "AUD",
+      "debt": 547.272,
+      "equity": 1795.522,
+      "cash": 409.481,
+      "source": "https://au.finance.yahoo.com/quote/PMV.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "IRE": {
+      "date": "2025-12-31",
+      "currency": "AUD",
+      "debt": 164.102,
+      "equity": 423.101,
+      "cash": 55.34,
+      "source": "https://au.finance.yahoo.com/quote/IRE.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ELS": {
+      "date": "2025-12-31",
+      "currency": "USD",
+      "debt": 0.206259,
+      "equity": 50.968089999899995,
+      "cash": 59.040914,
+      "source": "https://au.finance.yahoo.com/quote/ELS.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "GDG": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 47.379,
+      "equity": 731.591,
+      "cash": 192.763,
+      "source": "https://au.finance.yahoo.com/quote/GDG.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "PXA": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 232.805,
+      "equity": 1118.958,
+      "cash": 63.625,
+      "source": "https://au.finance.yahoo.com/quote/PXA.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "IPX": {
+      "date": "2025-12-31",
+      "currency": "USD",
+      "debt": 4.458746,
+      "equity": 108.20189,
+      "cash": 65.82683,
+      "source": "https://au.finance.yahoo.com/quote/IPX.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "NEC": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 1669.764,
+      "equity": 1182.424,
+      "cash": 92.387,
+      "source": "https://au.finance.yahoo.com/quote/NEC.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "VUL": {
+      "date": "2025-12-31",
+      "currency": "EUR",
+      "debt": 30.612,
+      "equity": 856.946,
+      "cash": 517.839,
+      "source": "https://au.finance.yahoo.com/quote/VUL.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "ARF": {
+      "date": "2025-06-30",
+      "currency": "AUD",
+      "debt": 436.979,
+      "equity": 1232.286,
+      "cash": 16.572,
+      "source": "https://au.finance.yahoo.com/quote/ARF.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    },
+    "WBT": {
+      "date": "2026-06-30",
+      "currency": "AUD",
+      "debt": 0.373,
+      "equity": 153.985,
+      "cash": 168.342,
+      "source": "https://au.finance.yahoo.com/quote/WBT.AX/balance-sheet/",
+      "sourceLabel": "Yahoo Finance"
+    }
+  },
+  "unavailable": []
+}

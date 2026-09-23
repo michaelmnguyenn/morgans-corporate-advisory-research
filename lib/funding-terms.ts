@@ -86,7 +86,8 @@ export function extractFundingTerms(instrument: Instrument, titles: string[], so
       terms.counterparties = names.filter(([name, pattern]) => name !== issuerNames[ticker] && windows.some(window => pattern.test(window))).map(([name]) => name);
     }
     if (!terms.purpose) {
-      const sentence = text.split(/(?<=\.)\s+(?=[A-Z])/).find(line => /proceeds|will be used|to fund|to refinance|to repay|general corporate purposes/i.test(line) && line.length > 50 && line.length < 500 && !/forward.looking/i.test(line));
+      const body = text.replace(/For personal use only/gi, ' ').replace(/\bPage \d+(?: of \d+)?\b/gi, ' ').replace(/(?:\b[A-Z][A-Z&’'-]{1,}\b[ ,]*){4,}/g, ' ').replace(/\s+/g, ' ');
+      const sentence = body.split(/(?<=[a-z0-9)”"%]\.)\s+(?=[A-Z])/).find(line => /proceeds|will be used|to fund|to refinance|to repay|general corporate purposes/i.test(line) && line.length > 50 && line.length < 500 && !/forward.looking/i.test(line));
       if (sentence) terms.purpose = { value: sentence.length > 300 ? `${sentence.slice(0, 297).replace(/\s\S*$/, '')}…` : sentence, source: document.id, quote: sentence.slice(0, 200) };
     }
   }

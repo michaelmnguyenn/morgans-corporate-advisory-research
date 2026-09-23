@@ -19,7 +19,8 @@
     "data:funding": "tsx scripts/backfill-funding.ts",
     "data:market": "tsx scripts/market-data.ts",
     "data:funding-terms": "tsx scripts/extract-funding.ts",
-    "data:quotes": "tsx scripts/update-quotes.ts"
+    "data:quotes": "tsx scripts/update-quotes.ts",
+    "data:balances": "tsx scripts/update-balances.ts"
   },
   "engines": {
     "node": ">=22"

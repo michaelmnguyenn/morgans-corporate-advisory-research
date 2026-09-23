@@ -1,9 +1,12 @@
 {
-  "generatedAt": "2026-09-23T10:56:59.279Z",
+  "generatedAt": "2026-09-23T15:08:28.397Z",
   "raises": {
     "PDN-2025-09-16-02995741": {
       "documents": [
-        "02995638"
+        "02995638",
+        "02999871",
+        "02995741",
+        "02996214"
       ],
       "offerPrice": {
         "value": 7.25,
@@ -41,7 +44,10 @@
         "value": "Proceeds from the equity raising will primarily be used to advance the development of the Patterson Lake South project (PLS Project) towards a Final Investment Decision (FID).",
         "source": "02995638",
         "quote": "Proceeds from the equity raising will primarily be used to advance the development of the Patterson Lake South project (PLS Project) towards a Final Investment Decision (FID)."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "PDN-2022-03-31-02504999": {
       "documents": [
@@ -83,7 +89,14 @@
         "value": "Proceeds from the Equity Raise will be applied as follows: Transaction uses of funds US$M1 A$M1 Restart Capital 87.0 116.0 Working Capital & Fees 74.2 99.0 Total 161.2 215.0 Note 1: Assumes AUD/USD: 0.75 and NAD/USD :15.0 and that the SPP raises the target amount of A$15 million Ian Purdy, Paladin’s CEO said: “With…",
         "source": "02504911",
         "quote": "Proceeds from the Equity Raise will be applied as follows: Transaction uses of funds US$M1 A$M1 Restart Capital 87.0 116.0 Working Capital & Fees 74.2 99.0 Total 161.2 215.0 Note 1: Assumes AUD/USD: 0"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": {
+        "value": 2591,
+        "source": "02504911",
+        "quote": "representing an 8.9% discount to last close • Paladin to have pro forma cash of A$2591 million post-Equity Raise • Proceeds from the Equity Raise will be applied to fund the"
+      },
+      "alongside": []
     },
     "MI6-2026-09-16-03140027": {
       "documents": [
@@ -125,16 +138,36 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "For personal use only ASX RELEASE I 16 SEP 2026 I ASX:MI6 Page | 2 Capital Raising Overview Use of Proceeds The proceeds from the Placement and SPP, together with $170 million of royalty funding secured from FrancoNevada and the Company’s existing cash balance of approximately $183 million as at 14 September 2026,…",
+        "value": "Proceeds from the placement will underpin the development of the 6.2Moz Bullabulling Gold Project (“Project”), located 65km west of Kalgoorlie in Western Australia.",
         "source": "03140027",
-        "quote": "For personal use only ASX RELEASE I 16 SEP 2026 I ASX:MI6 Page | 2 Capital Raising Overview Use of Proceeds The proceeds from the Placement and SPP, together with $170 million of royalty funding secur"
-      }
+        "quote": "Proceeds from the placement will underpin the development of the 6.2Moz Bullabulling Gold Project (“Project”), located 65km west of Kalgoorlie in Western Australia."
+      },
+      "cashBefore": {
+        "value": 183,
+        "source": "03140027",
+        "quote": "$250 million Placement and SPP, together with the Company’s existing cash balance of ~$183 million and the additional $170 million of royalty funding secured from Franco-Nevada2,"
+      },
+      "proFormaCash": {
+        "value": 633,
+        "source": "03140027",
+        "quote": "Directors of Minerals 260 intend to participate in the SPP. • Total pro-forma cash balance will be ~$633 million. The $250 million Placement and SPP, together with the Company’s existing cash"
+      },
+      "alongside": [
+        {
+          "millions": 170,
+          "kind": "royalty",
+          "from": "Franco-Nevada",
+          "source": "03140027",
+          "quote": "Company’s existing cash balance of ~$183 million and the additional $170 million of royalty funding secured from Franco-Nevada2, will be used towards ongoing development and construction activities at the Pr"
+        }
+      ]
     },
     "ZIP-2024-07-17-02829380": {
       "documents": [
         "02829380",
         "02832097",
-        "02829865"
+        "02829865",
+        "02840719"
       ],
       "offerPrice": {
         "value": 1.52,
@@ -158,7 +191,10 @@
         "value": "Proceeds from the Placement will be used to repay Zip’s existing corporate debt facility and theassociatedexit fee, whichwill alsosupport futuregrowth.",
         "source": "02829380",
         "quote": "Proceeds from the Placement will be used to repay Zip’s existing corporate debt facility and theassociatedexit fee, whichwill alsosupport futuregrowth."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "ZIP-2023-06-09-02674716": {
       "documents": [
@@ -189,11 +225,17 @@
         "value": "The placement will be used to fund the retirement of $39.8 million of our convertible notes at a very significant discount to face value.",
         "source": "02674716",
         "quote": "The placement will be used to fund the retirement of $39.8 million of our convertible notes at a very significant discount to face value."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "ELD-2024-11-18-02882950": {
       "documents": [
-        "02882948"
+        "02882948",
+        "02882950",
+        "02883546",
+        "02894971"
       ],
       "offerPrice": {
         "value": 7.85,
@@ -234,7 +276,10 @@
         "value": "Proceeds from the Equity Raising to be used to partly fund the cash component of the Acquisition and support Elders’ balance sheet flexibility for future growth opportunities.",
         "source": "02882948",
         "quote": "Proceeds from the Equity Raising to be used to partly fund the cash component of the Acquisition and support Elders’ balance sheet flexibility for future growth opportunities."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "LTR-2025-08-07-02977894": {
       "documents": [
@@ -278,13 +323,21 @@
         "value": "Proceeds from the Capital Raising will be used to fortify Liontown’s balance sheet, provide a prudent liquidity buffer during a period of low er prices, support the ramp up and underground transition of the Kathleen Valley Lithium Operation (“Kathleen Valley” or the “Operation”) and fund general corporate purposes…",
         "source": "02977884",
         "quote": "Proceeds from the Capital Raising will be used to fortify Liontown’s balance sheet, provide a prudent liquidity buffer during a period of low er prices, support the ramp up and underground transition "
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": {
+        "value": 422,
+        "source": "02977884",
+        "quote": "hand will provide Liontown: 1. Fortified balanced sheet with pro forma cash balance of ~A$422m • Reinforced balance sheet optimises positioning of Liontown to capitalise on a"
+      },
+      "alongside": []
     },
     "LTR-2023-10-19-02727824": {
       "documents": [
         "02727824",
         "02728139",
-        "02742334"
+        "02742334",
+        "02745854"
       ],
       "offerPrice": {
         "value": 1.8,
@@ -312,11 +365,17 @@
       "leadSource": "02728139",
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "LTR-2021-12-01-02460743": {
       "documents": [
-        "02460742"
+        "02460742",
+        "02465098",
+        "02460743",
+        "02461366"
       ],
       "offerPrice": {
         "value": 1.65,
@@ -356,12 +415,19 @@
       ],
       "leadSource": "02460742",
       "ratio": null,
-      "percentOfIssued": null,
+      "percentOfIssued": {
+        "value": 14.3,
+        "source": "02460743",
+        "quote": "million new shares to be issued under the Placement representing 14.3% of existing ordinary shares on issue • New shares issued under the Offer will rank equally with existing shares on i"
+      },
       "useOfFunds": {
-        "value": "The proceeds of the Equity Raising will provide Liontown with maximum optionality and flexibility around remaining debt and offtake discussions, while retaining the ability to accelerate development and growth to take full advantage of the robust outlook for the lithium market.",
+        "value": "The proceeds of the Equity Raising will provide Liontown with maximum optionality and flexibility around remaining debt and offtake discussions, while retaining the ability to accelerate development and growth to take full advantage of the robust outlook for the lithium market. | Following completion of the…",
         "source": "02460742",
         "quote": "The proceeds of the Equity Raising will provide Liontown with maximum optionality and flexibility around remaining debt and offtake discussions, while retaining the ability to accelerate development a"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "FFM-2026-09-04-03135794": {
       "documents": [
@@ -389,7 +455,10 @@
       "leadSource": "03135618",
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "AIA-2026-09-14-03139161": {
       "documents": [],
@@ -400,12 +469,17 @@
       "leadSource": null,
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "CNI-2026-06-22-03106313": {
       "documents": [
         "03106313",
-        "03108097"
+        "03108097",
+        "03106739",
+        "03113955"
       ],
       "offerPrice": {
         "value": 2,
@@ -441,7 +515,10 @@
         "value": "Proceeds from the Equity Raising will be used to provide funding flexibility to accelerate growth across ResetData and Centuria’s real estate equity and credit funds management platforms.",
         "source": "03106313",
         "quote": "Proceeds from the Equity Raising will be used to provide funding flexibility to accelerate growth across ResetData and Centuria’s real estate equity and credit funds management platforms."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "MP1-2026-06-03-03100362": {
       "documents": [
@@ -483,14 +560,18 @@
       },
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "Page 5 For personal use only NOT FOR RELEASE TO US WIRE SERVICES OR DISTRIBUTION IN THE UNITED STATES SOURCES AND USES Proceeds from the A$827.3M Entitlement Offer will be used to fund: ● A$369.5M 17 for high performance NVIDIA GPUs, compute, network and storage hardware to service new contracts; ● A$350M for GPUs…",
+        "value": "Proceeds from the A$827.3M Entitlement Offer will be used to fund: ● A$369.5M 17 for high performance NVIDIA GPUs, compute, network and storage hardware to service new contracts; ● A$350M for GPUs and Storage to be added to Megaport’s global server pool for on-demand usage; ● A$19.3M in transaction costs relating…",
         "source": "03100358",
-        "quote": "Page 5 For personal use only NOT FOR RELEASE TO US WIRE SERVICES OR DISTRIBUTION IN THE UNITED STATES SOURCES AND USES Proceeds from the A$827.3M Entitlement Offer will be used to fund: ● A$369.5M 17 "
-      }
+        "quote": "Proceeds from the A$827.3M Entitlement Offer will be used to fund: ● A$369.5M 17 for high performance NVIDIA GPUs, compute, network and storage hardware to service new contracts; ● A$350M for GPUs and"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "EOS-2026-05-18-03094866": {
       "documents": [
-        "03094865"
+        "03094865",
+        "03097026"
       ],
       "offerPrice": {
         "value": 8,
@@ -507,9 +588,9 @@
         }
       ],
       "underwritten": {
-        "value": "not",
-        "source": "03094865",
-        "quote": "fullyunderwritten A$150 million institutional placement (“Placement”) and non-underwritten share purchase plan to raise up to A$25 million (“SPP” and, together with the P"
+        "value": "fully",
+        "source": "03097026",
+        "quote": "2026 that it had: ▪ successfully completed its A$150 million fully underwritten institutional placement ( Institutional Placement) of approximately 18.8 millio"
       },
       "leadManagers": [
         "Macquarie",
@@ -524,15 +605,23 @@
         "quote": "Price, being A$8.00 per New Share, representing approximately 9.7% of EOS current issued capital and pursuant to the Company’s available placement capacity under ASX listing ru"
       },
       "useOfFunds": {
-        "value": "In particular, MARSS’ NiDAR system has performed strongly 1 Includes the entity's subsidiaries, unless the context requires otherwise. 2 Post-completion, certain contracts that were entered into by MARSS are expected to be novated to EOS, subject to applicable processes and consents. 3 EOS may apply the proceeds of…",
+        "value": "Proceeds from the Institutional Placement, the Strategic Placement (if approved by EOS shareholders) and the SPP, together with the secured term loan facility provided by Washington H. Soul Pattinson (as previously announced on 12 January 2026), will be used to fund the upfront consideration of the MARSS…",
+        "source": "03097026",
+        "quote": "Proceeds from the Institutional Placement, the Strategic Placement (if approved by EOS shareholders) and the SPP, together with the secured term loan facility provided by Washington H. Soul Pattinson "
+      },
+      "cashBefore": null,
+      "proFormaCash": {
+        "value": 195,
         "source": "03094865",
-        "quote": "In particular, MARSS’ NiDAR system has performed strongly 1 Includes the entity's subsidiaries, unless the context requires otherwise. 2 Post-completion, certain contracts that were entered into by MA"
-      }
+        "quote": "acquisition and Capital Raising, EOS is expected to have a proforma net cash balance of approximately A$195m.7 6 The secured term loan facility remains in place with $30m available for fut"
+      },
+      "alongside": []
     },
     "ELV-2026-05-13-03093383": {
       "documents": [
         "03095286",
-        "03093383"
+        "03093383",
+        "03101353"
       ],
       "offerPrice": {
         "value": 12.2,
@@ -571,16 +660,20 @@
         "quote": "New Shares will be issued under the Placement representing 13.3% of existing shares on issue. All New Shares offered under the Placement will be issued at the Offer Price,"
       },
       "useOfFunds": {
-        "value": "The proceeds of the Placement and SPP will go towards fully funding the NAL Brownfield Expansion project, alongside funding key Moblan technical and pre-development activities through to FID.",
-        "source": "03095286",
-        "quote": "The proceeds of the Placement and SPP will go towards fully funding the NAL Brownfield Expansion project, alongside funding key Moblan technical and pre-development activities through to FID."
-      }
+        "value": "Proceeds of the Placement and SPP will go towards fully funding the NAL Brownfield Expansion project, alongside funding key Moblan technical and pre-development activities through to FID. Elevra received strong support from retail shareholders under the SPP, with more than 930 eligible applications totalling more…",
+        "source": "03101353",
+        "quote": "Proceeds of the Placement and SPP will go towards fully funding the NAL Brownfield Expansion project, alongside funding key Moblan technical and pre-development activities through to FID. Elevra recei"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "BWP-2026-05-06-03091013": {
       "documents": [
         "03091013",
         "03092873",
-        "03091521"
+        "03091521",
+        "03097918"
       ],
       "offerPrice": {
         "value": 3.77,
@@ -603,10 +696,13 @@
       },
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "Proceeds Proceeds from the Entitlement Offer will deliver significant balance sheet capacity to enable future capital deployment opportunities that provide further growth for BWP securityholders, including funding of the Capital Commitments.",
+        "value": "Proceeds from the Entitlement Offer will deliver significant balance sheet capacity to enable future capital deployment opportunities that provide further growth for BWP securityholders, including funding of the Capital Commitments.",
         "source": "03091013",
-        "quote": "Proceeds Proceeds from the Entitlement Offer will deliver significant balance sheet capacity to enable future capital deployment opportunities that provide further growth for BWP securityholders, incl"
-      }
+        "quote": "Proceeds from the Entitlement Offer will deliver significant balance sheet capacity to enable future capital deployment opportunities that provide further growth for BWP securityholders, including fun"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "NXT-2026-04-22-03085006": {
       "documents": [
@@ -634,15 +730,17 @@
         "quote": "“Institutional Entitlement Offer”) of its fully underwritten 1 for 5.4 pro-rata accelerated non-renounceable entitlement offer of new fully paid ordinary share"
       },
       "percentOfIssued": null,
-      "useOfFunds": {
-        "value": "This equity raising, coupled with the Hybrid Securities Offer 3 and other funding initiatives announced by the Company, provides NEXTDC with a strong liquidity position to fund our record 544MW4 pro forma Forward Order Book as at 31 March 2026.” New Shares to be issued under the Entitlement Offer will rank equally…",
-        "source": "03085006",
-        "quote": "This equity raising, coupled with the Hybrid Securities Offer 3 and other funding initiatives announced by the Company, provides NEXTDC with a strong liquidity position to fund our record 544MW4 pro f"
-      }
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "WBT-2026-03-26-03076335": {
       "documents": [
-        "03076335"
+        "03076335",
+        "03079707",
+        "03094024",
+        "03076579"
       ],
       "offerPrice": {
         "value": 4.05,
@@ -674,12 +772,19 @@
       ],
       "leadSource": "03076335",
       "ratio": null,
-      "percentOfIssued": null,
+      "percentOfIssued": {
+        "value": 9.4,
+        "source": "03076579",
+        "quote": "ordinary shares (New Securities), equivalent to approximately 9.4% of existing ordinary shares on issue in Weebit Nano. Weebit Nano also completed a non-underwritten placement of appr"
+      },
       "useOfFunds": {
         "value": "Funds raised will be used to accelerate Weebit Nano’s path to becoming the market leading ReRAM technology, fast-track the development and delivery of AI offerings and for general corporate purposes.",
         "source": "03076335",
         "quote": "Funds raised will be used to accelerate Weebit Nano’s path to becoming the market leading ReRAM technology, fast-track the development and delivery of AI offerings and for general corporate purposes."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "GPT-2026-04-16-03083151": {
       "documents": [
@@ -692,7 +797,10 @@
       "leadSource": null,
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "MFG-2026-03-02-03067000": {
       "documents": [
@@ -719,7 +827,10 @@
         "value": "Alongside the proceeds from the Placement, funds raised under the SPP will be applied towards satisfying MFG's obligation to acquire an incremental stake of a ~10% economic interest in Barrenjoey Capital Partners (\"Barrenjoey\") currently held by an affiliate of Barclays PLC for consideration of $148.9 million.",
         "source": "03067649",
         "quote": "Alongside the proceeds from the Placement, funds raised under the SPP will be applied towards satisfying MFG's obligation to acquire an incremental stake of a ~10% economic interest in Barrenjoey Capi"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "4DX-2026-03-27-03076657": {
       "documents": [
@@ -752,25 +863,44 @@
       "leadSource": "03076657",
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": {
-        "value": "Proceeds will fund the commercial launch of CT:VQ™ across Europe and international markets, support clinical integration for new customers, and strengthen the balance sheet to pursue strategic growth opportunities, including potential acquisitions.",
+      "useOfFunds": null,
+      "cashBefore": {
+        "value": 289,
         "source": "03076657",
-        "quote": "Proceeds will fund the commercial launch of CT:VQ™ across Europe and international markets, support clinical integration for new customers, and strengthen the balance sheet to pursue strategic growth "
-      }
+        "quote": "platform to replicate that success across the EU • Strong proforma cash balance of $289 million as at 31 December 2025 Melbourne, Australia, 27 March 2026 – 4DMedical Limited (ASX: 4DX, “4DMedi"
+      },
+      "proFormaCash": {
+        "value": 289,
+        "source": "03076657",
+        "quote": "the platform to replicate that success across the EU • Strong proforma cash balance of $289 million as at 31 December 2025 Melbourne, Australia, 27 March 2026 – 4DMedical Limited"
+      },
+      "alongside": []
     },
     "AUB-2026-01-27-03052884": {
       "documents": [
         "03052883",
         "03052884",
-        "03053303"
+        "03053303",
+        "03068053"
       ],
-      "offerPrice": null,
+      "offerPrice": {
+        "value": 23.62,
+        "currency": "A$",
+        "source": "03068053",
+        "quote": "will be issued to participating eligible shareholders at an issue price of A$23.62 per share, which represents a 2% discount to the 5-day volume weighted average"
+      },
       "discounts": [
         {
           "percent": 7.9,
           "basis": "last close",
           "source": "03052883",
           "quote": "AUD 29.40 per New Share (“Offer Price”), which represents a 7.9% discount to the last close price of AUD 31.91 per share on 23 January 2026. New Shares will rank equally with existing AUB shares from the date of issue."
+        },
+        {
+          "percent": 2,
+          "basis": "5-day VWAP",
+          "source": "03068053",
+          "quote": "at an issue price of A$23.62 per share, which represents a 2% discount to the 5-day volume weighted average price of AUB shares up to and including the closing date of the SPP (Thursday, 26 February 2026), rounded"
         }
       ],
       "underwritten": {
@@ -788,7 +918,10 @@
         "source": "03052883",
         "quote": "Shares”) will be issued under the Placement, which represents 11.7% of AUB’s current ordinary shares on issue. New Shares issued under the Placement will be issued at a price of AUD 29.40 p"
       },
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "CIA-2026-02-05-03057016": {
       "documents": [
@@ -809,7 +942,10 @@
         "value": "Champion intends to use the proceeds from the Private Placement to fund in part the purchase price payable in respect of its previously announced conditional recommended voluntary cash tender offer (the \"Offer\") to acquire all of the issued and outstanding shares of Rana Gruber ASA (\"Rana Gruber\").",
         "source": "03057016",
         "quote": "Champion intends to use the proceeds from the Private Placement to fund in part the purchase price payable in respect of its previously announced conditional recommended voluntary cash tender offer (t"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "4DX-2026-01-15-03050109": {
       "documents": [
@@ -839,16 +975,20 @@
         "quote": "Fouras will hold approximately 66.4 million shares, representing 11.9% of shares on issue, and Mr Sutton will hold approximately 2.5 million shares, representing approxi"
       },
       "useOfFunds": {
-        "value": "It is important to note that all funds received for the Block Trade of the shares previously issued to Alpha will be paid to the Company (net of transaction costs) and applied to the use of proceeds described above.",
+        "value": "Proceeds from the capital raise are intended to be used for the following purposes: • Sales, marketing & business development to drive adoption across U.S. academic medical centres and health systems; • Customer success and support to ensure seamless clinical integration and workflow optimisation; • Research and…",
         "source": "03050109",
-        "quote": "It is important to note that all funds received for the Block Trade of the shares previously issued to Alpha will be paid to the Company (net of transaction costs) and applied to the use of proceeds d"
-      }
+        "quote": "Proceeds from the capital raise are intended to be used for the following purposes: • Sales, marketing & business development to drive adoption across U.S. academic medical centres and health systems;"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "FFM-2025-12-02-03035650": {
       "documents": [
         "03035628",
         "03046013",
-        "03035650"
+        "03035650",
+        "03042137"
       ],
       "offerPrice": {
         "value": 1.7,
@@ -865,14 +1005,23 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "Any Over-Allotment Option proceeds will be allocated to working capital.",
+        "value": "The net proceeds of the Canadian Offering, the Australian Offering and the SPP will be primarily used to fund: • Development and early works (underground development and drilling platforms, surface early works and permitting) • Technical studies including upscaled mine options (Preliminary Economic…",
+        "source": "03035628",
+        "quote": "The net proceeds of the Canadian Offering, the Australian Offering and the SPP will be primarily used to fund: • Development and early works (underground development and drilling platforms, surface ea"
+      },
+      "cashBefore": null,
+      "proFormaCash": {
+        "value": 244.5,
         "source": "03035650",
-        "quote": "Any Over-Allotment Option proceeds will be allocated to working capital."
-      }
+        "quote": "discovery to production in only 5 years • Strong Balance Sheet with A$244.5m Pro-Forma Cash Balance 2 GREEN BAY COPPER GOLD • High grade copper and gold in Newfoundland &"
+      },
+      "alongside": []
     },
     "VUL-2025-12-04-03036853": {
       "documents": [
-        "03039282"
+        "03039282",
+        "03036853",
+        "03045672"
       ],
       "offerPrice": {
         "value": 4,
@@ -886,6 +1035,12 @@
           "basis": "last close",
           "source": "03039282",
           "quote": "Offer. The Offer Price represents: For personal use only 9  a 34.7% discount to Vulcan's closing price of A$6.13 per Share on the ASX as at 2 December 2025; and  a 21.0% discount to TERP of A$5.06 per Share as at 2 December 20251. The"
+        },
+        {
+          "percent": 21,
+          "basis": "TERP",
+          "source": "03036853",
+          "quote": "traded price on ASX of A$6.13 at the A$4.00 Offer Price; • 21.0% discount to the Theoretical Ex-Rights Price (TERP1) of A$5.06 at the A$4.00 Offer Price; • 34.2% discount to the last traded price on FSE of €3.40 at the € 2.24 Offer"
         }
       ],
       "underwritten": {
@@ -908,7 +1063,10 @@
         "value": "Further information about the proposed use of the proceeds of the capital raise are set out in the ASX Announcement and the Investor Presentation lodged with ASX on 3 December 2025.",
         "source": "03039282",
         "quote": "Further information about the proposed use of the proceeds of the capital raise are set out in the ASX Announcement and the Investor Presentation lodged with ASX on 3 December 2025."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "SRL-2025-11-17-03027194": {
       "documents": [
@@ -936,10 +1094,13 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "Sunrise MD/CEO, Sam Riggall said, “The funds raised via the two recent Placements, coupled with the potential proceeds from the future exercise of options, and the letter of conditional funding support from US EXIM Bank for up to US$67 million, provides Sunrise For personal use only Sunrise Energy Metals Limited…",
+        "value": "Funds raised from the Placement will be directed toward advancing on-site work at the Syerston Scandium Project.",
         "source": "03036260",
-        "quote": "Sunrise MD/CEO, Sam Riggall said, “The funds raised via the two recent Placements, coupled with the potential proceeds from the future exercise of options, and the letter of conditional funding suppor"
-      }
+        "quote": "Funds raised from the Placement will be directed toward advancing on-site work at the Syerston Scandium Project."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "MP1-2025-11-11-03023569": {
       "documents": [
@@ -978,16 +1139,24 @@
         "quote": "ordinary shares (New Shares) being issued, representing around 8.6% of existing shares on issue27. It is intended that eligible institutional shareholders who bid for an amoun"
       },
       "useOfFunds": {
-        "value": "It is intended that eligible institutional shareholders who bid for an amount less than or equal to their ‘pro rata’ share of New Shares under the Placement will be allocated their full bid, on a best endeavours basis28.",
+        "value": "Any funds raised under the SPP will be used for general corporate and working capital purposes.",
         "source": "03023568",
-        "quote": "It is intended that eligible institutional shareholders who bid for an amount less than or equal to their ‘pro rata’ share of New Shares under the Placement will be allocated their full bid, on a best"
-      }
+        "quote": "Any funds raised under the SPP will be used for general corporate and working capital purposes."
+      },
+      "cashBefore": null,
+      "proFormaCash": {
+        "value": 161,
+        "source": "03023568",
+        "quote": "liquidity. Following the Placement, Megaport will have total pro forma liquidity of A$161 million (excluding proceeds from the SPP), comprising pro forma cash of A$131 million26"
+      },
+      "alongside": []
     },
     "APE-2025-10-01-03003575": {
       "documents": [
         "03003572",
         "03003575",
-        "03004888"
+        "03004888",
+        "03018034"
       ],
       "offerPrice": {
         "value": 21,
@@ -1031,11 +1200,21 @@
         "quote": "Institutional Entitlement Offer ”) of its ~A$452 million underwritten 1 for 12 accelerated non-renounceable entitlement offer as announced on Wednesday 1 October 2025 (”E"
       },
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": {
+        "value": "The net proceeds of the Equity Raising will be used to partly fund Eagers' strategic investment in CanadaOne Auto (“CanadaOne ”) through the acquisition of a 65% equity interest in its holding company for approximately A$1,043 million 3 (“Acquisition”).",
+        "source": "03018034",
+        "quote": "The net proceeds of the Equity Raising will be used to partly fund Eagers' strategic investment in CanadaOne Auto (“CanadaOne ”) through the acquisition of a 65% equity interest in its holding company"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "LYC-2025-08-28-02987078": {
       "documents": [
-        "02987078"
+        "02987078",
+        "02991415",
+        "02988032",
+        "02999152"
       ],
       "offerPrice": {
         "value": 13.25,
@@ -1074,10 +1253,13 @@
         "quote": "new fully paid ordinary shares, representing approximately 6.1% of Lynas’s existing shares on issue, to raise $750 million at an issue price of A$13.25 per new share; • The Issue"
       },
       "useOfFunds": {
-        "value": "New shares are to be issued at A$13.25 per share, representing a 10.0% discount to the last traded price on 27 August 2025 and a 8.6% discount to the VWAP for the 10 trading days up to and including 27 August 2025. • Proceeds from the equity raising will be used to help accelerate Lynas’ growth via its Towards 2030…",
+        "value": "The equity raising will provide Lynas with the balance sheet strength and financial flexibility to pursue key growth projects in its Towards 2030 strategy4.",
         "source": "02987078",
-        "quote": "New shares are to be issued at A$13.25 per share, representing a 10.0% discount to the last traded price on 27 August 2025 and a 8.6% discount to the VWAP for the 10 trading days up to and including 2"
-      }
+        "quote": "The equity raising will provide Lynas with the balance sheet strength and financial flexibility to pursue key growth projects in its Towards 2030 strategy4."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "SLX-2025-08-07-02977880": {
       "documents": [
@@ -1116,10 +1298,17 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "Importantly, the Placement proceeds will underpin Silex’s ability to support GLE in the pursuit of its unique ‘Triple Opportunity’ within the global nuclear fuel supply chain .",
+        "value": "Proceeds from the Placement, together with the Company’s existing cash balance of approximately $69.6 million (as at 31 July 2025) and proceeds raised under the Share Purchase Plan5, is intended to be allocated as follows: • $188.2 million for Silex’s 51% share of funding of GLE’s commercialisation program • $26.4…",
         "source": "02977878",
-        "quote": "Importantly, the Placement proceeds will underpin Silex’s ability to support GLE in the pursuit of its unique ‘Triple Opportunity’ within the global nuclear fuel supply chain ."
-      }
+        "quote": "Proceeds from the Placement, together with the Company’s existing cash balance of approximately $69.6 million (as at 31 July 2025) and proceeds raised under the Share Purchase Plan5, is intended to be"
+      },
+      "cashBefore": {
+        "value": 69.6,
+        "source": "02977878",
+        "quote": "Proceeds Proceeds from the Placement, together with the Company’s existing cash balance of approximately $69.6 million (as at 31 July 2025) and proceeds raised under the Share Purchase Plan5, is int"
+      },
+      "proFormaCash": null,
+      "alongside": []
     },
     "ELV-2025-08-25-02984401": {
       "documents": [
@@ -1132,15 +1321,24 @@
       "leadSource": null,
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "XRO-2025-06-25-02961640": {
       "documents": [
         "02964844",
         "02961640",
-        "02962215"
+        "02962215",
+        "02972123"
       ],
-      "offerPrice": null,
+      "offerPrice": {
+        "value": 174.67,
+        "currency": "A$",
+        "source": "02972123",
+        "quote": "participating eligible shareholders on Monday, 28 July 2025 at an issue price of A$174.67 per New Share, being the lower of: ● A$176 per New Share, being the price paid"
+      },
       "discounts": [],
       "underwritten": {
         "value": "fully",
@@ -1152,10 +1350,13 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "For personal use only NOT FOR DISTRIBUTION OR RELEASE IN THE UNITED STATES 2 Any funds raised under the SPP will be used for general corporate and working capital purposes.",
+        "value": "The proceeds from the Placement will be used to partially fund the cash consideration under the Merger Agreement and transaction costs.",
         "source": "02964844",
-        "quote": "For personal use only NOT FOR DISTRIBUTION OR RELEASE IN THE UNITED STATES 2 Any funds raised under the SPP will be used for general corporate and working capital purposes."
-      }
+        "quote": "The proceeds from the Placement will be used to partially fund the cash consideration under the Merger Agreement and transaction costs."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "ELS-2025-07-23-02971757": {
       "documents": [
@@ -1182,13 +1383,21 @@
       "leadSource": "02971757",
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": {
+        "value": 71.5,
+        "source": "02971757",
+        "quote": "Following the Placement, Elsight will be well-funded with a pro forma cash balance of ~A$71.5 million (~US$46.5 million) to invest in dedicated sales and marketing teams, pursue org"
+      },
+      "alongside": []
     },
     "FFM-2025-06-05-02955706": {
       "documents": [
         "02955706",
         "02958639",
-        "02968415"
+        "02968415",
+        "02956835"
       ],
       "offerPrice": {
         "value": 0.96,
@@ -1196,21 +1405,42 @@
         "source": "02958639",
         "quote": "~A$54.9 million two-tranche institutional placement at the offer price of A$0.96 per New Share (Institutional Placement). Tranche one of the Institutional Place"
       },
-      "discounts": [],
+      "discounts": [
+        {
+          "percent": -44.6,
+          "basis": "last close",
+          "source": "02956835",
+          "quote": "priced at approximately A$1.49 per New Share, which represents a 44.6% premium to FireFly’s last closing price on Wednesday, 4 June 2025, and a 55.0% premium to the offer price under the Institutional Placement of A$0"
+        },
+        {
+          "percent": 7.2,
+          "basis": "10-day VWAP",
+          "source": "02956835",
+          "quote": "represents a 6.8% discount to FireFly’s last closing price and a 7.2% discount to FireFly’s 10-day volume weighted average price up to and including Wednesday, 4 June 2025 (Institutional Placement); and • ~A$28.8 m"
+        }
+      ],
       "underwritten": {
         "value": "fully",
         "source": "02958639",
         "quote": "Placement is now complete; and • ~A$28.8 million (~C$25.8 million) fully underwritten Canadian bought deal offering with BMO Capital Markets. The indicative timeline"
       },
-      "leadManagers": [],
-      "leadSource": null,
+      "leadManagers": [
+        "Canaccord Genuity",
+        "Euroz Hartleys",
+        "Argonaut",
+        "BMO"
+      ],
+      "leadSource": "02956835",
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
         "value": "The net proceeds of the Canadian Offering and the Australian Offering will be primarily used for expenditure at the Green Bay Copper-Gold Project including underground development, Resource extension and infill drilling, regional and near mine exploration and drill testing, pre -construction and study works.",
         "source": "02955706",
         "quote": "The net proceeds of the Canadian Offering and the Australian Offering will be primarily used for expenditure at the Green Bay Copper-Gold Project including underground development, Resource extension "
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "VUL-2025-07-10-02968329": {
       "documents": [
@@ -1243,7 +1473,10 @@
       "leadSource": "02968329",
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "SOL-2025-07-01-02964666": {
       "documents": [
@@ -1257,10 +1490,13 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "Conditional Placement The proceeds from the Conditional Placement would constitute part of the Topco share capitalisation disclosed in the announcements of 2 June 2025 and would be expected to be used for the purposes disclosed in those announcements.",
+        "value": "The proceeds from the Conditional Placement would constitute part of the Topco share capitalisation disclosed in the announcements of 2 June 2025 and would be expected to be used for the purposes disclosed in those announcements.",
         "source": "02964666",
-        "quote": "Conditional Placement The proceeds from the Conditional Placement would constitute part of the Topco share capitalisation disclosed in the announcements of 2 June 2025 and would be expected to be used"
-      }
+        "quote": "The proceeds from the Conditional Placement would constitute part of the Topco share capitalisation disclosed in the announcements of 2 June 2025 and would be expected to be used for the purposes disc"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "SRL-2025-06-10-02956830": {
       "documents": [
@@ -1283,13 +1519,17 @@
         "value": "The combined funds raised under the Placement and the SPP ($7.5 million in total (before costs) ) will primarily be used to acce lerate the work on the Syerston Scandium Project Feasibility Study, which will review the current capital and operating cost estimates for the project through to production of scandium…",
         "source": "02963420",
         "quote": "The combined funds raised under the Placement and the SPP ($7.5 million in total (before costs) ) will primarily be used to acce lerate the work on the Syerston Scandium Project Feasibility Study, whi"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "ALQ-2025-05-27-02952188": {
       "documents": [
         "02952179",
         "02952188",
-        "02952692"
+        "02952692",
+        "02962130"
       ],
       "offerPrice": {
         "value": 16.7,
@@ -1325,10 +1565,17 @@
         "quote": "will be issued under the Placement, representing approximately 4.3% of the existing ordinary shares on issue in ALS (Shares). The Placement is within ALS’ available placement capacity unde"
       },
       "useOfFunds": {
-        "value": "Fully underwritten $350 million placement announced today to fund organic investments in the laboratory network, with excess funds raised to ensure ALS is well positioned to capitalise on other growth and M&A initiatives, along with a non-underwritten Share Purchase Plan to raise up to $40 million. • Pro-forma…",
+        "value": "Proceeds raised under the SPP will be used to provide additional balance sheet capacity to support ALS’ future growth. 11 ALS retains the right to accept oversubscriptions or to scale back applications (in whole or in part) at its absolute discret ion which may result in the SPP raising more or less than A$40 million.",
         "source": "02952179",
-        "quote": "Fully underwritten $350 million placement announced today to fund organic investments in the laboratory network, with excess funds raised to ensure ALS is well positioned to capitalise on other growth"
-      }
+        "quote": "Proceeds raised under the SPP will be used to provide additional balance sheet capacity to support ALS’ future growth. 11 ALS retains the right to accept oversubscriptions or to scale back application"
+      },
+      "cashBefore": null,
+      "proFormaCash": {
+        "value": 677,
+        "source": "02952179",
+        "quote": "non-underwritten Share Purchase Plan to raise up to $40 million. • Pro-forma available liquidity of $677 million following placement. EBITDA cash conversion of 95%4. • Final dividend of 19.7 c"
+      },
+      "alongside": []
     },
     "CYL-2025-05-23-02951319": {
       "documents": [
@@ -1362,7 +1609,10 @@
       "leadSource": "02951319",
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "SRL-2025-04-22-02939757": {
       "documents": [
@@ -1392,10 +1642,13 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "Use of Proceeds Funds from the Placement and SPP will be used to accelerate work on the Syerston Scandium Project Feasibility Study, which will review the current capital and operating cost estimates for the Project (refer to the Company’s December 2024 Quarterly Activities Report released on 28 January 2025 )…",
+        "value": "Funds from the Placement and SPP will be used to accelerate work on the Syerston Scandium Project Feasibility Study, which will review the current capital and operating cost estimates for the Project (refer to the Company’s December 2024 Quarterly Activities Report released on 28 January 2025 ) through to…",
         "source": "02939757",
-        "quote": "Use of Proceeds Funds from the Placement and SPP will be used to accelerate work on the Syerston Scandium Project Feasibility Study, which will review the current capital and operating cost estimates "
-      }
+        "quote": "Funds from the Placement and SPP will be used to accelerate work on the Syerston Scandium Project Feasibility Study, which will review the current capital and operating cost estimates for the Project "
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "BGL-2025-04-14-02937722": {
       "documents": [
@@ -1432,14 +1685,20 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "REFERENCES TO WORKING CAPITAL Where this presentation includes references to ‘working capital’ in relation to the use of proceeds of the Placement, the Company will hold this component of the offer proceeds to apply to such general corporate and site operating costs and working capital requirements as may arise…",
-        "source": "02937722",
-        "quote": "REFERENCES TO WORKING CAPITAL Where this presentation includes references to ‘working capital’ in relation to the use of proceeds of the Placement, the Company will hold this component of the offer pr"
-      }
+        "value": "Placement proceeds will be applied to the closure of hedged ounces19 through the remainder of CY25 , providing the Company with improved exposure to the spot gold price through that period , and for general working capital to support ongoing operations.",
+        "source": "02937721",
+        "quote": "Placement proceeds will be applied to the closure of hedged ounces19 through the remainder of CY25 , providing the Company with improved exposure to the spot gold price through that period , and for g"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "ASB-2025-03-11-02924832": {
       "documents": [
-        "02924831"
+        "02924831",
+        "02924832",
+        "02925288",
+        "02935136"
       ],
       "offerPrice": {
         "value": 3.8,
@@ -1473,16 +1732,16 @@
       "leadSource": "02924831",
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": {
-        "value": "For personal use only Page 2 of 8 Equity Raising to fund expansion of steel shipbuilding infrastructure in Mobile, Alabama USA Net proceeds raised by the Equity Raising will contribute to Austal’s funding of the Final Assembly 2 (FA2) infrastructure expansion project at its Mobile, Alabama shipyard, a highly…",
-        "source": "02924831",
-        "quote": "For personal use only Page 2 of 8 Equity Raising to fund expansion of steel shipbuilding infrastructure in Mobile, Alabama USA Net proceeds raised by the Equity Raising will contribute to Austal’s fun"
-      }
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "4DX-2025-02-21-02917171": {
       "documents": [
         "02917168",
-        "02917164"
+        "02917164",
+        "02929944"
       ],
       "offerPrice": {
         "value": 0.425,
@@ -1509,13 +1768,21 @@
       "leadSource": "02917168",
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": {
+        "value": "The total funds raised, comprising the Placement ($5.5m) and SPP ($8.4m), amount to $13.9m (before costs) and will be used for general working capital as the Company accelerates the commercialisation of its functional and structural lung diagnostics portfolio, and drives towards FDA submission of its revolutionary…",
+        "source": "02929944",
+        "quote": "The total funds raised, comprising the Placement ($5.5m) and SPP ($8.4m), amount to $13.9m (before costs) and will be used for general working capital as the Company accelerates the commercialisation "
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "GDG-2025-02-10-02912452": {
       "documents": [
         "02912452",
         "02912434",
-        "02913358"
+        "02913358",
+        "02921682"
       ],
       "offerPrice": {
         "value": 4.15,
@@ -1558,7 +1825,10 @@
         "value": "As announced on 10 February 2025, proceeds from the Equity Raising will be used to fund the acquisition of Evidentia Group Holdings Pty Ltd (‘Evidentia’) for $244.9m up-front cash consideration (‘Acquisition’) plus associated transaction costs, synergy implementation costs and future growth initiatives.",
         "source": "02913358",
         "quote": "As announced on 10 February 2025, proceeds from the Equity Raising will be used to fund the acquisition of Evidentia Group Holdings Pty Ltd (‘Evidentia’) for $244.9m up-front cash consideration (‘Acqu"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "GMG-2025-02-19-02915730": {
       "documents": [
@@ -1594,10 +1864,13 @@
         "quote": "securities are expected to be issued, representing approximately 6.2% of Goodman’s total securities outstanding. It is intended that eligible institutional Securityholders who bid for up to t"
       },
       "useOfFunds": {
-        "value": "The additional funds raised provide us with greater financial and operational flexibility to manage the next phase of growth.” Data centre progress – expanding customer service offering ahead of substantial starts The escalating demand for data centres is being fuelled by the increasing use of cloud-based…",
+        "value": "The proceeds raised will provide working capital and financial flexibility to assist over the short and long term.",
         "source": "02915729",
-        "quote": "The additional funds raised provide us with greater financial and operational flexibility to manage the next phase of growth.” Data centre progress – expanding customer service offering ahead of subst"
-      }
+        "quote": "The proceeds raised will provide working capital and financial flexibility to assist over the short and long term."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "PDI-2025-02-04-02910571": {
       "documents": [
@@ -1630,16 +1903,24 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "USE OF PROCEEDS The proceeds from the strategic placement will be used to accelerate the Bankan Gold Project, including: • Completing the Definitive Feasibility Study; • Progressing biodiversity and social programs; • Continuing regional exploration programs to grow the current 5.38Moz Mineral Resource estimate;2 •…",
+        "value": "The proceeds from the strategic placement will be used to accelerate the Bankan Gold Project, including: • Completing the Definitive Feasibility Study; • Progressing biodiversity and social programs; • Continuing regional exploration programs to grow the current 5.38Moz Mineral Resource estimate;2 • Commencing…",
         "source": "02910571",
-        "quote": "USE OF PROCEEDS The proceeds from the strategic placement will be used to accelerate the Bankan Gold Project, including: • Completing the Definitive Feasibility Study; • Progressing biodiversity and s"
-      }
+        "quote": "The proceeds from the strategic placement will be used to accelerate the Bankan Gold Project, including: • Completing the Definitive Feasibility Study; • Progressing biodiversity and social programs; "
+      },
+      "cashBefore": null,
+      "proFormaCash": {
+        "value": 98,
+        "source": "02910571",
+        "quote": "programs and conduct selected early development activities. • Pro-forma cash balance of A$98.0m upon completion of the strategic placement (before costs).1 PDI’s Managing Dire"
+      },
+      "alongside": []
     },
     "VUL-2024-12-11-02894283": {
       "documents": [
         "02894282",
         "02898484",
-        "02894283"
+        "02894283",
+        "02895313"
       ],
       "offerPrice": {
         "value": 5.85,
@@ -1663,17 +1944,26 @@
       "leadManagers": [],
       "leadSource": null,
       "ratio": null,
-      "percentOfIssued": null,
+      "percentOfIssued": {
+        "value": 0,
+        "source": "02895313",
+        "quote": "€15m deferred payment consideration for the acquisition of 100% of the shares in Geox GmbH, which may be funded from the Placement, existing cash reserves, o"
+      },
       "useOfFunds": {
-        "value": "Highlights • Net proceeds from the Placement, together with existing cash of €20m (A$33m) 1 2, will be applied to fund the commencement of project execution of the Company's Phase One Lionheart Project (the Project).",
+        "value": "Proceeds raised under the SPP will be used as additional working capital to support the advancement of the Project and associated funding initiatives. www.v-er.eu 2 2.",
         "source": "02894282",
-        "quote": "Highlights • Net proceeds from the Placement, together with existing cash of €20m (A$33m) 1 2, will be applied to fund the commencement of project execution of the Company's Phase One Lionheart Projec"
-      }
+        "quote": "Proceeds raised under the SPP will be used as additional working capital to support the advancement of the Project and associated funding initiatives. www.v-er.eu 2 2."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "PNI-2024-11-20-02884060": {
       "documents": [
         "02884060",
-        "02884059"
+        "02884059",
+        "02884712",
+        "02896765"
       ],
       "offerPrice": {
         "value": 20.3,
@@ -1715,7 +2005,10 @@
         "value": "Proceeds raised under the SPP will be used to provide additional balance sheet capacity to support Pinnacle’s future growth.",
         "source": "02884059",
         "quote": "Proceeds raised under the SPP will be used to provide additional balance sheet capacity to support Pinnacle’s future growth."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "RMS-2024-12-05-02892046": {
       "documents": [
@@ -1728,7 +2021,10 @@
       "leadSource": null,
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "WBT-2024-11-14-02881818": {
       "documents": [
@@ -1759,7 +2055,10 @@
         "value": "Funds raised will be used to scale up commercialisation activities as part of new customer and partner engagements that are expected to materialise over the coming 12 months, to support working capital needs associated with further technology development, and to strengthen the Company’s balance sheet.",
         "source": "02881818",
         "quote": "Funds raised will be used to scale up commercialisation activities as part of new customer and partner engagements that are expected to materialise over the coming 12 months, to support working capita"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "CMM-2024-10-30-02875137": {
       "documents": [
@@ -1779,7 +2078,10 @@
       "leadSource": "02875137",
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "FFM-2024-09-26-02858643": {
       "documents": [
@@ -1821,10 +2123,13 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "We have an exceptional copper asset at Green Bay and we firmly believe that there is further substantial value to be created for shareholders by growing the resource. “The outstanding exploration results we are generating support our view that there is immense upside. “The proceeds of the placement and SPP will…",
-        "source": "02872522",
-        "quote": "We have an exceptional copper asset at Green Bay and we firmly believe that there is further substantial value to be created for shareholders by growing the resource. “The outstanding exploration resu"
-      }
+        "value": "The proceeds of the Placement, which was strongly supported by several existing and new Australian and international institutions, will be used to underpin the next phase of resource growth, discovery and development at the Green Bay Copper -Gold Project in Canada.",
+        "source": "02858643",
+        "quote": "The proceeds of the Placement, which was strongly supported by several existing and new Australian and international institutions, will be used to underpin the next phase of resource growth, discovery"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "IPX-2024-10-21-02870062": {
       "documents": [
@@ -1856,11 +2161,17 @@
         "value": "Proceeds from the Placement will be applied to Virginia titanium production campus expansions (including studies, equipment and working capital), ongoing Virginia development and operations, acquisition of intellectual property, and for general working capital and corporate purposes.",
         "source": "02870062",
         "quote": "Proceeds from the Placement will be applied to Virginia titanium production campus expansions (including studies, equipment and working capital), ongoing Virginia development and operations, acquisiti"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "FBU-2024-09-23-02856592": {
       "documents": [
-        "02856592"
+        "02856592",
+        "02857753",
+        "02858375",
+        "02857427"
       ],
       "offerPrice": {
         "value": 2.4,
@@ -1901,13 +2212,17 @@
         "source": "02856592",
         "quote": "be issued by Fletcher Building, representing approximately 37% of existing shares on issue. New shares issued under the Offer will rank equally in all respects with Fletc"
       },
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "AIA-2024-09-16-02853783": {
       "documents": [
         "02853783",
         "02854466",
-        "02855310"
+        "02855310",
+        "02865717"
       ],
       "offerPrice": {
         "value": 150,
@@ -1929,10 +2244,13 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "Auckland Airport is seeking to raise up to NZ$200 million under the Retail Offer, with the ability to accept oversubscriptions at its sole discretion.4 The proceeds of the equity raise will initially reduce net debt, repay the NZ$150 million October 2024 bond maturity, as well as a further NZ$100 million of…",
+        "value": "Any fractional Shares allocated under the Retail Offer will be rounded down to the nearest whole number of Shares.",
         "source": "02855310",
-        "quote": "Auckland Airport is seeking to raise up to NZ$200 million under the Retail Offer, with the ability to accept oversubscriptions at its sole discretion.4 The proceeds of the equity raise will initially "
-      }
+        "quote": "Any fractional Shares allocated under the Retail Offer will be rounded down to the nearest whole number of Shares."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "NXT-2024-09-10-02851997": {
       "documents": [
@@ -1970,14 +2288,18 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "Use of Proceeds The proceeds received from the Capital Raising are intended to be applied to the acquisition of new data centre development sites in Asia, as well as general corporate purposes and transaction costs .",
+        "value": "The proceeds received from the Capital Raising are intended to be applied to the acquisition of new data centre development sites in Asia, as well as general corporate purposes and transaction costs . Once acquired, the Asian sites are expected to expand the Company’s data centre development pipeline in Asia, which…",
         "source": "02851997",
-        "quote": "Use of Proceeds The proceeds received from the Capital Raising are intended to be applied to the acquisition of new data centre development sites in Asia, as well as general corporate purposes and tra"
-      }
+        "quote": "The proceeds received from the Capital Raising are intended to be applied to the acquisition of new data centre development sites in Asia, as well as general corporate purposes and transaction costs ."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "SRG-2024-08-21-02841967": {
       "documents": [
-        "02841967"
+        "02841967",
+        "02854443"
       ],
       "offerPrice": {
         "value": 0.83,
@@ -2009,7 +2331,10 @@
         "value": "Funds raised under the Placement will assist with the funding of SRG Global’s acquisition of Diona Pty Ltd (“Diona”) (the “Acquisition”), a leading end- to-end service provider in water security and energy transition.",
         "source": "02841967",
         "quote": "Funds raised under the Placement will assist with the funding of SRG Global’s acquisition of Diona Pty Ltd (“Diona”) (the “Acquisition”), a leading end- to-end service provider in water security and e"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "SOL-2024-08-21-02842269": {
       "documents": [
@@ -2036,13 +2361,17 @@
         "value": "The Placement will be used to fund the Repurchase with the net proceeds from the New Notes to provide additional liquidity for new investment opportunities and accelerate growth in the business.",
         "source": "02842269",
         "quote": "The Placement will be used to fund the Repurchase with the net proceeds from the New Notes to provide additional liquidity for new investment opportunities and accelerate growth in the business."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "BGL-2024-07-25-02832106": {
       "documents": [
         "02832104",
         "02832106",
-        "02832528"
+        "02832528",
+        "02845137"
       ],
       "offerPrice": {
         "value": 1.55,
@@ -2081,7 +2410,10 @@
         "value": "Equity raising proceeds will be used to repay debt, unlock ing project free cash flow to allow Bellevue to self-fund expansion in line with its updated 5 Y ear Growth Plan, and to support accelerated exploration and growth.",
         "source": "02832104",
         "quote": "Equity raising proceeds will be used to repay debt, unlock ing project free cash flow to allow Bellevue to self-fund expansion in line with its updated 5 Y ear Growth Plan, and to support accelerated "
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "A2M-2024-08-20-02841498": {
       "documents": [
@@ -2099,7 +2431,10 @@
       "leadSource": null,
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "DRO-2024-08-01-02835218": {
       "documents": [
@@ -2135,11 +2470,20 @@
         "value": "Net proceeds raised from the Placement will be used to fund the development of priority R&D programs as well as strategic bolt-on acquisitions to accelerate the development of DroneShield’s new Artificial Intelligence products & software capabilities to meet high demand from its global tier 1 customer base allowing…",
         "source": "02835217",
         "quote": "Net proceeds raised from the Placement will be used to fund the development of priority R&D programs as well as strategic bolt-on acquisitions to accelerate the development of DroneShield’s new Artifi"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": {
+        "value": 120,
+        "source": "02835217",
+        "quote": "requirements, to fuel DroneShield’s rapid growth. • Post transaction pro forma cash balance of approximately $120 million 1 will support the rapid growth of DroneShield’s R&D programs and fund potentia"
+      },
+      "alongside": []
     },
     "ARF-2024-07-23-02831114": {
       "documents": [
-        "02831110"
+        "02831110",
+        "02831114",
+        "02831585"
       ],
       "offerPrice": {
         "value": 3.78,
@@ -2159,6 +2503,12 @@
           "basis": "5-day VWAP",
           "source": "02831110",
           "quote": "discount to the last closing price of $3.96 on 22 July 2024; and 5.1% discount to the five-day Volume Weighted Average Price of $3.9844 to 22 July 2024. It is intended that eligible institutional securityholders who bid for up to t"
+        },
+        {
+          "percent": 5.1,
+          "basis": "VWAP",
+          "source": "02831585",
+          "quote": "the closing price of $3.96 per Security on 22 July 2024 and a 5.1% discount to the 5 -day VWAP to 22 July 2024 of $3.9844 per Security. Under the Placement, approximately 31.7 million new Securities will be issued"
         }
       ],
       "underwritten": {
@@ -2173,11 +2523,10 @@
       "leadSource": "02831110",
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": {
-        "value": "It is intended that eligible institutional securityholders who bid for up to their ‘pro rata’ share of new securities under the Institutional Placement will be allocated their full bid, on a best endeavours basis5,6.",
-        "source": "02831110",
-        "quote": "It is intended that eligible institutional securityholders who bid for up to their ‘pro rata’ share of new securities under the Institutional Placement will be allocated their full bid, on a best ende"
-      }
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "WAF-2024-07-04-02825279": {
       "documents": [
@@ -2225,19 +2574,24 @@
         "source": "02825279",
         "quote": "WAF’s ASX Listing Rule 7.1 capacity, representing approximately 10.7% of the existing shares on issue, via a single tranche placement to raise gross proceeds of up to ~A$150 million"
       },
-      "useOfFunds": {
-        "value": "For personal use only 7 WAF PROJECT LOCATIONS For personal use only 88 EQUITY RAISING OVERVIEW For personal use only 9 Offer Details  A non-underwritten placement of up to approximately 109.5 million new fully paid ordinary shares (New Shares) under WAF’s ASX Listing Rule 7.1 capacity, representing approximately…",
-        "source": "02825279",
-        "quote": "For personal use only 7 WAF PROJECT LOCATIONS For personal use only 88 EQUITY RAISING OVERVIEW For personal use only 9 Offer Details  A non-underwritten placement of up to approximately 109.5 million"
-      }
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "AUB-2024-05-22-02809839": {
       "documents": [
         "02809838",
         "02817474",
-        "02809839"
+        "02809839",
+        "02810409"
       ],
-      "offerPrice": null,
+      "offerPrice": {
+        "value": 27.5,
+        "currency": "A$",
+        "source": "02810409",
+        "quote": "million New Shares will be issued under the Placement at a fixed price of A$27.50 per New Share, which represents a 6.7% discount to the last traded price of A$2"
+      },
       "discounts": [
         {
           "percent": 6.7,
@@ -2267,12 +2621,20 @@
         "source": "02809838",
         "quote": "Shares) will be issued under the Placement, which represents 6.7% of AUB’s current ordinary shares on issue. New Shares issued under the Equity Raising will be issued at a price of AUD 27"
       },
-      "useOfFunds": null
+      "useOfFunds": {
+        "value": "Proceeds raised under the Share Purchase Plan will provide additional financial flexibility to allow AUB to pursue its strategic priorities while maintaining a prudent balance sheet to enable the execution of AUB’s accretive and strategic M&A pipeline.",
+        "source": "02817474",
+        "quote": "Proceeds raised under the Share Purchase Plan will provide additional financial flexibility to allow AUB to pursue its strategic priorities while maintaining a prudent balance sheet to enable the exec"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "GDG-2024-06-03-02813980": {
       "documents": [
         "02813980",
-        "02814944"
+        "02814944",
+        "02821463"
       ],
       "offerPrice": {
         "value": 1.95,
@@ -2310,14 +2672,19 @@
       },
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "For personal use only 3 Details of the Equity Raising GDG intends to conduct an Equity Raising to raise approximately $155.4m through a: • fully underwritten placement to institutional investors to raise approximately $62.0m (‘Institutional Placement’); and • fully underwritten 1 for 3.98 accelerated…",
-        "source": "02813980",
-        "quote": "For personal use only 3 Details of the Equity Raising GDG intends to conduct an Equity Raising to raise approximately $155.4m through a: • fully underwritten placement to institutional investors to ra"
-      }
+        "value": "As announced on 3 June 2024, the proceeds from the Institutional Offer will be used to part fund the remaining 61.9%1 of Lonsec Holdings Pty Ltd's (‘Lonsec’) fully diluted share capital not already owned by GDG for $197.4m up-front consideration (‘Acquisition’) plus associated transaction costs.",
+        "source": "02814944",
+        "quote": "As announced on 3 June 2024, the proceeds from the Institutional Offer will be used to part fund the remaining 61.9%1 of Lonsec Holdings Pty Ltd's (‘Lonsec’) fully diluted share capital not already ow"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "IFT-2024-06-17-02818335": {
       "documents": [
-        "02818334"
+        "02818334",
+        "02819802",
+        "02818937"
       ],
       "offerPrice": {
         "value": 10.15,
@@ -2351,15 +2718,20 @@
         "quote": "98.5 million new ordinary shares, representing approximately 11.8% of current issued capital, to raise approximately NZ$1,000 million. The Placement Issue Price of NZ$10.15"
       },
       "useOfFunds": {
-        "value": "The proceeds of the equity raising will be used to fund its accelerated growth, and provide additional balance sheet flexibility to allow Infratil to continue to invest across our portfolio. “Demand continues to accelerate on the back of cloud adoption and significant investments in Generative AI.",
-        "source": "02818334",
-        "quote": "The proceeds of the equity raising will be used to fund its accelerated growth, and provide additional balance sheet flexibility to allow Infratil to continue to invest across our portfolio. “Demand c"
-      }
+        "value": "The proceeds of the equity raise will be used to fund accelera ted growth of Infratil’s portfolio entity, CDC, and provide additional balance sheet flexibility to allow Infratil to continue to invest across its portfolio.",
+        "source": "02819802",
+        "quote": "The proceeds of the equity raise will be used to fund accelera ted growth of Infratil’s portfolio entity, CDC, and provide additional balance sheet flexibility to allow Infratil to continue to invest "
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "NCK-2024-04-24-02799328": {
       "documents": [
         "02799327",
-        "02799328"
+        "02799328",
+        "02799923",
+        "02812264"
       ],
       "offerPrice": {
         "value": 13.25,
@@ -2386,7 +2758,14 @@
       "leadSource": "02799328",
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": {
+        "value": "All eligible Directors of Nick Scali intend to participate in the SPP. Proceeds raised under the Share Purchase Plan will provide Nick Scali with additional capacity to support its growth strategy.",
+        "source": "02799923",
+        "quote": "All eligible Directors of Nick Scali intend to participate in the SPP. Proceeds raised under the Share Purchase Plan will provide Nick Scali with additional capacity to support its growth strategy."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "IPX-2024-05-15-02807581": {
       "documents": [
@@ -2418,7 +2797,10 @@
         "value": "Proceeds from the Placement will be used to scale titanium manufacturing capacity at IperionX’s operations in Virginia, including new equipment at the Advanced Manufacturing Center, final design, and engineering studies to increase titanium production capacity to ~2,000 metric tons per annum at the Titanium…",
         "source": "02807581",
         "quote": "Proceeds from the Placement will be used to scale titanium manufacturing capacity at IperionX’s operations in Virginia, including new equipment at the Advanced Manufacturing Center, final design, and "
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "ANN-2024-04-09-02794077": {
       "documents": [
@@ -2446,13 +2828,17 @@
         "value": "The proceeds of the Placement will be used to partially fund the acquisition of 100% of the assets that constitute Kimberly-Clark’s Personal Protective Equipment business from Kimberly-Clark Corporation for US$6403 million.",
         "source": "02795792",
         "quote": "The proceeds of the Placement will be used to partially fund the acquisition of 100% of the assets that constitute Kimberly-Clark’s Personal Protective Equipment business from Kimberly-Clark Corporati"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "NXT-2024-04-11-02794819": {
       "documents": [
         "02794818",
         "02794819",
-        "02795879"
+        "02795879",
+        "02804621"
       ],
       "offerPrice": {
         "value": 15.4,
@@ -2485,11 +2871,17 @@
         "value": "The net proceeds from the Entitlement Offer will be applied to accelerating the development and fit out of NEXTDC’s leading digital infrastructure platform in its core Sydney and Melbourne markets to meet unprecedented growth in customer demand and position itself to take advantage of ongoing market expansion over…",
         "source": "02794818",
         "quote": "The net proceeds from the Entitlement Offer will be applied to accelerating the development and fit out of NEXTDC’s leading digital infrastructure platform in its core Sydney and Melbourne markets to "
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "DRO-2024-04-18-02797346": {
       "documents": [
-        "02797295"
+        "02797295",
+        "02801643",
+        "02804676",
+        "02797346"
       ],
       "offerPrice": {
         "value": 0.8,
@@ -2518,10 +2910,13 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "For personal use only DroneShield Limited ABN: 26 608 915 859 ASX:DRO Level 5, 126 Phillip St, Sydney NSW 2000 2 droneshield.com Details of the Placement The Placement will result in the issue of approximately 87.8m Shares to sophisticated, professional and institutional investors at an issue price of $0.80 per…",
+        "value": "Net proceeds raised from the Placement and SPP will be used to bu ild up inventory to support DroneShield’s strong pipeline of high-quality customer opportunities as well as the scaling of the engineering team to accelerate development of in- house artificial intelligence ( AI) and machine learning (ML) engines and…",
         "source": "02797295",
-        "quote": "For personal use only DroneShield Limited ABN: 26 608 915 859 ASX:DRO Level 5, 126 Phillip St, Sydney NSW 2000 2 droneshield.com Details of the Placement The Placement will result in the issue of appr"
-      }
+        "quote": "Net proceeds raised from the Placement and SPP will be used to bu ild up inventory to support DroneShield’s strong pipeline of high-quality customer opportunities as well as the scaling of the enginee"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "PDI-2024-05-02-02803180": {
       "documents": [
@@ -2543,16 +2938,24 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "Overall, more than half of the proceeds will be allocated to drilling programs.” “In parallel, PDI is progressing the critical path Exploitation Permit application process, which is targeted to be completed in the second half of 2024.",
+        "value": "The Placement will allow PDI to accelerate the definition of key targets.",
         "source": "02803180",
-        "quote": "Overall, more than half of the proceeds will be allocated to drilling programs.” “In parallel, PDI is progressing the critical path Exploitation Permit application process, which is targeted to be com"
-      }
+        "quote": "The Placement will allow PDI to accelerate the definition of key targets."
+      },
+      "cashBefore": null,
+      "proFormaCash": {
+        "value": 66.5,
+        "source": "02803180",
+        "quote": "recent Pre-Feasibility Study (“PFS”). • Well-funded with a pro-forma cash position of A$66.5m before costs upon completion of the Placement.2 PDI Managing Director, Andrew P"
+      },
+      "alongside": []
     },
     "DYL-2024-03-11-02783733": {
       "documents": [
         "02786399",
         "02795910",
-        "02783733"
+        "02783733",
+        "02783730"
       ],
       "offerPrice": {
         "value": 1.225,
@@ -2570,14 +2973,23 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "The Company is seeking to raise up to a maximum of $30 million under the Offer which, together with the funds raised from the Placement, will be applied towards: 1. advancing the development of the Tumas Project with the commencement of construction post-FID; 2. advancing the Mulga Rock Project; 3. progressing…",
-        "source": "02786399",
-        "quote": "The Company is seeking to raise up to a maximum of $30 million under the Offer which, together with the funds raised from the Placement, will be applied towards: 1. advancing the development of the Tu"
-      }
+        "value": "With the funds raised, we can now move forward with confidence in progressing the development of our two advance d uranium projects while extracting the full resource potential from our highly prospective exploration p rojects and continuing with our successful M&A strategy to grow our project pipeline to be ready…",
+        "source": "02783730",
+        "quote": "With the funds raised, we can now move forward with confidence in progressing the development of our two advance d uranium projects while extracting the full resource potential from our highly prospec"
+      },
+      "cashBefore": null,
+      "proFormaCash": {
+        "value": 279,
+        "source": "02783730",
+        "quote": "raised will significantly strengthen the balance sheet, with a pro-forma cash balance of A$279M, allowing Deep Yellow to commit to its growth strategy with confidence • Deep Y"
+      },
+      "alongside": []
     },
     "NXG-2024-05-01-02802415": {
       "documents": [
-        "02802415"
+        "02802415",
+        "02802408",
+        "02802411"
       ],
       "offerPrice": {
         "value": 12.4,
@@ -2609,11 +3021,17 @@
         "value": "The Company intends to use the net proceeds from the Offering to fund the continued development and further exploration of its mineral properties, and for general corporate purposes.",
         "source": "02802415",
         "quote": "The Company intends to use the net proceeds from the Offering to fund the continued development and further exploration of its mineral properties, and for general corporate purposes."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "EOS-2024-03-22-02788243": {
       "documents": [
-        "02788243"
+        "02788243",
+        "02791221",
+        "02788738",
+        "02797101"
       ],
       "offerPrice": {
         "value": 1.7,
@@ -2655,7 +3073,10 @@
         "value": "Net proceeds from the Placement and SPP will be applied to support future sales growth in key global markets, through investment in long lead time critical weapon supplies, spec ifically RWS cannons, investment in other long lead time equipment components and security deposits for bank guarantees.",
         "source": "02788243",
         "quote": "Net proceeds from the Placement and SPP will be applied to support future sales growth in key global markets, through investment in long lead time critical weapon supplies, spec ifically RWS cannons, "
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "ORI-2024-02-21-02775348": {
       "documents": [
@@ -2680,10 +3101,13 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "It is intended that Orica’s eligible institutional shareholders who bid for an amount equal to, or less than, their pro rata share of New Shares under the Placement will be allocated their full bid on a reasonable endeavours basis.9 DETAILS OF THE SHARE PURCHASE PLAN Following the completion of the Placement, Orica…",
-        "source": "02775348",
-        "quote": "It is intended that Orica’s eligible institutional shareholders who bid for an amount equal to, or less than, their pro rata share of New Shares under the Placement will be allocated their full bid on"
-      }
+        "value": "The proceeds of the Placement will be used to parti ally fund the acquisition of Cyanco, a US-based lea der in the manufacture and distribution of sodium cyanide prim arily serving the gold mining industries in the US, Canada, Mexico, Latin America and Africa.",
+        "source": "02776062",
+        "quote": "The proceeds of the Placement will be used to parti ally fund the acquisition of Cyanco, a US-based lea der in the manufacture and distribution of sodium cyanide prim arily serving the gold mining ind"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "MSB-2024-03-14-02785297": {
       "documents": [
@@ -2696,13 +3120,17 @@
       "leadSource": null,
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "MTS-2024-02-05-02769766": {
       "documents": [
         "02769765",
         "02771894",
-        "02769766"
+        "02769766",
+        "02770181"
       ],
       "offerPrice": {
         "value": 3.35,
@@ -2741,7 +3169,10 @@
         "value": "Proceeds raised under the Share Purchase Plan will provide Metcash with additional capacity to support growth opportunities.",
         "source": "02769765",
         "quote": "Proceeds raised under the Share Purchase Plan will provide Metcash with additional capacity to support growth opportunities."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "OBM-2024-03-01-02780584": {
       "documents": [
@@ -2781,13 +3212,17 @@
       "leadSource": "02780584",
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "EVN-2023-12-06-02750938": {
       "documents": [
         "02753707",
         "02762218",
-        "02750938"
+        "02750938",
+        "02770154"
       ],
       "offerPrice": {
         "value": 3.8,
@@ -2806,15 +3241,20 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "As previously announced, the funds raised under the Placement will be used to partly fund the acquisition of an 80% interest in the Northparkes Copper-Gold Mine (“Northparkes”) from CMOC Group Limited (“ CMOC”) (the “ Transaction”) for total cash consideration of up to US$475 million comprised of an upfront cash…",
+        "value": "Funds raised via the SPP will be used to assist with integration costs related to the Transaction and general working capital.",
         "source": "02753707",
-        "quote": "As previously announced, the funds raised under the Placement will be used to partly fund the acquisition of an 80% interest in the Northparkes Copper-Gold Mine (“Northparkes”) from CMOC Group Limited"
-      }
+        "quote": "Funds raised via the SPP will be used to assist with integration costs related to the Transaction and general working capital."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "SIG-2023-12-11-02752658": {
       "documents": [
         "02752658",
-        "02752508"
+        "02752508",
+        "02752509",
+        "02765494"
       ],
       "offerPrice": {
         "value": 0.7,
@@ -2845,7 +3285,11 @@
         "Goldman Sachs"
       ],
       "leadSource": "02752508",
-      "ratio": null,
+      "ratio": {
+        "value": "1 for 1.85",
+        "source": "02752509",
+        "quote": "UNITED STATES Sigma Equity Raising Overview • Fully underwritten 1 for 1.85 pro-rata accelerated non-renounceable entitlement offer to raise gross proceeds of appro"
+      },
       "percentOfIssued": {
         "value": 54.1,
         "source": "02752508",
@@ -2855,12 +3299,24 @@
         "value": "In the event the Proposed Merger proceeds to completion, and to the extent the proceeds have not been applied to fund working capital needs and new business initiatives discussed in the Investor Presentation – some of the net proceeds from the Entitlement Offer may instead be used to partially fund the cash…",
         "source": "02752508",
         "quote": "In the event the Proposed Merger proceeds to completion, and to the extent the proceeds have not been applied to fund working capital needs and new business initiatives discussed in the Investor Prese"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": [
+        {
+          "millions": 1000,
+          "kind": "debt",
+          "from": "",
+          "source": "02752508",
+          "quote": "approved commitment letter from ANZ13 and NAB 14 for a new $1.0 billion debt facility to fund the cash consideration required under the Proposed Merger and to 8 On a"
+        }
+      ]
     },
     "MSB-2023-12-04-02749922": {
       "documents": [
         "02749878",
-        "02749910"
+        "02749910",
+        "02759043"
       ],
       "offerPrice": {
         "value": 0.3,
@@ -2898,16 +3354,20 @@
         "quote": "Entitlement Offer (New Shares) which represents approximately 39.7% of current shares on issue. The Offer Price of A$0.30 per New Share represents a discount of: • 20.0% to t"
       },
       "useOfFunds": {
-        "value": "Use of Proceeds Proceeds from the Placement and Entitlement Offer and existing cash reserves will be used to fund the adult Phase 3 registration trials for steroid-refractory acute-graft versus host disease and for chronic lower back pain, and general corporate purposes.",
+        "value": "Proceeds from the Placement and Entitlement Offer and existing cash reserves will be used to fund the adult Phase 3 registration trials for steroid-refractory acute-graft versus host disease and for chronic lower back pain, and general corporate purposes.",
         "source": "02749878",
-        "quote": "Use of Proceeds Proceeds from the Placement and Entitlement Offer and existing cash reserves will be used to fund the adult Phase 3 registration trials for steroid-refractory acute-graft versus host d"
-      }
+        "quote": "Proceeds from the Placement and Entitlement Offer and existing cash reserves will be used to fund the adult Phase 3 registration trials for steroid-refractory acute-graft versus host disease and for c"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "SDF-2023-11-17-02741718": {
       "documents": [
         "02743790",
         "02744408",
-        "02741718"
+        "02741718",
+        "02756764"
       ],
       "offerPrice": {
         "value": 5.14,
@@ -2942,7 +3402,10 @@
         "value": "Proceeds from the Placement and SPP will be used to fund the upfront acquisition payment for Combined Agency Group Pty Ltd (t/as Sure Insurance) (ACN 630 149 272) (Sure Insurance), the FY24 incremental earn-out payment for Sure Insurance and to provide cash for acquisition opportunities and / or potential deferred…",
         "source": "02744408",
         "quote": "Proceeds from the Placement and SPP will be used to fund the upfront acquisition payment for Combined Agency Group Pty Ltd (t/as Sure Insurance) (ACN 630 149 272) (Sure Insurance), the FY24 incrementa"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "4DX-2023-12-11-02752708": {
       "documents": [
@@ -2975,11 +3438,15 @@
         "value": "The proceeds of the Placement will be used to partly fund US$25.0 million (subject to customary acquisition adjustments) reflecting the upfront cash consideration of the Acquisition and costs of the transaction.",
         "source": "02752705",
         "quote": "The proceeds of the Placement will be used to partly fund US$25.0 million (subject to customary acquisition adjustments) reflecting the upfront cash consideration of the Acquisition and costs of the t"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "KAR-2023-11-16-02741220": {
       "documents": [
-        "02741780"
+        "02741780",
+        "02752637"
       ],
       "offerPrice": {
         "value": 2.05,
@@ -3022,13 +3489,17 @@
         "quote": "institutional component (Institutional Entitlement Offer) of its 1 for 3.75 pro-rata non-renounceable entitlement offer (Entitlement Offer) of new fully paid Karoon"
       },
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "ABB-2023-11-02-02735559": {
       "documents": [
         "02735558",
         "02739592",
-        "02749661"
+        "02749661",
+        "02735559"
       ],
       "offerPrice": {
         "value": 3.55,
@@ -3057,13 +3528,17 @@
         "value": "The proceeds of the Placement and SPP will be used to enable ABB to achieve these purposes and for general working capital.",
         "source": "02739592",
         "quote": "The proceeds of the Placement and SPP will be used to enable ABB to achieve these purposes and for general working capital."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "TWE-2023-10-31-02733447": {
       "documents": [
         "02733447",
         "02735954",
-        "02746950"
+        "02746950",
+        "02747282"
       ],
       "offerPrice": {
         "value": 11.97,
@@ -3096,11 +3571,10 @@
         "source": "02733447",
         "quote": "issued under the Entitlement Offer which represents around 10.6% of TWE’s existing shares on issue. The New Shares issued through the Entitlement Offer will rank equally with exi"
       },
-      "useOfFunds": {
-        "value": "For personal use only Shareholders who did not take up their entitlements under the Institutional Entitlement Offer will receive A$0.70 per entitlement sold through the Institutional Bookbuild (net of any withholding tax or expenses), with payment expected to be on or around Tuesday, 14 November 2023.",
-        "source": "02735954",
-        "quote": "For personal use only Shareholders who did not take up their entitlements under the Institutional Entitlement Offer will receive A$0.70 per entitlement sold through the Institutional Bookbuild (net of"
-      }
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "IPX-2023-11-01-02734888": {
       "documents": [
@@ -3133,12 +3607,17 @@
       "leadSource": "02734888",
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "ORA-2023-09-05-02708043": {
       "documents": [
         "02708043",
-        "02710724"
+        "02710724",
+        "02708594",
+        "02717712"
       ],
       "offerPrice": {
         "value": 2.7,
@@ -3180,7 +3659,10 @@
         "value": "The proceeds of the Offer will be used to partially fund the acquisition of 100% of Saverglass SAS (Saverglass) through the acquisition of all of the shares of Olympe SAS for an enterprise value of €1,290 million (A$2,156 million) (the Acquisition).",
         "source": "02710724",
         "quote": "The proceeds of the Offer will be used to partially fund the acquisition of 100% of Saverglass SAS (Saverglass) through the acquisition of all of the shares of Olympe SAS for an enterprise value of €1"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "NIC-2023-09-22-02715201": {
       "documents": [
@@ -3202,7 +3684,10 @@
         "value": "Funds from the DTN placement will represent a significant contribution towards the Company’s ~US$1.225M requirement to fund its intended 55% share of Excelsior Nickel-Cobalt Project (ENC), a next generation High Pressure Acid Leach ( HPAL) project within the Indonesian Morowali Industrial Park ( IMIP) where…",
         "source": "02715201",
         "quote": "Funds from the DTN placement will represent a significant contribution towards the Company’s ~US$1.225M requirement to fund its intended 55% share of Excelsior Nickel-Cobalt Project (ENC), a next gene"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "APA-2023-08-23-02701004": {
       "documents": [
@@ -3247,7 +3732,10 @@
         "value": "The funds raised under the Offer will be used to help fund APA's proposed acquisition of Alinta Energy Pilbara Holdings Pty Ltd and Alinta Energy (Newman Storage) Pty Ltd (Target or Alinta Energy Pilbara) (Acquisition).",
         "source": "02701004",
         "quote": "The funds raised under the Offer will be used to help fund APA's proposed acquisition of Alinta Energy Pilbara Holdings Pty Ltd and Alinta Energy (Newman Storage) Pty Ltd (Target or Alinta Energy Pilb"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "DVP-2023-07-05-02683471": {
       "documents": [
@@ -3268,14 +3756,20 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "For personal use only Retail Entitlement Offer The fully underwritten Retail Entitlement Offer will open on Monday, 10 July 2023 and is expected to close at 5:00pm (Sydney time) on Wednesday, 26 July 2023.",
+        "value": "New Shares to be issued under the Placement and Institutional Entitlement Offer will rank equally with existing Develop shares in all respects from the date of their issue.",
         "source": "02683471",
-        "quote": "For personal use only Retail Entitlement Offer The fully underwritten Retail Entitlement Offer will open on Monday, 10 July 2023 and is expected to close at 5:00pm (Sydney time) on Wednesday, 26 July "
-      }
+        "quote": "New Shares to be issued under the Placement and Institutional Entitlement Offer will rank equally with existing Develop shares in all respects from the date of their issue."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "IFT-2023-06-07-02673751": {
       "documents": [
-        "02673751"
+        "02673751",
+        "02675102",
+        "02674324",
+        "02681205"
       ],
       "offerPrice": {
         "value": 9.2,
@@ -3315,10 +3809,13 @@
         "quote": "issue of 81.5 million new shares, representing approximately 11.2% of existing issued capital, to raise NZ$750 million. The Placement Price of NZ$9.20 per new share represen"
       },
       "useOfFunds": {
-        "value": "It is intended that eligible shareholders who bid for an amount up to their 'pro rata' share of new shares under the Placement will be allocated their full bid on a best-efforts basis.",
-        "source": "02673751",
-        "quote": "It is intended that eligible shareholders who bid for an amount up to their 'pro rata' share of new shares under the Placement will be allocated their full bid on a best-efforts basis."
-      }
+        "value": "The proceeds of the offer will be used to partially fund Infratil’s acquisition of an additional 49.95% of One NZ for $1.8 billion, increasing Infratil’s ownership of One NZ to 99.9%.",
+        "source": "02675102",
+        "quote": "The proceeds of the offer will be used to partially fund Infratil’s acquisition of an additional 49.95% of One NZ for $1.8 billion, increasing Infratil’s ownership of One NZ to 99.9%."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "NIC-2023-06-09-02674767": {
       "documents": [
@@ -3344,13 +3841,17 @@
       "leadSource": null,
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "AUB-2023-05-18-02667272": {
       "documents": [
         "02667270",
         "02667272",
-        "02667671"
+        "02667671",
+        "02676622"
       ],
       "offerPrice": {
         "value": 24,
@@ -3387,7 +3888,14 @@
         "source": "02667270",
         "quote": "Shares) will be issued under the Placement, which represents 6.2% of AUB’s current ordinary shares on issue under AUB’s existing placement capacity under ASX listing rule 7.1. New Shares"
       },
-      "useOfFunds": null
+      "useOfFunds": {
+        "value": "The additional proceeds raised under the SPP will b e used to increase financial flexibility and balance sheet strength to allow AUB to capitalise on our attractive M&A pipeline.\" This release is authorised by Mike Emmett, CEO and Managing Director.",
+        "source": "02676622",
+        "quote": "The additional proceeds raised under the SPP will b e used to increase financial flexibility and balance sheet strength to allow AUB to capitalise on our attractive M&A pipeline.\" This release is auth"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "CYL-2023-06-09-02674870": {
       "documents": [
@@ -3400,13 +3908,17 @@
       "leadSource": null,
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "NXT-2023-05-11-02664760": {
       "documents": [
         "02664759",
         "02664760",
-        "02665870"
+        "02665870",
+        "02672800"
       ],
       "offerPrice": {
         "value": 10.8,
@@ -3436,14 +3948,22 @@
       },
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "For personal use only Page 2 of 6 Entitlement Offer NEXTDC is today launching the Entitlement Offer with net proceeds raised to fund new incremental growth initiatives including the proposed new data centre developments of KL1 and AK1 and accelerated mechanical, electrical and data hall fit out at S3 in light of…",
+        "value": "The remainder of the proceeds from the Entitlement Offer will be used for general corporate purposes and the payment of transaction costs associated with this Entitlement Offer.",
         "source": "02664759",
-        "quote": "For personal use only Page 2 of 6 Entitlement Offer NEXTDC is today launching the Entitlement Offer with net proceeds raised to fund new incremental growth initiatives including the proposed new data "
-      }
+        "quote": "The remainder of the proceeds from the Entitlement Offer will be used for general corporate purposes and the payment of transaction costs associated with this Entitlement Offer."
+      },
+      "cashBefore": {
+        "value": 364,
+        "source": "02664759",
+        "quote": "not be equal to TERP. 5 Pro-forma liquidity represented by cash of A$364 million at 31 December 2022 adjusted for new drawn debt of A$100 million as referenced in NEXTDC’s ASX"
+      },
+      "proFormaCash": null,
+      "alongside": []
     },
     "ELV-2023-05-26-02670118": {
       "documents": [
-        "02670118"
+        "02670118",
+        "02670883"
       ],
       "offerPrice": {
         "value": 0.18,
@@ -3482,7 +4002,14 @@
       "leadSource": "02670118",
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": {
+        "value": "The capital raising will also support the production ramp‐up at the Company’s North American Lithium operation, including assessment of downstream development options.",
+        "source": "02670883",
+        "quote": "The capital raising will also support the production ramp‐up at the Company’s North American Lithium operation, including assessment of downstream development options."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "PDI-2023-05-29-02670539": {
       "documents": [
@@ -3512,14 +4039,19 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "PDI Managing Director, Andrew Pardey, said: “We are delighted by demand for the Placement, including a keen interest from Tier-1 institutional investors, which is testament to the quality and potential of the Bankan Gold Project, which we believe can become West Africa’s next Tier-1 gold mine.” “We received strong…",
+        "value": "Funds raised from the Placement will be used as follows: • Ongoing resource definition drilling to further expand and upgrade the existing 4.2Moz Mineral Resource2 at the Bankan Gold Project; • Acceleration of regional exploration drilling at multiple high priority targets along Bankan’s 35km structural gold…",
         "source": "02670539",
-        "quote": "PDI Managing Director, Andrew Pardey, said: “We are delighted by demand for the Placement, including a keen interest from Tier-1 institutional investors, which is testament to the quality and potentia"
-      }
+        "quote": "Funds raised from the Placement will be used as follows: • Ongoing resource definition drilling to further expand and upgrade the existing 4.2Moz Mineral Resource2 at the Bankan Gold Project; • Accele"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "4DX-2023-05-08-02663492": {
       "documents": [
-        "02663492"
+        "02663492",
+        "02663489",
+        "02670629"
       ],
       "offerPrice": {
         "value": 0.91,
@@ -3542,11 +4074,20 @@
       "leadSource": "02663492",
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": {
+        "value": "Proceeds raised under the Placement and SPP will be used primarily to accelerate commercialisation of 4DMedical's respiratory imaging platform and significantly strengthen the Company's balance sheet. ©4DMedical Limited 2 4DMedical.com 4DMedical Founder and CEO Andreas Fouras said: We are seeing real momentum in…",
+        "source": "02663489",
+        "quote": "Proceeds raised under the Placement and SPP will be used primarily to accelerate commercialisation of 4DMedical's respiratory imaging platform and significantly strengthen the Company's balance sheet."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "VUL-2023-05-04-02662666": {
       "documents": [
-        "02662328"
+        "02662328",
+        "02662330",
+        "02662666"
       ],
       "offerPrice": {
         "value": 5.1,
@@ -3581,10 +4122,13 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "Proceeds from the Placement, together with existing cash, will be used to progress Vulcan’s integrated renewable energy and lithium project execution strategy, with proceeds being applied to: 1 Based on an Australian dollar offer price of A$5.10 per New Share, and a EUR offer price of 3.08 per New Share.",
-        "source": "02662328",
-        "quote": "Proceeds from the Placement, together with existing cash, will be used to progress Vulcan’s integrated renewable energy and lithium project execution strategy, with proceeds being applied to: 1 Based "
-      }
+        "value": "Use of proceeds • Placement proceeds, together with existing cash, will be used to progress Vulcan’s integrated renewable energy and lithium project execution strategy and order commercial plant long lead items, in line with the recently published DFS development plan2 (refer to next slide).",
+        "source": "02662330",
+        "quote": "Use of proceeds • Placement proceeds, together with existing cash, will be used to progress Vulcan’s integrated renewable energy and lithium project execution strategy and order commercial plant long "
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "IPX-2023-05-03-02661972": {
       "documents": [
@@ -3615,13 +4159,17 @@
         "value": "Proceeds from the Placement wi ll be used to advance and scale IperionX’s patented titanium technologies, progress permitting and feasibility studies at the Titan Critical Mineral Project and for general corporate purposes.",
         "source": "02661972",
         "quote": "Proceeds from the Placement wi ll be used to advance and scale IperionX’s patented titanium technologies, progress permitting and feasibility studies at the Titan Critical Mineral Project and for gene"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "KCN-2023-03-27-02647969": {
       "documents": [
         "02647966",
         "02647969",
-        "02648331"
+        "02648331",
+        "02659729"
       ],
       "offerPrice": {
         "value": 2.01,
@@ -3646,10 +4194,13 @@
         "quote": "Shares”) are to be issued under the Placement, representing ~13.9% of existing ordinary shares on issue  New Shares issued under the Placement will be issued within the Company’s exi"
       },
       "useOfFunds": {
-        "value": "For personal use only  Page 2 Use of Proceeds1 The Company intends to use the proceeds from the Offer for the following purposes: 1.",
-        "source": "02647966",
-        "quote": "For personal use only  Page 2 Use of Proceeds1 The Company intends to use the proceeds from the Offer for the following purposes: 1."
-      }
+        "value": "Following settlement of the Placement, the net proceeds will be applied primarily towards funding Plant 2 commissioning and working capital costs as processing of stockpiles re-commence, as well as providing optionality around the repayment of the US$15 million Taurus Bridge Facility and/or acceleration of the…",
+        "source": "02648331",
+        "quote": "Following settlement of the Placement, the net proceeds will be applied primarily towards funding Plant 2 commissioning and working capital costs as processing of stockpiles re-commence, as well as pr"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "MSB-2023-04-26-02657883": {
       "documents": [
@@ -3667,11 +4218,21 @@
       "leadSource": null,
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": {
+        "value": "Proceeds will be used to fund: • Launch and commercialization of the company’s lead product, remestemcel-L, in the treatment of children with steroid-refractory acute graft versus host disease (SR-aGVHD) subject to approval by the US Food & Drug Administration (FDA) of Mesoblast’s resubmitted Biologics License…",
+        "source": "02657883",
+        "quote": "Proceeds will be used to fund: • Launch and commercialization of the company’s lead product, remestemcel-L, in the treatment of children with steroid-refractory acute graft versus host disease (SR-aGV"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "WBT-2023-03-23-02646949": {
       "documents": [
-        "02646947"
+        "02646947",
+        "02657308",
+        "02657203",
+        "02646949"
       ],
       "offerPrice": {
         "value": 5,
@@ -3706,10 +4267,13 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "Proceeds of the Offer will fund the further development and commercialisation of Weebit Nano’s ReRAM technology, enabling Weebit Nano to capitalise on significant opportunities in the NVM market as the Company progresses its commercialisation strategy with leading foundries and potential customers.",
+        "value": "Funds raised will be applied to accelerating the development and commercialisation of our leading and innovative ReRAM technology, allowing us to deliver on the attractive opportunities we see as commercial interest in Weebit Nano’s technology continues to grow.” 1 See Weebit Nano ASX announcement on 9 September…",
         "source": "02646947",
-        "quote": "Proceeds of the Offer will fund the further development and commercialisation of Weebit Nano’s ReRAM technology, enabling Weebit Nano to capitalise on significant opportunities in the NVM market as th"
-      }
+        "quote": "Funds raised will be applied to accelerating the development and commercialisation of our leading and innovative ReRAM technology, allowing us to deliver on the attractive opportunities we see as comm"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "SLX-2023-02-27-02636544": {
       "documents": [
@@ -3741,11 +4305,17 @@
         "value": "Accelerating commercialisation of SILEX laser enrichment technology: Funds raised from the Placement, along with existing cash, will be used to accelerate commercialisation of the SILEX laser enrichment technology, working capital and general corporate purposes.",
         "source": "02636541",
         "quote": "Accelerating commercialisation of SILEX laser enrichment technology: Funds raised from the Placement, along with existing cash, will be used to accelerate commercialisation of the SILEX laser enrichme"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "VAU-2023-02-21-02633942": {
       "documents": [
-        "02633942"
+        "02633942",
+        "02634389",
+        "02635194",
+        "02653287"
       ],
       "offerPrice": {
         "value": 0.135,
@@ -3773,7 +4343,11 @@
           "quote": "to the 5-day volume weighted average price of A$0.179; and • 26.7% discount to the 10-day volume weighted average price of A$0.184. Further details of the Placement can be found in the Investor Presentation lod"
         }
       ],
-      "underwritten": null,
+      "underwritten": {
+        "value": "fully",
+        "source": "02635194",
+        "quote": "services or distribution in the United States Red 5 completes fully underwritten A$90 million equity raising to support steady-state operations at King of the H"
+      },
       "leadManagers": [
         "Canaccord Genuity",
         "Petra Capital",
@@ -3786,13 +4360,17 @@
         "value": "Proceeds from the Offer will be used to strengthen the Company’s balance sheet , ensuring a strong working capital position to support steady-state operations at the Company’s flagship King of the Hills (KOTH) Gold Project in WA, and provide a robust platform from which Red 5 can assess and accelerate future…",
         "source": "02633942",
         "quote": "Proceeds from the Offer will be used to strengthen the Company’s balance sheet , ensuring a strong working capital position to support steady-state operations at the Company’s flagship King of the Hil"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "CAR-2023-03-08-02641064": {
       "documents": [
         "02641063",
         "02641064",
-        "02642442"
+        "02642442",
+        "02651402"
       ],
       "offerPrice": {
         "value": 21.75,
@@ -3838,7 +4416,10 @@
         "value": "Proceeds from the Equity Raising are intended to be used to fund the Acquisition and strengthen carsales balance sheet, reducing pro-forma Dec22 leverage to 1.9x and providing for increased capacity to pursue future growth opportunities.23 13.",
         "source": "02641063",
         "quote": "Proceeds from the Equity Raising are intended to be used to fund the Acquisition and strengthen carsales balance sheet, reducing pro-forma Dec22 leverage to 1.9x and providing for increased capacity t"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "CYL-2023-03-10-02642151": {
       "documents": [
@@ -3865,13 +4446,17 @@
         "value": "Placement proceeds will be used to accelerate development and exploration activities across the Plutonic -Marymia gold belt , following Catalyst’s successful takeover of Vango Mining Limited (Vango) and subject to the acquisition of Superior Gold Inc (Superior), which has been unanimously recommended by Superior’s…",
         "source": "02642151",
         "quote": "Placement proceeds will be used to accelerate development and exploration activities across the Plutonic -Marymia gold belt , following Catalyst’s successful takeover of Vango Mining Limited (Vango) a"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "FLT-2023-01-31-02625601": {
       "documents": [
         "02625601",
         "02629576",
-        "02626818"
+        "02626818",
+        "02642514"
       ],
       "offerPrice": {
         "value": 14.6,
@@ -3907,11 +4492,17 @@
         "value": "Proceeds from the Placement alongside A$40 million of existing cash on balance sheet was used to fund the acquisition of Scott Dunn, and associated costs prior to receipt of any funds raised under the SPP.1 Proceeds from the SPP are intended to be used to replenish the existing cash used to fund the acquisition of…",
         "source": "02629576",
         "quote": "Proceeds from the Placement alongside A$40 million of existing cash on balance sheet was used to fund the acquisition of Scott Dunn, and associated costs prior to receipt of any funds raised under the"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "SRG-2023-02-16-02632159": {
       "documents": [
-        "02632156"
+        "02632156",
+        "02632159",
+        "02632596",
+        "02642006"
       ],
       "offerPrice": {
         "value": 0.72,
@@ -3950,7 +4541,14 @@
         "source": "02632156",
         "quote": "million New Shares being issued, representing approximately 14.4% of SRG’s existing issued capital. New Shares issued under the Placement will rank pari passu with the Company’s"
       },
-      "useOfFunds": null
+      "useOfFunds": {
+        "value": "The proceeds from the Placement will be used to partially fund SRG’s acquisition of 100% of ALS Industrial Pty Ltd (ALS Asset Care).",
+        "source": "02632596",
+        "quote": "The proceeds from the Placement will be used to partially fund SRG’s acquisition of 100% of ALS Industrial Pty Ltd (ALS Asset Care)."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "DRO-2023-02-06-02628333": {
       "documents": [
@@ -3986,10 +4584,17 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "The funds will allow us to take advantage of the highly favourable environment for defence and specifically customer demand for counterdrone solutions, as we target 2023 to be a transformative year for DroneShield.” “The SPP proceeds in particular have been significant, and the Board is appreciative of the support…",
+        "value": "The higher proceeds will enable DroneShield to turbo- charge its growth, more rapidly fulfil anticipated near- term contracts, accelerate its technology development, and enhance its customer engagement.",
         "source": "02640546",
-        "quote": "The funds will allow us to take advantage of the highly favourable environment for defence and specifically customer demand for counterdrone solutions, as we target 2023 to be a transformative year fo"
-      }
+        "quote": "The higher proceeds will enable DroneShield to turbo- charge its growth, more rapidly fulfil anticipated near- term contracts, accelerate its technology development, and enhance its customer engagemen"
+      },
+      "cashBefore": {
+        "value": 14.1,
+        "source": "02628258",
+        "quote": "or increase the size of the SPP in its absolute discretion 2 Cash balance of $14.1 million as at 31 January 2023, plus placement proceeds of $10.9 million and assumed SPP proceeds of $3 m"
+      },
+      "proFormaCash": null,
+      "alongside": []
     },
     "NIC-2023-01-18-02622056": {
       "documents": [
@@ -4025,10 +4630,13 @@
         "quote": "under the Institutional Placement represent approximately ~9.5% of the total shares of the Company prior to the issue of the New Shares. Eligible professional and"
       },
       "useOfFunds": {
-        "value": "Use of Proceeds The majority of the proceeds of the Equity Raise will be put towards acquiring an indirect 10% interest in HNC HPAL, and an additional 10% interest in ONI.",
+        "value": "The majority of the proceeds of the Equity Raise will be put towards acquiring an indirect 10% interest in HNC HPAL, and an additional 10% interest in ONI. Nickel Industries considers the price for an additional 10% interest in ONI, consistent with the Co mpany’s existing interest, highly attractive and value…",
         "source": "02622056",
-        "quote": "Use of Proceeds The majority of the proceeds of the Equity Raise will be put towards acquiring an indirect 10% interest in HNC HPAL, and an additional 10% interest in ONI."
-      }
+        "quote": "The majority of the proceeds of the Equity Raise will be put towards acquiring an indirect 10% interest in HNC HPAL, and an additional 10% interest in ONI. Nickel Industries considers the price for an"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "IMD-2023-01-19-02622608": {
       "documents": [
@@ -4060,7 +4668,10 @@
         "value": "Proceeds from the Equity Raising will be applied towards acquisition consideration and associated transaction costs in connection with the proposed acquisition of Devico AS (Proposed Acquisition).1 The institutional component of the E quity Raising will raise approximately A$185 million, comprising the A$75 million…",
         "source": "02623047",
         "quote": "Proceeds from the Equity Raising will be applied towards acquisition consideration and associated transaction costs in connection with the proposed acquisition of Devico AS (Proposed Acquisition).1 Th"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "BGL-2022-12-06-02608828": {
       "documents": [
@@ -4103,13 +4714,21 @@
         "value": "In conjunction with existing cash on hand, proceeds from the Offer will be used to accelerate underground development and exploration at the Bellevue Gold Project in WA , further de-risking the production outlook and increasing financial flexibility during construction and ramp-up.",
         "source": "02608827",
         "quote": "In conjunction with existing cash on hand, proceeds from the Offer will be used to accelerate underground development and exploration at the Bellevue Gold Project in WA , further de-risking the produc"
-      }
+      },
+      "cashBefore": {
+        "value": 47,
+        "source": "02608827",
+        "quote": "existing A$200m undrawn Macquarie Project Finance Facility and cash at bank of A$47m as at 30 November 2022 (unaudited). Bellevue Managing Director Steve Parsons said: “Every aspect"
+      },
+      "proFormaCash": null,
+      "alongside": []
     },
     "DMP-2022-12-01-02606906": {
       "documents": [
         "02606906",
         "02609433",
-        "02607472"
+        "02607472",
+        "02617683"
       ],
       "offerPrice": {
         "value": 66.38,
@@ -4133,7 +4752,10 @@
         "value": "Funds raised under the Capital Raising will be used to fund the option exercise price for the acquisition of all the shares held by DPG in the German joint venture and any surplus will be applied towards debt retirement.",
         "source": "02606906",
         "quote": "Funds raised under the Capital Raising will be used to fund the option exercise price for the acquisition of all the shares held by DPG in the German joint venture and any surplus will be applied towa"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "GMD-2022-12-14-02612275": {
       "documents": [
@@ -4158,11 +4780,17 @@
       "leadSource": null,
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "SFR-2022-11-18-02600234": {
       "documents": [
-        "02599919"
+        "02599919",
+        "02603615",
+        "02599920",
+        "02600538"
       ],
       "offerPrice": {
         "value": 4.3,
@@ -4204,14 +4832,20 @@
         "quote": "approximately 46.6 million New Shares, representing approximately 11.4% of the current issued capital of Sandfire. The Offer price of A$4.30 per share represents a: • 10.2% discount"
       },
       "useOfFunds": {
-        "value": "Use of Proceeds The gross proceeds raised under the Entitlement Offer will primarily be used to strengthen the Company’s balance sheet in order to improve financial flexibility and support ongoing growth initiatives.",
+        "value": "Proceeds will be used to: • Repay US$33 million (A$50 million4) outstanding on the ANZ Corporate Debt Facility5. • Provide US$60 million (A$90 million4) to strengthen the balance sheet, providing working capital and financial flexibility to support deleveraging through the Company’s growth phase. • Support…",
         "source": "02599919",
-        "quote": "Use of Proceeds The gross proceeds raised under the Entitlement Offer will primarily be used to strengthen the Company’s balance sheet in order to improve financial flexibility and support ongoing gro"
-      }
+        "quote": "Proceeds will be used to: • Repay US$33 million (A$50 million4) outstanding on the ANZ Corporate Debt Facility5. • Provide US$60 million (A$90 million4) to strengthen the balance sheet, providing work"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "RSG-2022-11-10-02596402": {
       "documents": [
-        "02596402"
+        "02596402",
+        "02599322",
+        "02597480",
+        "02609523"
       ],
       "offerPrice": {
         "value": 0.16,
@@ -4254,12 +4888,17 @@
         "value": "These proceeds, in conjunction with pro forma cash reserves of A$77.3 million and future free cash flow, will be used to further repay debt, fund general working capital and costs of the Equity Raising, in addition to supporting the Company’s Syama North expansion plan.",
         "source": "02596402",
         "quote": "These proceeds, in conjunction with pro forma cash reserves of A$77.3 million and future free cash flow, will be used to further repay debt, fund general working capital and costs of the Equity Raisin"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "VAU-2022-09-29-02574498": {
       "documents": [
         "02579998",
-        "02574498"
+        "02574498",
+        "02576764",
+        "02592938"
       ],
       "offerPrice": {
         "value": 0.16,
@@ -4279,6 +4918,12 @@
           "basis": "10-day VWAP",
           "source": "02574498",
           "quote": "average price (VWAP) of A$0.208 on 28 September 2022; and - 28.0% discount to the 10-day VWAP of A$0.222 on 28 September 2022 Use of Proceeds • Placement proceeds will provide working capital to support ramp up of producti"
+        },
+        {
+          "percent": 15.8,
+          "basis": "last close",
+          "source": "02576764",
+          "quote": "The Placement Price of A$0.16 per New Share represents a: • 15.8% discount to the last traded price on 28 September 2022 of A$0.19 • 23.0% discount to the 5-day volume weighted average price of A$0.208 • 28.0% d"
         }
       ],
       "underwritten": null,
@@ -4294,7 +4939,10 @@
         "value": "The funds raised under the Plan will provide additional working capital to support the ramp-up of gold production at the King of the Hills gold mine.",
         "source": "02579998",
         "quote": "The funds raised under the Plan will provide additional working capital to support the ramp-up of gold production at the King of the Hills gold mine."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "360-2022-11-22-02601206": {
       "documents": [
@@ -4318,7 +4966,10 @@
       "leadSource": "02601206",
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "DRO-2022-11-21-02600638": {
       "documents": [
@@ -4331,7 +4982,10 @@
       "leadSource": null,
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "NHF-2022-10-13-02581696": {
       "documents": [
@@ -4361,7 +5015,10 @@
         "value": "The funds raised through the SPP Offer and Placement (as announced by nib on Wednesday, 12 October 2022) will be used to fund nib’s entry into the National Disability Insurance Scheme (NDIS) plan management sector. nib’s entry will commence with the acquisition of all of the ordinary shares in Maple Plan Pty Ltd…",
         "source": "02584230",
         "quote": "The funds raised through the SPP Offer and Placement (as announced by nib on Wednesday, 12 October 2022) will be used to fund nib’s entry into the National Disability Insurance Scheme (NDIS) plan mana"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "ALX-2022-09-16-02568914": {
       "documents": [
@@ -4395,15 +5052,24 @@
         "value": "As announced on Wednesday, 14 September 2022, the proceeds from the Entitlement Offer will be used to fund the acquisition of a 66.67% majority interest in Skyway Concession Company LLC, the concessionaire of the Chicago Skyway (Acquisition) and associated transaction costs.1 The Retail Entitlement Offer closed at…",
         "source": "02580397",
         "quote": "As announced on Wednesday, 14 September 2022, the proceeds from the Entitlement Offer will be used to fund the acquisition of a 66.67% majority interest in Skyway Concession Company LLC, the concessio"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "SDF-2022-08-17-02554035": {
       "documents": [
         "02554035",
         "02564421",
-        "02554863"
+        "02554863",
+        "02576792"
       ],
-      "offerPrice": null,
+      "offerPrice": {
+        "value": 4.76,
+        "currency": "A$",
+        "source": "02576792",
+        "quote": "allocation of new ordinary shares in Steadfast. Shares will be issued at a price of $4.76 per share. Holding statements and confirmation are expected to be sent to participating S"
+      },
       "discounts": [
         {
           "percent": 1,
@@ -4425,13 +5091,17 @@
         "value": "Proceeds from the Placement and SPP will be used for trapped capital projects and general corporate purposes.",
         "source": "02564421",
         "quote": "Proceeds from the Placement and SPP will be used for trapped capital projects and general corporate purposes."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "CWY-2022-08-19-02555261": {
       "documents": [
         "02555260",
         "02555986",
-        "02557980"
+        "02557980",
+        "02555261"
       ],
       "offerPrice": {
         "value": 2.71,
@@ -4454,10 +5124,13 @@
         "quote": "million New Shares being issued, representing approximately 6.8% of Cleanaway’s existing issued capital. New Shares issued under the Placement will rank equally with existing Cleanawa"
       },
       "useOfFunds": {
-        "value": "The Equity Raising proceeds will provide significant balance sheet capacity to fund Cleanaway’s BluePrint 2030 strategy.",
+        "value": "The Equity Raising will provide significant balance sheet capacity to invest in these growth initiatives.” 3 Excludes the impact of any proceeds of the SPP. Cleanaway retains the right to accept oversubscriptions or to scale back applications (in whole or in part) at its absolute discretion that may result in the…",
         "source": "02555260",
-        "quote": "The Equity Raising proceeds will provide significant balance sheet capacity to fund Cleanaway’s BluePrint 2030 strategy."
-      }
+        "quote": "The Equity Raising will provide significant balance sheet capacity to invest in these growth initiatives.” 3 Excludes the impact of any proceeds of the SPP. Cleanaway retains the right to accept overs"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "IPX-2022-09-08-02565775": {
       "documents": [
@@ -4488,7 +5161,10 @@
         "value": "Proceeds from the Placement will be used to continue the scale-up and commercialization of IperionX’s titanium metal technologies , including capital upgrades to the existing titanium pilot facility, deposits on long lead time equipment for a proposed titanium demonstration facility, and continued research and…",
         "source": "02565775",
         "quote": "Proceeds from the Placement will be used to continue the scale-up and commercialization of IperionX’s titanium metal technologies , including capital upgrades to the existing titanium pilot facility, "
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "ORI-2022-08-03-02549300": {
       "documents": [
@@ -4527,7 +5203,10 @@
         "value": "The balance of funds raised under the Equity Raising will be used to fund incremental trade working capital requirements in the medium-term arising as a result of global supply chain dislocations.",
         "source": "02549300",
         "quote": "The balance of funds raised under the Equity Raising will be used to fund incremental trade working capital requirements in the medium-term arising as a result of global supply chain dislocations."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "GMD-2022-08-31-02561768": {
       "documents": [
@@ -4549,13 +5228,17 @@
         "value": "Funds raised under the Capital Raising will be applied as follows:  A$67.4 million on the development of the Ulysses project and exploration activities for the combined group’s assets (assuming successful completion of Genesis’ takeover bid for all the fully paid ordinary shares in Dacian Gold Limited (Dacian) as…",
         "source": "02561749",
         "quote": "Funds raised under the Capital Raising will be applied as follows:  A$67.4 million on the development of the Ulysses project and exploration activities for the combined group’s assets (assuming succe"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "ANZ-2022-07-18-02542675": {
       "documents": [
         "02542675",
         "02543906",
-        "02555071"
+        "02555071",
+        "02555140"
       ],
       "offerPrice": {
         "value": 18.9,
@@ -4581,7 +5264,10 @@
         "value": "The Entitlement Offer will be used to partly fund ANZ’s acquisition of Suncorp Bank (Acquisition).",
         "source": "02542675",
         "quote": "The Entitlement Offer will be used to partly fund ANZ’s acquisition of Suncorp Bank (Acquisition)."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "MSB-2022-08-09-02551272": {
       "documents": [
@@ -4606,7 +5292,14 @@
       "leadSource": null,
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": {
+        "value": "The proceeds from the placement will facilitate: • Activities for launch and commercialization for the company’s lead product, remestemcel-L, in the treatment of children with steroid-refractory acute graft versus host disease (SR-aGVHD) for which Mesoblast seeks US Food & Drug Administration (FDA) approval under a…",
+        "source": "02551272",
+        "quote": "The proceeds from the placement will facilitate: • Activities for launch and commercialization for the company’s lead product, remestemcel-L, in the treatment of children with steroid-refractory acute"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "NIC-2022-08-08-02550716": {
       "documents": [
@@ -4623,12 +5316,16 @@
         "value": "Proceeds from the Notes will, along with the Company’s cash reserves and future earnings from existing operations, be applied to wards the remaining payment obligations for the Oracle Nickel Project (“Oracle Nickel”).",
         "source": "02550716",
         "quote": "Proceeds from the Notes will, along with the Company’s cash reserves and future earnings from existing operations, be applied to wards the remaining payment obligations for the Oracle Nickel Project ("
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "EOS-2022-06-29-02536433": {
       "documents": [
         "02538914",
-        "02536433"
+        "02536433",
+        "02545095"
       ],
       "offerPrice": {
         "value": 1.2,
@@ -4665,13 +5362,17 @@
         "source": "02536433",
         "quote": "Share (Placement Price) to raise A$15 million, representing 8.3% of EOS current issued capital and pursuant to the Company’s available placement under ASX Listing Rule 7.1 (P"
       },
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "CAR-2022-06-27-02535449": {
       "documents": [
         "02535444",
         "02535446",
-        "02536228"
+        "02536228",
+        "02542435"
       ],
       "offerPrice": {
         "value": 17.75,
@@ -4715,10 +5416,21 @@
         "quote": "issued under the Entitlement Offer, equivalent to approximately 24% of current issued capital.22 The Entitlement Offer will be conducted at AUD$17.75 per new share (“Offer P"
       },
       "useOfFunds": {
-        "value": "For personal use only Page | 5 Offer will open at 9:00am (Melbourne time) on Friday, 1 July 2022 and close at 5:00pm (Melbourne time) on Wednesday, 13 July 2022.",
-        "source": "02535444",
-        "quote": "For personal use only Page | 5 Offer will open at 9:00am (Melbourne time) on Friday, 1 July 2022 and close at 5:00pm (Melbourne time) on Wednesday, 13 July 2022."
-      }
+        "value": "As announced on M onday, 27 June 2022, the proceeds from the capital raising will be used to acquire the remaining 51.0% interest in Trader Interactive for USD$809 million1, or approximately AUD$1,17 2 million2 equivalent (“Acquisition”). carsales CEO Cameron McIntyre said “We are very pleased by the support…",
+        "source": "02536228",
+        "quote": "As announced on M onday, 27 June 2022, the proceeds from the capital raising will be used to acquire the remaining 51.0% interest in Trader Interactive for USD$809 million1, or approximately AUD$1,17 "
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": [
+        {
+          "millions": 562,
+          "kind": "debt",
+          "from": "",
+          "source": "02535444",
+          "quote": "facility from AUD$900m to AUD$1,400m to replace the existing AUD$562m debt facility at Trader Interactive. • The Acquisition remains subject to conditions, which a"
+        }
+      ]
     },
     "GMD-2022-07-05-02538772": {
       "documents": [
@@ -4747,14 +5459,22 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "Reduce likelihood of future funding requirements and associated dilution risk  Assuming Genesis completes its A$100m Capital Raising (described further below), Genesis will have a 30 June 2022 pro-forma cash balance of ~A$116m and no debt 6. 6 Based on Genesis’ 30 June 2022 unaudited cash and debt balance, plus…",
+        "value": "Funds raised under the Capital Raising will be applied as follows:9  $67.4 million on the development of the Ulysses project and exploration activities for the combined group’s assets;  $12.6 million on the Dacian Placement; and  $20 million for other working capital and general corporate purposes.",
         "source": "02538766",
-        "quote": "Reduce likelihood of future funding requirements and associated dilution risk  Assuming Genesis completes its A$100m Capital Raising (described further below), Genesis will have a 30 June 2022 pro-fo"
-      }
+        "quote": "Funds raised under the Capital Raising will be applied as follows:9  $67.4 million on the development of the Ulysses project and exploration activities for the combined group’s assets;  $12.6 millio"
+      },
+      "cashBefore": null,
+      "proFormaCash": {
+        "value": 116,
+        "source": "02538766",
+        "quote": "(described further below), Genesis will have a 30 June 2022 pro-forma cash balance of ~A$116m and no debt 6. 6 Based on Genesis’ 30 June 2022 unaudited cash and debt balance"
+      },
+      "alongside": []
     },
     "PDI-2022-05-30-02526234": {
       "documents": [
-        "02526234"
+        "02526234",
+        "02537283"
       ],
       "offerPrice": {
         "value": 0.18,
@@ -4795,13 +5515,17 @@
         "value": "The funds raised will allow Predictive to accelerate its comprehensive drilling programme and build further on the 3.65Moz already discovered, as well as deliver a scoping study which will include our baseline and environmental study results in late 2023.",
         "source": "02526234",
         "quote": "The funds raised will allow Predictive to accelerate its comprehensive drilling programme and build further on the 3.65Moz already discovered, as well as deliver a scoping study which will include our"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "AUB-2022-05-09-02519507": {
       "documents": [
         "02519459",
         "02519507",
-        "02520047"
+        "02520047",
+        "02527290"
       ],
       "offerPrice": {
         "value": 19.5,
@@ -4838,10 +5562,13 @@
         "quote": "Shares) will be issued under the Equity Raising, which represents 24.1% of AUB’s current ordinary shares on issue. Under the Entitlement Offer, eligible shareholders are invited to subscribe fo"
       },
       "useOfFunds": {
-        "value": "Funding – equity capital raising, placement of AUB shares and new debt facility The Acquisition will be funded from the proceeds of the Equity Raising, placement of new AUB shares to Odyssey Investment Partners as the vendor of Tysers and the New Debt Facility.",
-        "source": "02519459",
-        "quote": "Funding – equity capital raising, placement of AUB shares and new debt facility The Acquisition will be funded from the proceeds of the Equity Raising, placement of new AUB shares to Odyssey Investmen"
-      }
+        "value": "As announced on Monday, 9 May 2022, the proceeds from the capital raising, along with the Vendor Placement and New Debt Facility , will be used to fund the acquisition of Tysers for AUD880m (GBP500m).",
+        "source": "02520047",
+        "quote": "As announced on Monday, 9 May 2022, the proceeds from the capital raising, along with the Vendor Placement and New Debt Facility , will be used to fund the acquisition of Tysers for AUD880m (GBP500m)."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "ELV-2022-05-27-02525718": {
       "documents": [
@@ -4873,7 +5600,10 @@
         "value": "Proceeds from the Placement will be primarily used to fund the restart of spodumene concentrate production at Sayona’s North American Lithium (“NAL”) operation in Québec, Canada (Sayona 75%; Piedmont Lithium 25%).",
         "source": "02525718",
         "quote": "Proceeds from the Placement will be primarily used to fund the restart of spodumene concentrate production at Sayona’s North American Lithium (“NAL”) operation in Québec, Canada (Sayona 75%; Piedmont "
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "NIC-2022-04-28-02514406": {
       "documents": [
@@ -4895,12 +5625,17 @@
       "leadSource": null,
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "OBM-2022-02-22-02489914": {
       "documents": [
         "02489914",
-        "02489640"
+        "02489640",
+        "02491040",
+        "02502241"
       ],
       "offerPrice": {
         "value": 0.05,
@@ -4934,16 +5669,20 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "We thank our shareholders for their ongoing support and are glad be able to offer eligible shareholders an opportunity to participate in the capital raising.” The Offer The up to $20 million equity raising will comprise: • a single-tranche institutional placement of up to 100 million new shares to raise up to $5…",
+        "value": "The Entitlement Offer will consist of an Institutional Entitlement Offer and a Retail Entitlement Offer, (the Placement and the Entitlement Offer together being the “Offer”). 1 The Company reserves the right to change its intentions in relation to the use of funds.",
         "source": "02489640",
-        "quote": "We thank our shareholders for their ongoing support and are glad be able to offer eligible shareholders an opportunity to participate in the capital raising.” The Offer The up to $20 million equity ra"
-      }
+        "quote": "The Entitlement Offer will consist of an Institutional Entitlement Offer and a Retail Entitlement Offer, (the Placement and the Entitlement Offer together being the “Offer”). 1 The Company reserves th"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "DVP-2022-02-21-02488977": {
       "documents": [
         "02490898",
         "02497833",
-        "02488977"
+        "02488977",
+        "02500162"
       ],
       "offerPrice": {
         "value": 3.3,
@@ -4974,7 +5713,14 @@
         "quote": "announce the completion of the institutional component of its 1 for 18.6 pro rata accelerated non-renounceable entitlement offer and institutional placement at A"
       },
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": {
+        "value": "The Placement and the Institutional Entitlement Offer have, together, raised gross proceeds of approximately $37.2 million New Shares to be issued under the Placement and Institutional Entitlement Offer will rank equally with existing Develop shares in all respects from the date of their issue.",
+        "source": "02488977",
+        "quote": "The Placement and the Institutional Entitlement Offer have, together, raised gross proceeds of approximately $37.2 million New Shares to be issued under the Placement and Institutional Entitlement Off"
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "WGX-2022-03-14-02498582": {
       "documents": [
@@ -5016,7 +5762,10 @@
         "value": "Funds raised in the Placement will be applied to accelerating Westgold’s Murchison and Bryah growth strategy.",
         "source": "02498579",
         "quote": "Funds raised in the Placement will be applied to accelerating Westgold’s Murchison and Bryah growth strategy."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "NIC-2022-02-09-02484962": {
       "documents": [
@@ -5055,13 +5804,17 @@
         "value": "The majority of the proceeds from the Equity Raise will be put towards funding the acquisition of a 30% interest in ONI, via the First Acquisition payment and the Second Acquisition payment, as well as funding the First Shareholder Loan.",
         "source": "02484962",
         "quote": "The majority of the proceeds from the Equity Raise will be put towards funding the acquisition of a 30% interest in ONI, via the First Acquisition payment and the Second Acquisition payment, as well a"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "TLX-2022-01-24-02478135": {
       "documents": [
         "02484708",
         "02494467",
-        "02478135"
+        "02478135",
+        "02478132"
       ],
       "offerPrice": {
         "value": 7.7,
@@ -5075,6 +5828,18 @@
           "basis": "5-day VWAP",
           "source": "02478135",
           "quote": "closing price of $8.09 on Wednesday, 19 January 2022; and • 8.8% discount to the 5 day VWAP of $8.44 as at Wednesday, 19 January 2022. Share Purchase Plan • SPP to existing eligible shareholders in Australia or Ne"
+        },
+        {
+          "percent": 4.8,
+          "basis": "last close",
+          "source": "02478132",
+          "quote": "per New Share ( Offer Price). The Offer Price represents a 4.8% discount to the closing price of shares on ASX as at close of trading on Wednesday, 19 January 2022 and an 8.8% discount to the 5 -day volume weighted average price (VWAP) up to a"
+        },
+        {
+          "percent": 8.8,
+          "basis": "VWAP",
+          "source": "02478132",
+          "quote": "as at close of trading on Wednesday, 19 January 2022 and an 8.8% discount to the 5 -day volume weighted average price (VWAP) up to and in cluding Wednesday, 19 January 2022 . No shareholder approval is required"
         }
       ],
       "underwritten": {
@@ -5094,7 +5859,10 @@
         "value": "Net proceeds raised under the Placement and SPP will be used to fund Telix’s clinical trial pipeline, particularly the late-stage clinical trials planned for prostate, renal and brain (glioblastoma) cancer.",
         "source": "02484708",
         "quote": "Net proceeds raised under the Placement and SPP will be used to fund Telix’s clinical trial pipeline, particularly the late-stage clinical trials planned for prostate, renal and brain (glioblastoma) c"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "CSL-2022-02-14-02485992": {
       "documents": [
@@ -5112,11 +5880,10 @@
       "leadSource": null,
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": {
-        "value": "Accordingly, those shareholders will receive 9 new shares (for a total issue price A$2,282.13), with their remaining application monies to be refunded. • Eligible shareholders who applied for more than A$2,500 of shares have been subject to the scale-back methodology having regard to their 1 Based on the USD:AUD…",
-        "source": "02485992",
-        "quote": "Accordingly, those shareholders will receive 9 new shares (for a total issue price A$2,282.13), with their remaining application monies to be refunded. • Eligible shareholders who applied for more tha"
-      }
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "WAF-2022-02-10-02485533": {
       "documents": [
@@ -5138,7 +5905,10 @@
         "value": "The proceeds of the Tranche 2 Placement will be primarily applied towards exploration programs and working capital, including transaction costs.",
         "source": "02485533",
         "quote": "The proceeds of the Tranche 2 Placement will be primarily applied towards exploration programs and working capital, including transaction costs."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "CSL-2021-12-16-02467503": {
       "documents": [
@@ -5172,12 +5942,16 @@
         "value": "Proceeds from the Offer will be used to partly fund the all-cash public tender offer to acquire all publicly held Vifor Pharma Ltd. (SIX:VIFN; ISIN:CH0364749348) (“Vifor Pharma”) shares for US$179.25 per Vifor Pharma share, payable in U.S. dollars.",
         "source": "02469456",
         "quote": "Proceeds from the Offer will be used to partly fund the all-cash public tender offer to acquire all publicly held Vifor Pharma Ltd. (SIX:VIFN; ISIN:CH0364749348) (“Vifor Pharma”) shares for US$179.25 "
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "PNI-2021-11-23-02455935": {
       "documents": [
         "02455935",
-        "02455893"
+        "02455893",
+        "02468939"
       ],
       "offerPrice": {
         "value": 16.7,
@@ -5216,10 +5990,13 @@
         "quote": "$105m fully underwritten institutional placement representing 3.3% of existing shares on issue • $75m for the Investment in Five V • $30m to replenish the balance sheet capac"
       },
       "useOfFunds": {
-        "value": "Following the investment, Pinnacle will have exposure to Five V’s Fund III, Fund IV (closed in November 2021) and VC Fund 1, totalling FUM of $1.1 billion, and future funds raised by Five V.",
+        "value": "Proceeds from the Placement will fund the investment in Five V Capital and replenish balance sheet capacity that was used to fund the acquisition of the 25% stake in Coolabah in 2019.",
         "source": "02455893",
-        "quote": "Following the investment, Pinnacle will have exposure to Five V’s Fund III, Fund IV (closed in November 2021) and VC Fund 1, totalling FUM of $1.1 billion, and future funds raised by Five V."
-      }
+        "quote": "Proceeds from the Placement will fund the investment in Five V Capital and replenish balance sheet capacity that was used to fund the acquisition of the 25% stake in Coolabah in 2019."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "GMD-2021-11-23-02455890": {
       "documents": [
@@ -5242,13 +6019,17 @@
         "quote": "existing shareholders Key Points: • Successful completion of 1 for 30 non-Renounceable Pro-Rata Entitlement Offer • Total of A$4.8 million raised • Shares and free at"
       },
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "360-2021-11-23-02455981": {
       "documents": [
         "02455981",
         "02455947",
-        "02459626"
+        "02459626",
+        "02457338"
       ],
       "offerPrice": {
         "value": 12,
@@ -5284,14 +6065,18 @@
       },
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "For personal use only Life360, Inc. | ARBN 629 412 942 | 539 Bryant St, Suite 402, San Francisco, CA 94107 | investors.life360.com Page 6 Shares (representing a total value of US$15.0 million) comprising the Contingent Vendor Placement will be contingent on Tile achieving certain revenue and EBITDA forecasts for…",
+        "value": "The Equity Raising will allow the company to accelerate growth and extend category dominance.",
         "source": "02455947",
-        "quote": "For personal use only Life360, Inc. | ARBN 629 412 942 | 539 Bryant St, Suite 402, San Francisco, CA 94107 | investors.life360.com Page 6 Shares (representing a total value of US$15.0 million) compris"
-      }
+        "quote": "The Equity Raising will allow the company to accelerate growth and extend category dominance."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "WBT-2021-11-10-02449847": {
       "documents": [
-        "02449840"
+        "02449840",
+        "02461926"
       ],
       "offerPrice": {
         "value": 2.84,
@@ -5328,13 +6113,17 @@
         "value": "Proceeds to accelerate growth opportunities The current round of funding, aside from introducing a group of well-known Israel-based institutional investment and pension funds, will ensure that Weebit is capitalised to execute on its current commercial and technological opportunities, with the aim of converting…",
         "source": "02449840",
         "quote": "Proceeds to accelerate growth opportunities The current round of funding, aside from introducing a group of well-known Israel-based institutional investment and pension funds, will ensure that Weebit "
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "MQG-2021-10-29-02443656": {
       "documents": [
         "02443655",
         "02448622",
-        "02459638"
+        "02459638",
+        "02443656"
       ],
       "offerPrice": null,
       "discounts": [],
@@ -5343,19 +6132,26 @@
         "source": "02443655",
         "quote": "representing a payout ratio of 50% • Capital raising in the form of a non-underwritten $A1.5 billion institutional placement and a non-underwritten share purchase pla"
       },
-      "leadManagers": [],
-      "leadSource": null,
+      "leadManagers": [
+        "Macquarie"
+      ],
+      "leadSource": "02443656",
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "The proceeds raised from the Placement and the SPP will be used to provide additional flexibility to invest in new opportunities where the expected risk adjusted returns are attractive, while maintaining an appropriate capital surplus.",
-        "source": "02448622",
-        "quote": "The proceeds raised from the Placement and the SPP will be used to provide additional flexibility to invest in new opportunities where the expected risk adjusted returns are attractive, while maintain"
-      }
+        "value": "The capital raising will provide additional flexibility to invest in new opportunities where the expected risk-adjusted returns are attractive, while maintaining an appropriate capital surplus.",
+        "source": "02443655",
+        "quote": "The capital raising will provide additional flexibility to invest in new opportunities where the expected risk-adjusted returns are attractive, while maintaining an appropriate capital surplus."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "WAF-2021-10-26-02440991": {
       "documents": [
-        "02440990"
+        "02440990",
+        "02440991",
+        "02458814"
       ],
       "offerPrice": {
         "value": 1.25,
@@ -5371,7 +6167,11 @@
           "quote": "last trading day prior to announcement of the Placement;  9.3% discount to the 5‐day VWAP of A$1.3785per share, up to Monday, 25 October 2021; and  8.3% discount to the 10‐day VWAP of A$1.3635per share, up to Monday, 25"
         }
       ],
-      "underwritten": null,
+      "underwritten": {
+        "value": "not",
+        "source": "02458814",
+        "quote": "announce the closing, a t 5:00pm (WST) on 22 November 2021, of its non-underwritten Share Purchase Plan ( SPP) to raise up to A$10 million, announced on 26 October"
+      },
       "leadManagers": [
         "Euroz Hartleys"
       ],
@@ -5379,10 +6179,13 @@
       "ratio": null,
       "percentOfIssued": null,
       "useOfFunds": {
-        "value": "For personal use only Page 10 of 30 Equity Raising Placement WAF is undertaking a two tranche placement to raise gross proceeds of up to A$126.39 million which will be conducted via a bookbuild (‘Placement’).",
-        "source": "02440990",
-        "quote": "For personal use only Page 10 of 30 Equity Raising Placement WAF is undertaking a two tranche placement to raise gross proceeds of up to A$126.39 million which will be conducted via a bookbuild (‘Plac"
-      }
+        "value": "The proceeds of the SPP will be applied to closing payments for the Kiaka acquisition, exploration programs and working capital, including transaction costs.",
+        "source": "02458814",
+        "quote": "The proceeds of the SPP will be applied to closing payments for the Kiaka acquisition, exploration programs and working capital, including transaction costs."
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "INA-2021-11-01-02445639": {
       "documents": [
@@ -5433,7 +6236,18 @@
         "value": "The Equity Raising proceeds will be used to partially fund the acquisition of 20 high quality communities and development sites which are contracted or under exclusive due diligence (Acquisitions). 1 Excluding transaction costs.",
         "source": "02445638",
         "quote": "The Equity Raising proceeds will be used to partially fund the acquisition of 20 high quality communities and development sites which are contracted or under exclusive due diligence (Acquisitions). 1 "
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": [
+        {
+          "millions": 200,
+          "kind": "debt",
+          "from": "",
+          "source": "02445638",
+          "quote": "fund development and fur ther growth including an additional $200 million of debt funding secured. Ingenia is pleased to provide FY22 guidance of growth in EBIT of 20% to 25% an"
+        }
+      ]
     },
     "BGL-2021-09-30-02428635": {
       "documents": [
@@ -5451,13 +6265,17 @@
       "leadSource": null,
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "ALL-2021-10-18-02436616": {
       "documents": [
         "02436616",
         "02438671",
-        "02450955"
+        "02450955",
+        "02451200"
       ],
       "offerPrice": {
         "value": 41.85,
@@ -5496,11 +6314,16 @@
         "value": "The proceeds from the Entitlement Offer will be used to finance the Acquisition.",
         "source": "02438671",
         "quote": "The proceeds from the Entitlement Offer will be used to finance the Acquisition."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "ELV-2021-10-04-02430613": {
       "documents": [
-        "02430613"
+        "02430613",
+        "02434004",
+        "02442878"
       ],
       "offerPrice": {
         "value": 0.145,
@@ -5527,9 +6350,20 @@
         "Canaccord Genuity"
       ],
       "leadSource": "02430613",
-      "ratio": null,
+      "ratio": {
+        "value": "1 for 35",
+        "source": "02434004",
+        "quote": "provide an opportunity for eligible shareholders to subscribe for 1 New Share for every 35 existing Sayona ordinary shares held on the Record Date of 6.00pm (Brisbane time) on Thu"
+      },
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": {
+        "value": "The proceeds from the Rights Issue will be used primarily to advance: • Moblan exploration and assessment; • NAL redevelopment assessment; • Authier mine approval process, exploration and assessment; • Tansim exploration and assessment; • Exploration of Western Australia gold projects; and • Working capital.",
+        "source": "02434004",
+        "quote": "The proceeds from the Rights Issue will be used primarily to advance: • Moblan exploration and assessment; • NAL redevelopment assessment; • Authier mine approval process, exploration and assessment; "
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "SLX-2021-09-27-02426372": {
       "documents": [
@@ -5568,15 +6402,23 @@
         "quote": "a total of 25,972,391 fully paid ordinary shares ( equal to 15% of current issued capital) at an issue price of $1.27 per share to raise approximately $33 million before"
       },
       "useOfFunds": {
-        "value": "Use of Proceeds Silex will use the proceeds from the Placement and SPP for the following purposes: • Advancement of the commercial pilot demonstration of the SILEX uranium enrichment technology in the USA at GLE’s Test Loop facility; • Assessment and potential d evelopment of opportunities for advanced nuclear fuel…",
+        "value": "Silex will use the proceeds from the Placement and SPP for the following purposes: • Advancement of the commercial pilot demonstration of the SILEX uranium enrichment technology in the USA at GLE’s Test Loop facility; • Assessment and potential d evelopment of opportunities for advanced nuclear fuel production with…",
         "source": "02426368",
-        "quote": "Use of Proceeds Silex will use the proceeds from the Placement and SPP for the following purposes: • Advancement of the commercial pilot demonstration of the SILEX uranium enrichment technology in the"
-      }
+        "quote": "Silex will use the proceeds from the Placement and SPP for the following purposes: • Advancement of the commercial pilot demonstration of the SILEX uranium enrichment technology in the USA at GLE’s Te"
+      },
+      "cashBefore": null,
+      "proFormaCash": {
+        "value": 47,
+        "source": "02426368",
+        "quote": "(e.g. HALEU) and Zero-Spin Silicon for quantum computing • Pro-forma cash balance of ~$47m following the placement • Share Purchase Plan will be offered to eligible share"
+      },
+      "alongside": []
     },
     "SFR-2021-09-23-02425148": {
       "documents": [
         "02428724",
-        "02426408"
+        "02426408",
+        "02436917"
       ],
       "offerPrice": {
         "value": 5.4,
@@ -5618,7 +6460,10 @@
         "value": "The proceeds of the Entitlement Offer and Placement will be used as part consideration to fund the acquisition of a 100% interest in Minas de Aguas Teñidas (“MATSA”).",
         "source": "02428724",
         "quote": "The proceeds of the Entitlement Offer and Placement will be used as part consideration to fund the acquisition of a 100% interest in Minas de Aguas Teñidas (“MATSA”)."
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "VUL-2021-09-24-02425661": {
       "documents": [
@@ -5631,7 +6476,10 @@
       "leadSource": null,
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "TCL-2021-09-23-02425138": {
       "documents": [
@@ -5659,7 +6507,10 @@
         "quote": "billion fully underwritten accelerated pro rata renounceable 1 for 9 entitlement offer with retail entitlements trading (Entitlement Offer) of new Transurban st"
       },
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "NEU-2021-10-06-02431786": {
       "documents": [
@@ -5676,7 +6527,10 @@
         "value": "Total gross proceeds of $23.3 million from the placement and SPP will accelerate the development and increase the value of NNZ-2591 for four neurodevelopmental disorders, by enabling a Phase 2 clinical trial in Prader-Willi syndrome and the foundational work for Phase 3 development across Prader-Willi,…",
         "source": "02431786",
         "quote": "Total gross proceeds of $23.3 million from the placement and SPP will accelerate the development and increase the value of NNZ-2591 for four neurodevelopmental disorders, by enabling a Phase 2 clinica"
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "ABB-2021-10-06-02432000": {
       "documents": [
@@ -5689,7 +6543,10 @@
       "leadSource": null,
       "ratio": null,
       "percentOfIssued": null,
-      "useOfFunds": null
+      "useOfFunds": null,
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     },
     "CIP-2021-09-23-02425104": {
       "documents": [
@@ -5723,7 +6580,10 @@
         "value": "The proceeds from the Placement will be used to partially fund the acquisition of eight freehold urban infill industrial assets (the Acquisitions)3 for a total purchase price of $351.3 million4 on an average initial yield of 4.1% and a weighted average capitalisation rate of 4.23%.",
         "source": "02425592",
         "quote": "The proceeds from the Placement will be used to partially fund the acquisition of eight freehold urban infill industrial assets (the Acquisitions)3 for a total purchase price of $351.3 million4 on an "
-      }
+      },
+      "cashBefore": null,
+      "proFormaCash": null,
+      "alongside": []
     }
   }
 }
