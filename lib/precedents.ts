@@ -27,6 +27,11 @@ export function isRaiseHeadline(title: string, ticker?: string): boolean {
 }
 
 export function parseArchiveHtml(html: string, year: number, ticker?: string): { totalRows: number; rows: ArchiveRow[] } {
+  const rows = parseArchiveRows(html, year);
+  return { totalRows: rows.length, rows: rows.filter(row => isRaiseHeadline(row.title, ticker)) };
+}
+
+export function parseArchiveRows(html: string, year: number): ArchiveRow[] {
   if (!/Search results: Company announcements|Search results for Company announcements/i.test(html) || !html.includes(String(year))) throw new Error('Unexpected ASX archive response');
   const rowElements = [...html.matchAll(/<tr\b[^>]*>([\s\S]*?)<\/tr>/gi)];
   const rows: ArchiveRow[] = [];
@@ -42,7 +47,7 @@ export function parseArchiveHtml(html: string, year: number, ticker?: string): {
       url: link.toString(),
       priceSensitive: /icon-price-sensitive\.svg/i.test(element) });
   }
-  return { totalRows: rows.length, rows: rows.filter(row => isRaiseHeadline(row.title, ticker)) };
+  return rows;
 }
 
 function structureOf(rows: ArchiveRow[]): PrecedentCandidate['structure'] {

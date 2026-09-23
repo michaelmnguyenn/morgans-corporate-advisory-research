@@ -10,12 +10,15 @@
     "test": "vitest run",
     "test:pipeline": "tsx --test scripts/*.test.ts",
     "data:update": "tsx scripts/update.ts",
-    "data:today": "tsx scripts/update-daily.ts",
     "data:backfill": "tsx scripts/backfill-asx200.ts",
     "data:import": "tsx scripts/import.ts",
     "data:release": "tsx scripts/release.ts",
     "data:pdf": "tsx scripts/extract-pdf.ts",
-    "data:db": "tsx scripts/database.ts"
+    "data:db": "tsx scripts/database.ts",
+    "data:terms": "tsx scripts/extract-terms.ts",
+    "data:funding": "tsx scripts/backfill-funding.ts",
+    "data:market": "tsx scripts/market-data.ts",
+    "data:funding-terms": "tsx scripts/extract-funding.ts"
   },
   "engines": {
     "node": ">=22"

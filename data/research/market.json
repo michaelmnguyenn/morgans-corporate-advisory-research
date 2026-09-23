@@ -1,0 +1,3493 @@
+{
+  "generatedAt": "2026-09-23T11:21:34.617Z",
+  "source": "Yahoo Finance daily closes, splits, reported share counts and AUD cross rates",
+  "raises": {
+    "FFM-2026-09-04-03135794": {
+      "tradeDate": "2026-09-04",
+      "referenceDate": "2026-09-03",
+      "referenceClose": 1.765,
+      "impliedDiscount": -0.8,
+      "day1Return": 3.9,
+      "month1Return": null,
+      "benchmarkMonth1": null,
+      "sharesOnIssue": 768785998,
+      "sharesSource": "reported",
+      "marketCapMillions": 1357,
+      "percentOfMarketCap": null
+    },
+    "MI6-2026-09-16-03140027": {
+      "tradeDate": "2026-09-16",
+      "referenceDate": "2026-09-11",
+      "referenceClose": 0.88,
+      "impliedDiscount": 0,
+      "day1Return": 0,
+      "month1Return": null,
+      "benchmarkMonth1": null,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "AIA-2026-09-14-03139161": {
+      "tradeDate": "2026-09-14",
+      "referenceDate": "2026-09-11",
+      "referenceClose": 6.77,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": null,
+      "sharesOnIssue": 1699366137,
+      "sharesSource": "reported",
+      "marketCapMillions": 11505,
+      "percentOfMarketCap": null
+    },
+    "CNI-2026-06-22-03106313": {
+      "tradeDate": "2026-06-23",
+      "referenceDate": "2026-06-19",
+      "referenceClose": 2.17,
+      "impliedDiscount": 7.8,
+      "day1Return": 1.5,
+      "month1Return": -16.3,
+      "benchmarkMonth1": -0.4,
+      "sharesOnIssue": 833917233,
+      "sharesSource": "reported",
+      "marketCapMillions": 1810,
+      "percentOfMarketCap": 16.6
+    },
+    "MP1-2026-06-03-03100362": {
+      "tradeDate": "2026-06-05",
+      "referenceDate": "2026-06-01",
+      "referenceClose": 16.0438,
+      "impliedDiscount": 10.9,
+      "day1Return": 29.2,
+      "month1Return": 31.8,
+      "benchmarkMonth1": 1.2,
+      "sharesOnIssue": 166620850,
+      "sharesSource": "reported",
+      "marketCapMillions": 2673,
+      "percentOfMarketCap": null
+    },
+    "EOS-2026-05-18-03094866": {
+      "tradeDate": "2026-05-20",
+      "referenceDate": "2026-05-15",
+      "referenceClose": 8.82,
+      "impliedDiscount": 9.3,
+      "day1Return": -1.1,
+      "month1Return": 16.8,
+      "benchmarkMonth1": 3.2,
+      "sharesOnIssue": 192952099,
+      "sharesSource": "reported",
+      "marketCapMillions": 1702,
+      "percentOfMarketCap": 8.8
+    },
+    "ELV-2026-05-13-03093383": {
+      "tradeDate": "2026-05-13",
+      "referenceDate": "2026-05-11",
+      "referenceClose": 13.74,
+      "impliedDiscount": 11.2,
+      "day1Return": 4,
+      "month1Return": -12.7,
+      "benchmarkMonth1": -0.8,
+      "sharesOnIssue": 169329111,
+      "sharesSource": "reported",
+      "marketCapMillions": 2327,
+      "percentOfMarketCap": 11.8
+    },
+    "BWP-2026-05-06-03091013": {
+      "tradeDate": "2026-05-07",
+      "referenceDate": "2026-05-05",
+      "referenceClose": 3.9269,
+      "impliedDiscount": 4,
+      "day1Return": 4.8,
+      "month1Return": -0.3,
+      "benchmarkMonth1": 0.1,
+      "sharesOnIssue": 715887282,
+      "sharesSource": "reported",
+      "marketCapMillions": 2811,
+      "percentOfMarketCap": null
+    },
+    "NXT-2026-04-22-03085006": {
+      "tradeDate": "2026-04-22",
+      "referenceDate": "2026-04-17",
+      "referenceClose": 13.8981,
+      "impliedDiscount": 8.6,
+      "day1Return": 12.6,
+      "month1Return": 12,
+      "benchmarkMonth1": -5,
+      "sharesOnIssue": 651515509,
+      "sharesSource": "reported",
+      "marketCapMillions": 9055,
+      "percentOfMarketCap": null
+    },
+    "WBT-2026-03-26-03076335": {
+      "tradeDate": "2026-03-27",
+      "referenceDate": "2026-03-25",
+      "referenceClose": 4.54,
+      "impliedDiscount": 10.8,
+      "day1Return": -5.7,
+      "month1Return": -0.2,
+      "benchmarkMonth1": 1.8,
+      "sharesOnIssue": 208416444,
+      "sharesSource": "reported",
+      "marketCapMillions": 946,
+      "percentOfMarketCap": 8.5
+    },
+    "GPT-2026-04-16-03083151": {
+      "tradeDate": "2026-04-16",
+      "referenceDate": "2026-04-15",
+      "referenceClose": 4.63,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": -3.8,
+      "sharesOnIssue": 1915577430,
+      "sharesSource": "reported",
+      "marketCapMillions": 8869,
+      "percentOfMarketCap": null
+    },
+    "MFG-2026-03-02-03067000": {
+      "tradeDate": "2026-03-03",
+      "referenceDate": "2026-02-27",
+      "referenceClose": 8.46,
+      "impliedDiscount": 0.1,
+      "day1Return": 22,
+      "month1Return": 16.1,
+      "benchmarkMonth1": -7.8,
+      "sharesOnIssue": 195122000,
+      "sharesSource": "reported",
+      "marketCapMillions": 1651,
+      "percentOfMarketCap": null
+    },
+    "4DX-2026-03-27-03076657": {
+      "tradeDate": "2026-03-27",
+      "referenceDate": "2026-03-26",
+      "referenceClose": 6.28,
+      "impliedDiscount": 6.1,
+      "day1Return": 6.4,
+      "month1Return": -20.2,
+      "benchmarkMonth1": 2.2,
+      "sharesOnIssue": 465540474,
+      "sharesSource": "reported",
+      "marketCapMillions": 2924,
+      "percentOfMarketCap": 2.8
+    },
+    "AUB-2026-01-27-03052884": {
+      "tradeDate": "2026-01-28",
+      "referenceDate": "2026-01-23",
+      "referenceClose": 31.91,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": 3,
+      "sharesOnIssue": 116587434,
+      "sharesSource": "reported",
+      "marketCapMillions": 3720,
+      "percentOfMarketCap": 10.8
+    },
+    "CIA-2026-02-05-03057016": {
+      "tradeDate": "2026-02-05",
+      "referenceDate": "2026-02-04",
+      "referenceClose": 5.75,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": 0.1,
+      "sharesOnIssue": 533251001,
+      "sharesSource": "reported",
+      "marketCapMillions": 3066,
+      "percentOfMarketCap": null
+    },
+    "4DX-2026-01-15-03050109": {
+      "tradeDate": "2026-01-15",
+      "referenceDate": "2026-01-12",
+      "referenceClose": 4.29,
+      "impliedDiscount": 11.4,
+      "day1Return": 19.2,
+      "month1Return": -7.4,
+      "benchmarkMonth1": 1.8,
+      "sharesOnIssue": 465540474,
+      "sharesSource": "reported",
+      "marketCapMillions": 1997,
+      "percentOfMarketCap": 7.5
+    },
+    "FFM-2025-12-02-03035650": {
+      "tradeDate": "2025-12-04",
+      "referenceDate": "2025-12-01",
+      "referenceClose": 1.945,
+      "impliedDiscount": 12.6,
+      "day1Return": 7.6,
+      "month1Return": 21.2,
+      "benchmarkMonth1": 1.7,
+      "sharesOnIssue": 643069099,
+      "sharesSource": "reported",
+      "marketCapMillions": 1251,
+      "percentOfMarketCap": null
+    },
+    "VUL-2025-12-04-03036853": {
+      "tradeDate": "2025-12-04",
+      "referenceDate": "2025-12-02",
+      "referenceClose": 5.1291,
+      "impliedDiscount": 22,
+      "day1Return": 2.5,
+      "month1Return": 22.2,
+      "benchmarkMonth1": 1.6,
+      "sharesOnIssue": 256393076,
+      "sharesSource": "reported",
+      "marketCapMillions": 1315,
+      "percentOfMarketCap": null
+    },
+    "SRL-2025-11-17-03027194": {
+      "tradeDate": "2025-11-17",
+      "referenceDate": "2025-11-12",
+      "referenceClose": 4.16,
+      "impliedDiscount": -17.8,
+      "day1Return": -5.1,
+      "month1Return": 50,
+      "benchmarkMonth1": -1.9,
+      "sharesOnIssue": 115227404,
+      "sharesSource": "reported",
+      "marketCapMillions": 479,
+      "percentOfMarketCap": 9.6
+    },
+    "MP1-2025-11-11-03023569": {
+      "tradeDate": "2025-11-12",
+      "referenceDate": "2025-11-10",
+      "referenceClose": 15.3,
+      "impliedDiscount": 6.5,
+      "day1Return": 5.2,
+      "month1Return": -4.1,
+      "benchmarkMonth1": -2.8,
+      "sharesOnIssue": 166620850,
+      "sharesSource": "reported",
+      "marketCapMillions": 2549,
+      "percentOfMarketCap": null
+    },
+    "APE-2025-10-01-03003575": {
+      "tradeDate": "2025-10-03",
+      "referenceDate": "2025-09-30",
+      "referenceClose": 28.68,
+      "impliedDiscount": 26.8,
+      "day1Return": 61,
+      "month1Return": 62.2,
+      "benchmarkMonth1": 0.4,
+      "sharesOnIssue": 258074137,
+      "sharesSource": "reported",
+      "marketCapMillions": 7402,
+      "percentOfMarketCap": null
+    },
+    "PDN-2025-09-16-02995741": {
+      "tradeDate": "2025-09-17",
+      "referenceDate": "2025-09-15",
+      "referenceClose": 7.88,
+      "impliedDiscount": 8,
+      "day1Return": 7,
+      "month1Return": 37,
+      "benchmarkMonth1": 1.6,
+      "sharesOnIssue": 398960289,
+      "sharesSource": "reported",
+      "marketCapMillions": 3144,
+      "percentOfMarketCap": 9.5
+    },
+    "LYC-2025-08-28-02987078": {
+      "tradeDate": "2025-08-29",
+      "referenceDate": "2025-08-27",
+      "referenceClose": 14.73,
+      "impliedDiscount": 10,
+      "day1Return": 4.7,
+      "month1Return": 27.5,
+      "benchmarkMonth1": -1.9,
+      "sharesOnIssue": 935447000,
+      "sharesSource": "reported",
+      "marketCapMillions": 13779,
+      "percentOfMarketCap": 5.4
+    },
+    "SLX-2025-08-07-02977880": {
+      "tradeDate": "2025-08-07",
+      "referenceDate": "2025-08-05",
+      "referenceClose": 4.63,
+      "impliedDiscount": 15.8,
+      "day1Return": 0,
+      "month1Return": 3.3,
+      "benchmarkMonth1": 0.6,
+      "sharesOnIssue": 238105724,
+      "sharesSource": "reported",
+      "marketCapMillions": 1102,
+      "percentOfMarketCap": 11.8
+    },
+    "LTR-2025-08-07-02977894": {
+      "tradeDate": "2025-08-08",
+      "referenceDate": "2025-08-06",
+      "referenceClose": 0.845,
+      "impliedDiscount": 13.6,
+      "day1Return": 15.8,
+      "month1Return": 27.4,
+      "benchmarkMonth1": 0.3,
+      "sharesOnIssue": 2429405000,
+      "sharesSource": "reported",
+      "marketCapMillions": 2053,
+      "percentOfMarketCap": 15.4
+    },
+    "ELV-2025-08-25-02984401": {
+      "tradeDate": "2025-08-25",
+      "referenceDate": "2025-08-22",
+      "referenceClose": 0.026,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": -1.7,
+      "sharesOnIssue": 11293296000,
+      "sharesSource": "reported",
+      "marketCapMillions": 294,
+      "percentOfMarketCap": null
+    },
+    "XRO-2025-06-25-02961640": {
+      "tradeDate": "2025-06-26",
+      "referenceDate": "2025-06-24",
+      "referenceClose": 194.21,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": 1.8,
+      "sharesOnIssue": 153587000,
+      "sharesSource": "reported",
+      "marketCapMillions": 29828,
+      "percentOfMarketCap": 6.2
+    },
+    "ELS-2025-07-23-02971757": {
+      "tradeDate": "2025-07-23",
+      "referenceDate": "2025-07-18",
+      "referenceClose": 1.925,
+      "impliedDiscount": 11.7,
+      "day1Return": 22.4,
+      "month1Return": 5.3,
+      "benchmarkMonth1": 1.8,
+      "sharesOnIssue": 181041211,
+      "sharesSource": "reported",
+      "marketCapMillions": 349,
+      "percentOfMarketCap": null
+    },
+    "FFM-2025-06-05-02955706": {
+      "tradeDate": "2025-06-10",
+      "referenceDate": "2025-06-04",
+      "referenceClose": 1.03,
+      "impliedDiscount": 6.8,
+      "day1Return": 3.6,
+      "month1Return": 18.7,
+      "benchmarkMonth1": 0.6,
+      "sharesOnIssue": 480707962,
+      "sharesSource": "reported",
+      "marketCapMillions": 495,
+      "percentOfMarketCap": 20.2
+    },
+    "VUL-2025-07-10-02968329": {
+      "tradeDate": "2025-07-11",
+      "referenceDate": "2025-07-09",
+      "referenceClose": 4,
+      "impliedDiscount": 15,
+      "day1Return": 2.4,
+      "month1Return": 9.1,
+      "benchmarkMonth1": 3.1,
+      "sharesOnIssue": 256393076,
+      "sharesSource": "reported",
+      "marketCapMillions": 1026,
+      "percentOfMarketCap": 5.2
+    },
+    "SOL-2025-07-01-02964666": {
+      "tradeDate": "2025-07-01",
+      "referenceDate": "2025-06-30",
+      "referenceClose": 42.01,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": 1.9,
+      "sharesOnIssue": 360967863,
+      "sharesSource": "reported",
+      "marketCapMillions": 15164,
+      "percentOfMarketCap": null
+    },
+    "SRL-2025-06-10-02956830": {
+      "tradeDate": "2025-06-10",
+      "referenceDate": "2025-06-06",
+      "referenceClose": 0.455,
+      "impliedDiscount": 34.1,
+      "day1Return": 68.3,
+      "month1Return": 243.3,
+      "benchmarkMonth1": 0.9,
+      "sharesOnIssue": 90227498,
+      "sharesSource": "reported",
+      "marketCapMillions": 41,
+      "percentOfMarketCap": null
+    },
+    "ALQ-2025-05-27-02952188": {
+      "tradeDate": "2025-05-28",
+      "referenceDate": "2025-05-26",
+      "referenceClose": 17.64,
+      "impliedDiscount": 5.3,
+      "day1Return": -2.4,
+      "month1Return": 1.7,
+      "benchmarkMonth1": 2.3,
+      "sharesOnIssue": 484874204,
+      "sharesSource": "reported",
+      "marketCapMillions": 8553,
+      "percentOfMarketCap": null
+    },
+    "CYL-2025-05-23-02951319": {
+      "tradeDate": "2025-05-23",
+      "referenceDate": "2025-05-20",
+      "referenceClose": 6.64,
+      "impliedDiscount": 9.6,
+      "day1Return": 5.8,
+      "month1Return": -5.7,
+      "benchmarkMonth1": 1.6,
+      "sharesOnIssue": 224582544,
+      "sharesSource": "reported",
+      "marketCapMillions": 1491,
+      "percentOfMarketCap": 10.1
+    },
+    "SRL-2025-04-22-02939757": {
+      "tradeDate": "2025-04-22",
+      "referenceDate": "2025-04-15",
+      "referenceClose": 0.71,
+      "impliedDiscount": 57.7,
+      "day1Return": 46.7,
+      "month1Return": 38.3,
+      "benchmarkMonth1": 8.1,
+      "sharesOnIssue": 90227498,
+      "sharesSource": "reported",
+      "marketCapMillions": 64,
+      "percentOfMarketCap": 11.7
+    },
+    "BGL-2025-04-14-02937722": {
+      "tradeDate": "2025-04-15",
+      "referenceDate": "2025-03-26",
+      "referenceClose": 1.145,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": 4.3,
+      "sharesOnIssue": 1177341851,
+      "sharesSource": "reported",
+      "marketCapMillions": 1348,
+      "percentOfMarketCap": 11.6
+    },
+    "ASB-2025-03-11-02924832": {
+      "tradeDate": "2025-03-12",
+      "referenceDate": "2025-03-10",
+      "referenceClose": 4.5,
+      "impliedDiscount": 15.6,
+      "day1Return": -7.6,
+      "month1Return": 16.8,
+      "benchmarkMonth1": -7.4,
+      "sharesOnIssue": 361221467,
+      "sharesSource": "reported",
+      "marketCapMillions": 1625,
+      "percentOfMarketCap": 12.3
+    },
+    "4DX-2025-02-21-02917171": {
+      "tradeDate": "2025-02-21",
+      "referenceDate": "2025-02-20",
+      "referenceClose": 0.55,
+      "impliedDiscount": 22.7,
+      "day1Return": 3.5,
+      "month1Return": -11.8,
+      "benchmarkMonth1": -4.7,
+      "sharesOnIssue": 410394665,
+      "sharesSource": "reported",
+      "marketCapMillions": 226,
+      "percentOfMarketCap": 3.7
+    },
+    "GDG-2025-02-10-02912452": {
+      "tradeDate": "2025-02-12",
+      "referenceDate": "2025-02-06",
+      "referenceClose": 4.5887,
+      "impliedDiscount": 9.6,
+      "day1Return": 20.5,
+      "month1Return": 14,
+      "benchmarkMonth1": -8.6,
+      "sharesOnIssue": 274012226,
+      "sharesSource": "reported",
+      "marketCapMillions": 1257,
+      "percentOfMarketCap": null
+    },
+    "GMG-2025-02-19-02915730": {
+      "tradeDate": "2025-02-20",
+      "referenceDate": "2025-02-18",
+      "referenceClose": 35.98,
+      "impliedDiscount": 6.9,
+      "day1Return": 2.1,
+      "month1Return": -5.7,
+      "benchmarkMonth1": -6.6,
+      "sharesOnIssue": 1899182071,
+      "sharesSource": "reported",
+      "marketCapMillions": 68333,
+      "percentOfMarketCap": 5.9
+    },
+    "PDI-2025-02-04-02910571": {
+      "tradeDate": "2025-02-04",
+      "referenceDate": "2025-01-31",
+      "referenceClose": 0.265,
+      "impliedDiscount": 0,
+      "day1Return": 13.2,
+      "month1Return": 26.4,
+      "benchmarkMonth1": -3.9,
+      "sharesOnIssue": 11734509915,
+      "sharesSource": "reported",
+      "marketCapMillions": 3110,
+      "percentOfMarketCap": 2.2
+    },
+    "VUL-2024-12-11-02894283": {
+      "tradeDate": "2024-12-13",
+      "referenceDate": "2024-12-10",
+      "referenceClose": 6.64,
+      "impliedDiscount": 11.9,
+      "day1Return": -0.5,
+      "month1Return": 6.2,
+      "benchmarkMonth1": -2.1,
+      "sharesOnIssue": 205653181,
+      "sharesSource": "reported",
+      "marketCapMillions": 1366,
+      "percentOfMarketCap": 12
+    },
+    "PNI-2024-11-20-02884060": {
+      "tradeDate": "2024-11-21",
+      "referenceDate": "2024-11-19",
+      "referenceClose": 21.44,
+      "impliedDiscount": 5.3,
+      "day1Return": 9,
+      "month1Return": 12.8,
+      "benchmarkMonth1": -2.5,
+      "sharesOnIssue": 198214482,
+      "sharesSource": "reported",
+      "marketCapMillions": 4250,
+      "percentOfMarketCap": 9.4
+    },
+    "ELD-2024-11-18-02882950": {
+      "tradeDate": "2024-11-19",
+      "referenceDate": "2024-11-15",
+      "referenceClose": 8.5178,
+      "impliedDiscount": 7.8,
+      "day1Return": -1.8,
+      "month1Return": -7.1,
+      "benchmarkMonth1": 0.3,
+      "sharesOnIssue": 160494580,
+      "sharesSource": "reported",
+      "marketCapMillions": 1367,
+      "percentOfMarketCap": null
+    },
+    "RMS-2024-12-05-02892046": {
+      "tradeDate": "2024-12-05",
+      "referenceDate": "2024-12-04",
+      "referenceClose": 2.11,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": -2.1,
+      "sharesOnIssue": 1142970373,
+      "sharesSource": "reported",
+      "marketCapMillions": 2412,
+      "percentOfMarketCap": null
+    },
+    "WBT-2024-11-14-02881818": {
+      "tradeDate": "2024-11-14",
+      "referenceDate": "2024-11-13",
+      "referenceClose": 3.09,
+      "impliedDiscount": 2.9,
+      "day1Return": 9.7,
+      "month1Return": -5,
+      "benchmarkMonth1": 1.7,
+      "sharesOnIssue": 188916529,
+      "sharesSource": "reported",
+      "marketCapMillions": 584,
+      "percentOfMarketCap": 8.6
+    },
+    "CMM-2024-10-30-02875137": {
+      "tradeDate": "2024-11-01",
+      "referenceDate": "2024-10-29",
+      "referenceClose": 6.31,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": 2.3,
+      "sharesOnIssue": 377528031,
+      "sharesSource": "reported",
+      "marketCapMillions": 2382,
+      "percentOfMarketCap": null
+    },
+    "FFM-2024-09-26-02858643": {
+      "tradeDate": "2024-09-26",
+      "referenceDate": "2024-09-23",
+      "referenceClose": 1.045,
+      "impliedDiscount": 9.1,
+      "day1Return": 6.3,
+      "month1Return": 11.1,
+      "benchmarkMonth1": 0.7,
+      "sharesOnIssue": 480707962,
+      "sharesSource": "reported",
+      "marketCapMillions": 502,
+      "percentOfMarketCap": 12.9
+    },
+    "IPX-2024-10-21-02870062": {
+      "tradeDate": "2024-10-21",
+      "referenceDate": "2024-10-16",
+      "referenceClose": 3.45,
+      "impliedDiscount": 7.2,
+      "day1Return": 6.3,
+      "month1Return": 15,
+      "benchmarkMonth1": 0.2,
+      "sharesOnIssue": 257244759,
+      "sharesSource": "reported",
+      "marketCapMillions": 887,
+      "percentOfMarketCap": 11.3
+    },
+    "FBU-2024-09-23-02856592": {
+      "tradeDate": "2024-09-24",
+      "referenceDate": "2024-09-20",
+      "referenceClose": 2.5267,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": 0,
+      "sharesOnIssue": 799265032,
+      "sharesSource": "reported",
+      "marketCapMillions": 2019,
+      "percentOfMarketCap": null
+    },
+    "AIA-2024-09-16-02853783": {
+      "tradeDate": "2024-09-17",
+      "referenceDate": "2024-09-13",
+      "referenceClose": 6.95,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": 2.7,
+      "sharesOnIssue": 1479784490,
+      "sharesSource": "reported",
+      "marketCapMillions": 10285,
+      "percentOfMarketCap": 13.6
+    },
+    "NXT-2024-09-10-02851997": {
+      "tradeDate": "2024-09-10",
+      "referenceDate": "2024-09-09",
+      "referenceClose": 17.64,
+      "impliedDiscount": 2.8,
+      "day1Return": 4,
+      "month1Return": 3.2,
+      "benchmarkMonth1": 2.4,
+      "sharesOnIssue": 610968827,
+      "sharesSource": "reported",
+      "marketCapMillions": 10777,
+      "percentOfMarketCap": 5.1
+    },
+    "SRG-2024-08-21-02841967": {
+      "tradeDate": "2024-08-21",
+      "referenceDate": "2024-08-19",
+      "referenceClose": 0.865,
+      "impliedDiscount": 4,
+      "day1Return": 10.2,
+      "month1Return": 26.5,
+      "benchmarkMonth1": 2,
+      "sharesOnIssue": 593924100,
+      "sharesSource": "reported",
+      "marketCapMillions": 514,
+      "percentOfMarketCap": 11.7
+    },
+    "SOL-2024-08-21-02842269": {
+      "tradeDate": "2024-08-21",
+      "referenceDate": "2024-08-20",
+      "referenceClose": 34.27,
+      "impliedDiscount": 0.1,
+      "day1Return": 0,
+      "month1Return": -2.3,
+      "benchmarkMonth1": 1.8,
+      "sharesOnIssue": 360967863,
+      "sharesSource": "reported",
+      "marketCapMillions": 12370,
+      "percentOfMarketCap": null
+    },
+    "BGL-2024-07-25-02832106": {
+      "tradeDate": "2024-07-26",
+      "referenceDate": "2024-07-24",
+      "referenceClose": 1.83,
+      "impliedDiscount": 15.3,
+      "day1Return": -7.4,
+      "month1Return": -12.9,
+      "benchmarkMonth1": 0.8,
+      "sharesOnIssue": 1177341851,
+      "sharesSource": "reported",
+      "marketCapMillions": 2155,
+      "percentOfMarketCap": 7
+    },
+    "A2M-2024-08-20-02841498": {
+      "tradeDate": "2024-08-20",
+      "referenceDate": "2024-08-19",
+      "referenceClose": 5.7,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": 2,
+      "sharesOnIssue": 722934808,
+      "sharesSource": "reported",
+      "marketCapMillions": 4121,
+      "percentOfMarketCap": null
+    },
+    "ZIP-2024-07-17-02829380": {
+      "tradeDate": "2024-07-18",
+      "referenceDate": "2024-07-16",
+      "referenceClose": 1.605,
+      "impliedDiscount": 5.3,
+      "day1Return": 17.4,
+      "month1Return": 27,
+      "benchmarkMonth1": -1.7,
+      "sharesOnIssue": 1126660000,
+      "sharesSource": "reported",
+      "marketCapMillions": 1808,
+      "percentOfMarketCap": 12
+    },
+    "DRO-2024-08-01-02835218": {
+      "tradeDate": "2024-08-01",
+      "referenceDate": "2024-07-30",
+      "referenceClose": 1.39,
+      "impliedDiscount": 17.3,
+      "day1Return": 3,
+      "month1Return": 7.4,
+      "benchmarkMonth1": 1.2,
+      "sharesOnIssue": 611453611,
+      "sharesSource": "reported",
+      "marketCapMillions": 850,
+      "percentOfMarketCap": 14.1
+    },
+    "ARF-2024-07-23-02831114": {
+      "tradeDate": "2024-07-24",
+      "referenceDate": "2024-07-22",
+      "referenceClose": 3.96,
+      "impliedDiscount": 4.5,
+      "day1Return": 1.3,
+      "month1Return": 5,
+      "benchmarkMonth1": 1,
+      "sharesOnIssue": 356270000,
+      "sharesSource": "reported",
+      "marketCapMillions": 1411,
+      "percentOfMarketCap": null
+    },
+    "WAF-2024-07-04-02825279": {
+      "tradeDate": "2024-07-04",
+      "referenceDate": "2024-07-01",
+      "referenceClose": 1.59,
+      "impliedDiscount": 13.8,
+      "day1Return": 0.4,
+      "month1Return": 8,
+      "benchmarkMonth1": 4.7,
+      "sharesOnIssue": 1026338077,
+      "sharesSource": "reported",
+      "marketCapMillions": 1632,
+      "percentOfMarketCap": null
+    },
+    "AUB-2024-05-22-02809839": {
+      "tradeDate": "2024-05-23",
+      "referenceDate": "2024-05-21",
+      "referenceClose": 29.46,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": -0.7,
+      "sharesOnIssue": 108405620,
+      "sharesSource": "reported",
+      "marketCapMillions": 3194,
+      "percentOfMarketCap": 6.3
+    },
+    "GDG-2024-06-03-02813980": {
+      "tradeDate": "2024-06-05",
+      "referenceDate": "2024-05-29",
+      "referenceClose": 2.1898,
+      "impliedDiscount": 10.9,
+      "day1Return": 20,
+      "month1Return": 25.6,
+      "benchmarkMonth1": 2.2,
+      "sharesOnIssue": 196597659,
+      "sharesSource": "reported",
+      "marketCapMillions": 431,
+      "percentOfMarketCap": null
+    },
+    "IFT-2024-06-17-02818335": {
+      "tradeDate": "2024-06-18",
+      "referenceDate": "2024-06-14",
+      "referenceClose": 10.06,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": 3.6,
+      "sharesOnIssue": 832567631,
+      "sharesSource": "reported",
+      "marketCapMillions": 8376,
+      "percentOfMarketCap": null
+    },
+    "NCK-2024-04-24-02799328": {
+      "tradeDate": "2024-04-26",
+      "referenceDate": "2024-04-23",
+      "referenceClose": 14.07,
+      "impliedDiscount": 5.8,
+      "day1Return": 19.6,
+      "month1Return": 2.5,
+      "benchmarkMonth1": 0.6,
+      "sharesOnIssue": 81000000,
+      "sharesSource": "reported",
+      "marketCapMillions": 1140,
+      "percentOfMarketCap": null
+    },
+    "IPX-2024-05-15-02807581": {
+      "tradeDate": "2024-05-15",
+      "referenceDate": "2024-05-10",
+      "referenceClose": 2.12,
+      "impliedDiscount": 9.9,
+      "day1Return": 6.3,
+      "month1Return": 3.1,
+      "benchmarkMonth1": 0,
+      "sharesOnIssue": 193493973,
+      "sharesSource": "reported",
+      "marketCapMillions": 410,
+      "percentOfMarketCap": 12.2
+    },
+    "ANN-2024-04-09-02794077": {
+      "tradeDate": "2024-04-09",
+      "referenceDate": "2024-04-05",
+      "referenceClose": 23.89,
+      "impliedDiscount": 6,
+      "day1Return": 13.3,
+      "month1Return": 11,
+      "benchmarkMonth1": 0.4,
+      "sharesOnIssue": 126019443,
+      "sharesSource": "reported",
+      "marketCapMillions": 3011,
+      "percentOfMarketCap": 13.3
+    },
+    "NXT-2024-04-11-02794819": {
+      "tradeDate": "2024-04-15",
+      "referenceDate": "2024-04-10",
+      "referenceClose": 16.5229,
+      "impliedDiscount": 6.8,
+      "day1Return": 3.1,
+      "month1Return": 12.5,
+      "benchmarkMonth1": -1.6,
+      "sharesOnIssue": 529670240,
+      "sharesSource": "reported",
+      "marketCapMillions": 8752,
+      "percentOfMarketCap": null
+    },
+    "DRO-2024-04-18-02797346": {
+      "tradeDate": "2024-04-22",
+      "referenceDate": "2024-04-17",
+      "referenceClose": 1.12,
+      "impliedDiscount": 28.6,
+      "day1Return": 17.5,
+      "month1Return": 11.2,
+      "benchmarkMonth1": 3.2,
+      "sharesOnIssue": 611453611,
+      "sharesSource": "reported",
+      "marketCapMillions": 685,
+      "percentOfMarketCap": 14.6
+    },
+    "PDI-2024-05-02-02803180": {
+      "tradeDate": "2024-05-02",
+      "referenceDate": "2024-04-29",
+      "referenceClose": 0.21,
+      "impliedDiscount": 9.5,
+      "day1Return": 2.6,
+      "month1Return": -2.6,
+      "benchmarkMonth1": -0.1,
+      "sharesOnIssue": 10336220440,
+      "sharesSource": "reported",
+      "marketCapMillions": 2171,
+      "percentOfMarketCap": 2.3
+    },
+    "DYL-2024-03-11-02783733": {
+      "tradeDate": "2024-03-11",
+      "referenceDate": "2024-03-06",
+      "referenceClose": 1.275,
+      "impliedDiscount": 3.9,
+      "day1Return": -0.8,
+      "month1Return": 14.3,
+      "benchmarkMonth1": 1.5,
+      "sharesOnIssue": 758206208,
+      "sharesSource": "reported",
+      "marketCapMillions": 967,
+      "percentOfMarketCap": 22.8
+    },
+    "NXG-2024-05-01-02802415": {
+      "tradeDate": "2024-05-01",
+      "referenceDate": "2024-04-30",
+      "referenceClose": 13.03,
+      "impliedDiscount": 4.8,
+      "day1Return": 2.8,
+      "month1Return": -5.2,
+      "benchmarkMonth1": 0,
+      "sharesOnIssue": 525340525,
+      "sharesSource": "reported",
+      "marketCapMillions": 6845,
+      "percentOfMarketCap": null
+    },
+    "EOS-2024-03-22-02788243": {
+      "tradeDate": "2024-03-25",
+      "referenceDate": "2024-03-20",
+      "referenceClose": 2.08,
+      "impliedDiscount": 18.3,
+      "day1Return": -0.3,
+      "month1Return": 0.3,
+      "benchmarkMonth1": -0.2,
+      "sharesOnIssue": 171236006,
+      "sharesSource": "reported",
+      "marketCapMillions": 356,
+      "percentOfMarketCap": 9.8
+    },
+    "ORI-2024-02-21-02775348": {
+      "tradeDate": "2024-02-22",
+      "referenceDate": "2024-02-20",
+      "referenceClose": 16.85,
+      "impliedDiscount": 6,
+      "day1Return": 7.3,
+      "month1Return": 10.5,
+      "benchmarkMonth1": 1.6,
+      "sharesOnIssue": 455491558,
+      "sharesSource": "reported",
+      "marketCapMillions": 7675,
+      "percentOfMarketCap": null
+    },
+    "MSB-2024-03-14-02785297": {
+      "tradeDate": "2024-03-14",
+      "referenceDate": "2024-03-13",
+      "referenceClose": 0.375,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": 0.3,
+      "sharesOnIssue": 858159058,
+      "sharesSource": "reported",
+      "marketCapMillions": 322,
+      "percentOfMarketCap": null
+    },
+    "MTS-2024-02-05-02769766": {
+      "tradeDate": "2024-02-06",
+      "referenceDate": "2024-01-31",
+      "referenceClose": 3.64,
+      "impliedDiscount": 8,
+      "day1Return": 6.9,
+      "month1Return": 11.6,
+      "benchmarkMonth1": 0.6,
+      "sharesOnIssue": 965541602,
+      "sharesSource": "reported",
+      "marketCapMillions": 3515,
+      "percentOfMarketCap": 8.5
+    },
+    "OBM-2024-03-01-02780584": {
+      "tradeDate": "2024-03-01",
+      "referenceDate": "2024-02-27",
+      "referenceClose": 0.255,
+      "impliedDiscount": 13.7,
+      "day1Return": 13.6,
+      "month1Return": 36.4,
+      "benchmarkMonth1": 2.9,
+      "sharesOnIssue": 1694943693,
+      "sharesSource": "reported",
+      "marketCapMillions": 432,
+      "percentOfMarketCap": 6.9
+    },
+    "EVN-2023-12-06-02750938": {
+      "tradeDate": "2023-12-06",
+      "referenceDate": "2023-12-04",
+      "referenceClose": 4.14,
+      "impliedDiscount": 8.2,
+      "day1Return": -5.3,
+      "month1Return": -0.3,
+      "benchmarkMonth1": 4.6,
+      "sharesOnIssue": 1835016319,
+      "sharesSource": "reported",
+      "marketCapMillions": 7597,
+      "percentOfMarketCap": 6.9
+    },
+    "SIG-2023-12-11-02752658": {
+      "tradeDate": "2023-12-13",
+      "referenceDate": "2023-12-06",
+      "referenceClose": 0.7422,
+      "impliedDiscount": 5.7,
+      "day1Return": 48.6,
+      "month1Return": 38.2,
+      "benchmarkMonth1": 4.4,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "MSB-2023-12-04-02749922": {
+      "tradeDate": "2023-12-05",
+      "referenceDate": "2023-11-30",
+      "referenceClose": 0.384,
+      "impliedDiscount": 21.9,
+      "day1Return": 5,
+      "month1Return": -1.7,
+      "benchmarkMonth1": 5.7,
+      "sharesOnIssue": 858159058,
+      "sharesSource": "reported",
+      "marketCapMillions": 330,
+      "percentOfMarketCap": null
+    },
+    "SDF-2023-11-17-02741718": {
+      "tradeDate": "2023-11-17",
+      "referenceDate": "2023-11-14",
+      "referenceClose": 5.55,
+      "impliedDiscount": 7.4,
+      "day1Return": 1.8,
+      "month1Return": 10.3,
+      "benchmarkMonth1": 6.2,
+      "sharesOnIssue": 1035300000,
+      "sharesSource": "reported",
+      "marketCapMillions": 5746,
+      "percentOfMarketCap": null
+    },
+    "4DX-2023-12-11-02752708": {
+      "tradeDate": "2023-12-11",
+      "referenceDate": "2023-12-06",
+      "referenceClose": 0.955,
+      "impliedDiscount": 17.3,
+      "day1Return": 3.8,
+      "month1Return": -9.5,
+      "benchmarkMonth1": 4.6,
+      "sharesOnIssue": 345132572,
+      "sharesSource": "reported",
+      "marketCapMillions": 330,
+      "percentOfMarketCap": null
+    },
+    "KAR-2023-11-16-02741220": {
+      "tradeDate": "2023-11-17",
+      "referenceDate": "2023-11-15",
+      "referenceClose": 2.1289,
+      "impliedDiscount": 3.7,
+      "day1Return": 0,
+      "month1Return": -3.7,
+      "benchmarkMonth1": 4.7,
+      "sharesOnIssue": 568930247,
+      "sharesSource": "reported",
+      "marketCapMillions": 1211,
+      "percentOfMarketCap": null
+    },
+    "ABB-2023-11-02-02735559": {
+      "tradeDate": "2023-11-03",
+      "referenceDate": "2023-10-31",
+      "referenceClose": 3.92,
+      "impliedDiscount": 9.4,
+      "day1Return": 0.8,
+      "month1Return": 5.4,
+      "benchmarkMonth1": 4.3,
+      "sharesOnIssue": 237682509,
+      "sharesSource": "reported",
+      "marketCapMillions": 932,
+      "percentOfMarketCap": 12.9
+    },
+    "TWE-2023-10-31-02733447": {
+      "tradeDate": "2023-11-03",
+      "referenceDate": "2023-10-30",
+      "referenceClose": 11.9756,
+      "impliedDiscount": 0,
+      "day1Return": -7.8,
+      "month1Return": -11.4,
+      "benchmarkMonth1": 4.4,
+      "sharesOnIssue": 729346698,
+      "sharesSource": "reported",
+      "marketCapMillions": 8734,
+      "percentOfMarketCap": null
+    },
+    "LTR-2023-10-19-02727824": {
+      "tradeDate": "2023-10-20",
+      "referenceDate": "2023-10-13",
+      "referenceClose": 2.79,
+      "impliedDiscount": 35.5,
+      "day1Return": 5.6,
+      "month1Return": -17.8,
+      "benchmarkMonth1": 0,
+      "sharesOnIssue": 2202255000,
+      "sharesSource": "reported",
+      "marketCapMillions": 6144,
+      "percentOfMarketCap": null
+    },
+    "IPX-2023-11-01-02734888": {
+      "tradeDate": "2023-11-01",
+      "referenceDate": "2023-10-27",
+      "referenceClose": 1.25,
+      "impliedDiscount": 0,
+      "day1Return": 12,
+      "month1Return": 8,
+      "benchmarkMonth1": 3.1,
+      "sharesOnIssue": 193493973,
+      "sharesSource": "reported",
+      "marketCapMillions": 242,
+      "percentOfMarketCap": null
+    },
+    "ORA-2023-09-05-02708043": {
+      "tradeDate": "2023-09-06",
+      "referenceDate": "2023-08-25",
+      "referenceClose": 3.289,
+      "impliedDiscount": 17.9,
+      "day1Return": 6.7,
+      "month1Return": 1.1,
+      "benchmarkMonth1": -3.2,
+      "sharesOnIssue": 904720674,
+      "sharesSource": "reported",
+      "marketCapMillions": 2976,
+      "percentOfMarketCap": null
+    },
+    "NIC-2023-09-22-02715201": {
+      "tradeDate": "2023-09-22",
+      "referenceDate": "2023-09-21",
+      "referenceClose": 0.78,
+      "impliedDiscount": -41,
+      "day1Return": -29.1,
+      "month1Return": -29.1,
+      "benchmarkMonth1": -2.3,
+      "sharesOnIssue": 2681507652,
+      "sharesSource": "reported",
+      "marketCapMillions": 2092,
+      "percentOfMarketCap": null
+    },
+    "APA-2023-08-23-02701004": {
+      "tradeDate": "2023-08-24",
+      "referenceDate": "2023-08-22",
+      "referenceClose": 9.26,
+      "impliedDiscount": 8.2,
+      "day1Return": 5.3,
+      "month1Return": -0.9,
+      "benchmarkMonth1": -0.8,
+      "sharesOnIssue": 1179893848,
+      "sharesSource": "reported",
+      "marketCapMillions": 10926,
+      "percentOfMarketCap": 6.2
+    },
+    "DVP-2023-07-05-02683471": {
+      "tradeDate": "2023-07-05",
+      "referenceDate": "2023-06-30",
+      "referenceClose": 3.4513,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": 2.1,
+      "sharesOnIssue": 181442082,
+      "sharesSource": "reported",
+      "marketCapMillions": 626,
+      "percentOfMarketCap": null
+    },
+    "IFT-2023-06-07-02673751": {
+      "tradeDate": "2023-06-08",
+      "referenceDate": "2023-06-06",
+      "referenceClose": 9.2,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": -1.2,
+      "sharesOnIssue": 723983582,
+      "sharesSource": "reported",
+      "marketCapMillions": 6661,
+      "percentOfMarketCap": null
+    },
+    "NIC-2023-06-09-02674767": {
+      "tradeDate": "2023-06-09",
+      "referenceDate": "2023-06-08",
+      "referenceClose": 0.865,
+      "impliedDiscount": -27.2,
+      "day1Return": -10.9,
+      "month1Return": -21.4,
+      "benchmarkMonth1": -1.3,
+      "sharesOnIssue": 2681507652,
+      "sharesSource": "reported",
+      "marketCapMillions": 2320,
+      "percentOfMarketCap": null
+    },
+    "AUB-2023-05-18-02667272": {
+      "tradeDate": "2023-05-19",
+      "referenceDate": "2023-05-17",
+      "referenceClose": 25.86,
+      "impliedDiscount": 7.2,
+      "day1Return": 14.1,
+      "month1Return": 14.5,
+      "benchmarkMonth1": 1.3,
+      "sharesOnIssue": 100806452,
+      "sharesSource": "notice",
+      "marketCapMillions": 2607,
+      "percentOfMarketCap": 5.8
+    },
+    "ZIP-2023-06-09-02674716": {
+      "tradeDate": "2023-06-09",
+      "referenceDate": "2023-06-07",
+      "referenceClose": 0.505,
+      "impliedDiscount": 6.9,
+      "day1Return": 7.4,
+      "month1Return": -13.8,
+      "benchmarkMonth1": -1.6,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "CYL-2023-06-09-02674870": {
+      "tradeDate": "2023-06-09",
+      "referenceDate": "2023-06-08",
+      "referenceClose": 0.81,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": -1.3,
+      "sharesOnIssue": 98391985,
+      "sharesSource": "reported",
+      "marketCapMillions": 80,
+      "percentOfMarketCap": null
+    },
+    "NXT-2023-05-11-02664760": {
+      "tradeDate": "2023-05-15",
+      "referenceDate": "2023-05-10",
+      "referenceClose": 11.6711,
+      "impliedDiscount": 7.5,
+      "day1Return": 9.7,
+      "month1Return": 16.5,
+      "benchmarkMonth1": -1.6,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "ELV-2023-05-26-02670118": {
+      "tradeDate": "2023-05-30",
+      "referenceDate": "2023-05-25",
+      "referenceClose": 0.21,
+      "impliedDiscount": 14.3,
+      "day1Return": 2.8,
+      "month1Return": -5.6,
+      "benchmarkMonth1": 0.8,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "PDI-2023-05-29-02670539": {
+      "tradeDate": "2023-05-29",
+      "referenceDate": "2023-05-24",
+      "referenceClose": 0.16,
+      "impliedDiscount": 6.3,
+      "day1Return": 0,
+      "month1Return": 10,
+      "benchmarkMonth1": -0.1,
+      "sharesOnIssue": 7990648640,
+      "sharesSource": "reported",
+      "marketCapMillions": 1279,
+      "percentOfMarketCap": 3.1
+    },
+    "4DX-2023-05-08-02663492": {
+      "tradeDate": "2023-05-08",
+      "referenceDate": "2023-05-03",
+      "referenceClose": 1.135,
+      "impliedDiscount": 19.8,
+      "day1Return": 23.1,
+      "month1Return": -8.2,
+      "benchmarkMonth1": 0.3,
+      "sharesOnIssue": 294675761,
+      "sharesSource": "reported",
+      "marketCapMillions": 334,
+      "percentOfMarketCap": 7.5
+    },
+    "VUL-2023-05-04-02662666": {
+      "tradeDate": "2023-05-05",
+      "referenceDate": "2023-05-03",
+      "referenceClose": 6.16,
+      "impliedDiscount": 17.2,
+      "day1Return": 1,
+      "month1Return": -27.5,
+      "benchmarkMonth1": -0.7,
+      "sharesOnIssue": 171018957,
+      "sharesSource": "reported",
+      "marketCapMillions": 1053,
+      "percentOfMarketCap": 10.3
+    },
+    "IPX-2023-05-03-02661972": {
+      "tradeDate": "2023-05-03",
+      "referenceDate": "2023-04-28",
+      "referenceClose": 1.1,
+      "impliedDiscount": 9.1,
+      "day1Return": -1.5,
+      "month1Return": -7,
+      "benchmarkMonth1": -3,
+      "sharesOnIssue": 140288491,
+      "sharesSource": "reported",
+      "marketCapMillions": 154,
+      "percentOfMarketCap": 13
+    },
+    "KCN-2023-03-27-02647969": {
+      "tradeDate": "2023-03-28",
+      "referenceDate": "2023-03-24",
+      "referenceClose": 2.01,
+      "impliedDiscount": 0,
+      "day1Return": -25.4,
+      "month1Return": -29.9,
+      "benchmarkMonth1": 5.1,
+      "sharesOnIssue": 221320453,
+      "sharesSource": "reported",
+      "marketCapMillions": 445,
+      "percentOfMarketCap": 10.3
+    },
+    "MSB-2023-04-26-02657883": {
+      "tradeDate": "2023-04-26",
+      "referenceDate": "2023-04-20",
+      "referenceClose": 0.9387,
+      "impliedDiscount": 9.4,
+      "day1Return": -2.4,
+      "month1Return": 17.7,
+      "benchmarkMonth1": -2,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "WBT-2023-03-23-02646949": {
+      "tradeDate": "2023-03-24",
+      "referenceDate": "2023-03-22",
+      "referenceClose": 5.54,
+      "impliedDiscount": 9.7,
+      "day1Return": -0.6,
+      "month1Return": 4.2,
+      "benchmarkMonth1": 4.3,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "SLX-2023-02-27-02636544": {
+      "tradeDate": "2023-02-27",
+      "referenceDate": "2023-02-22",
+      "referenceClose": 5.13,
+      "impliedDiscount": 21.1,
+      "day1Return": -2.5,
+      "month1Return": -6.4,
+      "benchmarkMonth1": -4.8,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "VAU-2023-02-21-02633942": {
+      "tradeDate": "2023-02-23",
+      "referenceDate": "2023-02-20",
+      "referenceClose": 0.175,
+      "impliedDiscount": 22.9,
+      "day1Return": 0,
+      "month1Return": 0,
+      "benchmarkMonth1": -5.2,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "CAR-2023-03-08-02641064": {
+      "tradeDate": "2023-03-13",
+      "referenceDate": "2023-03-07",
+      "referenceClose": 22.4608,
+      "impliedDiscount": 3.2,
+      "day1Return": 3.9,
+      "month1Return": 4.1,
+      "benchmarkMonth1": -0.3,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "CYL-2023-03-10-02642151": {
+      "tradeDate": "2023-03-10",
+      "referenceDate": "2023-03-07",
+      "referenceClose": 1.28,
+      "impliedDiscount": 21.9,
+      "day1Return": 18,
+      "month1Return": 0,
+      "benchmarkMonth1": -0.7,
+      "sharesOnIssue": 98391985,
+      "sharesSource": "reported",
+      "marketCapMillions": 126,
+      "percentOfMarketCap": 17.5
+    },
+    "FLT-2023-01-31-02625601": {
+      "tradeDate": "2023-02-01",
+      "referenceDate": "2023-01-30",
+      "referenceClose": 15.83,
+      "impliedDiscount": 7.8,
+      "day1Return": 17.2,
+      "month1Return": 28.8,
+      "benchmarkMonth1": -3.1,
+      "sharesOnIssue": 198851083,
+      "sharesSource": "notice",
+      "marketCapMillions": 3148,
+      "percentOfMarketCap": 5.7
+    },
+    "SRG-2023-02-16-02632159": {
+      "tradeDate": "2023-02-17",
+      "referenceDate": "2023-02-15",
+      "referenceClose": 0.755,
+      "impliedDiscount": 4.6,
+      "day1Return": 6.9,
+      "month1Return": -2.8,
+      "benchmarkMonth1": -4.9,
+      "sharesOnIssue": 447530864,
+      "sharesSource": "notice",
+      "marketCapMillions": 338,
+      "percentOfMarketCap": 13.7
+    },
+    "DRO-2023-02-06-02628333": {
+      "tradeDate": "2023-02-06",
+      "referenceDate": "2023-02-01",
+      "referenceClose": 0.37,
+      "impliedDiscount": 0,
+      "day1Return": -6.8,
+      "month1Return": 1.4,
+      "benchmarkMonth1": -2.3,
+      "sharesOnIssue": 429980471,
+      "sharesSource": "reported",
+      "marketCapMillions": 159,
+      "percentOfMarketCap": 6.9
+    },
+    "NIC-2023-01-18-02622056": {
+      "tradeDate": "2023-01-19",
+      "referenceDate": "2023-01-17",
+      "referenceClose": 1.12,
+      "impliedDiscount": 8.9,
+      "day1Return": 2.5,
+      "month1Return": 2.5,
+      "benchmarkMonth1": -0.5,
+      "sharesOnIssue": 2681507652,
+      "sharesSource": "reported",
+      "marketCapMillions": 3003,
+      "percentOfMarketCap": null
+    },
+    "IMD-2023-01-19-02622608": {
+      "tradeDate": "2023-01-23",
+      "referenceDate": "2023-01-17",
+      "referenceClose": 2.4314,
+      "impliedDiscount": 9.5,
+      "day1Return": 17.3,
+      "month1Return": 14.1,
+      "benchmarkMonth1": -0.7,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "BGL-2022-12-06-02608828": {
+      "tradeDate": "2022-12-07",
+      "referenceDate": "2022-12-05",
+      "referenceClose": 1.21,
+      "impliedDiscount": 13.2,
+      "day1Return": 1.4,
+      "month1Return": 28.6,
+      "benchmarkMonth1": -2.4,
+      "sharesOnIssue": 1031431826,
+      "sharesSource": "reported",
+      "marketCapMillions": 1248,
+      "percentOfMarketCap": 4.8
+    },
+    "DMP-2022-12-01-02606906": {
+      "tradeDate": "2022-12-02",
+      "referenceDate": "2022-11-30",
+      "referenceClose": 66.38,
+      "impliedDiscount": 0,
+      "day1Return": 0,
+      "month1Return": 2.9,
+      "benchmarkMonth1": -3.1,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "GMD-2022-12-14-02612275": {
+      "tradeDate": "2022-12-14",
+      "referenceDate": "2022-12-09",
+      "referenceClose": 1.195,
+      "impliedDiscount": -0.4,
+      "day1Return": 12.1,
+      "month1Return": 10.8,
+      "benchmarkMonth1": 2.4,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "SFR-2022-11-18-02600234": {
+      "tradeDate": "2022-11-21",
+      "referenceDate": "2022-11-17",
+      "referenceClose": 4.74,
+      "impliedDiscount": 9.3,
+      "day1Return": 11.9,
+      "month1Return": 27.7,
+      "benchmarkMonth1": 0,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "RSG-2022-11-10-02596402": {
+      "tradeDate": "2022-11-14",
+      "referenceDate": "2022-11-09",
+      "referenceClose": 0.1837,
+      "impliedDiscount": 12.9,
+      "day1Return": 18.7,
+      "month1Return": 31.2,
+      "benchmarkMonth1": 2.6,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "VAU-2022-09-29-02574498": {
+      "tradeDate": "2022-10-03",
+      "referenceDate": "2022-09-28",
+      "referenceClose": 0.19,
+      "impliedDiscount": 15.8,
+      "day1Return": 6.3,
+      "month1Return": 0,
+      "benchmarkMonth1": 6.2,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "360-2022-11-22-02601206": {
+      "tradeDate": "2022-11-22",
+      "referenceDate": "2022-11-18",
+      "referenceClose": 6.73,
+      "impliedDiscount": 6.4,
+      "day1Return": 1.1,
+      "month1Return": -16.7,
+      "benchmarkMonth1": -1.8,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "DRO-2022-11-21-02600638": {
+      "tradeDate": "2022-11-21",
+      "referenceDate": "2022-11-18",
+      "referenceClose": 0.205,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": -0.3,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "NHF-2022-10-13-02581696": {
+      "tradeDate": "2022-10-13",
+      "referenceDate": "2022-10-11",
+      "referenceClose": 7.51,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": 4.8,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "ALX-2022-09-16-02568914": {
+      "tradeDate": "2022-09-16",
+      "referenceDate": "2022-09-12",
+      "referenceClose": 7.2981,
+      "impliedDiscount": 13.7,
+      "day1Return": 4.6,
+      "month1Return": 1,
+      "benchmarkMonth1": -4.3,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "SDF-2022-08-17-02554035": {
+      "tradeDate": "2022-08-18",
+      "referenceDate": "2022-08-16",
+      "referenceClose": 5.39,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": -3.7,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "CWY-2022-08-19-02555261": {
+      "tradeDate": "2022-08-22",
+      "referenceDate": "2022-08-18",
+      "referenceClose": 2.71,
+      "impliedDiscount": 0,
+      "day1Return": -0.7,
+      "month1Return": 1.5,
+      "benchmarkMonth1": -5.5,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "IPX-2022-09-08-02565775": {
+      "tradeDate": "2022-09-08",
+      "referenceDate": "2022-09-05",
+      "referenceClose": 0.855,
+      "impliedDiscount": 6.4,
+      "day1Return": 6.9,
+      "month1Return": 5.6,
+      "benchmarkMonth1": -2.7,
+      "sharesOnIssue": 140288491,
+      "sharesSource": "reported",
+      "marketCapMillions": 120,
+      "percentOfMarketCap": 20
+    },
+    "ORI-2022-08-03-02549300": {
+      "tradeDate": "2022-08-04",
+      "referenceDate": "2022-08-02",
+      "referenceClose": 17.2,
+      "impliedDiscount": 7,
+      "day1Return": -2.5,
+      "month1Return": -4.3,
+      "benchmarkMonth1": -2.2,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "GMD-2022-08-31-02561768": {
+      "tradeDate": "2022-08-31",
+      "referenceDate": "2022-08-30",
+      "referenceClose": 1.22,
+      "impliedDiscount": 1.2,
+      "day1Return": 0,
+      "month1Return": -14.9,
+      "benchmarkMonth1": -6.3,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "ANZ-2022-07-18-02542675": {
+      "tradeDate": "2022-07-21",
+      "referenceDate": "2022-07-15",
+      "referenceClose": 21.4688,
+      "impliedDiscount": 12,
+      "day1Return": 16,
+      "month1Return": 24.8,
+      "benchmarkMonth1": 7.7,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "MSB-2022-08-09-02551272": {
+      "tradeDate": "2022-08-09",
+      "referenceDate": "2022-08-03",
+      "referenceClose": 0.8818,
+      "impliedDiscount": 14.9,
+      "day1Return": 9.4,
+      "month1Return": 6.2,
+      "benchmarkMonth1": -2.1,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "NIC-2022-08-08-02550716": {
+      "tradeDate": "2022-08-08",
+      "referenceDate": "2022-08-05",
+      "referenceClose": 1.1,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": -2.3,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "EOS-2022-06-29-02536433": {
+      "tradeDate": "2022-06-29",
+      "referenceDate": "2022-06-27",
+      "referenceClose": 1.54,
+      "impliedDiscount": 22.1,
+      "day1Return": -5,
+      "month1Return": -31.3,
+      "benchmarkMonth1": 1.7,
+      "sharesOnIssue": 150602410,
+      "sharesSource": "notice",
+      "marketCapMillions": 232,
+      "percentOfMarketCap": 6.5
+    },
+    "CAR-2022-06-27-02535449": {
+      "tradeDate": "2022-06-29",
+      "referenceDate": "2022-06-24",
+      "referenceClose": 20.1156,
+      "impliedDiscount": 11.8,
+      "day1Return": 2,
+      "month1Return": 11.2,
+      "benchmarkMonth1": 3.7,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "GMD-2022-07-05-02538772": {
+      "tradeDate": "2022-07-05",
+      "referenceDate": "2022-07-01",
+      "referenceClose": 1.205,
+      "impliedDiscount": 0,
+      "day1Return": 1.2,
+      "month1Return": 20.7,
+      "benchmarkMonth1": 7,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "PDI-2022-05-30-02526234": {
+      "tradeDate": "2022-05-30",
+      "referenceDate": "2022-05-25",
+      "referenceClose": 0.2,
+      "impliedDiscount": 10,
+      "day1Return": 11.1,
+      "month1Return": 5.6,
+      "benchmarkMonth1": -5.5,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "AUB-2022-05-09-02519507": {
+      "tradeDate": "2022-05-09",
+      "referenceDate": "2022-05-06",
+      "referenceClose": 21.9415,
+      "impliedDiscount": 11.1,
+      "day1Return": 11,
+      "month1Return": -4.1,
+      "benchmarkMonth1": 0,
+      "sharesOnIssue": 74476008,
+      "sharesSource": "notice",
+      "marketCapMillions": 1634,
+      "percentOfMarketCap": 21.4
+    },
+    "ELV-2022-05-27-02525718": {
+      "tradeDate": "2022-05-27",
+      "referenceDate": "2022-05-24",
+      "referenceClose": 0.205,
+      "impliedDiscount": 12.2,
+      "day1Return": 16.7,
+      "month1Return": -22.2,
+      "benchmarkMonth1": -5.9,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "PDN-2022-03-31-02504999": {
+      "tradeDate": "2022-04-01",
+      "referenceDate": "2022-03-30",
+      "referenceClose": 0.79,
+      "impliedDiscount": 8.9,
+      "day1Return": 11.8,
+      "month1Return": 7.6,
+      "benchmarkMonth1": -2.8,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "NIC-2022-04-28-02514406": {
+      "tradeDate": "2022-04-28",
+      "referenceDate": "2022-04-27",
+      "referenceClose": 1.155,
+      "impliedDiscount": -18.6,
+      "day1Return": -10.6,
+      "month1Return": -10.6,
+      "benchmarkMonth1": -2.1,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "OBM-2022-02-22-02489914": {
+      "tradeDate": "2022-02-24",
+      "referenceDate": "2022-02-21",
+      "referenceClose": 0.0706,
+      "impliedDiscount": 29.2,
+      "day1Return": 4,
+      "month1Return": 2,
+      "benchmarkMonth1": 2.1,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "DVP-2022-02-21-02488977": {
+      "tradeDate": "2022-02-21",
+      "referenceDate": "2022-02-16",
+      "referenceClose": 3.1621,
+      "impliedDiscount": -4.4,
+      "day1Return": 2.2,
+      "month1Return": -0.3,
+      "benchmarkMonth1": -0.1,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "WGX-2022-03-14-02498582": {
+      "tradeDate": "2022-03-14",
+      "referenceDate": "2022-03-09",
+      "referenceClose": 2.44,
+      "impliedDiscount": 13.9,
+      "day1Return": 1.4,
+      "month1Return": -11.7,
+      "benchmarkMonth1": 6.1,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "NIC-2022-02-09-02484962": {
+      "tradeDate": "2022-02-10",
+      "referenceDate": "2022-02-08",
+      "referenceClose": 1.455,
+      "impliedDiscount": 5.8,
+      "day1Return": 4.7,
+      "month1Return": -10.9,
+      "benchmarkMonth1": -0.8,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "TLX-2022-01-24-02478135": {
+      "tradeDate": "2022-01-24",
+      "referenceDate": "2022-01-19",
+      "referenceClose": 8.09,
+      "impliedDiscount": 4.8,
+      "day1Return": -6.6,
+      "month1Return": -33.4,
+      "benchmarkMonth1": -2.3,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "CSL-2022-02-14-02485992": {
+      "tradeDate": "2022-02-14",
+      "referenceDate": "2022-02-11",
+      "referenceClose": 248.5,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": -0.9,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "WAF-2022-02-10-02485533": {
+      "tradeDate": "2022-02-10",
+      "referenceDate": "2022-02-09",
+      "referenceClose": 1.21,
+      "impliedDiscount": -3.3,
+      "day1Return": -4.8,
+      "month1Return": 1.6,
+      "benchmarkMonth1": -1.9,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "LTR-2021-12-01-02460743": {
+      "tradeDate": "2021-12-02",
+      "referenceDate": "2021-11-30",
+      "referenceClose": 1.92,
+      "impliedDiscount": 14.1,
+      "day1Return": -2.4,
+      "month1Return": 5.8,
+      "benchmarkMonth1": 4.6,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "CSL-2021-12-16-02467503": {
+      "tradeDate": "2021-12-16",
+      "referenceDate": "2021-12-13",
+      "referenceClose": 297.27,
+      "impliedDiscount": 8.2,
+      "day1Return": 0,
+      "month1Return": 0.3,
+      "benchmarkMonth1": 0.4,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "PNI-2021-11-23-02455935": {
+      "tradeDate": "2021-11-24",
+      "referenceDate": "2021-11-22",
+      "referenceClose": 17.5,
+      "impliedDiscount": 4.6,
+      "day1Return": -1.1,
+      "month1Return": -8.4,
+      "benchmarkMonth1": 0.2,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "GMD-2021-11-23-02455890": {
+      "tradeDate": "2021-11-23",
+      "referenceDate": "2021-11-22",
+      "referenceClose": 0.157,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": 0,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "360-2021-11-23-02455981": {
+      "tradeDate": "2021-11-25",
+      "referenceDate": "2021-11-22",
+      "referenceClose": 13.51,
+      "impliedDiscount": 11.2,
+      "day1Return": 2.5,
+      "month1Return": -19.2,
+      "benchmarkMonth1": 0.5,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "WBT-2021-11-10-02449847": {
+      "tradeDate": "2021-11-10",
+      "referenceDate": "2021-11-08",
+      "referenceClose": 3.1991,
+      "impliedDiscount": 11.2,
+      "day1Return": 8.1,
+      "month1Return": 4.2,
+      "benchmarkMonth1": -0.6,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "MQG-2021-10-29-02443656": {
+      "tradeDate": "2021-11-01",
+      "referenceDate": "2021-10-28",
+      "referenceClose": 197.83,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": -2.6,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "WAF-2021-10-26-02440991": {
+      "tradeDate": "2021-10-28",
+      "referenceDate": "2021-10-25",
+      "referenceClose": 1.395,
+      "impliedDiscount": 10.4,
+      "day1Return": 1.2,
+      "month1Return": 4,
+      "benchmarkMonth1": -0.5,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "INA-2021-11-01-02445639": {
+      "tradeDate": "2021-11-02",
+      "referenceDate": "2021-10-29",
+      "referenceClose": 6.4356,
+      "impliedDiscount": 4.9,
+      "day1Return": 0.2,
+      "month1Return": 0.5,
+      "benchmarkMonth1": -0.9,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "BGL-2021-09-30-02428635": {
+      "tradeDate": "2021-09-30",
+      "referenceDate": "2021-09-29",
+      "referenceClose": 0.83,
+      "impliedDiscount": -2.4,
+      "day1Return": -0.6,
+      "month1Return": -0.6,
+      "benchmarkMonth1": 3.2,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "ALL-2021-10-18-02436616": {
+      "tradeDate": "2021-10-21",
+      "referenceDate": "2021-10-15",
+      "referenceClose": 45.6073,
+      "impliedDiscount": 8.2,
+      "day1Return": 12.5,
+      "month1Return": 9.1,
+      "benchmarkMonth1": 0.2,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "ELV-2021-10-04-02430613": {
+      "tradeDate": "2021-10-04",
+      "referenceDate": "2021-09-29",
+      "referenceClose": 0.1747,
+      "impliedDiscount": 17,
+      "day1Return": 17,
+      "month1Return": 10.3,
+      "benchmarkMonth1": 2.4,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "SLX-2021-09-27-02426372": {
+      "tradeDate": "2021-09-27",
+      "referenceDate": "2021-09-23",
+      "referenceClose": 1.5,
+      "impliedDiscount": 15.3,
+      "day1Return": 10.2,
+      "month1Return": 14.6,
+      "benchmarkMonth1": 1,
+      "sharesOnIssue": 173228346,
+      "sharesSource": "notice",
+      "marketCapMillions": 260,
+      "percentOfMarketCap": 12.7
+    },
+    "SFR-2021-09-23-02425148": {
+      "tradeDate": "2021-09-27",
+      "referenceDate": "2021-09-22",
+      "referenceClose": 5.7494,
+      "impliedDiscount": 6.1,
+      "day1Return": -0.9,
+      "month1Return": 4.1,
+      "benchmarkMonth1": 2,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "VUL-2021-09-24-02425661": {
+      "tradeDate": "2021-09-24",
+      "referenceDate": "2021-09-23",
+      "referenceClose": 13.45,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": 1,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "TCL-2021-09-23-02425138": {
+      "tradeDate": "2021-09-23",
+      "referenceDate": "2021-09-17",
+      "referenceClose": 14.062,
+      "impliedDiscount": 7.6,
+      "day1Return": 7.7,
+      "month1Return": 4.8,
+      "benchmarkMonth1": 0.2,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "NEU-2021-10-06-02431786": {
+      "tradeDate": "2021-10-06",
+      "referenceDate": "2021-10-05",
+      "referenceClose": 2.01,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": 2,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "ABB-2021-10-06-02432000": {
+      "tradeDate": "2021-10-06",
+      "referenceDate": "2021-10-05",
+      "referenceClose": 4.91,
+      "impliedDiscount": null,
+      "day1Return": null,
+      "month1Return": null,
+      "benchmarkMonth1": 2,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    },
+    "CIP-2021-09-23-02425104": {
+      "tradeDate": "2021-09-24",
+      "referenceDate": "2021-09-22",
+      "referenceClose": 4.01,
+      "impliedDiscount": 5.2,
+      "day1Return": -0.8,
+      "month1Return": -1.3,
+      "benchmarkMonth1": 1.6,
+      "sharesOnIssue": null,
+      "sharesSource": null,
+      "marketCapMillions": null,
+      "percentOfMarketCap": null
+    }
+  },
+  "funding": {
+    "NXT-convertible-2026-09-09-03137811": {
+      "marketCapMillions": 9520,
+      "audMillions": 1100,
+      "percentOfMarketCap": 11.6
+    },
+    "TLC-bond-2026-09-04-03135698": {
+      "marketCapMillions": 11084,
+      "audMillions": 800,
+      "percentOfMarketCap": 7.2
+    },
+    "CBA-hybrid-2026-08-21-03128276": {
+      "marketCapMillions": 261541,
+      "audMillions": 1755.8,
+      "percentOfMarketCap": 0.7
+    },
+    "TLS-bond-2026-08-20-03127410": {
+      "marketCapMillions": 52800,
+      "audMillions": 352,
+      "percentOfMarketCap": 0.7
+    },
+    "PME-convertible-2026-08-17-03125723": {
+      "marketCapMillions": 18685,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "CYL-facility-2026-08-14-03125176": {
+      "marketCapMillions": null,
+      "audMillions": 200,
+      "percentOfMarketCap": null
+    },
+    "ELV-convertible-2026-08-03-03121259": {
+      "marketCapMillions": 1440,
+      "audMillions": 65,
+      "percentOfMarketCap": 4.5
+    },
+    "ALX-facility-2026-07-29-03119154": {
+      "marketCapMillions": 7356,
+      "audMillions": 150,
+      "percentOfMarketCap": 2
+    },
+    "LYC-convertible-2026-07-27-03118198": {
+      "marketCapMillions": 14886,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "RHC-facility-2026-07-23-03117401": {
+      "marketCapMillions": 9869,
+      "audMillions": 2857.4,
+      "percentOfMarketCap": 29
+    },
+    "NXT-facility-2026-07-10-03113795": {
+      "marketCapMillions": 10517,
+      "audMillions": 2300,
+      "percentOfMarketCap": 21.9
+    },
+    "ALD-hybrid-2026-06-26-03108195": {
+      "marketCapMillions": 7764,
+      "audMillions": 400,
+      "percentOfMarketCap": 5.2
+    },
+    "PME-facility-2026-06-25-03107643": {
+      "marketCapMillions": 18698,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "TAH-facility-2026-06-16-03104476": {
+      "marketCapMillions": 1943,
+      "audMillions": 980,
+      "percentOfMarketCap": 50.4
+    },
+    "GGP-facility-2026-06-01-03099539": {
+      "marketCapMillions": null,
+      "audMillions": 500,
+      "percentOfMarketCap": null
+    },
+    "VUL-facility-2026-05-28-03098334": {
+      "marketCapMillions": 1701,
+      "audMillions": 3583.4,
+      "percentOfMarketCap": 210.7
+    },
+    "IFT-bond-2026-05-26-03097393": {
+      "marketCapMillions": 13051,
+      "audMillions": 13084.4,
+      "percentOfMarketCap": 100.3
+    },
+    "CBA-hybrid-2026-05-21-03096267": {
+      "marketCapMillions": 272172,
+      "audMillions": 225.4,
+      "percentOfMarketCap": 0.1
+    },
+    "QBE-hybrid-2026-05-12-03093199": {
+      "marketCapMillions": 33659,
+      "audMillions": 500,
+      "percentOfMarketCap": 1.5
+    },
+    "SUN-hybrid-2026-04-29-03087828": {
+      "marketCapMillions": 18161,
+      "audMillions": 200,
+      "percentOfMarketCap": 1.1
+    },
+    "NIC-facility-2026-04-28-03087014": {
+      "marketCapMillions": 4406,
+      "audMillions": 625.8,
+      "percentOfMarketCap": 14.2
+    },
+    "NXT-facility-2026-04-24-03085876": {
+      "marketCapMillions": 9610,
+      "audMillions": 1800,
+      "percentOfMarketCap": 18.7
+    },
+    "APA-facility-2026-04-23-03085426": {
+      "marketCapMillions": 12993,
+      "audMillions": 1500,
+      "percentOfMarketCap": 11.5
+    },
+    "DOW-bond-2026-04-23-03085331": {
+      "marketCapMillions": 5131,
+      "audMillions": 400,
+      "percentOfMarketCap": 7.8
+    },
+    "MIN-bond-2026-04-21-03084635": {
+      "marketCapMillions": null,
+      "audMillions": 1812,
+      "percentOfMarketCap": null
+    },
+    "WHC-bond-2026-04-16-03083183": {
+      "marketCapMillions": 7076,
+      "audMillions": 1254.2,
+      "percentOfMarketCap": 17.7
+    },
+    "SCG-bond-2026-04-15-03082963": {
+      "marketCapMillions": 18413,
+      "audMillions": 750,
+      "percentOfMarketCap": 4.1
+    },
+    "NHC-convertible-2026-04-15-03082998": {
+      "marketCapMillions": 4661,
+      "audMillions": 300,
+      "percentOfMarketCap": 6.4
+    },
+    "PLS-bond-2026-04-14-03082235": {
+      "marketCapMillions": 17184,
+      "audMillions": 845.2,
+      "percentOfMarketCap": 4.9
+    },
+    "TLX-convertible-2026-04-14-03082510": {
+      "marketCapMillions": 5343,
+      "audMillions": 845.2,
+      "percentOfMarketCap": 15.8
+    },
+    "WHC-facility-2026-04-10-03081405": {
+      "marketCapMillions": 6984,
+      "audMillions": 848,
+      "percentOfMarketCap": 12.1
+    },
+    "NXT-hybrid-2026-04-07-03079571": {
+      "marketCapMillions": 7336,
+      "audMillions": 1000,
+      "percentOfMarketCap": 13.6
+    },
+    "PNI-facility-2026-04-07-03079931": {
+      "marketCapMillions": 3039,
+      "audMillions": 100,
+      "percentOfMarketCap": 3.3
+    },
+    "ALK-facility-2026-03-30-03077087": {
+      "marketCapMillions": 842,
+      "audMillions": 110,
+      "percentOfMarketCap": 13.1
+    },
+    "IFT-bond-2026-02-23-03063473": {
+      "marketCapMillions": 8974,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "BHP-royalty-2026-02-17-03060974": {
+      "marketCapMillions": 255739,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "ALX-bond-2026-01-09-03048509": {
+      "marketCapMillions": 7109,
+      "audMillions": 870.2,
+      "percentOfMarketCap": 12.2
+    },
+    "KCN-facility-2025-12-24-03045179": {
+      "marketCapMillions": null,
+      "audMillions": 37.3,
+      "percentOfMarketCap": null
+    },
+    "PRU-facility-2025-12-23-03045053": {
+      "marketCapMillions": 7812,
+      "audMillions": 600.7,
+      "percentOfMarketCap": 7.7
+    },
+    "DMP-facility-2025-12-23-03045065": {
+      "marketCapMillions": 2049,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "DBI-facility-2025-12-09-03038677": {
+      "marketCapMillions": 2216,
+      "audMillions": 1070,
+      "percentOfMarketCap": 48.3
+    },
+    "DXS-hybrid-2025-12-05-03037453": {
+      "marketCapMillions": 7604,
+      "audMillions": 500,
+      "percentOfMarketCap": 6.6
+    },
+    "TAH-bond-2025-11-24-03030664": {
+      "marketCapMillions": 2092,
+      "audMillions": 300,
+      "percentOfMarketCap": 14.3
+    },
+    "TCL-bond-2025-11-18-03027622": {
+      "marketCapMillions": 46371,
+      "audMillions": 892.9,
+      "percentOfMarketCap": 1.9
+    },
+    "STO-bond-2025-11-06-03021615": {
+      "marketCapMillions": 20526,
+      "audMillions": 1536.1,
+      "percentOfMarketCap": 7.5
+    },
+    "QBE-hybrid-2025-11-04-03020602": {
+      "marketCapMillions": 29513,
+      "audMillions": 458.6,
+      "percentOfMarketCap": 1.6
+    },
+    "ALD-hybrid-2025-10-24-03014759": {
+      "marketCapMillions": 7435,
+      "audMillions": 500,
+      "percentOfMarketCap": 6.7
+    },
+    "PRN-facility-2025-10-24-03014662": {
+      "marketCapMillions": 2571,
+      "audMillions": 650,
+      "percentOfMarketCap": 25.3
+    },
+    "BWP-bond-2025-10-22-03013836": {
+      "marketCapMillions": 2756,
+      "audMillions": 300,
+      "percentOfMarketCap": 10.9
+    },
+    "ASB-facility-2025-10-07-03006483": {
+      "marketCapMillions": 3496,
+      "audMillions": 100,
+      "percentOfMarketCap": 2.9
+    },
+    "JDO-hybrid-2025-09-30-03002798": {
+      "marketCapMillions": 1967,
+      "audMillions": 150,
+      "percentOfMarketCap": 7.6
+    },
+    "NIC-bond-2025-09-25-03000045": {
+      "marketCapMillions": 3067,
+      "audMillions": 1214.5,
+      "percentOfMarketCap": 39.6
+    },
+    "AIA-bond-2025-09-23-02998486": {
+      "marketCapMillions": 11577,
+      "audMillions": 133.4,
+      "percentOfMarketCap": 1.2
+    },
+    "LLC-hybrid-2025-09-23-02998538": {
+      "marketCapMillions": 3636,
+      "audMillions": 450,
+      "percentOfMarketCap": 12.4
+    },
+    "MIN-bond-2025-09-22-02998130": {
+      "marketCapMillions": null,
+      "audMillions": 1062.3,
+      "percentOfMarketCap": null
+    },
+    "IAG-bond-2025-09-17-02996459": {
+      "marketCapMillions": 20386,
+      "audMillions": 350,
+      "percentOfMarketCap": 1.7
+    },
+    "SCG-bond-2025-09-11-02994162": {
+      "marketCapMillions": 21354,
+      "audMillions": 1000,
+      "percentOfMarketCap": 4.7
+    },
+    "MSB-convertible-2025-09-04-02991037": {
+      "marketCapMillions": 2483,
+      "audMillions": 76.4,
+      "percentOfMarketCap": 3.1
+    },
+    "BHP-bond-2025-08-29-02988069": {
+      "marketCapMillions": 218318,
+      "audMillions": 2503.7,
+      "percentOfMarketCap": 1.1
+    },
+    "TLS-bond-2025-08-27-02986238": {
+      "marketCapMillions": 56697,
+      "audMillions": 985.6,
+      "percentOfMarketCap": 1.7
+    },
+    "FLT-convertible-2025-08-27-02986660": {
+      "marketCapMillions": 2816,
+      "audMillions": 450,
+      "percentOfMarketCap": 16
+    },
+    "CIP-convertible-2025-08-27-02986741": {
+      "marketCapMillions": 2171,
+      "audMillions": 325,
+      "percentOfMarketCap": 15
+    },
+    "CBA-hybrid-2025-08-26-02985488": {
+      "marketCapMillions": 284715,
+      "audMillions": 1792.1,
+      "percentOfMarketCap": 0.6
+    },
+    "IPX-bond-2025-08-07-02977813": {
+      "marketCapMillions": 1892,
+      "audMillions": 230.8,
+      "percentOfMarketCap": 12.2
+    },
+    "PME-facility-2025-07-31-02975619": {
+      "marketCapMillions": 33404,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "CYL-facility-2025-07-24-02972188": {
+      "marketCapMillions": 1139,
+      "audMillions": 100,
+      "percentOfMarketCap": 8.8
+    },
+    "ORI-bond-2025-07-16-02969630": {
+      "marketCapMillions": 10130,
+      "audMillions": 598.3,
+      "percentOfMarketCap": 5.9
+    },
+    "ASB-facility-2025-06-27-02962976": {
+      "marketCapMillions": 2189,
+      "audMillions": 1200,
+      "percentOfMarketCap": 54.8
+    },
+    "CIA-bond-2025-06-26-02962122": {
+      "marketCapMillions": 2120,
+      "audMillions": 766.5,
+      "percentOfMarketCap": 36.2
+    },
+    "APA-facility-2025-06-25-02961890": {
+      "marketCapMillions": 10934,
+      "audMillions": 1750,
+      "percentOfMarketCap": 16
+    },
+    "DOW-facility-2025-06-23-02960828": {
+      "marketCapMillions": 4070,
+      "audMillions": 1000,
+      "percentOfMarketCap": 24.6
+    },
+    "NXT-facility-2025-06-18-02959549": {
+      "marketCapMillions": 8541,
+      "audMillions": 6400,
+      "percentOfMarketCap": 74.9
+    },
+    "IMD-facility-2025-06-10-02956541": {
+      "marketCapMillions": 1440,
+      "audMillions": 350,
+      "percentOfMarketCap": 24.3
+    },
+    "WES-bond-2025-06-04-02955058": {
+      "marketCapMillions": 95435,
+      "audMillions": 1056.5,
+      "percentOfMarketCap": 1.1
+    },
+    "JHX-bond-2025-06-03-02954657": {
+      "marketCapMillions": 15448,
+      "audMillions": 700,
+      "percentOfMarketCap": 4.5
+    },
+    "360-convertible-2025-06-03-02954897": {
+      "marketCapMillions": 2499,
+      "audMillions": 275,
+      "percentOfMarketCap": 11
+    },
+    "PPT-facility-2025-06-02-02954165": {
+      "marketCapMillions": 1947,
+      "audMillions": 740,
+      "percentOfMarketCap": 38
+    },
+    "IFT-bond-2025-05-22-02950757": {
+      "marketCapMillions": 10300,
+      "audMillions": 100,
+      "percentOfMarketCap": 1
+    },
+    "ALX-bond-2025-05-20-02949895": {
+      "marketCapMillions": 7602,
+      "audMillions": 870.1,
+      "percentOfMarketCap": 11.4
+    },
+    "WDS-bond-2025-05-15-02948402": {
+      "marketCapMillions": 42361,
+      "audMillions": 5444.3,
+      "percentOfMarketCap": 12.9
+    },
+    "AZJ-hybrid-2025-05-09-02946975": {
+      "marketCapMillions": 5467,
+      "audMillions": 500,
+      "percentOfMarketCap": 9.1
+    },
+    "CNU-hybrid-2025-05-05-02944554": {
+      "marketCapMillions": 3298,
+      "audMillions": 170,
+      "percentOfMarketCap": 5.2
+    },
+    "TCL-bond-2025-04-11-02937002": {
+      "marketCapMillions": 42608,
+      "audMillions": 1176,
+      "percentOfMarketCap": 2.8
+    },
+    "QBE-hybrid-2025-03-27-02930921": {
+      "marketCapMillions": 33245,
+      "audMillions": 795.3,
+      "percentOfMarketCap": 2.4
+    },
+    "BXB-bond-2025-03-27-02930716": {
+      "marketCapMillions": 28717,
+      "audMillions": 854.4,
+      "percentOfMarketCap": 3
+    },
+    "SCG-hybrid-2025-03-26-02930417": {
+      "marketCapMillions": 17457,
+      "audMillions": 650,
+      "percentOfMarketCap": 3.7
+    },
+    "CSC-bond-2025-03-21-02928760": {
+      "marketCapMillions": 7291,
+      "audMillions": 793.2,
+      "percentOfMarketCap": 10.9
+    },
+    "CBA-hybrid-2025-03-14-02926451": {
+      "marketCapMillions": 240979,
+      "audMillions": 1988.1,
+      "percentOfMarketCap": 0.8
+    },
+    "IAG-bond-2025-02-26-02919392": {
+      "marketCapMillions": 18604,
+      "audMillions": 500,
+      "percentOfMarketCap": 2.7
+    },
+    "ALX-facility-2025-02-26-02918998": {
+      "marketCapMillions": 7399,
+      "audMillions": 4005.4,
+      "percentOfMarketCap": 54.1
+    },
+    "BHP-bond-2025-02-19-02915961": {
+      "marketCapMillions": 207826,
+      "audMillions": 4722.1,
+      "percentOfMarketCap": 2.3
+    },
+    "RRL-facility-2025-02-03-02910343": {
+      "marketCapMillions": 2311,
+      "audMillions": 300,
+      "percentOfMarketCap": 13
+    },
+    "NEC-facility-2024-12-17-02897241": {
+      "marketCapMillions": 1990,
+      "audMillions": 900,
+      "percentOfMarketCap": 45.2
+    },
+    "DVP-facility-2024-12-10-02893730": {
+      "marketCapMillions": 539,
+      "audMillions": 100,
+      "percentOfMarketCap": 18.6
+    },
+    "TCL-facility-2024-12-05-02892148": {
+      "marketCapMillions": 39825,
+      "audMillions": 340,
+      "percentOfMarketCap": 0.9
+    },
+    "ALD-hybrid-2024-12-05-02891879": {
+      "marketCapMillions": 6811,
+      "audMillions": 600,
+      "percentOfMarketCap": 8.8
+    },
+    "CBA-hybrid-2024-11-27-02887566": {
+      "marketCapMillions": 258268,
+      "audMillions": 1500,
+      "percentOfMarketCap": 0.6
+    },
+    "SCG-bond-2024-11-21-02884783": {
+      "marketCapMillions": 18145,
+      "audMillions": 1250,
+      "percentOfMarketCap": 6.9
+    },
+    "IFT-bond-2024-11-21-02884570": {
+      "marketCapMillions": 9225,
+      "audMillions": 25,
+      "percentOfMarketCap": 0.3
+    },
+    "NXT-facility-2024-11-04-02877536": {
+      "marketCapMillions": 9934,
+      "audMillions": 2900,
+      "percentOfMarketCap": 29.2
+    },
+    "JDO-hybrid-2024-10-16-02868037": {
+      "marketCapMillions": 1958,
+      "audMillions": 125,
+      "percentOfMarketCap": 6.4
+    },
+    "PLS-facility-2024-10-15-02867471": {
+      "marketCapMillions": 8638,
+      "audMillions": 250,
+      "percentOfMarketCap": 2.9
+    },
+    "CNI-facility-2024-10-08-02864616": {
+      "marketCapMillions": 1656,
+      "audMillions": 50,
+      "percentOfMarketCap": 3
+    },
+    "VUL-facility-2024-10-08-02864691": {
+      "marketCapMillions": 946,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "NIC-facility-2024-10-01-02861819": {
+      "marketCapMillions": 3964,
+      "audMillions": 361.5,
+      "percentOfMarketCap": 9.1
+    },
+    "APA-facility-2024-09-30-02860637": {
+      "marketCapMillions": 9959,
+      "audMillions": 300,
+      "percentOfMarketCap": 3
+    },
+    "MSB-convertible-2024-09-30-02860432": {
+      "marketCapMillions": 1284,
+      "audMillions": 72.3,
+      "percentOfMarketCap": 5.6
+    },
+    "STO-facility-2024-09-23-02856776": {
+      "marketCapMillions": 23059,
+      "audMillions": 367.1,
+      "percentOfMarketCap": 1.6
+    },
+    "ALX-bond-2024-09-17-02854423": {
+      "marketCapMillions": 7225,
+      "audMillions": 824.3,
+      "percentOfMarketCap": 11.4
+    },
+    "WDS-bond-2024-09-06-02850457": {
+      "marketCapMillions": 47469,
+      "audMillions": 2967.1,
+      "percentOfMarketCap": 6.3
+    },
+    "SCG-hybrid-2024-09-06-02850579": {
+      "marketCapMillions": 17989,
+      "audMillions": 900,
+      "percentOfMarketCap": 5
+    },
+    "RSG-facility-2024-09-04-02849352": {
+      "marketCapMillions": 1405,
+      "audMillions": 119.2,
+      "percentOfMarketCap": 8.5
+    },
+    "QBE-hybrid-2024-09-02-02848160": {
+      "marketCapMillions": 23590,
+      "audMillions": 400,
+      "percentOfMarketCap": 1.7
+    },
+    "TLS-bond-2024-08-29-02846107": {
+      "marketCapMillions": 45062,
+      "audMillions": 1148.1,
+      "percentOfMarketCap": 2.5
+    },
+    "TCL-facility-2024-08-28-02845548": {
+      "marketCapMillions": 41587,
+      "audMillions": 250,
+      "percentOfMarketCap": 0.6
+    },
+    "SOL-convertible-2024-08-22-02842527": {
+      "marketCapMillions": 12356,
+      "audMillions": 450,
+      "percentOfMarketCap": 3.6
+    },
+    "CBA-hybrid-2024-08-09-02837801": {
+      "marketCapMillions": 215881,
+      "audMillions": 1656,
+      "percentOfMarketCap": 0.8
+    },
+    "MQG-hybrid-2024-08-02-02835663": {
+      "marketCapMillions": 80924,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "SHL-facility-2024-08-01-02835331": {
+      "marketCapMillions": 13288,
+      "audMillions": 661.4,
+      "percentOfMarketCap": 5
+    },
+    "TLX-convertible-2024-07-23-02831362": {
+      "marketCapMillions": 6355,
+      "audMillions": 650,
+      "percentOfMarketCap": 10.2
+    },
+    "RHC-facility-2024-07-17-02829341": {
+      "marketCapMillions": 10734,
+      "audMillions": 2672.4,
+      "percentOfMarketCap": 24.9
+    },
+    "ALX-facility-2024-07-11-02827629": {
+      "marketCapMillions": 7414,
+      "audMillions": 303.6,
+      "percentOfMarketCap": 4.1
+    },
+    "RMS-facility-2024-07-03-02824663": {
+      "marketCapMillions": 2149,
+      "audMillions": 175,
+      "percentOfMarketCap": 8.1
+    },
+    "NHC-convertible-2024-07-03-02825056": {
+      "marketCapMillions": 4370,
+      "audMillions": 300,
+      "percentOfMarketCap": 6.9
+    },
+    "DYL-facility-2024-07-02-02824099": {
+      "marketCapMillions": 1289,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "TCL-facility-2024-06-18-02819180": {
+      "marketCapMillions": 38143,
+      "audMillions": 825,
+      "percentOfMarketCap": 2.2
+    },
+    "IGO-facility-2024-06-13-02817784": {
+      "marketCapMillions": 4915,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "CBA-hybrid-2024-06-04-02814607": {
+      "marketCapMillions": 203102,
+      "audMillions": 1630.5,
+      "percentOfMarketCap": 0.8
+    },
+    "XRO-convertible-2024-06-04-02814769": {
+      "marketCapMillions": 20444,
+      "audMillions": 1382.6,
+      "percentOfMarketCap": 6.8
+    },
+    "NIC-facility-2024-05-23-02810573": {
+      "marketCapMillions": 4457,
+      "audMillions": 377.7,
+      "percentOfMarketCap": 8.5
+    },
+    "IFT-bond-2024-05-21-02809287": {
+      "marketCapMillions": 8617,
+      "audMillions": 100,
+      "percentOfMarketCap": 1.2
+    },
+    "ELD-facility-2024-05-20-02808849": {
+      "marketCapMillions": 1305,
+      "audMillions": 230,
+      "percentOfMarketCap": 17.6
+    },
+    "NAB-hybrid-2024-05-13-02806473": {
+      "marketCapMillions": 105515,
+      "audMillions": 1000,
+      "percentOfMarketCap": 0.9
+    },
+    "NXG-convertible-2024-05-09-02805682": {
+      "marketCapMillions": 6934,
+      "audMillions": 380.1,
+      "percentOfMarketCap": 5.5
+    },
+    "WPR-facility-2024-05-03-02803839": {
+      "marketCapMillions": 1565,
+      "audMillions": 500,
+      "percentOfMarketCap": 31.9
+    },
+    "AIA-bond-2024-04-29-02800334": {
+      "marketCapMillions": 10335,
+      "audMillions": 181.9,
+      "percentOfMarketCap": 1.8
+    },
+    "KAR-bond-2024-04-23-02799104": {
+      "marketCapMillions": 1166,
+      "audMillions": 542.4,
+      "percentOfMarketCap": 46.5
+    },
+    "PRN-bond-2024-04-16-02796533": {
+      "marketCapMillions": 645,
+      "audMillions": 543.3,
+      "percentOfMarketCap": 84.2
+    },
+    "ALX-bond-2024-04-12-02795310": {
+      "marketCapMillions": 7747,
+      "audMillions": 313.4,
+      "percentOfMarketCap": 4
+    },
+    "SUN-hybrid-2024-04-02-02791404": {
+      "marketCapMillions": 20746,
+      "audMillions": 360,
+      "percentOfMarketCap": 1.7
+    },
+    "CSL-bond-2024-03-27-02789716": {
+      "marketCapMillions": 136255,
+      "audMillions": 1911.6,
+      "percentOfMarketCap": 1.4
+    },
+    "CBA-hybrid-2024-03-13-02784649": {
+      "marketCapMillions": 197158,
+      "audMillions": 1891.8,
+      "percentOfMarketCap": 1
+    },
+    "LTR-facility-2024-03-13-02784694": {
+      "marketCapMillions": 2896,
+      "audMillions": 590,
+      "percentOfMarketCap": 20.4
+    },
+    "TCL-bond-2024-03-06-02782125": {
+      "marketCapMillions": 41162,
+      "audMillions": 1669.2,
+      "percentOfMarketCap": 4.1
+    },
+    "IAG-hybrid-2024-03-04-02781140": {
+      "marketCapMillions": 15012,
+      "audMillions": 350,
+      "percentOfMarketCap": 2.3
+    },
+    "TLS-bond-2024-02-28-02779287": {
+      "marketCapMillions": 44369,
+      "audMillions": 1200,
+      "percentOfMarketCap": 2.7
+    },
+    "ASX-bond-2024-02-19-02774618": {
+      "marketCapMillions": 12607,
+      "audMillions": 275,
+      "percentOfMarketCap": 2.2
+    },
+    "BEN-hybrid-2024-02-19-02774262": {
+      "marketCapMillions": 5620,
+      "audMillions": 300,
+      "percentOfMarketCap": 5.3
+    },
+    "NIC-facility-2024-02-14-02772840": {
+      "marketCapMillions": 2786,
+      "audMillions": 619.8,
+      "percentOfMarketCap": 22.2
+    },
+    "PDN-facility-2024-01-25-02765857": {
+      "marketCapMillions": 3651,
+      "audMillions": 228.1,
+      "percentOfMarketCap": 6.2
+    },
+    "ANZ-hybrid-2024-01-24-02765794": {
+      "marketCapMillions": 79893,
+      "audMillions": 1700,
+      "percentOfMarketCap": 2.1
+    },
+    "AUB-facility-2024-01-24-02765481": {
+      "marketCapMillions": 3368,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "TCL-bond-2023-12-21-02757205": {
+      "marketCapMillions": 42641,
+      "audMillions": 800,
+      "percentOfMarketCap": 1.9
+    },
+    "KCN-facility-2023-12-19-02756331": {
+      "marketCapMillions": 345,
+      "audMillions": 17.2,
+      "percentOfMarketCap": 5
+    },
+    "WHC-facility-2023-12-18-02755537": {
+      "marketCapMillions": 6015,
+      "audMillions": 1642.1,
+      "percentOfMarketCap": 27.3
+    },
+    "DOW-facility-2023-12-06-02750949": {
+      "marketCapMillions": 2753,
+      "audMillions": 500,
+      "percentOfMarketCap": 18.2
+    },
+    "WBC-hybrid-2023-11-06-02736513": {
+      "marketCapMillions": 75332,
+      "audMillions": 1750,
+      "percentOfMarketCap": 2.3
+    },
+    "APA-hybrid-2023-11-03-02735984": {
+      "marketCapMillions": 9699,
+      "audMillions": 825.9,
+      "percentOfMarketCap": 8.5
+    },
+    "ALX-facility-2023-10-20-02727987": {
+      "marketCapMillions": 7864,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "LTR-facility-2023-10-19-02727823": {
+      "marketCapMillions": 6144,
+      "audMillions": 376,
+      "percentOfMarketCap": 6.1
+    },
+    "QBE-hybrid-2023-10-18-02726912": {
+      "marketCapMillions": 23493,
+      "audMillions": 330,
+      "percentOfMarketCap": 1.4
+    },
+    "AIA-bond-2023-10-16-02725808": {
+      "marketCapMillions": 10836,
+      "audMillions": 187.2,
+      "percentOfMarketCap": 1.7
+    },
+    "JDO-hybrid-2023-10-10-02723339": {
+      "marketCapMillions": 1034,
+      "audMillions": 75,
+      "percentOfMarketCap": 7.3
+    },
+    "TCL-facility-2023-10-09-02723148": {
+      "marketCapMillions": 38543,
+      "audMillions": 550,
+      "percentOfMarketCap": 1.4
+    },
+    "CBA-hybrid-2023-09-27-02717321": {
+      "marketCapMillions": 167586,
+      "audMillions": 85,
+      "percentOfMarketCap": 0.1
+    },
+    "MIN-bond-2023-09-26-02716579": {
+      "marketCapMillions": 13301,
+      "audMillions": 1712.9,
+      "percentOfMarketCap": 12.9
+    },
+    "SUN-hybrid-2023-09-20-02714378": {
+      "marketCapMillions": 17744,
+      "audMillions": 600,
+      "percentOfMarketCap": 3.4
+    },
+    "CNU-bond-2023-09-18-02713320": {
+      "marketCapMillions": 3069,
+      "audMillions": 300,
+      "percentOfMarketCap": 9.8
+    },
+    "SFR-facility-2023-09-14-02711762": {
+      "marketCapMillions": 2906,
+      "audMillions": 93.4,
+      "percentOfMarketCap": 3.2
+    },
+    "STO-bond-2023-09-12-02710829": {
+      "marketCapMillions": 25910,
+      "audMillions": 1321.5,
+      "percentOfMarketCap": 5.1
+    },
+    "BHP-bond-2023-09-06-02708570": {
+      "marketCapMillions": 233534,
+      "audMillions": 7450.5,
+      "percentOfMarketCap": 3.2
+    },
+    "NXG-convertible-2023-09-04-02707265": {
+      "marketCapMillions": 4295,
+      "audMillions": 170.5,
+      "percentOfMarketCap": 4
+    },
+    "TLS-bond-2023-08-23-02701245": {
+      "marketCapMillions": 47373,
+      "audMillions": 844.3,
+      "percentOfMarketCap": 1.8
+    },
+    "NAB-hybrid-2023-08-21-02699546": {
+      "marketCapMillions": 87123,
+      "audMillions": 1250,
+      "percentOfMarketCap": 1.4
+    },
+    "LNW-bond-2023-08-10-02696349": {
+      "marketCapMillions": 9987,
+      "audMillions": 550,
+      "percentOfMarketCap": 5.5
+    },
+    "IFT-bond-2023-07-10-02684983": {
+      "marketCapMillions": 6791,
+      "audMillions": 150,
+      "percentOfMarketCap": 2.2
+    },
+    "WAF-facility-2023-06-29-02680713": {
+      "marketCapMillions": 854,
+      "audMillions": 401.5,
+      "percentOfMarketCap": 47
+    },
+    "RHC-facility-2023-06-28-02680328": {
+      "marketCapMillions": 12521,
+      "audMillions": 1500,
+      "percentOfMarketCap": 12
+    },
+    "QBE-hybrid-2023-06-22-02678514": {
+      "marketCapMillions": 23463,
+      "audMillions": 300,
+      "percentOfMarketCap": 1.3
+    },
+    "ALD-bond-2023-06-08-02674215": {
+      "marketCapMillions": 7330,
+      "audMillions": 600,
+      "percentOfMarketCap": 8.2
+    },
+    "TCL-facility-2023-06-01-02672180": {
+      "marketCapMillions": null,
+      "audMillions": 1000,
+      "percentOfMarketCap": null
+    },
+    "JDO-hybrid-2023-05-31-02671261": {
+      "marketCapMillions": null,
+      "audMillions": 65,
+      "percentOfMarketCap": null
+    },
+    "WOR-bond-2023-05-23-02668801": {
+      "marketCapMillions": 8629,
+      "audMillions": 1804.6,
+      "percentOfMarketCap": 20.9
+    },
+    "ALX-bond-2023-05-12-02665295": {
+      "marketCapMillions": 9459,
+      "audMillions": 1140.2,
+      "percentOfMarketCap": 12.1
+    },
+    "SFR-facility-2023-05-11-02664778": {
+      "marketCapMillions": null,
+      "audMillions": 292,
+      "percentOfMarketCap": null
+    },
+    "AIA-bond-2023-05-02-02661193": {
+      "marketCapMillions": null,
+      "audMillions": 93.1,
+      "percentOfMarketCap": null
+    },
+    "NXG-facility-2023-05-02-02661274": {
+      "marketCapMillions": 2688,
+      "audMillions": 1509.9,
+      "percentOfMarketCap": 56.2
+    },
+    "TCL-bond-2023-04-19-02655786": {
+      "marketCapMillions": null,
+      "audMillions": 1059.2,
+      "percentOfMarketCap": null
+    },
+    "NIC-bond-2023-04-14-02654261": {
+      "marketCapMillions": 2641,
+      "audMillions": 589.6,
+      "percentOfMarketCap": 22.3
+    },
+    "NST-bond-2023-04-12-02653496": {
+      "marketCapMillions": null,
+      "audMillions": 901.7,
+      "percentOfMarketCap": null
+    },
+    "CBA-hybrid-2023-04-06-02652358": {
+      "marketCapMillions": null,
+      "audMillions": 110,
+      "percentOfMarketCap": null
+    },
+    "SOL-facility-2023-04-05-02651777": {
+      "marketCapMillions": 11129,
+      "audMillions": 20,
+      "percentOfMarketCap": 0.2
+    },
+    "PRU-facility-2023-04-03-02650370": {
+      "marketCapMillions": null,
+      "audMillions": 450.5,
+      "percentOfMarketCap": null
+    },
+    "DBI-bond-2023-03-31-02649786": {
+      "marketCapMillions": 1269,
+      "audMillions": 530,
+      "percentOfMarketCap": 41.8
+    },
+    "ORI-bond-2023-03-21-02645931": {
+      "marketCapMillions": 6846,
+      "audMillions": 27.6,
+      "percentOfMarketCap": 0.4
+    },
+    "BXB-bond-2023-03-16-02644387": {
+      "marketCapMillions": null,
+      "audMillions": 799.6,
+      "percentOfMarketCap": null
+    },
+    "TLS-bond-2023-03-01-02638744": {
+      "marketCapMillions": null,
+      "audMillions": 650,
+      "percentOfMarketCap": null
+    },
+    "BHP-bond-2023-02-24-02635883": {
+      "marketCapMillions": null,
+      "audMillions": 4038.1,
+      "percentOfMarketCap": null
+    },
+    "SUN-hybrid-2023-02-22-02634601": {
+      "marketCapMillions": null,
+      "audMillions": 250,
+      "percentOfMarketCap": null
+    },
+    "PLS-facility-2023-02-22-02634425": {
+      "marketCapMillions": null,
+      "audMillions": 250,
+      "percentOfMarketCap": null
+    },
+    "CGF-hybrid-2023-02-21-02633966": {
+      "marketCapMillions": null,
+      "audMillions": 350,
+      "percentOfMarketCap": null
+    },
+    "CIP-convertible-2023-02-16-02632389": {
+      "marketCapMillions": null,
+      "audMillions": 300,
+      "percentOfMarketCap": null
+    },
+    "ANZ-hybrid-2023-02-03-02627782": {
+      "marketCapMillions": 75121,
+      "audMillions": 1500,
+      "percentOfMarketCap": 2
+    },
+    "NXT-facility-2023-01-13-02620878": {
+      "marketCapMillions": null,
+      "audMillions": 400,
+      "percentOfMarketCap": null
+    },
+    "NEC-facility-2022-12-15-02612720": {
+      "marketCapMillions": null,
+      "audMillions": 650,
+      "percentOfMarketCap": null
+    },
+    "TAH-bond-2022-12-02-02607574": {
+      "marketCapMillions": null,
+      "audMillions": 424.3,
+      "percentOfMarketCap": null
+    },
+    "TCL-facility-2022-11-29-02605311": {
+      "marketCapMillions": null,
+      "audMillions": 405,
+      "percentOfMarketCap": null
+    },
+    "SIG-facility-2022-11-29-02605088": {
+      "marketCapMillions": null,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "IFT-bond-2022-11-15-02598176": {
+      "marketCapMillions": null,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "DXS-convertible-2022-11-14-02597848": {
+      "marketCapMillions": null,
+      "audMillions": 500,
+      "percentOfMarketCap": null
+    },
+    "ELD-facility-2022-11-11-02597116": {
+      "marketCapMillions": 2080,
+      "audMillions": 180,
+      "percentOfMarketCap": 8.7
+    },
+    "BOQ-hybrid-2022-10-24-02586431": {
+      "marketCapMillions": 4845,
+      "audMillions": 400,
+      "percentOfMarketCap": 8.3
+    },
+    "IAG-hybrid-2022-10-20-02585244": {
+      "marketCapMillions": null,
+      "audMillions": 500,
+      "percentOfMarketCap": null
+    },
+    "EOS-facility-2022-10-13-02581575": {
+      "marketCapMillions": null,
+      "audMillions": 35,
+      "percentOfMarketCap": null
+    },
+    "SGH-convertible-2022-10-06-02578906": {
+      "marketCapMillions": null,
+      "audMillions": 250,
+      "percentOfMarketCap": null
+    },
+    "AIA-bond-2022-10-05-02577746": {
+      "marketCapMillions": null,
+      "audMillions": 150,
+      "percentOfMarketCap": null
+    },
+    "JDO-bond-2022-09-16-02568746": {
+      "marketCapMillions": null,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "CBA-hybrid-2022-09-13-02567567": {
+      "marketCapMillions": null,
+      "audMillions": 203.5,
+      "percentOfMarketCap": null
+    },
+    "CGF-hybrid-2022-09-08-02566039": {
+      "marketCapMillions": null,
+      "audMillions": 400,
+      "percentOfMarketCap": null
+    },
+    "CNU-bond-2022-09-01-02562481": {
+      "marketCapMillions": null,
+      "audMillions": 735.2,
+      "percentOfMarketCap": null
+    },
+    "STO-facility-2022-08-30-02560642": {
+      "marketCapMillions": null,
+      "audMillions": 1809.6,
+      "percentOfMarketCap": null
+    },
+    "NIC-bond-2022-08-24-02557119": {
+      "marketCapMillions": null,
+      "audMillions": 325,
+      "percentOfMarketCap": null
+    },
+    "S32-royalty-2022-07-12-02541290": {
+      "marketCapMillions": null,
+      "audMillions": 296.6,
+      "percentOfMarketCap": null
+    },
+    "MQG-hybrid-2022-06-30-02536618": {
+      "marketCapMillions": null,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "PRN-facility-2022-06-23-02534465": {
+      "marketCapMillions": null,
+      "audMillions": 420,
+      "percentOfMarketCap": null
+    },
+    "ALD-hybrid-2022-06-15-02531628": {
+      "marketCapMillions": null,
+      "audMillions": 150,
+      "percentOfMarketCap": null
+    },
+    "WBC-hybrid-2022-06-10-02530652": {
+      "marketCapMillions": 77572,
+      "audMillions": 1500,
+      "percentOfMarketCap": 1.9
+    },
+    "APA-facility-2022-06-08-02529890": {
+      "marketCapMillions": null,
+      "audMillions": 1000,
+      "percentOfMarketCap": null
+    },
+    "VCX-bond-2022-05-27-02525653": {
+      "marketCapMillions": null,
+      "audMillions": 300,
+      "percentOfMarketCap": null
+    },
+    "ALX-bond-2022-05-24-02524247": {
+      "marketCapMillions": null,
+      "audMillions": 753.5,
+      "percentOfMarketCap": null
+    },
+    "IFT-bond-2022-05-19-02522962": {
+      "marketCapMillions": null,
+      "audMillions": 50,
+      "percentOfMarketCap": null
+    },
+    "NAB-hybrid-2022-05-17-02522197": {
+      "marketCapMillions": 102604,
+      "audMillions": 2000,
+      "percentOfMarketCap": 1.9
+    },
+    "GMG-bond-2022-05-02-02516864": {
+      "marketCapMillions": null,
+      "audMillions": 707.7,
+      "percentOfMarketCap": null
+    },
+    "MIN-bond-2022-04-26-02513394": {
+      "marketCapMillions": null,
+      "audMillions": 1741.3,
+      "percentOfMarketCap": null
+    },
+    "CSL-bond-2022-04-21-02512056": {
+      "marketCapMillions": null,
+      "audMillions": 671.4,
+      "percentOfMarketCap": null
+    },
+    "KAR-facility-2022-04-19-02511183": {
+      "marketCapMillions": null,
+      "audMillions": 68,
+      "percentOfMarketCap": null
+    },
+    "CGF-hybrid-2022-04-14-02510595": {
+      "marketCapMillions": null,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "S32-bond-2022-04-08-02508537": {
+      "marketCapMillions": null,
+      "audMillions": 936,
+      "percentOfMarketCap": null
+    },
+    "RWC-bond-2022-04-07-02508093": {
+      "marketCapMillions": null,
+      "audMillions": 333.1,
+      "percentOfMarketCap": null
+    },
+    "FMG-bond-2022-04-06-02507770": {
+      "marketCapMillions": null,
+      "audMillions": 1977.4,
+      "percentOfMarketCap": null
+    },
+    "RMS-facility-2022-03-31-02504661": {
+      "marketCapMillions": null,
+      "audMillions": 100,
+      "percentOfMarketCap": null
+    },
+    "SUN-hybrid-2022-03-29-02504044": {
+      "marketCapMillions": null,
+      "audMillions": 290,
+      "percentOfMarketCap": null
+    },
+    "ALQ-bond-2022-03-16-02499803": {
+      "marketCapMillions": null,
+      "audMillions": 276,
+      "percentOfMarketCap": null
+    },
+    "IAG-hybrid-2022-03-11-02498014": {
+      "marketCapMillions": null,
+      "audMillions": 373.3,
+      "percentOfMarketCap": null
+    },
+    "RSG-facility-2022-03-10-02497472": {
+      "marketCapMillions": null,
+      "audMillions": 80,
+      "percentOfMarketCap": null
+    },
+    "CBA-hybrid-2022-03-01-02493964": {
+      "marketCapMillions": null,
+      "audMillions": 365.1,
+      "percentOfMarketCap": null
+    },
+    "TCL-facility-2022-02-11-02485642": {
+      "marketCapMillions": null,
+      "audMillions": 825,
+      "percentOfMarketCap": null
+    },
+    "ANZ-hybrid-2022-01-31-02481112": {
+      "marketCapMillions": null,
+      "audMillions": 1280,
+      "percentOfMarketCap": null
+    },
+    "S32-facility-2021-12-15-02466912": {
+      "marketCapMillions": null,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "REH-facility-2021-12-15-02466975": {
+      "marketCapMillions": null,
+      "audMillions": 1250,
+      "percentOfMarketCap": null
+    },
+    "CIP-bond-2021-12-10-02465137": {
+      "marketCapMillions": null,
+      "audMillions": 350,
+      "percentOfMarketCap": null
+    },
+    "NST-convertible-2021-12-01-02460448": {
+      "marketCapMillions": null,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "BGL-facility-2021-12-01-02460468": {
+      "marketCapMillions": null,
+      "audMillions": 200,
+      "percentOfMarketCap": null
+    },
+    "ALD-hybrid-2021-11-25-02457268": {
+      "marketCapMillions": null,
+      "audMillions": 500,
+      "percentOfMarketCap": null
+    },
+    "PLS-facility-2021-11-23-02455869": {
+      "marketCapMillions": null,
+      "audMillions": 27.7,
+      "percentOfMarketCap": null
+    },
+    "MSB-facility-2021-11-22-02455304": {
+      "marketCapMillions": null,
+      "audMillions": 124.5,
+      "percentOfMarketCap": null
+    },
+    "SDF-facility-2021-11-18-02454310": {
+      "marketCapMillions": null,
+      "audMillions": 660,
+      "percentOfMarketCap": null
+    },
+    "IFT-bond-2021-11-15-02452131": {
+      "marketCapMillions": null,
+      "audMillions": null,
+      "percentOfMarketCap": null
+    },
+    "ALX-bond-2021-11-09-02449210": {
+      "marketCapMillions": null,
+      "audMillions": 781.5,
+      "percentOfMarketCap": null
+    },
+    "NXT-facility-2021-11-08-02448535": {
+      "marketCapMillions": null,
+      "audMillions": 2500,
+      "percentOfMarketCap": null
+    },
+    "DBI-bond-2021-11-03-02446723": {
+      "marketCapMillions": null,
+      "audMillions": 514,
+      "percentOfMarketCap": null
+    },
+    "AIA-bond-2021-11-01-02445312": {
+      "marketCapMillions": null,
+      "audMillions": 47.7,
+      "percentOfMarketCap": null
+    },
+    "DOW-facility-2021-10-21-02438901": {
+      "marketCapMillions": null,
+      "audMillions": 1400,
+      "percentOfMarketCap": null
+    },
+    "FLT-convertible-2021-10-20-02438495": {
+      "marketCapMillions": null,
+      "audMillions": 400,
+      "percentOfMarketCap": null
+    },
+    "WES-bond-2021-10-15-02436134": {
+      "marketCapMillions": null,
+      "audMillions": 4690.4,
+      "percentOfMarketCap": null
+    },
+    "WOW-bond-2021-09-29-02427455": {
+      "marketCapMillions": null,
+      "audMillions": 700,
+      "percentOfMarketCap": null
+    },
+    "CBA-hybrid-2021-09-24-02425604": {
+      "marketCapMillions": null,
+      "audMillions": 173.9,
+      "percentOfMarketCap": null
+    },
+    "SUN-hybrid-2021-09-23-02425198": {
+      "marketCapMillions": null,
+      "audMillions": 405,
+      "percentOfMarketCap": null
+    }
+  }
+}

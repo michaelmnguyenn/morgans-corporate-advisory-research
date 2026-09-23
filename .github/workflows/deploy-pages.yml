@@ -4,8 +4,6 @@ on:
   push:
     branches: [main]
   workflow_dispatch:
-  schedule:
-    - cron: '17 0,2,4,6,8 * * 1-5'
 
 permissions:
   contents: read
@@ -29,7 +27,6 @@ jobs:
       - run: npm run typecheck
       - run: npm test
       - run: npm run test:pipeline
-      - run: npm run data:today
       - run: npm run build
         env:
           PAGES_BASE_PATH: /${{ github.event.repository.name }}
