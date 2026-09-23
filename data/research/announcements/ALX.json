@@ -1,0 +1,69 @@
+{
+  "ticker": "ALX",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALX&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:22:12.383Z",
+      "totalRows": 77,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALX&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:22:13.271Z",
+      "totalRows": 124,
+      "rows": [
+        {
+          "id": "02580397",
+          "date": "2022-10-11",
+          "title": "Completion of Retail Component of Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02580397",
+          "priceSensitive": true
+        },
+        {
+          "id": "02570733",
+          "date": "2022-09-21",
+          "title": "Retail Entitlement Offer - Retail Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02570733",
+          "priceSensitive": true
+        },
+        {
+          "id": "02568914",
+          "date": "2022-09-16",
+          "title": "Completion of Institutional Component of Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02568914",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALX&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:22:14.010Z",
+      "totalRows": 66,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALX&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:22:14.791Z",
+      "totalRows": 96,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALX&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:22:15.531Z",
+      "totalRows": 75,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALX&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:22:16.292Z",
+      "totalRows": 102,
+      "rows": []
+    }
+  ]
+}

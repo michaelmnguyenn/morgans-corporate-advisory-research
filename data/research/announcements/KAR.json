@@ -1,0 +1,76 @@
+{
+  "ticker": "KAR",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=KAR&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:25:22.477Z",
+      "totalRows": 59,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=KAR&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:25:23.271Z",
+      "totalRows": 92,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=KAR&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:25:24.040Z",
+      "totalRows": 112,
+      "rows": [
+        {
+          "id": "02752637",
+          "date": "2023-12-11",
+          "title": "KAR Completes Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02752637",
+          "priceSensitive": true
+        },
+        {
+          "id": "02744291",
+          "date": "2023-11-23",
+          "title": "Retail Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02744291",
+          "priceSensitive": true
+        },
+        {
+          "id": "02741780",
+          "date": "2023-11-17",
+          "title": "Completion of Placement and Institutional Component",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02741780",
+          "priceSensitive": true
+        },
+        {
+          "id": "02741220",
+          "date": "2023-11-16",
+          "title": "Entitlement Offer Cleansing Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02741220",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=KAR&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:25:24.872Z",
+      "totalRows": 171,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=KAR&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:25:25.872Z",
+      "totalRows": 266,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=KAR&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:25:26.756Z",
+      "totalRows": 207,
+      "rows": []
+    }
+  ]
+}

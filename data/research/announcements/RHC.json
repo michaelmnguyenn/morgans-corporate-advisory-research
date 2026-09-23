@@ -1,0 +1,47 @@
+{
+  "ticker": "RHC",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=RHC&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:14:08.531Z",
+      "totalRows": 58,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=RHC&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:14:09.373Z",
+      "totalRows": 79,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=RHC&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:14:10.150Z",
+      "totalRows": 56,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=RHC&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:14:10.889Z",
+      "totalRows": 58,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=RHC&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:14:11.636Z",
+      "totalRows": 53,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=RHC&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:14:12.360Z",
+      "totalRows": 39,
+      "rows": []
+    }
+  ]
+}

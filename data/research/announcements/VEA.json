@@ -1,0 +1,47 @@
+{
+  "ticker": "VEA",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VEA&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:19:11.756Z",
+      "totalRows": 90,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VEA&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:19:12.475Z",
+      "totalRows": 59,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VEA&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:19:13.284Z",
+      "totalRows": 79,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VEA&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:19:14.079Z",
+      "totalRows": 69,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VEA&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:19:14.830Z",
+      "totalRows": 73,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VEA&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:19:15.648Z",
+      "totalRows": 89,
+      "rows": []
+    }
+  ]
+}

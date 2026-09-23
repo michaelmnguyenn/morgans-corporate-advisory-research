@@ -1,0 +1,83 @@
+{
+  "ticker": "ALL",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALL&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:11:44.834Z",
+      "totalRows": 67,
+      "rows": [
+        {
+          "id": "02451200",
+          "date": "2021-11-12",
+          "title": "Successful completion of Retail Shortfall Bookbuild",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02451200",
+          "priceSensitive": false
+        },
+        {
+          "id": "02450955",
+          "date": "2021-11-11",
+          "title": "Successful completion of Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02450955",
+          "priceSensitive": false
+        },
+        {
+          "id": "02440209",
+          "date": "2021-10-25",
+          "title": "Retail Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02440209",
+          "priceSensitive": true
+        },
+        {
+          "id": "02438671",
+          "date": "2021-10-21",
+          "title": "Successful completion of Institutional Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02438671",
+          "priceSensitive": true
+        },
+        {
+          "id": "02436616",
+          "date": "2021-10-18",
+          "title": "Recommended offer for Playtech & launch of Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02436616",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALL&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:11:45.631Z",
+      "totalRows": 114,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALL&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:11:46.421Z",
+      "totalRows": 141,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALL&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:11:47.433Z",
+      "totalRows": 160,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALL&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:11:48.243Z",
+      "totalRows": 136,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALL&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:11:49.161Z",
+      "totalRows": 144,
+      "rows": []
+    }
+  ]
+}

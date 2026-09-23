@@ -1,0 +1,55 @@
+{
+  "ticker": "DNL",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=DNL&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:16:38.332Z",
+      "totalRows": 63,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=DNL&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:16:39.298Z",
+      "totalRows": 83,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=DNL&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:16:40.207Z",
+      "totalRows": 65,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=DNL&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:16:41.013Z",
+      "totalRows": 191,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=DNL&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:16:41.850Z",
+      "totalRows": 222,
+      "rows": [
+        {
+          "id": "02947215",
+          "date": "2025-05-12",
+          "title": "RIC: Acquisition of IPF Distribution and Equity Raise",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02947215",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=DNL&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:16:42.620Z",
+      "totalRows": 125,
+      "rows": []
+    }
+  ]
+}

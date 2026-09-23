@@ -1,0 +1,141 @@
+{
+  "ticker": "EOS",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=EOS&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:21:28.847Z",
+      "totalRows": 60,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=EOS&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:21:29.560Z",
+      "totalRows": 76,
+      "rows": [
+        {
+          "id": "02545095",
+          "date": "2022-07-25",
+          "title": "Close of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02545095",
+          "priceSensitive": true
+        },
+        {
+          "id": "02538914",
+          "date": "2022-07-05",
+          "title": "Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02538914",
+          "priceSensitive": true
+        },
+        {
+          "id": "02538726",
+          "date": "2022-07-05",
+          "title": "EOS Placement Cleansing Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02538726",
+          "priceSensitive": false
+        },
+        {
+          "id": "02536433",
+          "date": "2022-06-29",
+          "title": "Successful A$15 million placement and launch of SPP",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02536433",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=EOS&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:21:30.410Z",
+      "totalRows": 72,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=EOS&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:21:31.233Z",
+      "totalRows": 62,
+      "rows": [
+        {
+          "id": "02797101",
+          "date": "2024-04-17",
+          "title": "Close of share purchase plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02797101",
+          "priceSensitive": true
+        },
+        {
+          "id": "02791221",
+          "date": "2024-04-02",
+          "title": "Share Purchase Plan Opens",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02791221",
+          "priceSensitive": true
+        },
+        {
+          "id": "02788738",
+          "date": "2024-03-25",
+          "title": "Successful completion of $35m institutional placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02788738",
+          "priceSensitive": true
+        },
+        {
+          "id": "02788243",
+          "date": "2024-03-22",
+          "title": "EOS announces $35m fully underwritten placement and $5m SPP",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02788243",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=EOS&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:21:32.238Z",
+      "totalRows": 60,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=EOS&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:21:33.018Z",
+      "totalRows": 143,
+      "rows": [
+        {
+          "id": "03103493",
+          "date": "2026-06-12",
+          "title": "Completion and Upsize of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03103493",
+          "priceSensitive": true
+        },
+        {
+          "id": "03097026",
+          "date": "2026-05-25",
+          "title": "Share Purchase Plan Opens",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03097026",
+          "priceSensitive": true
+        },
+        {
+          "id": "03095761",
+          "date": "2026-05-20",
+          "title": "$150m Placement Complete & $40m Strategic Placement launched",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03095761",
+          "priceSensitive": true
+        },
+        {
+          "id": "03094866",
+          "date": "2026-05-18",
+          "title": "Investor Presentation - Capital Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03094866",
+          "priceSensitive": true
+        },
+        {
+          "id": "03094865",
+          "date": "2026-05-18",
+          "title": "Capital Raising to Support Growth Opportunities",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03094865",
+          "priceSensitive": true
+        }
+      ]
+    }
+  ]
+}

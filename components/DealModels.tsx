@@ -1,5 +1,6 @@
 'use client';
 import {useEffect,useState} from 'react';
+import Link from 'next/link';
 import {dayMove,type MorgansDataset,type MorgansDeal,type PriceHistory} from '@/lib/morgans';
 import {calculateRaise} from '@/lib/deal-model';
 import {format,dateLabel} from '@/lib/model';
@@ -22,7 +23,7 @@ export default function DealModels({research,prices}:{research:MorgansDataset;pr
   <header>
    <h1>Morgans Corporate Advisory Research</h1>
    <p className="byline">Michael Nguyen</p>
-   <nav><a href="#overview" aria-current={!d?'page':undefined}>Overview</a>{research.deals.map(v=><a key={v.id} href={`#${slug(v)}`} aria-current={d?.id===v.id?'page':undefined}>{shortName(v)}</a>)}</nav>
+   <nav><Link href="/">Precedent model</Link><Link href="/today">Daily watch</Link><Link href="/case-studies" aria-current="page">Three deal studies</Link><a href="#overview">Overview</a>{research.deals.map(v=><a key={v.id} href={`#${slug(v)}`} aria-current={d?.id===v.id?'page':undefined}>{shortName(v)}</a>)}</nav>
   </header>
   {d?<Deal key={d.id} deal={d} prices={prices}/>:<Overview deals={research.deals} prices={prices}/>}
  </main>;

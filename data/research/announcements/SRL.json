@@ -1,0 +1,97 @@
+{
+  "ticker": "SRL",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SRL&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:21:52.364Z",
+      "totalRows": 54,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SRL&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:21:53.122Z",
+      "totalRows": 35,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SRL&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:21:53.850Z",
+      "totalRows": 34,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SRL&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:21:54.585Z",
+      "totalRows": 28,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SRL&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:21:55.389Z",
+      "totalRows": 116,
+      "rows": [
+        {
+          "id": "03041609",
+          "date": "2025-12-16",
+          "title": "Follow-on Placement of A$32.5 million for Syerston Project",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03041609",
+          "priceSensitive": true
+        },
+        {
+          "id": "03036260",
+          "date": "2025-12-03",
+          "title": "Follow-on Placement of A$18.865m for Syerston Project",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03036260",
+          "priceSensitive": true
+        },
+        {
+          "id": "03027194",
+          "date": "2025-11-17",
+          "title": "Successful A$46m Placement for Syerston Project",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03027194",
+          "priceSensitive": true
+        },
+        {
+          "id": "02963420",
+          "date": "2025-06-30",
+          "title": "Completion of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02963420",
+          "priceSensitive": true
+        },
+        {
+          "id": "02960933",
+          "date": "2025-06-23",
+          "title": "Completion of Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02960933",
+          "priceSensitive": true
+        },
+        {
+          "id": "02956830",
+          "date": "2025-06-10",
+          "title": "Share Purchase Plan Prospectus",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02956830",
+          "priceSensitive": true
+        },
+        {
+          "id": "02939757",
+          "date": "2025-04-22",
+          "title": "Placement and SPP to raise up to $7.5 Million",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02939757",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SRL&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:21:56.242Z",
+      "totalRows": 107,
+      "rows": []
+    }
+  ]
+}

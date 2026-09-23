@@ -1,0 +1,62 @@
+{
+  "ticker": "CIP",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CIP&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:24:07.823Z",
+      "totalRows": 82,
+      "rows": [
+        {
+          "id": "02425592",
+          "date": "2021-09-24",
+          "title": "Successful completion of institutional placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02425592",
+          "priceSensitive": true
+        },
+        {
+          "id": "02425104",
+          "date": "2021-09-23",
+          "title": "Strategic Acquisitions and Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02425104",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CIP&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:24:08.591Z",
+      "totalRows": 44,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CIP&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:24:09.452Z",
+      "totalRows": 42,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CIP&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:24:10.204Z",
+      "totalRows": 30,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CIP&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:24:10.981Z",
+      "totalRows": 136,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CIP&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:24:11.749Z",
+      "totalRows": 28,
+      "rows": []
+    }
+  ]
+}

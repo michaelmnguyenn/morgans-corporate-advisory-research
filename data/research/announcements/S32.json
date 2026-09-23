@@ -1,0 +1,47 @@
+{
+  "ticker": "S32",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=S32&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:12:29.998Z",
+      "totalRows": 180,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=S32&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:12:30.833Z",
+      "totalRows": 160,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=S32&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:12:31.831Z",
+      "totalRows": 169,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=S32&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:12:32.682Z",
+      "totalRows": 102,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=S32&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:12:33.455Z",
+      "totalRows": 128,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=S32&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:12:34.307Z",
+      "totalRows": 68,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "ticker": "SSM",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SSM&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:23:53.892Z",
+      "totalRows": 51,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SSM&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:23:54.621Z",
+      "totalRows": 41,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SSM&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:23:55.423Z",
+      "totalRows": 41,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SSM&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:23:56.159Z",
+      "totalRows": 41,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SSM&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:23:56.915Z",
+      "totalRows": 66,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SSM&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:23:57.650Z",
+      "totalRows": 66,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,112 @@
+{
+  "ticker": "PNI",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PNI&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:20:18.298Z",
+      "totalRows": 97,
+      "rows": [
+        {
+          "id": "02468939",
+          "date": "2021-12-20",
+          "title": "Results of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02468939",
+          "priceSensitive": false
+        },
+        {
+          "id": "02459693",
+          "date": "2021-11-30",
+          "title": "Share Purchase Plan Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02459693",
+          "priceSensitive": false
+        },
+        {
+          "id": "02455935",
+          "date": "2021-11-23",
+          "title": "Investment in Five V Capital and equity raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02455935",
+          "priceSensitive": true
+        },
+        {
+          "id": "02455893",
+          "date": "2021-11-23",
+          "title": "Investment in Five V Capital, FUM update and equity raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02455893",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PNI&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:20:19.024Z",
+      "totalRows": 51,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PNI&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:20:19.778Z",
+      "totalRows": 69,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PNI&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:20:20.525Z",
+      "totalRows": 69,
+      "rows": [
+        {
+          "id": "02896765",
+          "date": "2024-12-17",
+          "title": "Completion of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02896765",
+          "priceSensitive": false
+        },
+        {
+          "id": "02887464",
+          "date": "2024-11-27",
+          "title": "Share Purchase Plan Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02887464",
+          "priceSensitive": false
+        },
+        {
+          "id": "02884712",
+          "date": "2024-11-21",
+          "title": "Pinnacle successfully completes $400m placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02884712",
+          "priceSensitive": true
+        },
+        {
+          "id": "02884060",
+          "date": "2024-11-20",
+          "title": "Investments in VSS and PAM and equity raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02884060",
+          "priceSensitive": true
+        },
+        {
+          "id": "02884059",
+          "date": "2024-11-20",
+          "title": "Acquisition of Strategic Interests and Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02884059",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PNI&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:20:21.289Z",
+      "totalRows": 86,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PNI&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:20:22.024Z",
+      "totalRows": 54,
+      "rows": []
+    }
+  ]
+}

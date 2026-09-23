@@ -1,0 +1,161 @@
+{
+  "ticker": "GMD",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GMD&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:15:02.416Z",
+      "totalRows": 103,
+      "rows": [
+        {
+          "id": "02468329",
+          "date": "2021-12-17",
+          "title": "Appendix 3G - Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02468329",
+          "priceSensitive": false
+        },
+        {
+          "id": "02468326",
+          "date": "2021-12-17",
+          "title": "Appendix 2A - Entitlement Issue",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02468326",
+          "priceSensitive": false
+        },
+        {
+          "id": "02467159",
+          "date": "2021-12-15",
+          "title": "Entitlement Offer Raises A$4.8M",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02467159",
+          "priceSensitive": true
+        },
+        {
+          "id": "02460454",
+          "date": "2021-12-01",
+          "title": "Letter to Eligible Shareholders - Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02460454",
+          "priceSensitive": false
+        },
+        {
+          "id": "02460453",
+          "date": "2021-12-01",
+          "title": "Letter to Ineligible Shareholders - Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02460453",
+          "priceSensitive": false
+        },
+        {
+          "id": "02457774",
+          "date": "2021-11-25",
+          "title": "Share Placement Funds Received",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02457774",
+          "priceSensitive": false
+        },
+        {
+          "id": "02455890",
+          "date": "2021-11-23",
+          "title": "Entitlement Offer Prospectus",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02455890",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GMD&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:15:03.321Z",
+      "totalRows": 154,
+      "rows": [
+        {
+          "id": "02612281",
+          "date": "2022-12-14",
+          "title": "SBM: Completion of Genesis' A$275m conditional placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02612281",
+          "priceSensitive": false
+        },
+        {
+          "id": "02612275",
+          "date": "2022-12-14",
+          "title": "A$275 million Conditional Placement Fully Subscribed",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02612275",
+          "priceSensitive": true
+        },
+        {
+          "id": "02561768",
+          "date": "2022-08-31",
+          "title": "Placement Cleansing Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02561768",
+          "priceSensitive": false
+        },
+        {
+          "id": "02561749",
+          "date": "2022-08-31",
+          "title": "Completion of Capital Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02561749",
+          "priceSensitive": true
+        },
+        {
+          "id": "02541201",
+          "date": "2022-07-12",
+          "title": "DCN: Placement Funds Received",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02541201",
+          "priceSensitive": false
+        },
+        {
+          "id": "02540654",
+          "date": "2022-07-11",
+          "title": "Placement Cleansing Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02540654",
+          "priceSensitive": false
+        },
+        {
+          "id": "02540652",
+          "date": "2022-07-11",
+          "title": "Placement Funds Received",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02540652",
+          "priceSensitive": false
+        },
+        {
+          "id": "02538772",
+          "date": "2022-07-05",
+          "title": "Presentation on Dacian Transaction and Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02538772",
+          "priceSensitive": true
+        },
+        {
+          "id": "02538766",
+          "date": "2022-07-05",
+          "title": "Acquisition of Dacian Gold and Capital Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02538766",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GMD&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:15:04.457Z",
+      "totalRows": 200,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GMD&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:15:05.280Z",
+      "totalRows": 69,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GMD&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:15:06.042Z",
+      "totalRows": 83,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GMD&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:15:06.892Z",
+      "totalRows": 97,
+      "rows": []
+    }
+  ]
+}

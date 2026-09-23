@@ -1,0 +1,55 @@
+{
+  "ticker": "IGO",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IGO&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:17:57.546Z",
+      "totalRows": 127,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IGO&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:17:58.534Z",
+      "totalRows": 138,
+      "rows": [
+        {
+          "id": "02535348",
+          "date": "2022-06-27",
+          "title": "VMC: IGO Farm-In JV/Placement Bridgetown Greenbushes Expln",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02535348",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IGO&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:17:59.532Z",
+      "totalRows": 130,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IGO&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:18:00.389Z",
+      "totalRows": 103,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IGO&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:18:01.246Z",
+      "totalRows": 79,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IGO&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:18:02.029Z",
+      "totalRows": 53,
+      "rows": []
+    }
+  ]
+}

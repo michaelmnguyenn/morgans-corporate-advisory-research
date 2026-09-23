@@ -1,0 +1,149 @@
+{
+  "ticker": "VUL",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VUL&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:26:24.846Z",
+      "totalRows": 165,
+      "rows": [
+        {
+          "id": "02436544",
+          "date": "2021-10-15",
+          "title": "Close of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02436544",
+          "priceSensitive": false
+        },
+        {
+          "id": "02425661",
+          "date": "2021-09-24",
+          "title": "Share Purchase Plan Opens - Letter and Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02425661",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VUL&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:26:25.600Z",
+      "totalRows": 82,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VUL&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:26:26.352Z",
+      "totalRows": 79,
+      "rows": [
+        {
+          "id": "02662666",
+          "date": "2023-05-04",
+          "title": "Successful Completion of A$109m Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02662666",
+          "priceSensitive": true
+        },
+        {
+          "id": "02662330",
+          "date": "2023-05-04",
+          "title": "Equity Raising Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02662330",
+          "priceSensitive": true
+        },
+        {
+          "id": "02662328",
+          "date": "2023-05-04",
+          "title": "Vulcan Launches Fully Underwritten $A109m Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02662328",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VUL&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:26:27.111Z",
+      "totalRows": 81,
+      "rows": [
+        {
+          "id": "02898484",
+          "date": "2024-12-20",
+          "title": "Share Purchase Plan Opens",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02898484",
+          "priceSensitive": true
+        },
+        {
+          "id": "02895313",
+          "date": "2024-12-12",
+          "title": "Vulcan successfully completes $164m placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02895313",
+          "priceSensitive": true
+        },
+        {
+          "id": "02894283",
+          "date": "2024-12-11",
+          "title": "Equity Raise Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02894283",
+          "priceSensitive": true
+        },
+        {
+          "id": "02894282",
+          "date": "2024-12-11",
+          "title": "Vulcan launches $164m placement & SPP to commence execution",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02894282",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VUL&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:26:28.050Z",
+      "totalRows": 155,
+      "rows": [
+        {
+          "id": "03045672",
+          "date": "2025-12-29",
+          "title": "Vulcan Completes Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03045672",
+          "priceSensitive": true
+        },
+        {
+          "id": "03039282",
+          "date": "2025-12-10",
+          "title": "Opening of Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03039282",
+          "priceSensitive": false
+        },
+        {
+          "id": "03036853",
+          "date": "2025-12-04",
+          "title": "Sucessful Completion of Institutional Placement and EO",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03036853",
+          "priceSensitive": true
+        },
+        {
+          "id": "02968329",
+          "date": "2025-07-10",
+          "title": "Completion of EUR30m (A$53.6m) Strategic Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02968329",
+          "priceSensitive": true
+        },
+        {
+          "id": "02906544",
+          "date": "2025-01-23",
+          "title": "Close of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02906544",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VUL&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:26:28.769Z",
+      "totalRows": 76,
+      "rows": []
+    }
+  ]
+}

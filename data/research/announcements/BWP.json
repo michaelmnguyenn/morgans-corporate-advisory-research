@@ -1,0 +1,83 @@
+{
+  "ticker": "BWP",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BWP&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:21:38.249Z",
+      "totalRows": 23,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BWP&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:21:38.959Z",
+      "totalRows": 24,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BWP&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:21:39.785Z",
+      "totalRows": 32,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BWP&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:21:40.706Z",
+      "totalRows": 124,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BWP&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:21:41.532Z",
+      "totalRows": 64,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BWP&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:21:42.263Z",
+      "totalRows": 42,
+      "rows": [
+        {
+          "id": "03097918",
+          "date": "2026-05-27",
+          "title": "Successful Completion of Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03097918",
+          "priceSensitive": false
+        },
+        {
+          "id": "03092879",
+          "date": "2026-05-12",
+          "title": "Retail Entitlement Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03092879",
+          "priceSensitive": false
+        },
+        {
+          "id": "03092873",
+          "date": "2026-05-12",
+          "title": "Retail Entitlement Offer Opens",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03092873",
+          "priceSensitive": false
+        },
+        {
+          "id": "03091521",
+          "date": "2026-05-07",
+          "title": "Successful Completion of Institutional Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03091521",
+          "priceSensitive": true
+        },
+        {
+          "id": "03091013",
+          "date": "2026-05-06",
+          "title": "Capital Deployment and Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03091013",
+          "priceSensitive": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,71 @@
+{
+  "ticker": "NAB",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NAB&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:10:42.097Z",
+      "totalRows": 223,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NAB&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:10:42.884Z",
+      "totalRows": 358,
+      "rows": [
+        {
+          "id": "02530130",
+          "date": "2022-06-08",
+          "title": "NAB completes NAB Capital Notes 6 bookbuild",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02530130",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NAB&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:10:44.212Z",
+      "totalRows": 239,
+      "rows": [
+        {
+          "id": "02700654",
+          "date": "2023-08-22",
+          "title": "NAB completes NAB Capital Notes 7 bookbuild",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02700654",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NAB&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:10:45.438Z",
+      "totalRows": 354,
+      "rows": [
+        {
+          "id": "02807265",
+          "date": "2024-05-14",
+          "title": "NAB completes NAB Capital Notes 8 bookbuild",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02807265",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NAB&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:10:46.388Z",
+      "totalRows": 176,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NAB&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:10:47.339Z",
+      "totalRows": 70,
+      "rows": []
+    }
+  ]
+}

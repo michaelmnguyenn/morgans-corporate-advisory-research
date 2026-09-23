@@ -1,0 +1,76 @@
+{
+  "ticker": "ANN",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ANN&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:17:02.868Z",
+      "totalRows": 121,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ANN&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:17:03.795Z",
+      "totalRows": 169,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ANN&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:17:04.580Z",
+      "totalRows": 181,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ANN&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:17:05.313Z",
+      "totalRows": 62,
+      "rows": [
+        {
+          "id": "02806559",
+          "date": "2024-05-13",
+          "title": "Ansell announces completion of share purchase plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02806559",
+          "priceSensitive": true
+        },
+        {
+          "id": "02795792",
+          "date": "2024-04-15",
+          "title": "Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02795792",
+          "priceSensitive": true
+        },
+        {
+          "id": "02795313",
+          "date": "2024-04-12",
+          "title": "Placement - Cleansing Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02795313",
+          "priceSensitive": false
+        },
+        {
+          "id": "02794077",
+          "date": "2024-04-09",
+          "title": "Ansell announces successful completion of $400m placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02794077",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ANN&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:17:06.246Z",
+      "totalRows": 103,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ANN&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:17:07.110Z",
+      "totalRows": 109,
+      "rows": []
+    }
+  ]
+}

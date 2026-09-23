@@ -1,0 +1,84 @@
+{
+  "ticker": "ZIP",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ZIP&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:20:13.388Z",
+      "totalRows": 0,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ZIP&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:20:14.129Z",
+      "totalRows": 69,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ZIP&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:20:14.884Z",
+      "totalRows": 110,
+      "rows": [
+        {
+          "id": "02674716",
+          "date": "2023-06-09",
+          "title": "Zip Completes Equity Placement for Liability Management",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02674716",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ZIP&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:20:15.667Z",
+      "totalRows": 131,
+      "rows": [
+        {
+          "id": "02840719",
+          "date": "2024-08-19",
+          "title": "Completion of Zip Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02840719",
+          "priceSensitive": true
+        },
+        {
+          "id": "02832097",
+          "date": "2024-07-25",
+          "title": "ZIP Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02832097",
+          "priceSensitive": true
+        },
+        {
+          "id": "02829865",
+          "date": "2024-07-18",
+          "title": "ZIP Completes A$217M Equity Placement at 2.8% Discount",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02829865",
+          "priceSensitive": true
+        },
+        {
+          "id": "02829380",
+          "date": "2024-07-17",
+          "title": "Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02829380",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ZIP&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:20:16.479Z",
+      "totalRows": 157,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ZIP&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:20:17.551Z",
+      "totalRows": 124,
+      "rows": []
+    }
+  ]
+}

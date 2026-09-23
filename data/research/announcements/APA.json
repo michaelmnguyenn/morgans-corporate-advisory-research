@@ -1,0 +1,77 @@
+{
+  "ticker": "APA",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=APA&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:13:08.899Z",
+      "totalRows": 71,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=APA&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:13:09.692Z",
+      "totalRows": 62,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=APA&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:13:10.397Z",
+      "totalRows": 66,
+      "rows": [
+        {
+          "id": "02701765",
+          "date": "2023-08-24",
+          "title": "APA successfully completes $675m institutional placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02701765",
+          "priceSensitive": true
+        },
+        {
+          "id": "02701004",
+          "date": "2023-08-23",
+          "title": "Acquisition of Alinta Energy Pilbara & equity raising Presen",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02701004",
+          "priceSensitive": true
+        },
+        {
+          "id": "02701003",
+          "date": "2023-08-23",
+          "title": "Acquisition of Alinta Energy Pilbara and equity raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02701003",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=APA&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:13:11.156Z",
+      "totalRows": 72,
+      "rows": [
+        {
+          "id": "02896836",
+          "date": "2024-12-17",
+          "title": "TBN: Tamboran enters Binding APA agreements to deliver SPP",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02896836",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=APA&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:13:11.909Z",
+      "totalRows": 70,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=APA&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:13:12.677Z",
+      "totalRows": 42,
+      "rows": []
+    }
+  ]
+}

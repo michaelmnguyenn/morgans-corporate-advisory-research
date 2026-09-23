@@ -1,0 +1,47 @@
+{
+  "ticker": "NHC",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NHC&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:19:54.617Z",
+      "totalRows": 79,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NHC&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:19:55.474Z",
+      "totalRows": 90,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NHC&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:19:56.294Z",
+      "totalRows": 144,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NHC&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:19:57.030Z",
+      "totalRows": 57,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NHC&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:19:57.837Z",
+      "totalRows": 73,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NHC&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:19:58.600Z",
+      "totalRows": 49,
+      "rows": []
+    }
+  ]
+}

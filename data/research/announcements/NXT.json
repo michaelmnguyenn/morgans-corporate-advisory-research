@@ -1,0 +1,198 @@
+{
+  "ticker": "NXT",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NXT&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:15:17.644Z",
+      "totalRows": 41,
+      "rows": [
+        {
+          "id": "02455336",
+          "date": "2021-11-22",
+          "title": "SOV: SOV announces Capital Raising and National Expansion",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02455336",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NXT&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:15:18.382Z",
+      "totalRows": 37,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NXT&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:15:19.182Z",
+      "totalRows": 64,
+      "rows": [
+        {
+          "id": "02672800",
+          "date": "2023-06-05",
+          "title": "Completion of Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02672800",
+          "priceSensitive": true
+        },
+        {
+          "id": "02667173",
+          "date": "2023-05-18",
+          "title": "Retail Entitlement Offer Open (Announcement & Booklet)",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02667173",
+          "priceSensitive": true
+        },
+        {
+          "id": "02665870",
+          "date": "2023-05-15",
+          "title": "Successful Completion of Institutional Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02665870",
+          "priceSensitive": true
+        },
+        {
+          "id": "02664760",
+          "date": "2023-05-11",
+          "title": "Entitlement Offer - Investor Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02664760",
+          "priceSensitive": true
+        },
+        {
+          "id": "02664759",
+          "date": "2023-05-11",
+          "title": "Regional Expansion and A$618 million Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02664759",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NXT&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:15:19.995Z",
+      "totalRows": 87,
+      "rows": [
+        {
+          "id": "02865622",
+          "date": "2024-10-10",
+          "title": "Completion of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02865622",
+          "priceSensitive": false
+        },
+        {
+          "id": "02854988",
+          "date": "2024-09-18",
+          "title": "Share Purchase Plan Booklet & Attachments",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02854988",
+          "priceSensitive": true
+        },
+        {
+          "id": "02853808",
+          "date": "2024-09-16",
+          "title": "Institutional Placement - Notice under section 708A(5)(e)",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02853808",
+          "priceSensitive": false
+        },
+        {
+          "id": "02852181",
+          "date": "2024-09-11",
+          "title": "Completion of A$550 Million Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02852181",
+          "priceSensitive": true
+        },
+        {
+          "id": "02851997",
+          "date": "2024-09-10",
+          "title": "Capital Raising for further Asian Expansion",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02851997",
+          "priceSensitive": true
+        },
+        {
+          "id": "02804621",
+          "date": "2024-05-07",
+          "title": "Completion of Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02804621",
+          "priceSensitive": true
+        },
+        {
+          "id": "02797170",
+          "date": "2024-04-18",
+          "title": "Retail Entitlement Offer Open (Announcement & Booklet)",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02797170",
+          "priceSensitive": true
+        },
+        {
+          "id": "02795879",
+          "date": "2024-04-15",
+          "title": "Successful Completion of Institutional Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02795879",
+          "priceSensitive": true
+        },
+        {
+          "id": "02794819",
+          "date": "2024-04-11",
+          "title": "Entitlement Offer - Investor Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02794819",
+          "priceSensitive": true
+        },
+        {
+          "id": "02794818",
+          "date": "2024-04-11",
+          "title": "Entitlement Offer to Accelerate Development",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02794818",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NXT&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:15:20.894Z",
+      "totalRows": 67,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NXT&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:15:21.712Z",
+      "totalRows": 75,
+      "rows": [
+        {
+          "id": "03093745",
+          "date": "2026-05-14",
+          "title": "Successful Completion of Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03093745",
+          "priceSensitive": true
+        },
+        {
+          "id": "03090779",
+          "date": "2026-05-06",
+          "title": "Retail Entitlement Offer - Reminder to Retail Shareholders",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03090779",
+          "priceSensitive": true
+        },
+        {
+          "id": "03086357",
+          "date": "2026-04-27",
+          "title": "Retail Offer Booklet & Eligibility Letters",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03086357",
+          "priceSensitive": true
+        },
+        {
+          "id": "03086356",
+          "date": "2026-04-27",
+          "title": "Retail Entitlement Offer Opens",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03086356",
+          "priceSensitive": true
+        },
+        {
+          "id": "03085006",
+          "date": "2026-04-22",
+          "title": "Successful Completion of Institutional Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03085006",
+          "priceSensitive": true
+        }
+      ]
+    }
+  ]
+}

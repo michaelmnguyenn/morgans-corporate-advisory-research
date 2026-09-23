@@ -1,0 +1,47 @@
+{
+  "ticker": "HVN",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=HVN&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:21:33.784Z",
+      "totalRows": 33,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=HVN&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:21:34.489Z",
+      "totalRows": 28,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=HVN&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:21:35.268Z",
+      "totalRows": 38,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=HVN&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:21:36.014Z",
+      "totalRows": 42,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=HVN&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:21:36.733Z",
+      "totalRows": 34,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=HVN&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:21:37.470Z",
+      "totalRows": 17,
+      "rows": []
+    }
+  ]
+}

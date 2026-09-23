@@ -1,0 +1,154 @@
+{
+  "ticker": "SFR",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SFR&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:14:18.446Z",
+      "totalRows": 101,
+      "rows": [
+        {
+          "id": "02436917",
+          "date": "2021-10-18",
+          "title": "Completion of Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02436917",
+          "priceSensitive": false
+        },
+        {
+          "id": "02429275",
+          "date": "2021-09-30",
+          "title": "Dispatch of Retail Entitlement Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02429275",
+          "priceSensitive": false
+        },
+        {
+          "id": "02428724",
+          "date": "2021-09-30",
+          "title": "Entitlement Offer Notification to Ineligible Securityholders",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02428724",
+          "priceSensitive": false
+        },
+        {
+          "id": "02428700",
+          "date": "2021-09-30",
+          "title": "Retail Entitlement Offer Booklet and Entitlement Form",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02428700",
+          "priceSensitive": true
+        },
+        {
+          "id": "02426408",
+          "date": "2021-09-27",
+          "title": "Completion of Institutional Entitlement Offer and Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02426408",
+          "priceSensitive": true
+        },
+        {
+          "id": "02425148",
+          "date": "2021-09-23",
+          "title": "Entitlement Offer Cleansing Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02425148",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SFR&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:14:19.538Z",
+      "totalRows": 158,
+      "rows": [
+        {
+          "id": "02611570",
+          "date": "2022-12-12",
+          "title": "Successful Completion of Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02611570",
+          "priceSensitive": false
+        },
+        {
+          "id": "02603863",
+          "date": "2022-11-25",
+          "title": "Despatch of Retail Entitlement Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02603863",
+          "priceSensitive": false
+        },
+        {
+          "id": "02603615",
+          "date": "2022-11-25",
+          "title": "Entitlement Offer Notification to Ineligible Securityholders",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02603615",
+          "priceSensitive": false
+        },
+        {
+          "id": "02603614",
+          "date": "2022-11-25",
+          "title": "Retail Entitlement Offer Booklet and Entitlement Form",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02603614",
+          "priceSensitive": false
+        },
+        {
+          "id": "02600538",
+          "date": "2022-11-21",
+          "title": "Successful Completion of Institutional Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02600538",
+          "priceSensitive": true
+        },
+        {
+          "id": "02600234",
+          "date": "2022-11-18",
+          "title": "Entitlement Offer - Letter to Optionholders",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02600234",
+          "priceSensitive": false
+        },
+        {
+          "id": "02599922",
+          "date": "2022-11-18",
+          "title": "Entitlement Offer Cleansing Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02599922",
+          "priceSensitive": false
+        },
+        {
+          "id": "02599920",
+          "date": "2022-11-18",
+          "title": "Sandfire Entitlement Offer Investor Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02599920",
+          "priceSensitive": true
+        },
+        {
+          "id": "02599919",
+          "date": "2022-11-18",
+          "title": "Sandfire Announces Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02599919",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SFR&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:14:20.443Z",
+      "totalRows": 119,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SFR&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:14:21.283Z",
+      "totalRows": 83,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SFR&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:14:22.080Z",
+      "totalRows": 68,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SFR&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:14:22.877Z",
+      "totalRows": 67,
+      "rows": []
+    }
+  ]
+}

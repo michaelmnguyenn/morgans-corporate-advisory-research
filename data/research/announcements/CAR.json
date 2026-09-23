@@ -1,0 +1,133 @@
+{
+  "ticker": "CAR",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CAR&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:14:57.539Z",
+      "totalRows": 79,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CAR&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:14:58.373Z",
+      "totalRows": 81,
+      "rows": [
+        {
+          "id": "02542435",
+          "date": "2022-07-15",
+          "title": "carsales completes Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02542435",
+          "priceSensitive": true
+        },
+        {
+          "id": "02537359",
+          "date": "2022-07-01",
+          "title": "Retail Entitlement Offer and Retail Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02537359",
+          "priceSensitive": false
+        },
+        {
+          "id": "02536228",
+          "date": "2022-06-29",
+          "title": "carsales completes Institutional Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02536228",
+          "priceSensitive": true
+        },
+        {
+          "id": "02535449",
+          "date": "2022-06-27",
+          "title": "Entitlement Offer Cleansing Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02535449",
+          "priceSensitive": false
+        },
+        {
+          "id": "02535446",
+          "date": "2022-06-27",
+          "title": "Investor Presentation - Acquisition and Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02535446",
+          "priceSensitive": true
+        },
+        {
+          "id": "02535444",
+          "date": "2022-06-27",
+          "title": "carsales Announces Acquisition and Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02535444",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CAR&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:14:59.178Z",
+      "totalRows": 79,
+      "rows": [
+        {
+          "id": "02651570",
+          "date": "2023-04-05",
+          "title": "carsales Completes Retail Shortfall Bookbuild",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02651570",
+          "priceSensitive": true
+        },
+        {
+          "id": "02651402",
+          "date": "2023-04-04",
+          "title": "carsales Completes Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02651402",
+          "priceSensitive": true
+        },
+        {
+          "id": "02643597",
+          "date": "2023-03-15",
+          "title": "Retail Entitlement Offer and Retail Information Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02643597",
+          "priceSensitive": false
+        },
+        {
+          "id": "02642442",
+          "date": "2023-03-13",
+          "title": "carsales completes Institutional Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02642442",
+          "priceSensitive": true
+        },
+        {
+          "id": "02641064",
+          "date": "2023-03-08",
+          "title": "Investor Presentation - Acquisition and Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02641064",
+          "priceSensitive": true
+        },
+        {
+          "id": "02641063",
+          "date": "2023-03-08",
+          "title": "carsales announces acquisition and entitlement offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02641063",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CAR&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:14:59.941Z",
+      "totalRows": 46,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CAR&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:15:00.700Z",
+      "totalRows": 40,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CAR&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:15:01.548Z",
+      "totalRows": 84,
+      "rows": []
+    }
+  ]
+}

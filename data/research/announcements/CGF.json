@@ -1,0 +1,63 @@
+{
+  "ticker": "CGF",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CGF&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:17:26.866Z",
+      "totalRows": 192,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CGF&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:17:27.669Z",
+      "totalRows": 152,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CGF&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:17:28.639Z",
+      "totalRows": 161,
+      "rows": [
+        {
+          "id": "02642333",
+          "date": "2023-03-10",
+          "title": "Challenger Capital Notes 4 Bookbuild results and Margin set",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02642333",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CGF&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:17:29.591Z",
+      "totalRows": 146,
+      "rows": [
+        {
+          "id": "02793540",
+          "date": "2024-04-08",
+          "title": "HGH:HGH meets Challenger Bank milestone&NZ$210m equity raise",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02793540",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CGF&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:17:30.375Z",
+      "totalRows": 153,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CGF&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:17:31.398Z",
+      "totalRows": 164,
+      "rows": []
+    }
+  ]
+}

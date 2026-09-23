@@ -30,8 +30,11 @@ test('RSS accepts CDATA and rejects entities, wrong formats and external targets
   assert.throws(()=>parseFeed(rss,'<html>Unavailable</html>'));
   assert.throws(()=>parseFeed(source,JSON.stringify({items:[{title:'Placement',url:'https://different.example/a'}]})));
 });
-test('feed URL allowlist rejects local addresses, credentials, ASX and non-HTTPS',()=>{
-  for(const url of ['http://issuer.example/a','https://localhost/a','https://127.0.0.1/a','https://issuer.example:444/a','https://user:password@issuer.example/a','https://asx.com.au/a']) assert.throws(()=>safeUrl(url,['issuer.example','localhost','127.0.0.1','asx.com.au']));
+test('feed URL allowlist permits an explicitly listed ASX host and rejects unsafe URLs',()=>{
+  assert.equal(safeUrl('https://asx.com.au/a',['asx.com.au']).hostname,'asx.com.au');
+  assert.equal(safeUrl('https://asx.api.markitdigital.com/a',['asx.api.markitdigital.com']).hostname,'asx.api.markitdigital.com');
+  assert.throws(()=>safeUrl('https://asx.com.au/a',['issuer.example']));
+  for(const url of ['http://issuer.example/a','https://localhost/a','https://127.0.0.1/a','https://issuer.example:444/a','https://user:password@issuer.example/a']) assert.throws(()=>safeUrl(url,['issuer.example','localhost','127.0.0.1']));
 });
 test('complete evidence passes and any missing core fact or provenance is quarantined',()=>{
   const good=fixture(); assert.deepEqual(releaseIssues(validateDeal(good)),[]);

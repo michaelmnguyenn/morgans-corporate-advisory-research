@@ -1,0 +1,70 @@
+{
+  "ticker": "CBA",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CBA&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:10:35.815Z",
+      "totalRows": 330,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CBA&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:10:37.129Z",
+      "totalRows": 377,
+      "rows": [
+        {
+          "id": "02584890",
+          "date": "2022-10-20",
+          "title": "CommBank PERLS XV Capital Notes Bookbuild results",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02584890",
+          "priceSensitive": false
+        },
+        {
+          "id": "02495484",
+          "date": "2022-03-04",
+          "title": "CommBank PERLS XIV Capital Notes Bookbuild results",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02495484",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CBA&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:10:37.988Z",
+      "totalRows": 259,
+      "rows": [
+        {
+          "id": "02667115",
+          "date": "2023-05-17",
+          "title": "CommBank PERLS XVI Capital Notes Bookbuild Results",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02667115",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CBA&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:10:39.142Z",
+      "totalRows": 241,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CBA&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:10:40.004Z",
+      "totalRows": 147,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CBA&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:10:41.040Z",
+      "totalRows": 128,
+      "rows": []
+    }
+  ]
+}

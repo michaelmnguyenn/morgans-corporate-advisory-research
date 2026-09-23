@@ -1,0 +1,119 @@
+{
+  "ticker": "GDG",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GDG&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:26:05.238Z",
+      "totalRows": 53,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GDG&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:26:06.266Z",
+      "totalRows": 49,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GDG&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:26:07.045Z",
+      "totalRows": 44,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GDG&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:26:07.870Z",
+      "totalRows": 76,
+      "rows": [
+        {
+          "id": "02821463",
+          "date": "2024-06-25",
+          "title": "Successful completion of retail entitlement offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02821463",
+          "priceSensitive": false
+        },
+        {
+          "id": "02815872",
+          "date": "2024-06-07",
+          "title": "Retail Offer Booklet and Entitlement and Acceptance Form",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02815872",
+          "priceSensitive": true
+        },
+        {
+          "id": "02814944",
+          "date": "2024-06-05",
+          "title": "Successful completion of institutional offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02814944",
+          "priceSensitive": true
+        },
+        {
+          "id": "02813980",
+          "date": "2024-06-03",
+          "title": "Acquisition of Lonsec Holdings and equity raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02813980",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GDG&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:26:08.762Z",
+      "totalRows": 119,
+      "rows": [
+        {
+          "id": "02921682",
+          "date": "2025-03-03",
+          "title": "Successful completion of retail entitlement offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02921682",
+          "priceSensitive": false
+        },
+        {
+          "id": "02914192",
+          "date": "2025-02-14",
+          "title": "Retail Entitlement Offer booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02914192",
+          "priceSensitive": false
+        },
+        {
+          "id": "02914191",
+          "date": "2025-02-14",
+          "title": "Letter to eligible retail shareholders and entitlement form",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02914191",
+          "priceSensitive": false
+        },
+        {
+          "id": "02913358",
+          "date": "2025-02-12",
+          "title": "Successful completion of institutional offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02913358",
+          "priceSensitive": true
+        },
+        {
+          "id": "02912452",
+          "date": "2025-02-10",
+          "title": "Acquisition of Evidentia Group Holdings and Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02912452",
+          "priceSensitive": true
+        },
+        {
+          "id": "02912434",
+          "date": "2025-02-10",
+          "title": "Trading Halt - Accelerated Capital Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02912434",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GDG&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:26:09.526Z",
+      "totalRows": 51,
+      "rows": []
+    }
+  ]
+}

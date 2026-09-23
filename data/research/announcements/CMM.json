@@ -1,0 +1,55 @@
+{
+  "ticker": "CMM",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CMM&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:16:09.817Z",
+      "totalRows": 47,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CMM&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:16:10.579Z",
+      "totalRows": 49,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CMM&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:16:11.361Z",
+      "totalRows": 41,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CMM&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:16:12.106Z",
+      "totalRows": 82,
+      "rows": [
+        {
+          "id": "02875137",
+          "date": "2024-10-30",
+          "title": "Capital Raising Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02875137",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CMM&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:16:12.878Z",
+      "totalRows": 148,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CMM&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:16:13.639Z",
+      "totalRows": 63,
+      "rows": []
+    }
+  ]
+}

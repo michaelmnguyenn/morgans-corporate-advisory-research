@@ -1,0 +1,148 @@
+{
+  "ticker": "4DX",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=4DX&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:22:02.849Z",
+      "totalRows": 72,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=4DX&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:22:03.576Z",
+      "totalRows": 44,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=4DX&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:22:04.359Z",
+      "totalRows": 99,
+      "rows": [
+        {
+          "id": "02752708",
+          "date": "2023-12-11",
+          "title": "Investor Presentation Imbio acquisition and capital raise",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02752708",
+          "priceSensitive": true
+        },
+        {
+          "id": "02752705",
+          "date": "2023-12-11",
+          "title": "4DMedical acquires Imbio and completes equity raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02752705",
+          "priceSensitive": true
+        },
+        {
+          "id": "02670629",
+          "date": "2023-05-29",
+          "title": "4DMedical completes oversubscribed $25m SPP",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02670629",
+          "priceSensitive": true
+        },
+        {
+          "id": "02663492",
+          "date": "2023-05-08",
+          "title": "Investor Presentation Capital Raise",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02663492",
+          "priceSensitive": true
+        },
+        {
+          "id": "02663489",
+          "date": "2023-05-08",
+          "title": "4DMedical completes $20m Placement and launches SPP",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02663489",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=4DX&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:22:05.135Z",
+      "totalRows": 76,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=4DX&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:22:06.157Z",
+      "totalRows": 149,
+      "rows": [
+        {
+          "id": "02929944",
+          "date": "2025-03-25",
+          "title": "4DMedical completes oversubscribed $8.4m SPP",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02929944",
+          "priceSensitive": true
+        },
+        {
+          "id": "02920907",
+          "date": "2025-02-28",
+          "title": "Cleansing Notice - Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02920907",
+          "priceSensitive": false
+        },
+        {
+          "id": "02918359",
+          "date": "2025-02-25",
+          "title": "Share Purchase Plan Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02918359",
+          "priceSensitive": true
+        },
+        {
+          "id": "02918325",
+          "date": "2025-02-25",
+          "title": "Cleansing Notice - SPP",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02918325",
+          "priceSensitive": false
+        },
+        {
+          "id": "02917171",
+          "date": "2025-02-21",
+          "title": "Webinar Details - Capital Raise",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02917171",
+          "priceSensitive": false
+        },
+        {
+          "id": "02917168",
+          "date": "2025-02-21",
+          "title": "INVESTOR PRESENTATION - CAPITAL RAISE",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02917168",
+          "priceSensitive": true
+        },
+        {
+          "id": "02917164",
+          "date": "2025-02-21",
+          "title": "4DMedical completes Placement & launches underwritten SPP",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02917164",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=4DX&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:22:06.968Z",
+      "totalRows": 102,
+      "rows": [
+        {
+          "id": "03076657",
+          "date": "2026-03-27",
+          "title": "CE Mark for CTVQ and $83M placement to fund EU expansion",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03076657",
+          "priceSensitive": true
+        },
+        {
+          "id": "03050109",
+          "date": "2026-01-15",
+          "title": "4DMedical completes $150 million institutional placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03050109",
+          "priceSensitive": true
+        }
+      ]
+    }
+  ]
+}

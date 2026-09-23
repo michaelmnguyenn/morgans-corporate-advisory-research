@@ -1,0 +1,47 @@
+{
+  "ticker": "REA",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=REA&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:15:41.879Z",
+      "totalRows": 59,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=REA&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:15:42.647Z",
+      "totalRows": 43,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=REA&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:15:43.403Z",
+      "totalRows": 47,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=REA&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:15:44.182Z",
+      "totalRows": 54,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=REA&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:15:44.965Z",
+      "totalRows": 51,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=REA&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:15:45.715Z",
+      "totalRows": 88,
+      "rows": []
+    }
+  ]
+}

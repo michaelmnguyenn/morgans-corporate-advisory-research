@@ -1,0 +1,47 @@
+{
+  "ticker": "TNE",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TNE&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:15:32.047Z",
+      "totalRows": 68,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TNE&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:15:32.849Z",
+      "totalRows": 65,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TNE&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:15:33.625Z",
+      "totalRows": 54,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TNE&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:15:34.519Z",
+      "totalRows": 78,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TNE&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:15:35.343Z",
+      "totalRows": 76,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TNE&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:15:36.112Z",
+      "totalRows": 54,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,70 @@
+{
+  "ticker": "CSL",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CSL&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:10:59.980Z",
+      "totalRows": 82,
+      "rows": [
+        {
+          "id": "02469456",
+          "date": "2021-12-21",
+          "title": "Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02469456",
+          "priceSensitive": false
+        },
+        {
+          "id": "02467503",
+          "date": "2021-12-16",
+          "title": "Successful Completion of A$6.3B Institutional Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02467503",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CSL&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:11:00.774Z",
+      "totalRows": 69,
+      "rows": [
+        {
+          "id": "02485992",
+          "date": "2022-02-14",
+          "title": "CSL completes A$750 million Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02485992",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CSL&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:11:01.569Z",
+      "totalRows": 62,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CSL&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:11:02.385Z",
+      "totalRows": 68,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CSL&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:11:03.143Z",
+      "totalRows": 112,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CSL&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:11:03.860Z",
+      "totalRows": 122,
+      "rows": []
+    }
+  ]
+}

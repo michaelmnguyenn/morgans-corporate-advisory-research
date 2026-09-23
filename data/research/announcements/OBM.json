@@ -1,0 +1,98 @@
+{
+  "ticker": "OBM",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=OBM&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:21:19.222Z",
+      "totalRows": 70,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=OBM&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:21:19.965Z",
+      "totalRows": 66,
+      "rows": [
+        {
+          "id": "02502241",
+          "date": "2022-03-24",
+          "title": "Ora Banda Completes A$20M Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02502241",
+          "priceSensitive": true
+        },
+        {
+          "id": "02494333",
+          "date": "2022-03-01",
+          "title": "Dispatch of Retail Offer Booklet Complete",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02494333",
+          "priceSensitive": false
+        },
+        {
+          "id": "02493995",
+          "date": "2022-03-01",
+          "title": "Retail Entitlement Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02493995",
+          "priceSensitive": true
+        },
+        {
+          "id": "02491040",
+          "date": "2022-02-24",
+          "title": "Ora Banda $20M Equity Capital Raise Update",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02491040",
+          "priceSensitive": true
+        },
+        {
+          "id": "02489914",
+          "date": "2022-02-22",
+          "title": "Retail Entitlement Offer - Notice to Optionholders",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02489914",
+          "priceSensitive": false
+        },
+        {
+          "id": "02489640",
+          "date": "2022-02-22",
+          "title": "Ora Banda Launches up to $20M Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02489640",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=OBM&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:21:20.719Z",
+      "totalRows": 79,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=OBM&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:21:21.568Z",
+      "totalRows": 85,
+      "rows": [
+        {
+          "id": "02780584",
+          "date": "2024-03-01",
+          "title": "A$30m Placement to Advance Sand King Underground",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02780584",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=OBM&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:21:22.405Z",
+      "totalRows": 82,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=OBM&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:21:23.147Z",
+      "totalRows": 61,
+      "rows": []
+    }
+  ]
+}

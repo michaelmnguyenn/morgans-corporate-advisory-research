@@ -1,0 +1,55 @@
+{
+  "ticker": "SUN",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SUN&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:12:35.118Z",
+      "totalRows": 148,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SUN&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:12:35.899Z",
+      "totalRows": 109,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SUN&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:12:36.862Z",
+      "totalRows": 110,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SUN&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:12:37.673Z",
+      "totalRows": 117,
+      "rows": [
+        {
+          "id": "02797546",
+          "date": "2024-04-18",
+          "title": "Suncorp successfully completes Capital Notes 5 Bookbuild",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02797546",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SUN&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:12:38.487Z",
+      "totalRows": 115,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SUN&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:12:39.272Z",
+      "totalRows": 111,
+      "rows": []
+    }
+  ]
+}

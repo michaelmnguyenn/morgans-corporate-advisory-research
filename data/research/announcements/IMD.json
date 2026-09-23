@@ -1,0 +1,83 @@
+{
+  "ticker": "IMD",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IMD&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:23:15.948Z",
+      "totalRows": 65,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IMD&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:23:16.794Z",
+      "totalRows": 54,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IMD&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:23:17.566Z",
+      "totalRows": 116,
+      "rows": [
+        {
+          "id": "02629810",
+          "date": "2023-02-09",
+          "title": "Completion of Retail Component of A$224M Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02629810",
+          "priceSensitive": true
+        },
+        {
+          "id": "02625589",
+          "date": "2023-01-31",
+          "title": "Institutional Placement Cleansing Statement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02625589",
+          "priceSensitive": false
+        },
+        {
+          "id": "02624340",
+          "date": "2023-01-27",
+          "title": "Retail Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02624340",
+          "priceSensitive": true
+        },
+        {
+          "id": "02623047",
+          "date": "2023-01-23",
+          "title": "Equity Raise - Institutional Component Result",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02623047",
+          "priceSensitive": true
+        },
+        {
+          "id": "02622608",
+          "date": "2023-01-19",
+          "title": "Announcement of Entitlement Offer - Shareholder Notification",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02622608",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IMD&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:23:18.334Z",
+      "totalRows": 114,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IMD&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:23:19.122Z",
+      "totalRows": 98,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IMD&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:23:19.906Z",
+      "totalRows": 50,
+      "rows": []
+    }
+  ]
+}

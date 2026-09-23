@@ -1,0 +1,98 @@
+{
+  "ticker": "AIA",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AIA&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:20:55.124Z",
+      "totalRows": 40,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AIA&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:20:55.970Z",
+      "totalRows": 53,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AIA&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:20:56.705Z",
+      "totalRows": 60,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AIA&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:20:57.452Z",
+      "totalRows": 73,
+      "rows": [
+        {
+          "id": "02866292",
+          "date": "2024-10-11",
+          "title": "AIA - Capital Change Notice (Retail Offer)",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02866292",
+          "priceSensitive": false
+        },
+        {
+          "id": "02865717",
+          "date": "2024-10-10",
+          "title": "AIA - Auckland Airport Retail Offer Oversubscribed",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02865717",
+          "priceSensitive": true
+        },
+        {
+          "id": "02856108",
+          "date": "2024-09-20",
+          "title": "AIA - Capital Change Notice for Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02856108",
+          "priceSensitive": false
+        },
+        {
+          "id": "02855310",
+          "date": "2024-09-19",
+          "title": "AIA - Announces opening of $200 million retail offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02855310",
+          "priceSensitive": true
+        },
+        {
+          "id": "02854466",
+          "date": "2024-09-17",
+          "title": "AIA - $1.2 billion Placement Fully Subscribed",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02854466",
+          "priceSensitive": true
+        },
+        {
+          "id": "02853783",
+          "date": "2024-09-16",
+          "title": "AIA - announces $1.4 billion equity raise",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02853783",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AIA&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:20:58.190Z",
+      "totalRows": 63,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AIA&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:20:59.568Z",
+      "totalRows": 37,
+      "rows": [
+        {
+          "id": "03139161",
+          "date": "2026-09-14",
+          "title": "AIA - D&O Notices (SPP September 2026)",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03139161",
+          "priceSensitive": false
+        }
+      ]
+    }
+  ]
+}

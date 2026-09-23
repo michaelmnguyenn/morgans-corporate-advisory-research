@@ -1,0 +1,192 @@
+{
+  "ticker": "BGL",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BGL&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:21:00.354Z",
+      "totalRows": 111,
+      "rows": [
+        {
+          "id": "02453262",
+          "date": "2021-11-17",
+          "title": "Share purchase plan closes heavily oversubscribed",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02453262",
+          "priceSensitive": false
+        },
+        {
+          "id": "02449171",
+          "date": "2021-11-09",
+          "title": "Final SPP Closing Reminder",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02449171",
+          "priceSensitive": false
+        },
+        {
+          "id": "02443089",
+          "date": "2021-10-28",
+          "title": "Extension to SPP closing date",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02443089",
+          "priceSensitive": false
+        },
+        {
+          "id": "02437366",
+          "date": "2021-10-18",
+          "title": "Extension to SPP closing date",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02437366",
+          "priceSensitive": false
+        },
+        {
+          "id": "02428635",
+          "date": "2021-09-30",
+          "title": "Extension to SPP closing date",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02428635",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BGL&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:21:01.071Z",
+      "totalRows": 99,
+      "rows": [
+        {
+          "id": "02612196",
+          "date": "2022-12-14",
+          "title": "Letter to Shareholders regarding Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02612196",
+          "priceSensitive": false
+        },
+        {
+          "id": "02612194",
+          "date": "2022-12-14",
+          "title": "Share Purchase Plan Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02612194",
+          "priceSensitive": true
+        },
+        {
+          "id": "02609388",
+          "date": "2022-12-07",
+          "title": "Successful completion of A$60M placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02609388",
+          "priceSensitive": true
+        },
+        {
+          "id": "02608828",
+          "date": "2022-12-06",
+          "title": "Progress update and capital raising presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02608828",
+          "priceSensitive": true
+        },
+        {
+          "id": "02608827",
+          "date": "2022-12-06",
+          "title": "Progress update and capital raising announcement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02608827",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BGL&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:21:01.948Z",
+      "totalRows": 98,
+      "rows": [
+        {
+          "id": "02622698",
+          "date": "2023-01-20",
+          "title": "Share Purchase Plan closes heavily oversubscribed",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02622698",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BGL&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:21:02.808Z",
+      "totalRows": 109,
+      "rows": [
+        {
+          "id": "02845137",
+          "date": "2024-08-28",
+          "title": "Completion of share purchase plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02845137",
+          "priceSensitive": false
+        },
+        {
+          "id": "02835244",
+          "date": "2024-08-01",
+          "title": "Letter to shareholders regarding Share Purchase Plan Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02835244",
+          "priceSensitive": false
+        },
+        {
+          "id": "02835231",
+          "date": "2024-08-01",
+          "title": "Share Purchase Plan Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02835231",
+          "priceSensitive": false
+        },
+        {
+          "id": "02832528",
+          "date": "2024-07-26",
+          "title": "Successful completion of A$150M placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02832528",
+          "priceSensitive": true
+        },
+        {
+          "id": "02832106",
+          "date": "2024-07-25",
+          "title": "5 Year Growth Plan and Equity Raising Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02832106",
+          "priceSensitive": true
+        },
+        {
+          "id": "02832104",
+          "date": "2024-07-25",
+          "title": "5 Year Growth Plan and Equity Raising Technical Document",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02832104",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BGL&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:21:03.573Z",
+      "totalRows": 115,
+      "rows": [
+        {
+          "id": "02938242",
+          "date": "2025-04-15",
+          "title": "Successful completion of A$156.5M institutional placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02938242",
+          "priceSensitive": true
+        },
+        {
+          "id": "02937722",
+          "date": "2025-04-14",
+          "title": "Equity raising to further de-risk production outlook",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02937722",
+          "priceSensitive": true
+        },
+        {
+          "id": "02937721",
+          "date": "2025-04-14",
+          "title": "Updated guidance and equity raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02937721",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BGL&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:21:04.517Z",
+      "totalRows": 82,
+      "rows": []
+    }
+  ]
+}

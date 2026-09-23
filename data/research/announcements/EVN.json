@@ -1,0 +1,92 @@
+{
+  "ticker": "EVN",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=EVN&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:12:09.571Z",
+      "totalRows": 96,
+      "rows": [
+        {
+          "id": "02431232",
+          "date": "2021-10-05",
+          "title": "NML: Acquisition of Mt Carlton & Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02431232",
+          "priceSensitive": true
+        },
+        {
+          "id": "02431231",
+          "date": "2021-10-05",
+          "title": "NML: Acquisition of Mt Carlton & Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02431231",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=EVN&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:12:10.399Z",
+      "totalRows": 85,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=EVN&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:12:11.279Z",
+      "totalRows": 117,
+      "rows": [
+        {
+          "id": "02753707",
+          "date": "2023-12-13",
+          "title": "Notification of Share Purchase Plan Opening",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02753707",
+          "priceSensitive": true
+        },
+        {
+          "id": "02750938",
+          "date": "2023-12-06",
+          "title": "Completion of A$525 million Institutional Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02750938",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=EVN&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:12:12.180Z",
+      "totalRows": 93,
+      "rows": [
+        {
+          "id": "02770154",
+          "date": "2024-02-06",
+          "title": "Share Purchase Plan Completion",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02770154",
+          "priceSensitive": false
+        },
+        {
+          "id": "02762218",
+          "date": "2024-01-11",
+          "title": "Extension of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02762218",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=EVN&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:12:13.015Z",
+      "totalRows": 97,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=EVN&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:12:13.794Z",
+      "totalRows": 59,
+      "rows": []
+    }
+  ]
+}

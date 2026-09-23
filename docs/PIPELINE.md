@@ -1,6 +1,6 @@
 # Local evidence pipeline
 
-The website reads the bundled `data/release.json` and needs no account, database or network connection to calculate scenarios. Research records remain in `.local/records.json` until the explicit release command checks their evidence. No deployment, scheduled job or hosted database has been activated.
+The website reads the bundled `data/release.json` and needs no account, database or network connection to calculate scenarios. Research records remain in `.local/records.json` until the explicit release command checks their evidence. No deployment or hosted database has been activated. The GitHub Pages workflow contains a schedule for the separate daily announcement screen, which will only run once the repository and Pages deployment are set up.
 
 ## Import and publish
 
@@ -43,9 +43,15 @@ npm run data:update
 npm run data:pdf -- /absolute/path/announcement.pdf
 ```
 
+`npm run data:today` separately reads the public ASX market-wide announcement JSON and writes `data/daily-announcements.json`. The `/today` screen shows same-day headline candidates with company, ticker and sector where supplied, and lets a researcher save items and notes in that browser. It does not verify transaction terms, identify every capital raising, provide exact filing links or add cases to the released precedent set. The feed covers the broader ASX market, not a point-in-time ASX 200 membership list. Run the command before `npm run build` for a current snapshot; the static site cannot refresh itself in the browser.
+
+`npm run data:backfill -- --all` builds the separate current-ASX-200 headline index in `data/research/` and `/precedents`, using IOZ equity holdings as the current-company proxy and the ASX yearly company announcement search as the document index. The [research data map](RESEARCH-DATA.md) describes the folders, coverage measures, headline grouping, source links and the remaining field-verification work. This backfill is manual and is not part of the daily deployment job.
+
+When uploaded to GitHub with Pages enabled, `.github/workflows/deploy-pages.yml` checks the daily feed at 00:17, 02:17, 04:17, 06:17 and 08:17 UTC on weekdays, subject to GitHub Actions scheduling delays and the ASX endpoint remaining available. A failed collection stops that deployment and leaves the previous published site in place; the page displays its last checked time. The worker scans pages until the previous Sydney day and rejects an incomplete run after 30 pages. No paid scraping platform or Apify credentials are required. Access permission was stated by the project owner and should be reviewed before wider redistribution.
+
 Discovery supports reviewed JSON Feed and RSS 2.0 endpoints in `data/source-registry.json`. Each source requires an enabled flag, recorded access review, review date, rights note and exact hostname allowlist. The initial registry can be empty, in which case the command explicitly reports that no unattended coverage exists. Do not treat recent manual research as a market-wide checked-through date.
 
-The worker applies conditional requests, a 2 MB feed limit, a 15-second request timeout, a 40-feed run limit and spacing between requests to one host. It rejects redirects, private addresses and automated ASX endpoints. Failed sources retain their previous successful cursor and store the error. A changed feed item returns to the unresolved queue. A feed title identifies a candidate; discovery never promotes it into a completed deal.
+The worker applies conditional requests, a 2 MB feed limit, a 15-second request timeout, a 40-feed run limit and spacing between requests to one host. It rejects redirects and private addresses. An ASX host can be configured when its exact hostname is allowlisted and the registry records the reviewed access permission, but the current worker only understands JSON Feed and RSS, not ASX's announcement JSON. Failed sources retain their previous successful cursor and store the error. A changed feed item returns to the unresolved queue. A feed title identifies a candidate; discovery never promotes it into a completed deal.
 
 The PDF command extracts local text with Poppler or the pinned pypdf fallback. To install the fallback in this project:
 
@@ -56,7 +62,7 @@ python3 -m venv .local/pdf-venv
 
 `PDF_PYTHON` can select another interpreter with pypdf installed. The worker retains page references and candidate lines in `.local/extracted/`, limits PDFs to 30 MB and stops extraction after 30 seconds. Scanned PDFs with little extracted text are marked `needsOcr`. OCR and semantic event extraction are not implemented; those files require further research and cannot publish themselves.
 
-There is no active refresh schedule. `.github/workflows/manual-check.yml` runs only when manually dispatched after a future GitHub upload, checks the application and never collects or publishes data. Connecting permitted feeds, setting a local or hosted schedule and maintaining unfamiliar-document exceptions remain separate operating work. The current tool does not promise that all future ASX raises will appear automatically.
+The general evidence pipeline has no active refresh schedule. `.github/workflows/manual-check.yml` runs only when manually dispatched after a future GitHub upload, checks the application and never collects or publishes deal data. Connecting permitted feeds and maintaining unfamiliar-document exceptions remain separate operating work. The scheduled daily headline screen does not promise that all future ASX raises will appear automatically.
 
 ## Optional PostgreSQL storage
 

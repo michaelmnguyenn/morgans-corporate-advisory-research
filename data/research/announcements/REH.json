@@ -1,0 +1,47 @@
+{
+  "ticker": "REH",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=REH&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:18:32.382Z",
+      "totalRows": 23,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=REH&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:18:33.096Z",
+      "totalRows": 23,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=REH&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:18:33.966Z",
+      "totalRows": 26,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=REH&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:18:34.723Z",
+      "totalRows": 39,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=REH&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:18:35.467Z",
+      "totalRows": 59,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=REH&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:18:36.217Z",
+      "totalRows": 31,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "ticker": "NEM",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NEM&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:13:34.736Z",
+      "totalRows": 0,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NEM&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:13:35.439Z",
+      "totalRows": 0,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NEM&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:13:36.171Z",
+      "totalRows": 30,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NEM&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:13:36.999Z",
+      "totalRows": 127,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NEM&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:13:37.913Z",
+      "totalRows": 145,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NEM&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:13:38.847Z",
+      "totalRows": 128,
+      "rows": []
+    }
+  ]
+}

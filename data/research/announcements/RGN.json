@@ -1,0 +1,47 @@
+{
+  "ticker": "RGN",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=RGN&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:20:36.607Z",
+      "totalRows": 0,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=RGN&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:20:37.302Z",
+      "totalRows": 14,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=RGN&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:20:38.038Z",
+      "totalRows": 54,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=RGN&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:20:38.775Z",
+      "totalRows": 39,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=RGN&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:20:39.580Z",
+      "totalRows": 95,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=RGN&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:20:40.319Z",
+      "totalRows": 60,
+      "rows": []
+    }
+  ]
+}

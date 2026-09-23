@@ -1,0 +1,133 @@
+{
+  "ticker": "IFT",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IFT&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:23:44.755Z",
+      "totalRows": 71,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IFT&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:23:45.533Z",
+      "totalRows": 58,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IFT&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:23:46.384Z",
+      "totalRows": 76,
+      "rows": [
+        {
+          "id": "02683564",
+          "date": "2023-07-05",
+          "title": "Amended Capital Change Notice for Retail Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02683564",
+          "priceSensitive": false
+        },
+        {
+          "id": "02682801",
+          "date": "2023-07-04",
+          "title": "Capital Change Notice for Retail Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02682801",
+          "priceSensitive": false
+        },
+        {
+          "id": "02681205",
+          "date": "2023-06-30",
+          "title": "Retail Offer Oversubscribed",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02681205",
+          "priceSensitive": false
+        },
+        {
+          "id": "02675102",
+          "date": "2023-06-13",
+          "title": "Infratil announces opening of NZ$100 million Retail Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02675102",
+          "priceSensitive": true
+        },
+        {
+          "id": "02674324",
+          "date": "2023-06-08",
+          "title": "Infratil successfully completes NZ$750 million placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02674324",
+          "priceSensitive": true
+        },
+        {
+          "id": "02673751",
+          "date": "2023-06-07",
+          "title": "Infratil announces NZ$850 million equity raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02673751",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IFT&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:23:47.210Z",
+      "totalRows": 78,
+      "rows": [
+        {
+          "id": "02820421",
+          "date": "2024-06-21",
+          "title": "Capital Change Notice for Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02820421",
+          "priceSensitive": false
+        },
+        {
+          "id": "02820032",
+          "date": "2024-06-20",
+          "title": "ASX Appendix 2A (Placement)",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02820032",
+          "priceSensitive": false
+        },
+        {
+          "id": "02819802",
+          "date": "2024-06-20",
+          "title": "Infratil announces opening of NZ$150 million Retail Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02819802",
+          "priceSensitive": true
+        },
+        {
+          "id": "02818937",
+          "date": "2024-06-18",
+          "title": "Infratil successfully completes NZ$1,000 million placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02818937",
+          "priceSensitive": true
+        },
+        {
+          "id": "02818335",
+          "date": "2024-06-17",
+          "title": "ASX Appendix 3B (Placement and Retail Offer)",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02818335",
+          "priceSensitive": false
+        },
+        {
+          "id": "02818334",
+          "date": "2024-06-17",
+          "title": "Infratil announces NZ$1,150 million equity raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02818334",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IFT&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:23:47.966Z",
+      "totalRows": 89,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IFT&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:23:48.692Z",
+      "totalRows": 51,
+      "rows": []
+    }
+  ]
+}

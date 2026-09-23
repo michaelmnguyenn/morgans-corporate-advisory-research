@@ -1,0 +1,47 @@
+{
+  "ticker": "BXB",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BXB&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:12:19.928Z",
+      "totalRows": 277,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BXB&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:12:20.751Z",
+      "totalRows": 220,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BXB&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:12:21.521Z",
+      "totalRows": 113,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BXB&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:12:22.392Z",
+      "totalRows": 168,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BXB&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:12:23.598Z",
+      "totalRows": 350,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=BXB&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:12:24.437Z",
+      "totalRows": 256,
+      "rows": []
+    }
+  ]
+}

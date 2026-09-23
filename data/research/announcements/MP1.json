@@ -1,0 +1,119 @@
+{
+  "ticker": "MP1",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MP1&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:18:02.898Z",
+      "totalRows": 106,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MP1&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:18:03.766Z",
+      "totalRows": 117,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MP1&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:18:04.714Z",
+      "totalRows": 112,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MP1&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:18:05.562Z",
+      "totalRows": 101,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MP1&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:18:06.368Z",
+      "totalRows": 78,
+      "rows": [
+        {
+          "id": "03039891",
+          "date": "2025-12-11",
+          "title": "Results of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03039891",
+          "priceSensitive": false
+        },
+        {
+          "id": "03027700",
+          "date": "2025-11-18",
+          "title": "SPP Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03027700",
+          "priceSensitive": false
+        },
+        {
+          "id": "03024223",
+          "date": "2025-11-12",
+          "title": "Megaport Completes Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03024223",
+          "priceSensitive": true
+        },
+        {
+          "id": "03023569",
+          "date": "2025-11-11",
+          "title": "Equity Raising Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03023569",
+          "priceSensitive": true
+        },
+        {
+          "id": "03023568",
+          "date": "2025-11-11",
+          "title": "Equity Raising Announcement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03023568",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MP1&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:18:07.248Z",
+      "totalRows": 81,
+      "rows": [
+        {
+          "id": "03110744",
+          "date": "2026-07-02",
+          "title": "Successful Completion of Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03110744",
+          "priceSensitive": false
+        },
+        {
+          "id": "03103025",
+          "date": "2026-06-11",
+          "title": "Retail Entitlement Offer Announcement and Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03103025",
+          "priceSensitive": true
+        },
+        {
+          "id": "03101439",
+          "date": "2026-06-05",
+          "title": "Megaport Completes Institutional Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03101439",
+          "priceSensitive": true
+        },
+        {
+          "id": "03100362",
+          "date": "2026-06-03",
+          "title": "Entitlement Offer Cleansing Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03100362",
+          "priceSensitive": false
+        },
+        {
+          "id": "03100358",
+          "date": "2026-06-03",
+          "title": "Creation of GPU Pool, New Contracts and Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03100358",
+          "priceSensitive": true
+        }
+      ]
+    }
+  ]
+}

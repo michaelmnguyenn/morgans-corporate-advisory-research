@@ -1,0 +1,113 @@
+{
+  "ticker": "MSB",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MSB&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:22:21.617Z",
+      "totalRows": 64,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MSB&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:22:22.373Z",
+      "totalRows": 80,
+      "rows": [
+        {
+          "id": "02551272",
+          "date": "2022-08-09",
+          "title": "US$45 Million Private Placement to Major Shareholders",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02551272",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MSB&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:22:23.202Z",
+      "totalRows": 79,
+      "rows": [
+        {
+          "id": "02759043",
+          "date": "2023-12-28",
+          "title": "Update on Institutional Placement and Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02759043",
+          "priceSensitive": false
+        },
+        {
+          "id": "02753372",
+          "date": "2023-12-12",
+          "title": "Institutional Placement Cleansing Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02753372",
+          "priceSensitive": false
+        },
+        {
+          "id": "02749922",
+          "date": "2023-12-04",
+          "title": "Entitlement Offer Cleansing Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02749922",
+          "priceSensitive": false
+        },
+        {
+          "id": "02749918",
+          "date": "2023-12-04",
+          "title": "Appendix 3B Entitlement Offer and Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02749918",
+          "priceSensitive": false
+        },
+        {
+          "id": "02749910",
+          "date": "2023-12-04",
+          "title": "Entitlement Offer and Placement Investor Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02749910",
+          "priceSensitive": true
+        },
+        {
+          "id": "02749878",
+          "date": "2023-12-04",
+          "title": "MSB Launches Entitlement Offer and Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02749878",
+          "priceSensitive": true
+        },
+        {
+          "id": "02657883",
+          "date": "2023-04-26",
+          "title": "Mesoblast Completes Private Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02657883",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MSB&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:22:23.966Z",
+      "totalRows": 85,
+      "rows": [
+        {
+          "id": "02785297",
+          "date": "2024-03-14",
+          "title": "Mesoblast Completes Placement and Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02785297",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MSB&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:22:24.775Z",
+      "totalRows": 143,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MSB&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:22:25.540Z",
+      "totalRows": 78,
+      "rows": []
+    }
+  ]
+}

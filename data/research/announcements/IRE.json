@@ -1,0 +1,47 @@
+{
+  "ticker": "IRE",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IRE&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:25:55.758Z",
+      "totalRows": 131,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IRE&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:25:56.548Z",
+      "totalRows": 144,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IRE&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:25:57.297Z",
+      "totalRows": 73,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IRE&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:25:58.154Z",
+      "totalRows": 80,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IRE&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:25:58.915Z",
+      "totalRows": 96,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=IRE&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:25:59.668Z",
+      "totalRows": 68,
+      "rows": []
+    }
+  ]
+}

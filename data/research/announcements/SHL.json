@@ -1,0 +1,47 @@
+{
+  "ticker": "SHL",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SHL&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:14:38.351Z",
+      "totalRows": 55,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SHL&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:14:39.192Z",
+      "totalRows": 125,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SHL&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:14:39.990Z",
+      "totalRows": 83,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SHL&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:14:40.760Z",
+      "totalRows": 66,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SHL&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:14:41.621Z",
+      "totalRows": 60,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SHL&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:14:42.377Z",
+      "totalRows": 23,
+      "rows": []
+    }
+  ]
+}

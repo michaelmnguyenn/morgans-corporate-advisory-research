@@ -1,0 +1,140 @@
+{
+  "ticker": "DVP",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=DVP&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:24:59.890Z",
+      "totalRows": 28,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=DVP&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:25:00.633Z",
+      "totalRows": 104,
+      "rows": [
+        {
+          "id": "02500162",
+          "date": "2022-03-17",
+          "title": "Completion of Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02500162",
+          "priceSensitive": false
+        },
+        {
+          "id": "02497833",
+          "date": "2022-03-10",
+          "title": "Closing of Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02497833",
+          "priceSensitive": false
+        },
+        {
+          "id": "02494649",
+          "date": "2022-03-02",
+          "title": "Appendix 3B (Extension of Retail Offer)",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02494649",
+          "priceSensitive": false
+        },
+        {
+          "id": "02494479",
+          "date": "2022-03-02",
+          "title": "Extension of Closing Date for Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02494479",
+          "priceSensitive": true
+        },
+        {
+          "id": "02493276",
+          "date": "2022-02-28",
+          "title": "Placement Cleansing Statement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02493276",
+          "priceSensitive": false
+        },
+        {
+          "id": "02490898",
+          "date": "2022-02-24",
+          "title": "Open of Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02490898",
+          "priceSensitive": false
+        },
+        {
+          "id": "02490895",
+          "date": "2022-02-24",
+          "title": "Retail Entitlement Offer Information Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02490895",
+          "priceSensitive": true
+        },
+        {
+          "id": "02490868",
+          "date": "2022-02-24",
+          "title": "Retail Entitlement Offer - Letter to Ineligible Shareholders",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02490868",
+          "priceSensitive": false
+        },
+        {
+          "id": "02490865",
+          "date": "2022-02-24",
+          "title": "Retail Entitlement Offer - Letter to Eligible Shareholders",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02490865",
+          "priceSensitive": false
+        },
+        {
+          "id": "02488977",
+          "date": "2022-02-21",
+          "title": "Develop Completes $37m Placement & Institutional Entitlement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02488977",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=DVP&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:25:01.423Z",
+      "totalRows": 133,
+      "rows": [
+        {
+          "id": "02691637",
+          "date": "2023-07-28",
+          "title": "Successful completion of Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02691637",
+          "priceSensitive": false
+        },
+        {
+          "id": "02685034",
+          "date": "2023-07-10",
+          "title": "Retail Entitlement Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02685034",
+          "priceSensitive": true
+        },
+        {
+          "id": "02683471",
+          "date": "2023-07-05",
+          "title": "Placement and Institutional Entitlement Offer Completed",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02683471",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=DVP&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:25:02.195Z",
+      "totalRows": 94,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=DVP&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:25:02.956Z",
+      "totalRows": 89,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=DVP&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:25:03.690Z",
+      "totalRows": 59,
+      "rows": []
+    }
+  ]
+}

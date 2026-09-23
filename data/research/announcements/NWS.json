@@ -1,0 +1,47 @@
+{
+  "ticker": "NWS",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NWS&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:22:45.238Z",
+      "totalRows": 219,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NWS&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:22:46.274Z",
+      "totalRows": 559,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NWS&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:22:47.351Z",
+      "totalRows": 615,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NWS&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:22:48.526Z",
+      "totalRows": 734,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NWS&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:22:49.704Z",
+      "totalRows": 717,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NWS&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:22:50.612Z",
+      "totalRows": 504,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,147 @@
+{
+  "ticker": "PDN",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PDN&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:10:22.401Z",
+      "totalRows": 83,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PDN&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:10:23.170Z",
+      "totalRows": 67,
+      "rows": [
+        {
+          "id": "02517319",
+          "date": "2022-05-03",
+          "title": "Successful Completion of A$15 Million Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02517319",
+          "priceSensitive": true
+        },
+        {
+          "id": "02507880",
+          "date": "2022-04-07",
+          "title": "Placement Cleansing Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02507880",
+          "priceSensitive": false
+        },
+        {
+          "id": "02507316",
+          "date": "2022-04-06",
+          "title": "Share Purchase Plan Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02507316",
+          "priceSensitive": true
+        },
+        {
+          "id": "02507304",
+          "date": "2022-04-06",
+          "title": "Share Purchase Plan Opens",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02507304",
+          "priceSensitive": true
+        },
+        {
+          "id": "02507226",
+          "date": "2022-04-06",
+          "title": "Share Purchase Plan Cleansing Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02507226",
+          "priceSensitive": false
+        },
+        {
+          "id": "02505601",
+          "date": "2022-04-01",
+          "title": "Successful Completion of A$200 Million Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02505601",
+          "priceSensitive": true
+        },
+        {
+          "id": "02504999",
+          "date": "2022-03-31",
+          "title": "Equity Raising Investor Presentation March 2022",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02504999",
+          "priceSensitive": true
+        },
+        {
+          "id": "02504911",
+          "date": "2022-03-31",
+          "title": "Fully Underwritten $200m Placement - Langer Heinrich Restart",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02504911",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PDN&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:10:23.999Z",
+      "totalRows": 52,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PDN&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:10:24.979Z",
+      "totalRows": 110,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PDN&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:10:25.767Z",
+      "totalRows": 129,
+      "rows": [
+        {
+          "id": "03010671",
+          "date": "2025-10-16",
+          "title": "Paladin completes Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03010671",
+          "priceSensitive": false
+        },
+        {
+          "id": "02999871",
+          "date": "2025-09-25",
+          "title": "Share Purchase Plan Opens",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02999871",
+          "priceSensitive": false
+        },
+        {
+          "id": "02998733",
+          "date": "2025-09-23",
+          "title": "Placement Cleansing Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02998733",
+          "priceSensitive": false
+        },
+        {
+          "id": "02996214",
+          "date": "2025-09-17",
+          "title": "Paladin successfully completes A$300M equity raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02996214",
+          "priceSensitive": true
+        },
+        {
+          "id": "02995741",
+          "date": "2025-09-16",
+          "title": "A$300M Fully Underwritten Equity Raising - Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02995741",
+          "priceSensitive": true
+        },
+        {
+          "id": "02995638",
+          "date": "2025-09-16",
+          "title": "A$300M Fully Underwritten Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02995638",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PDN&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:10:26.552Z",
+      "totalRows": 57,
+      "rows": []
+    }
+  ]
+}

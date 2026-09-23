@@ -1,0 +1,47 @@
+{
+  "ticker": "FMG",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FMG&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:12:04.702Z",
+      "totalRows": 71,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FMG&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:12:05.524Z",
+      "totalRows": 74,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FMG&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:12:06.264Z",
+      "totalRows": 80,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FMG&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:12:07.009Z",
+      "totalRows": 64,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FMG&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:12:07.856Z",
+      "totalRows": 87,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FMG&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:12:08.643Z",
+      "totalRows": 54,
+      "rows": []
+    }
+  ]
+}

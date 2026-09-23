@@ -1,0 +1,91 @@
+{
+  "ticker": "TCL",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TCL&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:11:40.188Z",
+      "totalRows": 89,
+      "rows": [
+        {
+          "id": "02434753",
+          "date": "2021-10-13",
+          "title": "Transurban successfully completes entitlement offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02434753",
+          "priceSensitive": true
+        },
+        {
+          "id": "02434572",
+          "date": "2021-10-12",
+          "title": "Close of Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02434572",
+          "priceSensitive": true
+        },
+        {
+          "id": "02429703",
+          "date": "2021-10-01",
+          "title": "Placement Cleansing Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02429703",
+          "priceSensitive": false
+        },
+        {
+          "id": "02425138",
+          "date": "2021-09-23",
+          "title": "Retail Entitlement Offer - Retail Information Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02425138",
+          "priceSensitive": false
+        },
+        {
+          "id": "02425090",
+          "date": "2021-09-23",
+          "title": "Successful Completion of Institutional Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02425090",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TCL&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:11:41.062Z",
+      "totalRows": 70,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TCL&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:11:41.807Z",
+      "totalRows": 78,
+      "rows": [
+        {
+          "id": "02757205",
+          "date": "2023-12-21",
+          "title": "Financial Close of WCX A$0.8 billion US Private Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02757205",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TCL&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:11:42.546Z",
+      "totalRows": 65,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TCL&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:11:43.382Z",
+      "totalRows": 77,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TCL&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:11:44.085Z",
+      "totalRows": 41,
+      "rows": []
+    }
+  ]
+}

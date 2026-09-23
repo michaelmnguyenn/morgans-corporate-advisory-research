@@ -1,0 +1,127 @@
+{
+  "ticker": "ANZ",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ANZ&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:10:54.721Z",
+      "totalRows": 250,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ANZ&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:10:55.584Z",
+      "totalRows": 290,
+      "rows": [
+        {
+          "id": "02555140",
+          "date": "2022-08-19",
+          "title": "ANZ completes Retail Shortfall Bookbuild",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02555140",
+          "priceSensitive": true
+        },
+        {
+          "id": "02555071",
+          "date": "2022-08-18",
+          "title": "ANZ completes Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02555071",
+          "priceSensitive": true
+        },
+        {
+          "id": "02543906",
+          "date": "2022-07-21",
+          "title": "ANZ completes Institutional Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02543906",
+          "priceSensitive": true
+        },
+        {
+          "id": "02542675",
+          "date": "2022-07-18",
+          "title": "Acquisition and Equity Raising Investor Pack",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02542675",
+          "priceSensitive": true
+        },
+        {
+          "id": "02496907",
+          "date": "2022-03-08",
+          "title": "ANZ increases allocation under Capital Notes 7 Bookbuild",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02496907",
+          "priceSensitive": false
+        },
+        {
+          "id": "02488647",
+          "date": "2022-02-18",
+          "title": "ANZ completes Capital Notes 7 bookbuild",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02488647",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ANZ&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:10:56.504Z",
+      "totalRows": 130,
+      "rows": [
+        {
+          "id": "02754651",
+          "date": "2023-12-14",
+          "title": "ANZ appeals Court decision on 2015 Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02754651",
+          "priceSensitive": false
+        },
+        {
+          "id": "02725512",
+          "date": "2023-10-13",
+          "title": "ANZ acknowledges court decision on 2015 Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02725512",
+          "priceSensitive": false
+        },
+        {
+          "id": "02632897",
+          "date": "2023-02-17",
+          "title": "ANZ completes Capital Notes 8 bookbuild",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02632897",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ANZ&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:10:57.337Z",
+      "totalRows": 206,
+      "rows": [
+        {
+          "id": "02862445",
+          "date": "2024-10-02",
+          "title": "ANZ acknowledges appeal decision on 2015 Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02862445",
+          "priceSensitive": false
+        },
+        {
+          "id": "02775170",
+          "date": "2024-02-20",
+          "title": "AN3: ANZ completes Capital Notes 9 bookbuild",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02775170",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ANZ&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:10:58.347Z",
+      "totalRows": 164,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ANZ&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:10:59.158Z",
+      "totalRows": 74,
+      "rows": []
+    }
+  ]
+}

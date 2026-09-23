@@ -1,0 +1,184 @@
+{
+  "ticker": "LTR",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LTR&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:21:05.317Z",
+      "totalRows": 137,
+      "rows": [
+        {
+          "id": "02465100",
+          "date": "2021-12-10",
+          "title": "Share Purchase Plan Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02465100",
+          "priceSensitive": false
+        },
+        {
+          "id": "02465098",
+          "date": "2021-12-10",
+          "title": "Share Purchase Plan Opens",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02465098",
+          "priceSensitive": false
+        },
+        {
+          "id": "02463325",
+          "date": "2021-12-07",
+          "title": "Settlement of $450m placement / Section 708A Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02463325",
+          "priceSensitive": false
+        },
+        {
+          "id": "02461366",
+          "date": "2021-12-02",
+          "title": "Liontown successfully completes $450m placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02461366",
+          "priceSensitive": true
+        },
+        {
+          "id": "02460743",
+          "date": "2021-12-01",
+          "title": "Equity Capital Raising Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02460743",
+          "priceSensitive": true
+        },
+        {
+          "id": "02460742",
+          "date": "2021-12-01",
+          "title": "$450m fully underwritten placement to fund Kathleen Valley",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02460742",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LTR&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:21:06.162Z",
+      "totalRows": 64,
+      "rows": [
+        {
+          "id": "02483050",
+          "date": "2022-02-03",
+          "title": "Completion of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02483050",
+          "priceSensitive": true
+        },
+        {
+          "id": "02475270",
+          "date": "2022-01-13",
+          "title": "Extension to Share Purchase Plan Closing Date",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02475270",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LTR&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:21:06.951Z",
+      "totalRows": 126,
+      "rows": [
+        {
+          "id": "02745854",
+          "date": "2023-11-27",
+          "title": "Completion of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02745854",
+          "priceSensitive": true
+        },
+        {
+          "id": "02742334",
+          "date": "2023-11-20",
+          "title": "Share Purchase Plan to close",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02742334",
+          "priceSensitive": false
+        },
+        {
+          "id": "02732515",
+          "date": "2023-10-30",
+          "title": "Share Purchase Plan Opens / Share Purchase Plan Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02732515",
+          "priceSensitive": false
+        },
+        {
+          "id": "02728139",
+          "date": "2023-10-20",
+          "title": "Liontown successfully completes Institutional Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02728139",
+          "priceSensitive": true
+        },
+        {
+          "id": "02727824",
+          "date": "2023-10-19",
+          "title": "Capital Raising Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02727824",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LTR&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:21:07.951Z",
+      "totalRows": 75,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LTR&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:21:08.788Z",
+      "totalRows": 101,
+      "rows": [
+        {
+          "id": "02987166",
+          "date": "2025-08-28",
+          "title": "Completion of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02987166",
+          "priceSensitive": false
+        },
+        {
+          "id": "02982724",
+          "date": "2025-08-20",
+          "title": "Oversubscribed Share Purchase Plan to close early",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02982724",
+          "priceSensitive": false
+        },
+        {
+          "id": "02980239",
+          "date": "2025-08-14",
+          "title": "Share Purchase Plan Opens / Share Purchase Plan Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02980239",
+          "priceSensitive": false
+        },
+        {
+          "id": "02978445",
+          "date": "2025-08-08",
+          "title": "Liontown raises A$316 million in two tranche placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02978445",
+          "priceSensitive": true
+        },
+        {
+          "id": "02977894",
+          "date": "2025-08-07",
+          "title": "Capital Raising Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02977894",
+          "priceSensitive": true
+        },
+        {
+          "id": "02977884",
+          "date": "2025-08-07",
+          "title": "A$266m fully underwritten placement to fortify balance sheet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02977884",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LTR&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:21:09.548Z",
+      "totalRows": 68,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,92 @@
+{
+  "ticker": "SOL",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SOL&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:12:59.034Z",
+      "totalRows": 72,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SOL&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:12:59.852Z",
+      "totalRows": 78,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SOL&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:13:00.648Z",
+      "totalRows": 62,
+      "rows": [
+        {
+          "id": "02639578",
+          "date": "2023-03-03",
+          "title": "RFG: $47.4m Debt & Equity Capital Raising Launched",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02639578",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SOL&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:13:01.484Z",
+      "totalRows": 84,
+      "rows": [
+        {
+          "id": "02847225",
+          "date": "2024-08-30",
+          "title": "Placement Cleansing Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02847225",
+          "priceSensitive": false
+        },
+        {
+          "id": "02846731",
+          "date": "2024-08-29",
+          "title": "Settlement of Convertible Note Transactions and Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02846731",
+          "priceSensitive": false
+        },
+        {
+          "id": "02842527",
+          "date": "2024-08-22",
+          "title": "Pricing of Convertible Note Transactions & Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02842527",
+          "priceSensitive": true
+        },
+        {
+          "id": "02842269",
+          "date": "2024-08-21",
+          "title": "Convertible Note Transactions, Placement & Unaudited Results",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02842269",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SOL&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:13:02.441Z",
+      "totalRows": 151,
+      "rows": [
+        {
+          "id": "02964666",
+          "date": "2025-07-01",
+          "title": "Topco Placement and Concurrent Convertible Notes Repurchase",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02964666",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SOL&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:13:03.181Z",
+      "totalRows": 42,
+      "rows": []
+    }
+  ]
+}

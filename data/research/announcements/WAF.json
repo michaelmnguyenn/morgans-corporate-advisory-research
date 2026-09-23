@@ -1,0 +1,92 @@
+{
+  "ticker": "WAF",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=WAF&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:18:36.963Z",
+      "totalRows": 91,
+      "rows": [
+        {
+          "id": "02458814",
+          "date": "2021-11-29",
+          "title": "Share Purchase Plan Closes Oversubscribed",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02458814",
+          "priceSensitive": true
+        },
+        {
+          "id": "02448528",
+          "date": "2021-11-08",
+          "title": "Share Purchase Plan Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02448528",
+          "priceSensitive": true
+        },
+        {
+          "id": "02440991",
+          "date": "2021-10-26",
+          "title": "Kiaka Acquisition and Capital Raising Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02440991",
+          "priceSensitive": true
+        },
+        {
+          "id": "02440990",
+          "date": "2021-10-26",
+          "title": "WAF to Acquire 6.8Moz Kiaka Gold Project and Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02440990",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=WAF&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:18:37.788Z",
+      "totalRows": 71,
+      "rows": [
+        {
+          "id": "02485533",
+          "date": "2022-02-10",
+          "title": "Completion of Tranche 2 Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02485533",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=WAF&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:18:38.600Z",
+      "totalRows": 88,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=WAF&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:18:39.609Z",
+      "totalRows": 134,
+      "rows": [
+        {
+          "id": "02825279",
+          "date": "2024-07-04",
+          "title": "Kiaka Owner Mining FS Update & Capital Raising Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02825279",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=WAF&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:18:40.516Z",
+      "totalRows": 161,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=WAF&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:18:41.463Z",
+      "totalRows": 156,
+      "rows": []
+    }
+  ]
+}

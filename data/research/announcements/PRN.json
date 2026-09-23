@@ -1,0 +1,47 @@
+{
+  "ticker": "PRN",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PRN&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:21:57.090Z",
+      "totalRows": 92,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PRN&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:21:58.148Z",
+      "totalRows": 175,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PRN&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:21:59.129Z",
+      "totalRows": 207,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PRN&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:21:59.995Z",
+      "totalRows": 232,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PRN&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:22:00.965Z",
+      "totalRows": 137,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PRN&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:22:02.035Z",
+      "totalRows": 114,
+      "rows": []
+    }
+  ]
+}

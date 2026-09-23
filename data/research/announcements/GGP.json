@@ -1,0 +1,47 @@
+{
+  "ticker": "GGP",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GGP&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:17:17.386Z",
+      "totalRows": 0,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GGP&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:17:18.101Z",
+      "totalRows": 0,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GGP&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:17:18.794Z",
+      "totalRows": 0,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GGP&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:17:19.483Z",
+      "totalRows": 0,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GGP&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:17:20.262Z",
+      "totalRows": 69,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=GGP&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:17:21.038Z",
+      "totalRows": 60,
+      "rows": []
+    }
+  ]
+}

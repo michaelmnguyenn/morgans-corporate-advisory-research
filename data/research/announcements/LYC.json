@@ -1,0 +1,83 @@
+{
+  "ticker": "LYC",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LYC&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:13:18.686Z",
+      "totalRows": 59,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LYC&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:13:19.513Z",
+      "totalRows": 60,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LYC&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:13:20.333Z",
+      "totalRows": 83,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LYC&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:13:21.277Z",
+      "totalRows": 72,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LYC&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:13:22.100Z",
+      "totalRows": 84,
+      "rows": [
+        {
+          "id": "02999152",
+          "date": "2025-09-24",
+          "title": "Lynas Completes Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02999152",
+          "priceSensitive": false
+        },
+        {
+          "id": "02991415",
+          "date": "2025-09-05",
+          "title": "Lynas Share Purchase Plan Opens",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02991415",
+          "priceSensitive": false
+        },
+        {
+          "id": "02990384",
+          "date": "2025-09-03",
+          "title": "Cleansing Notice in Respect of the Placement Shares",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02990384",
+          "priceSensitive": false
+        },
+        {
+          "id": "02988032",
+          "date": "2025-08-29",
+          "title": "Lynas Successfully Completes A$750 Million Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02988032",
+          "priceSensitive": true
+        },
+        {
+          "id": "02987078",
+          "date": "2025-08-28",
+          "title": "Fully Underwritten A$750 million Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02987078",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LYC&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:13:22.990Z",
+      "totalRows": 45,
+      "rows": []
+    }
+  ]
+}

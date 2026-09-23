@@ -1,0 +1,83 @@
+{
+  "ticker": "FLT",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FLT&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:23:25.756Z",
+      "totalRows": 65,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FLT&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:23:26.507Z",
+      "totalRows": 93,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FLT&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:23:27.269Z",
+      "totalRows": 99,
+      "rows": [
+        {
+          "id": "02642514",
+          "date": "2023-03-13",
+          "title": "Flight Centre Completes Share Purchase Plan Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02642514",
+          "priceSensitive": false
+        },
+        {
+          "id": "02629576",
+          "date": "2023-02-09",
+          "title": "FLT Share Purchase Plan Offer Now Available",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02629576",
+          "priceSensitive": false
+        },
+        {
+          "id": "02628143",
+          "date": "2023-02-06",
+          "title": "Placement Cleansing Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02628143",
+          "priceSensitive": false
+        },
+        {
+          "id": "02626818",
+          "date": "2023-02-01",
+          "title": "Flight Centre Completes A$180m Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02626818",
+          "priceSensitive": true
+        },
+        {
+          "id": "02625601",
+          "date": "2023-01-31",
+          "title": "FLT to acquire Scott Dunn funded by $180M equity raise",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02625601",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FLT&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:23:28.181Z",
+      "totalRows": 78,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FLT&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:23:29.000Z",
+      "totalRows": 193,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FLT&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:23:29.823Z",
+      "totalRows": 181,
+      "rows": []
+    }
+  ]
+}

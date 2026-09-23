@@ -1,0 +1,47 @@
+{
+  "ticker": "SEK",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SEK&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:18:27.705Z",
+      "totalRows": 54,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SEK&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:18:28.524Z",
+      "totalRows": 35,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SEK&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:18:29.317Z",
+      "totalRows": 57,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SEK&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:18:30.110Z",
+      "totalRows": 66,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SEK&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:18:30.917Z",
+      "totalRows": 66,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SEK&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:18:31.653Z",
+      "totalRows": 67,
+      "rows": []
+    }
+  ]
+}

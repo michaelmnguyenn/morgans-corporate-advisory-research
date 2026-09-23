@@ -1,0 +1,90 @@
+{
+  "ticker": "MFG",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MFG&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:23:30.729Z",
+      "totalRows": 124,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MFG&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:23:31.622Z",
+      "totalRows": 295,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MFG&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:23:32.429Z",
+      "totalRows": 124,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MFG&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:23:33.253Z",
+      "totalRows": 142,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MFG&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:23:34.204Z",
+      "totalRows": 395,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MFG&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:23:34.954Z",
+      "totalRows": 96,
+      "rows": [
+        {
+          "id": "03078447",
+          "date": "2026-04-01",
+          "title": "Appendix 2A for Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03078447",
+          "priceSensitive": false
+        },
+        {
+          "id": "03077611",
+          "date": "2026-03-31",
+          "title": "Completion of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03077611",
+          "priceSensitive": true
+        },
+        {
+          "id": "03070641",
+          "date": "2026-03-11",
+          "title": "Notice of EGM and Share Purchase Plan Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03070641",
+          "priceSensitive": false
+        },
+        {
+          "id": "03068586",
+          "date": "2026-03-05",
+          "title": "Appendix 2A for Upfront Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03068586",
+          "priceSensitive": false
+        },
+        {
+          "id": "03067649",
+          "date": "2026-03-03",
+          "title": "Placement completion announcement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03067649",
+          "priceSensitive": true
+        },
+        {
+          "id": "03067000",
+          "date": "2026-03-02",
+          "title": "Appendix 3B for Upfront Placement and SPP",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03067000",
+          "priceSensitive": false
+        }
+      ]
+    }
+  ]
+}

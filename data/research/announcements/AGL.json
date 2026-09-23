@@ -1,0 +1,47 @@
+{
+  "ticker": "AGL",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AGL&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:17:37.332Z",
+      "totalRows": 61,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AGL&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:17:38.214Z",
+      "totalRows": 88,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AGL&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:17:38.946Z",
+      "totalRows": 56,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AGL&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:17:39.722Z",
+      "totalRows": 46,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AGL&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:17:40.444Z",
+      "totalRows": 41,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AGL&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:17:41.166Z",
+      "totalRows": 31,
+      "rows": []
+    }
+  ]
+}

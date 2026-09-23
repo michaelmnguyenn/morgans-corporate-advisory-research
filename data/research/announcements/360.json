@@ -1,0 +1,91 @@
+{
+  "ticker": "360",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=360&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:19:30.793Z",
+      "totalRows": 139,
+      "rows": [
+        {
+          "id": "02467826",
+          "date": "2021-12-16",
+          "title": "Completion of Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02467826",
+          "priceSensitive": false
+        },
+        {
+          "id": "02459626",
+          "date": "2021-11-30",
+          "title": "Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02459626",
+          "priceSensitive": false
+        },
+        {
+          "id": "02457338",
+          "date": "2021-11-25",
+          "title": "Completion of Institutional Entitlement Offer & Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02457338",
+          "priceSensitive": true
+        },
+        {
+          "id": "02455981",
+          "date": "2021-11-23",
+          "title": "Strategic acquisition of Tile & Equity Raise - Investor Pres",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02455981",
+          "priceSensitive": true
+        },
+        {
+          "id": "02455947",
+          "date": "2021-11-23",
+          "title": "Strategic Acquisition of Tile & Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02455947",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=360&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:19:31.718Z",
+      "totalRows": 180,
+      "rows": [
+        {
+          "id": "02601206",
+          "date": "2022-11-22",
+          "title": "Life360 completes A$50M placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02601206",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=360&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:19:32.561Z",
+      "totalRows": 117,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=360&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:19:33.444Z",
+      "totalRows": 138,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=360&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:19:34.298Z",
+      "totalRows": 126,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=360&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:19:35.191Z",
+      "totalRows": 106,
+      "rows": []
+    }
+  ]
+}

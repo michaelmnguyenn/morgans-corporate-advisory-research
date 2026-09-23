@@ -1,0 +1,47 @@
+{
+  "ticker": "ALK",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALK&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:21:23.908Z",
+      "totalRows": 40,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALK&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:21:24.643Z",
+      "totalRows": 54,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALK&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:21:25.443Z",
+      "totalRows": 57,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALK&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:21:26.257Z",
+      "totalRows": 54,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALK&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:21:27.035Z",
+      "totalRows": 95,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALK&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:21:28.105Z",
+      "totalRows": 87,
+      "rows": []
+    }
+  ]
+}

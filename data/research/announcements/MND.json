@@ -1,0 +1,47 @@
+{
+  "ticker": "MND",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MND&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:19:40.561Z",
+      "totalRows": 62,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MND&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:19:41.353Z",
+      "totalRows": 68,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MND&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:19:42.080Z",
+      "totalRows": 71,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MND&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:19:42.904Z",
+      "totalRows": 73,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MND&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:19:43.656Z",
+      "totalRows": 85,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MND&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:19:44.373Z",
+      "totalRows": 32,
+      "rows": []
+    }
+  ]
+}

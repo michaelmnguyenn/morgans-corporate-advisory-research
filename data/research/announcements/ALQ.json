@@ -1,0 +1,83 @@
+{
+  "ticker": "ALQ",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALQ&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:13:54.546Z",
+      "totalRows": 49,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALQ&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:13:55.364Z",
+      "totalRows": 73,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALQ&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:13:56.201Z",
+      "totalRows": 45,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALQ&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:13:56.994Z",
+      "totalRows": 66,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALQ&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:13:57.714Z",
+      "totalRows": 61,
+      "rows": [
+        {
+          "id": "02962130",
+          "date": "2025-06-26",
+          "title": "SPP completion",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962130",
+          "priceSensitive": false
+        },
+        {
+          "id": "02954151",
+          "date": "2025-06-02",
+          "title": "Institutional Placement s708A(5)(e)",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02954151",
+          "priceSensitive": false
+        },
+        {
+          "id": "02952692",
+          "date": "2025-05-28",
+          "title": "Successful Completion of Institutional Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02952692",
+          "priceSensitive": true
+        },
+        {
+          "id": "02952188",
+          "date": "2025-05-27",
+          "title": "ALS Equity Raise Investor Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02952188",
+          "priceSensitive": true
+        },
+        {
+          "id": "02952179",
+          "date": "2025-05-27",
+          "title": "ALS Full Year Results and Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02952179",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ALQ&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:13:58.530Z",
+      "totalRows": 59,
+      "rows": []
+    }
+  ]
+}

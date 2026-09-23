@@ -1,0 +1,1007 @@
+{
+  "source": "https://www.blackrock.com/au/products/251852/fund/1478358644060.ajax?fileType=csv&fileName=IOZ_holdings&dataType=fund",
+  "sourceAsOf": "22-Sept-2026",
+  "checkedAt": "2026-09-23T09:09:55.859Z",
+  "companies": [
+    {
+      "ticker": "BHP",
+      "name": "BHP GROUP LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "CBA",
+      "name": "COMMONWEALTH BANK OF AUSTRALIA",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "NAB",
+      "name": "NATIONAL AUSTRALIA BANK",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "WBC",
+      "name": "WESTPAC BANKING CORPORATION",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "ANZ",
+      "name": "ANZ GROUP HOLDINGS LTD",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "CSL",
+      "name": "CSL",
+      "sector": "Health Care"
+    },
+    {
+      "ticker": "WES",
+      "name": "WESFARMERS",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "MQG",
+      "name": "MACQUARIE GROUP LTD DEF",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "RIO",
+      "name": "RIO TINTO LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "WDS",
+      "name": "WOODSIDE ENERGY GROUP LTD",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "TLS",
+      "name": "TELSTRA GROUP",
+      "sector": "Communication"
+    },
+    {
+      "ticker": "GMG",
+      "name": "GOODMAN GROUP UNITS",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "WOW",
+      "name": "WOOLWORTHS GROUP LTD",
+      "sector": "Consumer Staples"
+    },
+    {
+      "ticker": "TCL",
+      "name": "TRANSURBAN GROUP STAPLED UNITS",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "ALL",
+      "name": "ARISTOCRAT LEISURE",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "QBE",
+      "name": "QBE INSURANCE GROUP",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "NST",
+      "name": "NORTHERN STAR RESOURCES LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "COL",
+      "name": "COLES GROUP LTD",
+      "sector": "Consumer Staples"
+    },
+    {
+      "ticker": "FMG",
+      "name": "FORTESCUE LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "EVN",
+      "name": "EVOLUTION MINING",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "STO",
+      "name": "SANTOS",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "BXB",
+      "name": "BRAMBLES",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "CPU",
+      "name": "COMPUTERSHARE LTD",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "S32",
+      "name": "SOUTH32",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "SUN",
+      "name": "SUNCORP GROUP",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "ORG",
+      "name": "ORIGIN ENERGY",
+      "sector": "Utilities"
+    },
+    {
+      "ticker": "IAG",
+      "name": "INSURANCE AUSTRALIA GROUP",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "RMD",
+      "name": "RESMED CDI",
+      "sector": "Health Care"
+    },
+    {
+      "ticker": "SCG",
+      "name": "SCENTRE GROUP",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "SOL",
+      "name": "WASHINGTON H SOUL PATTINSON & COMP",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "SIG",
+      "name": "SIGMA HEALTHCARE",
+      "sector": "Health Care"
+    },
+    {
+      "ticker": "APA",
+      "name": "APA GROUP UNITS",
+      "sector": "Utilities"
+    },
+    {
+      "ticker": "QAN",
+      "name": "QANTAS AIRWAYS",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "LYC",
+      "name": "LYNAS RARE EARTHS",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "PLS",
+      "name": "PLS GROUP LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "BSL",
+      "name": "BLUESCOPE STEEL",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "NEM",
+      "name": "NEWMONT CORPORATION CDI",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "MPL",
+      "name": "MEDIBANK PRIVATE",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "JHX",
+      "name": "JAMES HARDIE INDUSTRIES CDI PLC",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "ASX",
+      "name": "ASX LTD",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "ALQ",
+      "name": "ALS",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "TLC",
+      "name": "THE LOTTERY CORPORATION LTD",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "ALD",
+      "name": "AMPOL",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "RHC",
+      "name": "RAMSAY HEALTH CARE",
+      "sector": "Health Care"
+    },
+    {
+      "ticker": "ORI",
+      "name": "ORICA",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "SFR",
+      "name": "SANDFIRE RESOURCES",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "XRO",
+      "name": "XERO",
+      "sector": "Information Technology"
+    },
+    {
+      "ticker": "SGP",
+      "name": "STOCKLAND STAPLED UNITS LTD",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "MIN",
+      "name": "MINERAL RESOURCES",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "SHL",
+      "name": "SONIC HEALTHCARE",
+      "sector": "Health Care"
+    },
+    {
+      "ticker": "COH",
+      "name": "COCHLEAR",
+      "sector": "Health Care"
+    },
+    {
+      "ticker": "PME",
+      "name": "PRO MEDICUS",
+      "sector": "Health Care"
+    },
+    {
+      "ticker": "VCX",
+      "name": "VICINITY CENTRES",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "CAR",
+      "name": "CAR GROUP",
+      "sector": "Communication"
+    },
+    {
+      "ticker": "GMD",
+      "name": "GENESIS MINERALS",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "PRU",
+      "name": "PERSEUS MINING LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "LNW",
+      "name": "LIGHT & WONDER INC. CDI",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "NXT",
+      "name": "NEXTDC",
+      "sector": "Information Technology"
+    },
+    {
+      "ticker": "GPT",
+      "name": "GPT GROUP STAPLED UNITS",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "CHC",
+      "name": "CHARTER HALL GROUP STAPLED UNITS",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "TNE",
+      "name": "TECHNOLOGY ONE",
+      "sector": "Information Technology"
+    },
+    {
+      "ticker": "AMC",
+      "name": "AMCOR CDI PLC",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "REA",
+      "name": "REA GROUP LTD",
+      "sector": "Communication"
+    },
+    {
+      "ticker": "RMS",
+      "name": "RAMELIUS RESOURCES",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "SGH",
+      "name": "SGH",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "JBH",
+      "name": "JB HI-FI LTD",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "WTC",
+      "name": "WISETECH GLOBAL",
+      "sector": "Information Technology"
+    },
+    {
+      "ticker": "MGR",
+      "name": "MIRVAC GROUP STAPLED UNITS",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "CMM",
+      "name": "CAPRICORN METALS LTD DEF",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "FPH",
+      "name": "FISHER AND PAYKEL HEALTHCARE CORPO",
+      "sector": "Health Care"
+    },
+    {
+      "ticker": "CDA",
+      "name": "CODAN",
+      "sector": "Information Technology"
+    },
+    {
+      "ticker": "VAU",
+      "name": "VAULT MINERALS",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "WHC",
+      "name": "WHITEHAVEN COAL",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "SDF",
+      "name": "STEADFAST GROUP LTD",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "DNL",
+      "name": "DYNO NOBEL",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "AZJ",
+      "name": "AURIZON HOLDINGS",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "AMP",
+      "name": "AMP LTD",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "BEN",
+      "name": "BENDIGO AND ADELAIDE BANK",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "DXS",
+      "name": "DEXUS STAPLED UNITS",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "ANN",
+      "name": "ANSELL",
+      "sector": "Health Care"
+    },
+    {
+      "ticker": "RRL",
+      "name": "REGIS RESOURCES",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "CWY",
+      "name": "CLEANAWAY WASTE MANAGEMENT",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "GGP",
+      "name": "GREATLAND RESOURCES LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "HUB",
+      "name": "HUB24",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "CGF",
+      "name": "CHALLENGER",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "WGX",
+      "name": "WESTGOLD RESOURCES",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "AGL",
+      "name": "AGL ENERGY LTD",
+      "sector": "Utilities"
+    },
+    {
+      "ticker": "VNT",
+      "name": "VENTIA SERVICES GROUP LTD",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "TLX",
+      "name": "TELIX PHARMACEUTICALS",
+      "sector": "Health Care"
+    },
+    {
+      "ticker": "A2M",
+      "name": "THE A2 MILK COMPANY",
+      "sector": "Consumer Staples"
+    },
+    {
+      "ticker": "IGO",
+      "name": "IGO",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "PDN",
+      "name": "PALADIN ENERGY LTD",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "MP1",
+      "name": "MEGAPORT",
+      "sector": "Information Technology"
+    },
+    {
+      "ticker": "EDV",
+      "name": "ENDEAVOUR GROUP LTD",
+      "sector": "Consumer Staples"
+    },
+    {
+      "ticker": "WOR",
+      "name": "WORLEY",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "DOW",
+      "name": "DOWNER EDI",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "BOQ",
+      "name": "BANK OF QUEENSLAND",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "SEK",
+      "name": "SEEK",
+      "sector": "Communication"
+    },
+    {
+      "ticker": "REH",
+      "name": "REECE",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "WAF",
+      "name": "WEST AFRICAN RESOURCES LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "XYZ",
+      "name": "BLOCK CDI",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "EMR",
+      "name": "EMERALD RESOURCES",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "TWE",
+      "name": "TREASURY WINE ESTATES LTD",
+      "sector": "Consumer Staples"
+    },
+    {
+      "ticker": "PDI",
+      "name": "PDI GOLD LIMITED LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "SGM",
+      "name": "SIMS",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "AUB",
+      "name": "AUB GROUP LTD",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "VEA",
+      "name": "VIVA ENERGY GROUP",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "NWH",
+      "name": "NRW HOLDINGS",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "APE",
+      "name": "EAGERS AUTOMOTIVE",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "RWC",
+      "name": "RELIANCE WORLDWIDE CORPORATION",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "360",
+      "name": "LIFE360 INC. CDI",
+      "sector": "Information Technology"
+    },
+    {
+      "ticker": "NHF",
+      "name": "NIB HOLDINGS LTD",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "MND",
+      "name": "MONADELPHOUS GROUP",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "MTS",
+      "name": "METCASH",
+      "sector": "Consumer Staples"
+    },
+    {
+      "ticker": "CSC",
+      "name": "CAPSTONE COPPER CORP CDI",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "NHC",
+      "name": "NEW HOPE CORPORATION LTD",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "BRG",
+      "name": "BREVILLE GROUP",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "TPG",
+      "name": "TPG TELECOM",
+      "sector": "Communication"
+    },
+    {
+      "ticker": "CNU",
+      "name": "CHORUS",
+      "sector": "Communication"
+    },
+    {
+      "ticker": "ZIP",
+      "name": "ZIP CO",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "PNI",
+      "name": "PINNACLE INVESTMENT MANAGEMENT GRO",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "DBI",
+      "name": "DALRYMPLE BAY INFRASTRUCTURE STAPL",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "ILU",
+      "name": "ILUKA RESOURCES",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "NEU",
+      "name": "NEUREN PHARMACEUTICALS",
+      "sector": "Health Care"
+    },
+    {
+      "ticker": "RGN",
+      "name": "REGION GROUP STAPLED UNITS LTD",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "RSG",
+      "name": "RESOLUTE MINING",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "SRG",
+      "name": "SRG LTD",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "NWL",
+      "name": "NETWEALTH GROUP LTD",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "AIA",
+      "name": "AUCKLAND INTERNATIONAL AIRPORT",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "BGL",
+      "name": "BELLEVUE GOLD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "LTR",
+      "name": "LIONTOWN LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "YAL",
+      "name": "YANCOAL AUSTRALIA LTD",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "AAI",
+      "name": "ALCOA CORPORATION CDI CORP",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "OBM",
+      "name": "ORA BANDA MINING LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "ALK",
+      "name": "ALKANE RESOURCES LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "EOS",
+      "name": "ELECTRO OPTIC SYSTEMS HOLDINGS",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "HVN",
+      "name": "HARVEY NORMAN HOLDINGS LTD",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "BWP",
+      "name": "BWP GROUP STAPLED UNITS TRUST",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "CLW",
+      "name": "CHARTER HALL LONG WALE REIT STAPLE",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "TAH",
+      "name": "TABCORP HOLDINGS",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "SRL",
+      "name": "SUNRISE ENERGY METALS",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "PRN",
+      "name": "PERENTI LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "4DX",
+      "name": "4DMEDICAL",
+      "sector": "Health Care"
+    },
+    {
+      "ticker": "HDN",
+      "name": "HOMECO DAILY NEEDS UNITS",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "ALX",
+      "name": "ATLAS ARTERIA STAPLED UNITS",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "SUL",
+      "name": "SUPER RETAIL GROUP",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "MSB",
+      "name": "MESOBLAST",
+      "sector": "Health Care"
+    },
+    {
+      "ticker": "NIC",
+      "name": "NICKEL INDUSTRIES",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "INA",
+      "name": "INGENIA COMMUNITIES GROUP STAPLED",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "MI6",
+      "name": "MINERALS 260 LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "CQR",
+      "name": "CHARTER HALL RETAIL UNITS",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "NWS",
+      "name": "NEWS CORPORATION CLASS B VOTING CD",
+      "sector": "Communication"
+    },
+    {
+      "ticker": "DRR",
+      "name": "DETERRA ROYALTIES",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "DTL",
+      "name": "DATA#3 LTD",
+      "sector": "Information Technology"
+    },
+    {
+      "ticker": "PPT",
+      "name": "PERPETUAL",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "ORA",
+      "name": "ORORA",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "LLC",
+      "name": "LENDLEASE GROUP STAPLED UNITS",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "IMD",
+      "name": "IMDEX LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "NXG",
+      "name": "NEXGEN ENERGY (CANADA) CDI",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "FLT",
+      "name": "FLIGHT CENTRE TRAVEL GROUP LTD",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "MFG",
+      "name": "MAGELLAN FINANCIAL GROUP LTD",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "SIQ",
+      "name": "SMARTGROUP CORPORATION LTD",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "LOV",
+      "name": "LOVISA HOLDINGS",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "IFT",
+      "name": "INFRATIL LTD",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "BGA",
+      "name": "BEGA CHEESE",
+      "sector": "Consumer Staples"
+    },
+    {
+      "ticker": "SSM",
+      "name": "SERVICE STREAM",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "DRO",
+      "name": "DRONESHIELD",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "CYL",
+      "name": "CATALYST METALS LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "CIP",
+      "name": "CENTURIA INDUSTR UNITS",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "HLI",
+      "name": "HELIA GROUP LTD",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "FBU",
+      "name": "FLETCHER BUILDING",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "WPR",
+      "name": "WAYPOINT REIT STAPLED UNIT LTD",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "KCN",
+      "name": "KINGSGATE CONSOLIDATED",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "ARB",
+      "name": "ARB CORPORATION",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "BPT",
+      "name": "BEACH ENERGY",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "ASB",
+      "name": "AUSTAL LTD",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "ELD",
+      "name": "ELDERS",
+      "sector": "Consumer Staples"
+    },
+    {
+      "ticker": "SLC",
+      "name": "SUPERLOOP",
+      "sector": "Communication"
+    },
+    {
+      "ticker": "CIA",
+      "name": "CHAMPION IRON LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "DVP",
+      "name": "DEVELOP GLOBAL",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "DYL",
+      "name": "DEEP YELLOW",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "FFM",
+      "name": "FIREFLY METALS LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "DMP",
+      "name": "DOMINOS PIZZA ENTERPRISES",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "CNI",
+      "name": "CENTURIA CAPITAL STAPLED UNITS",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "KAR",
+      "name": "KAROON ENERGY LTD",
+      "sector": "Energy"
+    },
+    {
+      "ticker": "ABB",
+      "name": "AUSSIE BROADBAND",
+      "sector": "Communication"
+    },
+    {
+      "ticker": "NCK",
+      "name": "NICK SCALI",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "JDO",
+      "name": "JUDO CAPITAL HOLDINGS LTD",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "ELV",
+      "name": "ELEVRA LITHIUM LTD",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "SLX",
+      "name": "SILEX SYSTEMS",
+      "sector": "Industrials"
+    },
+    {
+      "ticker": "PMV",
+      "name": "PREMIER INVESTMENTS",
+      "sector": "Consumer Discretionary"
+    },
+    {
+      "ticker": "IRE",
+      "name": "IRESS LTD",
+      "sector": "Information Technology"
+    },
+    {
+      "ticker": "ELS",
+      "name": "ELSIGHT LTD",
+      "sector": "Information Technology"
+    },
+    {
+      "ticker": "GDG",
+      "name": "GENERATION DEVELOPMENT GROUP LTD",
+      "sector": "Financials"
+    },
+    {
+      "ticker": "PXA",
+      "name": "PEXA GROUP LTD",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "IPX",
+      "name": "IPERIONX",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "NEC",
+      "name": "NINE ENTERTAINMENT CO HOLDINGS",
+      "sector": "Communication"
+    },
+    {
+      "ticker": "VUL",
+      "name": "VULCAN ENERGY RESOURCES",
+      "sector": "Materials"
+    },
+    {
+      "ticker": "ARF",
+      "name": "ARENA REIT STAPLED UNITS",
+      "sector": "Real Estate"
+    },
+    {
+      "ticker": "WBT",
+      "name": "WEEBIT NANO LTD",
+      "sector": "Information Technology"
+    }
+  ]
+}

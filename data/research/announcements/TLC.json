@@ -1,0 +1,47 @@
+{
+  "ticker": "TLC",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TLC&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:13:59.221Z",
+      "totalRows": 0,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TLC&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:13:59.993Z",
+      "totalRows": 41,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TLC&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:14:00.729Z",
+      "totalRows": 39,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TLC&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:14:01.476Z",
+      "totalRows": 34,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TLC&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:14:02.244Z",
+      "totalRows": 39,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=TLC&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:14:03.021Z",
+      "totalRows": 30,
+      "rows": []
+    }
+  ]
+}

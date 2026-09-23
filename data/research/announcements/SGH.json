@@ -1,0 +1,47 @@
+{
+  "ticker": "SGH",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SGH&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:15:51.302Z",
+      "totalRows": 97,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SGH&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:15:52.034Z",
+      "totalRows": 44,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SGH&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:15:52.802Z",
+      "totalRows": 43,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SGH&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:15:53.580Z",
+      "totalRows": 147,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SGH&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:15:54.301Z",
+      "totalRows": 37,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SGH&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:15:55.104Z",
+      "totalRows": 66,
+      "rows": []
+    }
+  ]
+}

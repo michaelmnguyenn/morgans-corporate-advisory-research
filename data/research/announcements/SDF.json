@@ -1,0 +1,119 @@
+{
+  "ticker": "SDF",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SDF&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:16:33.367Z",
+      "totalRows": 73,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SDF&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:16:34.181Z",
+      "totalRows": 96,
+      "rows": [
+        {
+          "id": "02576792",
+          "date": "2022-10-03",
+          "title": "Results of SPP",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02576792",
+          "priceSensitive": true
+        },
+        {
+          "id": "02564421",
+          "date": "2022-09-06",
+          "title": "SPP Opens Today",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02564421",
+          "priceSensitive": true
+        },
+        {
+          "id": "02556869",
+          "date": "2022-08-23",
+          "title": "Institution Placement s708A notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02556869",
+          "priceSensitive": false
+        },
+        {
+          "id": "02554863",
+          "date": "2022-08-18",
+          "title": "Steadfast Announces Successful Completion of Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02554863",
+          "priceSensitive": true
+        },
+        {
+          "id": "02554035",
+          "date": "2022-08-17",
+          "title": "FY22 Financial Results, placement, SPP, IBA acquisition",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02554035",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SDF&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:16:34.944Z",
+      "totalRows": 74,
+      "rows": [
+        {
+          "id": "02757957",
+          "date": "2023-12-22",
+          "title": "Update on completion of 2023 Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02757957",
+          "priceSensitive": false
+        },
+        {
+          "id": "02756764",
+          "date": "2023-12-20",
+          "title": "Completion of 2023 Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02756764",
+          "priceSensitive": true
+        },
+        {
+          "id": "02744408",
+          "date": "2023-11-23",
+          "title": "2023 SPP Open",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02744408",
+          "priceSensitive": true
+        },
+        {
+          "id": "02743790",
+          "date": "2023-11-22",
+          "title": "Institutional Placement s.708A notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02743790",
+          "priceSensitive": false
+        },
+        {
+          "id": "02741718",
+          "date": "2023-11-17",
+          "title": "Steadfast Announces Successful Completion of Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02741718",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SDF&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:16:35.914Z",
+      "totalRows": 111,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SDF&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:16:36.705Z",
+      "totalRows": 60,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SDF&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:16:37.530Z",
+      "totalRows": 61,
+      "rows": []
+    }
+  ]
+}

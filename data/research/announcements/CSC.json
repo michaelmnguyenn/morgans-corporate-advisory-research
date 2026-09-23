@@ -1,0 +1,47 @@
+{
+  "ticker": "CSC",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CSC&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:19:50.156Z",
+      "totalRows": 0,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CSC&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:19:50.847Z",
+      "totalRows": 0,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CSC&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:19:51.539Z",
+      "totalRows": 0,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CSC&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:19:52.307Z",
+      "totalRows": 85,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CSC&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:19:53.067Z",
+      "totalRows": 62,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=CSC&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:19:53.792Z",
+      "totalRows": 46,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "ticker": "MGR",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MGR&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:16:05.155Z",
+      "totalRows": 55,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MGR&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:16:05.964Z",
+      "totalRows": 61,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MGR&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:16:06.765Z",
+      "totalRows": 62,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MGR&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:16:07.510Z",
+      "totalRows": 63,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MGR&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:16:08.313Z",
+      "totalRows": 55,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=MGR&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:16:09.046Z",
+      "totalRows": 51,
+      "rows": []
+    }
+  ]
+}

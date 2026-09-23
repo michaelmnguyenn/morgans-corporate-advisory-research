@@ -1,0 +1,83 @@
+{
+  "ticker": "XRO",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=XRO&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:14:23.724Z",
+      "totalRows": 90,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=XRO&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:14:24.515Z",
+      "totalRows": 76,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=XRO&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:14:25.280Z",
+      "totalRows": 53,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=XRO&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:14:26.024Z",
+      "totalRows": 58,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=XRO&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:14:26.815Z",
+      "totalRows": 63,
+      "rows": [
+        {
+          "id": "02972123",
+          "date": "2025-07-24",
+          "title": "Completion of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02972123",
+          "priceSensitive": false
+        },
+        {
+          "id": "02964844",
+          "date": "2025-07-02",
+          "title": "Xero Share Purchase Plan Offer Opens",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02964844",
+          "priceSensitive": false
+        },
+        {
+          "id": "02964212",
+          "date": "2025-07-01",
+          "title": "Cleansing Notice (Placement)",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02964212",
+          "priceSensitive": false
+        },
+        {
+          "id": "02962215",
+          "date": "2025-06-26",
+          "title": "Xero successfully completes A$1.85bn Institutional Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02962215",
+          "priceSensitive": true
+        },
+        {
+          "id": "02961640",
+          "date": "2025-06-25",
+          "title": "Investor Presentation Acquisition of Melio & Capital Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02961640",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=XRO&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:14:27.578Z",
+      "totalRows": 40,
+      "rows": []
+    }
+  ]
+}

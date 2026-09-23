@@ -29,7 +29,6 @@ export function safeUrl(raw: string, allowedHosts: string[]): URL {
   const url = new URL(raw);
   if (url.protocol !== 'https:' || url.username || url.password || url.port && url.port !== '443' || !allowedHosts.includes(url.hostname)) throw new Error('URL must use HTTPS and an exact allowlisted host');
   if (isIP(url.hostname) || url.hostname === 'localhost' || !url.hostname.includes('.') || /(^|\.)(local|internal)$/.test(url.hostname)) throw new Error('Local addresses are forbidden');
-  if (/(^|\.)asx\.com\.au$/.test(url.hostname) || /(^|\.)asxonline\.com$/.test(url.hostname)) throw new Error('ASX automated access is not supported');
   return url;
 }
 function privateAddress(ip: string): boolean {

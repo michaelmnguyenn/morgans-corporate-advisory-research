@@ -1,0 +1,100 @@
+{
+  "ticker": "PDI",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PDI&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:18:57.377Z",
+      "totalRows": 104,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PDI&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:18:58.236Z",
+      "totalRows": 93,
+      "rows": [
+        {
+          "id": "02537283",
+          "date": "2022-07-01",
+          "title": "Results of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02537283",
+          "priceSensitive": false
+        },
+        {
+          "id": "02529292",
+          "date": "2022-06-07",
+          "title": "Share Purchase Plan Offer Document",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02529292",
+          "priceSensitive": false
+        },
+        {
+          "id": "02526234",
+          "date": "2022-05-30",
+          "title": "PDI Receives Firm Commitments for $55M Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02526234",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PDI&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:18:58.974Z",
+      "totalRows": 71,
+      "rows": [
+        {
+          "id": "02670539",
+          "date": "2023-05-29",
+          "title": "PDI Secures Firm Commitments for $40m Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02670539",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PDI&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:18:59.727Z",
+      "totalRows": 66,
+      "rows": [
+        {
+          "id": "02803180",
+          "date": "2024-05-02",
+          "title": "A$50M Placement to Advance the Bankan Gold Project",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02803180",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PDI&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:19:00.562Z",
+      "totalRows": 84,
+      "rows": [
+        {
+          "id": "02913291",
+          "date": "2025-02-12",
+          "title": "A$69M Strategic Placement Completed",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02913291",
+          "priceSensitive": true
+        },
+        {
+          "id": "02910571",
+          "date": "2025-02-04",
+          "title": "A$69M Strategic Placement to Lundin Family and Zijin Mining",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02910571",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PDI&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:19:01.271Z",
+      "totalRows": 90,
+      "rows": []
+    }
+  ]
+}

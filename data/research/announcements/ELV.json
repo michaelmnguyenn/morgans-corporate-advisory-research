@@ -1,0 +1,129 @@
+{
+  "ticker": "ELV",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ELV&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:25:41.706Z",
+      "totalRows": 175,
+      "rows": [
+        {
+          "id": "02442878",
+          "date": "2021-10-28",
+          "title": "Closure of Non-renounceable Rights Issue Offer Result",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02442878",
+          "priceSensitive": false
+        },
+        {
+          "id": "02434004",
+          "date": "2021-10-11",
+          "title": "Non-renounceable Rights Issue Opens",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02434004",
+          "priceSensitive": false
+        },
+        {
+          "id": "02430613",
+          "date": "2021-10-04",
+          "title": "Investors Back Moblan Acquisition With A$100m Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02430613",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ELV&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:25:42.609Z",
+      "totalRows": 121,
+      "rows": [
+        {
+          "id": "02544861",
+          "date": "2022-07-25",
+          "title": "1MC: $7.5M Placement to Support Lithium growth Strategy",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02544861",
+          "priceSensitive": false
+        },
+        {
+          "id": "02525718",
+          "date": "2022-05-27",
+          "title": "Placement to Fund NAL Restart and Development Initiatives",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02525718",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ELV&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:25:43.369Z",
+      "totalRows": 90,
+      "rows": [
+        {
+          "id": "02670883",
+          "date": "2023-05-30",
+          "title": "Placement Completion Notice",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02670883",
+          "priceSensitive": true
+        },
+        {
+          "id": "02670118",
+          "date": "2023-05-26",
+          "title": "A$200M Placement to Speed Quebec Lithium Production",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02670118",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ELV&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:25:44.177Z",
+      "totalRows": 71,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ELV&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:25:45.036Z",
+      "totalRows": 106,
+      "rows": [
+        {
+          "id": "02984401",
+          "date": "2025-08-25",
+          "title": "Merger Completion, Placement and Consolidation Update",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02984401",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=ELV&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:25:45.894Z",
+      "totalRows": 109,
+      "rows": [
+        {
+          "id": "03101353",
+          "date": "2026-06-05",
+          "title": "Completion of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03101353",
+          "priceSensitive": false
+        },
+        {
+          "id": "03095286",
+          "date": "2026-05-19",
+          "title": "Share Purchase Plan Open",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03095286",
+          "priceSensitive": false
+        },
+        {
+          "id": "03093383",
+          "date": "2026-05-13",
+          "title": "Successful Completion of A$275M Institutional Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03093383",
+          "priceSensitive": true
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "ticker": "AZJ",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AZJ&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:16:43.366Z",
+      "totalRows": 89,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AZJ&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:16:44.118Z",
+      "totalRows": 63,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AZJ&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:16:44.894Z",
+      "totalRows": 57,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AZJ&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:16:45.691Z",
+      "totalRows": 122,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AZJ&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:16:46.657Z",
+      "totalRows": 142,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=AZJ&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:16:47.412Z",
+      "totalRows": 86,
+      "rows": []
+    }
+  ]
+}

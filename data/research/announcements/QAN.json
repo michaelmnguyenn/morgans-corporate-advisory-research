@@ -1,0 +1,47 @@
+{
+  "ticker": "QAN",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=QAN&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:13:13.451Z",
+      "totalRows": 66,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=QAN&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:13:14.343Z",
+      "totalRows": 104,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=QAN&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:13:15.186Z",
+      "totalRows": 224,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=QAN&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:13:16.300Z",
+      "totalRows": 209,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=QAN&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:13:17.035Z",
+      "totalRows": 49,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=QAN&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:13:17.803Z",
+      "totalRows": 48,
+      "rows": []
+    }
+  ]
+}

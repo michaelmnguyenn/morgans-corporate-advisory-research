@@ -1,0 +1,47 @@
+{
+  "ticker": "PRU",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PRU&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:15:07.715Z",
+      "totalRows": 62,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PRU&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:15:08.582Z",
+      "totalRows": 90,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PRU&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:15:09.337Z",
+      "totalRows": 74,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PRU&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:15:10.281Z",
+      "totalRows": 148,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PRU&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:15:11.079Z",
+      "totalRows": 152,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=PRU&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:15:11.875Z",
+      "totalRows": 117,
+      "rows": []
+    }
+  ]
+}

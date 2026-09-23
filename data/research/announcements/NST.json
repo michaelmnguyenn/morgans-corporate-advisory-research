@@ -1,0 +1,55 @@
+{
+  "ticker": "NST",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NST&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:11:55.098Z",
+      "totalRows": 128,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NST&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:11:55.967Z",
+      "totalRows": 120,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NST&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:11:56.713Z",
+      "totalRows": 97,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NST&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:11:57.491Z",
+      "totalRows": 93,
+      "rows": [
+        {
+          "id": "02778262",
+          "date": "2024-02-27",
+          "title": "PXX: Northern Star Underwrites PolarX Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02778262",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NST&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:11:58.305Z",
+      "totalRows": 107,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NST&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:11:59.160Z",
+      "totalRows": 107,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,83 @@
+{
+  "ticker": "INA",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=INA&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:22:31.125Z",
+      "totalRows": 81,
+      "rows": [
+        {
+          "id": "02455348",
+          "date": "2021-11-22",
+          "title": "Ingenia successfully completes Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02455348",
+          "priceSensitive": false
+        },
+        {
+          "id": "02448970",
+          "date": "2021-11-08",
+          "title": "Despatch of Retail Entitlement Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02448970",
+          "priceSensitive": false
+        },
+        {
+          "id": "02446300",
+          "date": "2021-11-02",
+          "title": "Retail Entitlement Offer Booklet 2021",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02446300",
+          "priceSensitive": true
+        },
+        {
+          "id": "02445639",
+          "date": "2021-11-01",
+          "title": "Acquisitions and Equity Raising Investor Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02445639",
+          "priceSensitive": true
+        },
+        {
+          "id": "02445638",
+          "date": "2021-11-01",
+          "title": "Ingenia announces $475m equity raise to fund acquisitions",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02445638",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=INA&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:22:31.852Z",
+      "totalRows": 59,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=INA&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:22:32.652Z",
+      "totalRows": 91,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=INA&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:22:33.580Z",
+      "totalRows": 75,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=INA&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:22:34.433Z",
+      "totalRows": 62,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=INA&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:22:35.164Z",
+      "totalRows": 46,
+      "rows": []
+    }
+  ]
+}

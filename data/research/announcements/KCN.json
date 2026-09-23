@@ -1,0 +1,83 @@
+{
+  "ticker": "KCN",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=KCN&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:24:27.100Z",
+      "totalRows": 32,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=KCN&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:24:27.834Z",
+      "totalRows": 37,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=KCN&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:24:28.720Z",
+      "totalRows": 76,
+      "rows": [
+        {
+          "id": "02659729",
+          "date": "2023-04-28",
+          "title": "Results of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02659729",
+          "priceSensitive": true
+        },
+        {
+          "id": "02650517",
+          "date": "2023-04-03",
+          "title": "Kingsgate SPP Offer Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02650517",
+          "priceSensitive": true
+        },
+        {
+          "id": "02648331",
+          "date": "2023-03-28",
+          "title": "Kingsgate completes $46M institutional placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02648331",
+          "priceSensitive": true
+        },
+        {
+          "id": "02647969",
+          "date": "2023-03-27",
+          "title": "Kingsgate Equity Raising Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02647969",
+          "priceSensitive": true
+        },
+        {
+          "id": "02647966",
+          "date": "2023-03-27",
+          "title": "Kingsgate launches a Placement and SPP",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02647966",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=KCN&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:24:29.612Z",
+      "totalRows": 60,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=KCN&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:24:30.338Z",
+      "totalRows": 52,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=KCN&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:24:31.094Z",
+      "totalRows": 60,
+      "rows": []
+    }
+  ]
+}

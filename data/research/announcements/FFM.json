@@ -1,0 +1,211 @@
+{
+  "ticker": "FFM",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FFM&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:25:08.985Z",
+      "totalRows": 0,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FFM&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:25:09.681Z",
+      "totalRows": 0,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FFM&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:25:10.387Z",
+      "totalRows": 6,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FFM&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:25:11.158Z",
+      "totalRows": 116,
+      "rows": [
+        {
+          "id": "02872522",
+          "date": "2024-10-25",
+          "title": "SPP increased to $8m in response to strong demand",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02872522",
+          "priceSensitive": true
+        },
+        {
+          "id": "02864513",
+          "date": "2024-10-08",
+          "title": "Letter to Eligible Shareholders - Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02864513",
+          "priceSensitive": false
+        },
+        {
+          "id": "02864512",
+          "date": "2024-10-08",
+          "title": "SPP Prospectus",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02864512",
+          "priceSensitive": true
+        },
+        {
+          "id": "02858643",
+          "date": "2024-09-26",
+          "title": "Highly successful $65m placement to drive growth",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02858643",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FFM&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:25:11.933Z",
+      "totalRows": 103,
+      "rows": [
+        {
+          "id": "03046013",
+          "date": "2025-12-30",
+          "title": "FireFly doubles Share Purchase Plan due to strong demand",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03046013",
+          "priceSensitive": true
+        },
+        {
+          "id": "03042603",
+          "date": "2025-12-18",
+          "title": "FireFly completes Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03042603",
+          "priceSensitive": true
+        },
+        {
+          "id": "03042137",
+          "date": "2025-12-17",
+          "title": "Share Purchase Plan to close early",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03042137",
+          "priceSensitive": false
+        },
+        {
+          "id": "03039155",
+          "date": "2025-12-09",
+          "title": "Letter to Eligible Shareholders - Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03039155",
+          "priceSensitive": false
+        },
+        {
+          "id": "03039147",
+          "date": "2025-12-09",
+          "title": "Prospectus - SPP and Flow-through Offers",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03039147",
+          "priceSensitive": false
+        },
+        {
+          "id": "03035650",
+          "date": "2025-12-02",
+          "title": "Presentation - Equity Raise",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03035650",
+          "priceSensitive": true
+        },
+        {
+          "id": "03035628",
+          "date": "2025-12-02",
+          "title": "Canadian bought deal financing and Australian equity raise",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03035628",
+          "priceSensitive": true
+        },
+        {
+          "id": "02968415",
+          "date": "2025-07-11",
+          "title": "FireFly doubles Share Purchase Plan to A$10m",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02968415",
+          "priceSensitive": true
+        },
+        {
+          "id": "02958682",
+          "date": "2025-06-16",
+          "title": "Share Purchase Plan - Letter to Shareholders",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02958682",
+          "priceSensitive": false
+        },
+        {
+          "id": "02958675",
+          "date": "2025-06-16",
+          "title": "Share Purchase Plan Offer Document",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02958675",
+          "priceSensitive": false
+        },
+        {
+          "id": "02958639",
+          "date": "2025-06-16",
+          "title": "FireFly Equity Raising Advances",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02958639",
+          "priceSensitive": false
+        },
+        {
+          "id": "02957930",
+          "date": "2025-06-13",
+          "title": "Prospectus - Flow-Through Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02957930",
+          "priceSensitive": true
+        },
+        {
+          "id": "02956835",
+          "date": "2025-06-10",
+          "title": "Highly successful $100m placement to drive growth",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02956835",
+          "priceSensitive": true
+        },
+        {
+          "id": "02955706",
+          "date": "2025-06-05",
+          "title": "Canadian bought deal financing and Australian equity raise",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02955706",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=FFM&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:25:12.642Z",
+      "totalRows": 83,
+      "rows": [
+        {
+          "id": "03141537",
+          "date": "2026-09-21",
+          "title": "Share Purchase Plan Closing Date Reminder",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03141537",
+          "priceSensitive": false
+        },
+        {
+          "id": "03135794",
+          "date": "2026-09-04",
+          "title": "Letter to Shareholders - Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03135794",
+          "priceSensitive": false
+        },
+        {
+          "id": "03135790",
+          "date": "2026-09-04",
+          "title": "Share Purchase Plan Offer Document",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03135790",
+          "priceSensitive": false
+        },
+        {
+          "id": "03135618",
+          "date": "2026-09-04",
+          "title": "FireFly Completes Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03135618",
+          "priceSensitive": true
+        },
+        {
+          "id": "03055691",
+          "date": "2026-02-02",
+          "title": "BVR: Pickle Crow Gold Project Acquisition and Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03055691",
+          "priceSensitive": false
+        }
+      ]
+    }
+  ]
+}

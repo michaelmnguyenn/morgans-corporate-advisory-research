@@ -1,0 +1,91 @@
+{
+  "ticker": "SIG",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SIG&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:13:03.981Z",
+      "totalRows": 60,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SIG&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:13:04.820Z",
+      "totalRows": 95,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SIG&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:13:05.617Z",
+      "totalRows": 72,
+      "rows": [
+        {
+          "id": "02755574",
+          "date": "2023-12-18",
+          "title": "Retail Offer Booklet and Letters to Retail Shareholders",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02755574",
+          "priceSensitive": true
+        },
+        {
+          "id": "02752658",
+          "date": "2023-12-11",
+          "title": "Sigma Healthcare Proposed Merger and Equity Raise Briefing",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02752658",
+          "priceSensitive": false
+        },
+        {
+          "id": "02752599",
+          "date": "2023-12-11",
+          "title": "Cleansing Notice Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02752599",
+          "priceSensitive": false
+        },
+        {
+          "id": "02752509",
+          "date": "2023-12-11",
+          "title": "Investor Presentation Merger & Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02752509",
+          "priceSensitive": true
+        },
+        {
+          "id": "02752508",
+          "date": "2023-12-11",
+          "title": "Transformational Merger & Equity Raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02752508",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SIG&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:13:06.438Z",
+      "totalRows": 76,
+      "rows": [
+        {
+          "id": "02765494",
+          "date": "2024-01-24",
+          "title": "Successful Completion of Retail Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02765494",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SIG&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:13:07.221Z",
+      "totalRows": 81,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SIG&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:13:08.073Z",
+      "totalRows": 27,
+      "rows": []
+    }
+  ]
+}

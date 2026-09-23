@@ -1,0 +1,184 @@
+{
+  "ticker": "WBT",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=WBT&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:26:34.434Z",
+      "totalRows": 107,
+      "rows": [
+        {
+          "id": "02461926",
+          "date": "2021-12-03",
+          "title": "Weebit raises $9.9M from oversubscribed Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02461926",
+          "priceSensitive": true
+        },
+        {
+          "id": "02453847",
+          "date": "2021-11-18",
+          "title": "Letter to Ineligible Shareholders - Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02453847",
+          "priceSensitive": false
+        },
+        {
+          "id": "02453831",
+          "date": "2021-11-18",
+          "title": "Entitlement Offer Prospectus and Placement Completion",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02453831",
+          "priceSensitive": false
+        },
+        {
+          "id": "02453812",
+          "date": "2021-11-18",
+          "title": "Letter to Eligible Shareholders - Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02453812",
+          "priceSensitive": false
+        },
+        {
+          "id": "02449847",
+          "date": "2021-11-10",
+          "title": "Letter to Option Holders - Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02449847",
+          "priceSensitive": false
+        },
+        {
+          "id": "02449841",
+          "date": "2021-11-10",
+          "title": "Prospectus - Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02449841",
+          "priceSensitive": true
+        },
+        {
+          "id": "02449840",
+          "date": "2021-11-10",
+          "title": "Weebit Nano Placement and Entitlement Offer",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02449840",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=WBT&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:26:35.345Z",
+      "totalRows": 67,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=WBT&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:26:36.226Z",
+      "totalRows": 130,
+      "rows": [
+        {
+          "id": "02657308",
+          "date": "2023-04-24",
+          "title": "Weebit Nano raises $15 million via SPP - Correction",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02657308",
+          "priceSensitive": false
+        },
+        {
+          "id": "02657203",
+          "date": "2023-04-24",
+          "title": "Weebit Nano raises $15M via upsized and scaled-back SPP",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02657203",
+          "priceSensitive": true
+        },
+        {
+          "id": "02649146",
+          "date": "2023-03-30",
+          "title": "Weebit Nano Share Purchase Plan Update and Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02649146",
+          "priceSensitive": true
+        },
+        {
+          "id": "02647285",
+          "date": "2023-03-24",
+          "title": "Weebit successfully completes A$45mil underwritten Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02647285",
+          "priceSensitive": true
+        },
+        {
+          "id": "02646949",
+          "date": "2023-03-23",
+          "title": "Equity Raising Investor Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02646949",
+          "priceSensitive": true
+        },
+        {
+          "id": "02646947",
+          "date": "2023-03-23",
+          "title": "Weebit Nano to raise A$45 million via underwritten placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02646947",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=WBT&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:26:37.100Z",
+      "totalRows": 75,
+      "rows": [
+        {
+          "id": "02881818",
+          "date": "2024-11-14",
+          "title": "Weebit Nano completes A$50 million underwritten Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02881818",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=WBT&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:26:37.900Z",
+      "totalRows": 54,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=WBT&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:26:38.755Z",
+      "totalRows": 77,
+      "rows": [
+        {
+          "id": "03094024",
+          "date": "2026-05-14",
+          "title": "Weebit Nano raises $15 million via strongly supported SPP",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03094024",
+          "priceSensitive": true
+        },
+        {
+          "id": "03087063",
+          "date": "2026-04-28",
+          "title": "Weebit Nano Extends the Share Purchase Plan Closing Date",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03087063",
+          "priceSensitive": true
+        },
+        {
+          "id": "03079707",
+          "date": "2026-04-07",
+          "title": "Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03079707",
+          "priceSensitive": true
+        },
+        {
+          "id": "03076579",
+          "date": "2026-03-27",
+          "title": "Successful completion of $80 million institutional placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03076579",
+          "priceSensitive": true
+        },
+        {
+          "id": "03076335",
+          "date": "2026-03-26",
+          "title": "Weebit Nano announces A$80.0 million Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=03076335",
+          "priceSensitive": true
+        }
+      ]
+    }
+  ]
+}

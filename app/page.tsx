@@ -1,5 +1,8 @@
-import DealModels from '@/components/DealModels';
-import morgans from '@/data/morgans-deals.json';
-import prices from '@/data/morgans-prices.json';
-import {MorgansDatasetSchema,PriceHistorySchema} from '@/lib/morgans';
-export default function Page(){const research=MorgansDatasetSchema.parse(morgans);return <DealModels research={{...research,deals:research.deals.filter(d=>d.analysis.assessment)}} prices={PriceHistorySchema.parse(prices)}/>;}
+import PrecedentExplorer from '@/components/PrecedentExplorer';
+import index from '@/data/research/candidates.json';
+import universe from '@/data/research/universe.json';
+import { PrecedentIndexSchema, UniverseSchema } from '@/lib/precedents';
+
+export default function Page() {
+  return <PrecedentExplorer index={PrecedentIndexSchema.parse(index)} universe={UniverseSchema.parse(universe)} />;
+}

@@ -1,0 +1,47 @@
+{
+  "ticker": "NWL",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NWL&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:20:50.528Z",
+      "totalRows": 60,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NWL&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:20:51.395Z",
+      "totalRows": 48,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NWL&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:20:52.164Z",
+      "totalRows": 51,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NWL&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:20:52.933Z",
+      "totalRows": 73,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NWL&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:20:53.668Z",
+      "totalRows": 63,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NWL&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:20:54.402Z",
+      "totalRows": 38,
+      "rows": []
+    }
+  ]
+}

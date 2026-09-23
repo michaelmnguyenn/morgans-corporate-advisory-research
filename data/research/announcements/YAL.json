@@ -1,0 +1,47 @@
+{
+  "ticker": "YAL",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=YAL&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:21:10.286Z",
+      "totalRows": 51,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=YAL&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:21:11.049Z",
+      "totalRows": 86,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=YAL&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:21:11.793Z",
+      "totalRows": 94,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=YAL&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:21:12.551Z",
+      "totalRows": 86,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=YAL&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:21:13.304Z",
+      "totalRows": 80,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=YAL&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:21:14.036Z",
+      "totalRows": 74,
+      "rows": []
+    }
+  ]
+}

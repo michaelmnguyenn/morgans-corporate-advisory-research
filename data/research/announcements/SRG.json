@@ -1,0 +1,105 @@
+{
+  "ticker": "SRG",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SRG&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:20:45.897Z",
+      "totalRows": 55,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SRG&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:20:46.634Z",
+      "totalRows": 67,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SRG&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:20:47.369Z",
+      "totalRows": 64,
+      "rows": [
+        {
+          "id": "02642006",
+          "date": "2023-03-10",
+          "title": "SRG Global Completes $5M Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02642006",
+          "priceSensitive": true
+        },
+        {
+          "id": "02634885",
+          "date": "2023-02-23",
+          "title": "Share Purchase Plan - Letter to Shareholders and SPP Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02634885",
+          "priceSensitive": true
+        },
+        {
+          "id": "02632596",
+          "date": "2023-02-17",
+          "title": "SRG Global successfully completes $46.4m equity raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02632596",
+          "priceSensitive": true
+        },
+        {
+          "id": "02632159",
+          "date": "2023-02-16",
+          "title": "Acquisition of ALS Asset Care and Equity Raise Presentation",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02632159",
+          "priceSensitive": true
+        },
+        {
+          "id": "02632156",
+          "date": "2023-02-16",
+          "title": "Acquisition of ALS Asset Care and Equity Raise Announcement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02632156",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SRG&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:20:48.138Z",
+      "totalRows": 56,
+      "rows": [
+        {
+          "id": "02854443",
+          "date": "2024-09-17",
+          "title": "SRG Global Completes $6M Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02854443",
+          "priceSensitive": true
+        },
+        {
+          "id": "02844783",
+          "date": "2024-08-27",
+          "title": "Share Purchase Plan - Letter to Shareholders and SPP Booklet",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02844783",
+          "priceSensitive": true
+        },
+        {
+          "id": "02841967",
+          "date": "2024-08-21",
+          "title": "SRG Global successfully completes $60m equity raising",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02841967",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SRG&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:20:48.893Z",
+      "totalRows": 39,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=SRG&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:20:49.619Z",
+      "totalRows": 48,
+      "rows": []
+    }
+  ]
+}

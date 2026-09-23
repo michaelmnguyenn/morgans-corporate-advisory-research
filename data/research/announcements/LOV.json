@@ -1,0 +1,47 @@
+{
+  "ticker": "LOV",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LOV&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:23:40.442Z",
+      "totalRows": 33,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LOV&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:23:41.158Z",
+      "totalRows": 33,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LOV&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:23:41.863Z",
+      "totalRows": 20,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LOV&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:23:42.587Z",
+      "totalRows": 37,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LOV&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:23:43.315Z",
+      "totalRows": 35,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=LOV&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:23:44.025Z",
+      "totalRows": 22,
+      "rows": []
+    }
+  ]
+}

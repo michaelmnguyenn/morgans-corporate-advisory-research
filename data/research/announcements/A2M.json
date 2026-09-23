@@ -1,0 +1,55 @@
+{
+  "ticker": "A2M",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=A2M&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:17:52.401Z",
+      "totalRows": 109,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=A2M&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:17:53.262Z",
+      "totalRows": 102,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=A2M&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:17:54.099Z",
+      "totalRows": 90,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=A2M&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:17:55.028Z",
+      "totalRows": 75,
+      "rows": [
+        {
+          "id": "02841498",
+          "date": "2024-08-20",
+          "title": "a2MC to support and participate in Synlait equity raise",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02841498",
+          "priceSensitive": false
+        }
+      ]
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=A2M&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:17:55.826Z",
+      "totalRows": 74,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=A2M&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:17:56.652Z",
+      "totalRows": 68,
+      "rows": []
+    }
+  ]
+}

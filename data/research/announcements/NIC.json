@@ -1,0 +1,140 @@
+{
+  "ticker": "NIC",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NIC&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:22:26.341Z",
+      "totalRows": 58,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NIC&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:22:27.177Z",
+      "totalRows": 78,
+      "rows": [
+        {
+          "id": "02550716",
+          "date": "2022-08-08",
+          "title": "US$225M debt capital raised for Oracle Nickel acquisition",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02550716",
+          "priceSensitive": true
+        },
+        {
+          "id": "02514406",
+          "date": "2022-04-28",
+          "title": "FIRB Approval Received for Placement to Shanghai Decent",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02514406",
+          "priceSensitive": true
+        },
+        {
+          "id": "02497956",
+          "date": "2022-03-11",
+          "title": "Withdrawal of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02497956",
+          "priceSensitive": true
+        },
+        {
+          "id": "02487202",
+          "date": "2022-02-16",
+          "title": "Share Purchase Plan - Letter to Eligible Shareholders",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02487202",
+          "priceSensitive": false
+        },
+        {
+          "id": "02485324",
+          "date": "2022-02-10",
+          "title": "Successful Completion of Institutional Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02485324",
+          "priceSensitive": true
+        },
+        {
+          "id": "02484962",
+          "date": "2022-02-09",
+          "title": "US$225M capital raise to fund 30% acquisition Oracle Nickel",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02484962",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NIC&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:22:28.051Z",
+      "totalRows": 96,
+      "rows": [
+        {
+          "id": "02715201",
+          "date": "2023-09-22",
+          "title": "Completion of Placement to United Tractors",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02715201",
+          "priceSensitive": true
+        },
+        {
+          "id": "02682546",
+          "date": "2023-07-03",
+          "title": "FIRB Approval Received for Placement to Shanghai Decent",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02682546",
+          "priceSensitive": true
+        },
+        {
+          "id": "02674767",
+          "date": "2023-06-09",
+          "title": "Share Placement and Collaboration Agreement, ENC Expansion",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02674767",
+          "priceSensitive": true
+        },
+        {
+          "id": "02639592",
+          "date": "2023-03-03",
+          "title": "Results of Share Purchase Plan",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02639592",
+          "priceSensitive": false
+        },
+        {
+          "id": "02624465",
+          "date": "2023-01-27",
+          "title": "Share Purchase Plan - Letter to Eligible Shareholders",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02624465",
+          "priceSensitive": false
+        },
+        {
+          "id": "02622406",
+          "date": "2023-01-19",
+          "title": "Successful completion of Institutional Placement",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02622406",
+          "priceSensitive": true
+        },
+        {
+          "id": "02622056",
+          "date": "2023-01-18",
+          "title": "Agreements for producing Ni assets and US$471M capital raise",
+          "url": "https://www.asx.com.au/asx/v2/statistics/displayAnnouncement.do?display=pdf&idsId=02622056",
+          "priceSensitive": true
+        }
+      ]
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NIC&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:22:28.840Z",
+      "totalRows": 52,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NIC&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:22:29.631Z",
+      "totalRows": 52,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=NIC&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:22:30.375Z",
+      "totalRows": 53,
+      "rows": []
+    }
+  ]
+}

@@ -1,0 +1,47 @@
+{
+  "ticker": "VNT",
+  "years": [
+    {
+      "year": 2021,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VNT&by=asxCode&timeframe=Y&year=2021",
+      "checkedAt": "2026-09-23T09:17:41.864Z",
+      "totalRows": 30,
+      "rows": []
+    },
+    {
+      "year": 2022,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VNT&by=asxCode&timeframe=Y&year=2022",
+      "checkedAt": "2026-09-23T09:17:42.593Z",
+      "totalRows": 41,
+      "rows": []
+    },
+    {
+      "year": 2023,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VNT&by=asxCode&timeframe=Y&year=2023",
+      "checkedAt": "2026-09-23T09:17:43.450Z",
+      "totalRows": 116,
+      "rows": []
+    },
+    {
+      "year": 2024,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VNT&by=asxCode&timeframe=Y&year=2024",
+      "checkedAt": "2026-09-23T09:17:44.291Z",
+      "totalRows": 92,
+      "rows": []
+    },
+    {
+      "year": 2025,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VNT&by=asxCode&timeframe=Y&year=2025",
+      "checkedAt": "2026-09-23T09:17:45.195Z",
+      "totalRows": 156,
+      "rows": []
+    },
+    {
+      "year": 2026,
+      "url": "https://www.asx.com.au/asx/v2/statistics/announcements.do?asxCode=VNT&by=asxCode&timeframe=Y&year=2026",
+      "checkedAt": "2026-09-23T09:17:46.003Z",
+      "totalRows": 126,
+      "rows": []
+    }
+  ]
+}
