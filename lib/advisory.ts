@@ -1,4 +1,5 @@
 import type { PrecedentCandidate } from './precedents';
+import type { FundingDeal } from './funding';
 import { mainDiscount, type Terms } from './terms';
 
 export const purposes = [
@@ -28,8 +29,27 @@ export function purposesOf(candidate: PrecedentCandidate): Exclude<Purpose, 'any
   return (Object.keys(purposePatterns) as Exclude<Purpose, 'any'>[]).filter(purpose => purposePatterns[purpose].test(text));
 }
 
+export function matchesPurpose(text: string, purpose: Purpose): boolean {
+  return purpose === 'any' || purposePatterns[purpose].test(text);
+}
+
+export function comparableFunding(deal: FundingDeal, statedPurpose: string | undefined, purpose: Purpose): boolean {
+  const title = deal.documents.map(document => document.title).join(' ');
+  if (deal.instrument === 'facility' && /funding package/i.test(title) && !/\b(?:loan|debt|credit|facilit)/i.test(title)) return false;
+  if (purpose === 'project' && statedPurpose && /\b(?:repay|repayment|refinanc\w*|pay down)\b/i.test(statedPurpose)) return false;
+  return matchesPurpose(`${title} ${statedPurpose ?? ''}`, purpose);
+}
+
 export function usableCandidate(candidate: PrecedentCandidate): boolean {
   return candidate.documents.some(document => !weakHeadline.test(document.title));
+}
+
+// Keep these in the source list, but do not let a merged follow-on or unclear structure set the benchmark.
+export function benchmarkable(candidate: PrecedentCandidate): boolean {
+  const text = textOf(candidate);
+  if (!usableCandidate(candidate) || candidate.structure === 'other' || /follow-on placement/i.test(text)) return false;
+  if (candidate.structure === 'spp' && /(?:equity|capital) rais/i.test(text)) return false;
+  return true;
 }
 
 // The headline most likely to say what the raise was for, skipping booklets, cleansing notices and the like.
@@ -91,6 +111,7 @@ export function rankComparables(candidates: PrecedentCandidate[], ticker: string
 // Structure from the headlines, splitting the combined case into what was actually combined.
 export function structureName(candidate: PrecedentCandidate): string {
   const text = textOf(candidate);
+  if (candidate.structure === 'spp' && /(?:equity|capital) rais/i.test(text)) return 'Equity raise + SPP (type unclear)';
   if (candidate.structure !== 'mixed') return ({ placement: 'Placement', entitlement: 'Entitlement offer', spp: 'SPP', other: 'Not clear' } as const)[candidate.structure];
   const entitlement = /entitlement|rights issue/i.test(text);
   const spp = /share purchase plan|\bSPP\b/i.test(text);
